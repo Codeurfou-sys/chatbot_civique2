@@ -63,10 +63,11 @@
     "a_confirmer": true
   },
   "VICHY": {
-    "adresse": "2-4 rue de Paris, Passage des Commerces, Vichy",
+    "adresse": "2-4 rue de Paris, Passage des Commerces, 03200 Vichy",
     "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
-    "verification": "2026-10-08",
-    "a_confirmer": true
+    "verification": "2026-10-09",
+    "a_confirmer": false,
+    "mise_a_jour": "Informations communiquées par Frate Formation Conseil"
   },
   "AUXERRE": {
     "adresse": "13 rue Jules Ferry, 89000 Auxerre",
@@ -99,19 +100,40 @@
     "a_confirmer": true
   },
   "TROYES": {
-    "adresse": "28 rue Coulommières, 10000 Troyes",
+    "adresse": "28 rue Coulommières (3e étage), 10000 Troyes",
     "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
-    "verification": "2026-10-08",
-    "a_confirmer": true
+    "verification": "2026-10-09",
+    "a_confirmer": false,
+    "mise_a_jour": "Informations communiquées par Frate Formation Conseil"
   },
   "LE_PUY_EN_VELAY": {
-    "adresse": "16 rue des Moulins, 43000 Le Puy-en-Velay",
+    "adresse": "16 rue des Moulins (Résidence Alfred de Vigny), 43000 Le Puy-en-Velay",
     "source": "https://naturalisation-facile.fr/centres-examen-civique/centre/le-puy-en-velay-441",
-    "a_confirmer": true
+    "a_confirmer": false,
+    "verification": "2026-10-09",
+    "mise_a_jour": "Informations communiquées par Frate Formation Conseil"
   },
   "SENS": {
     "adresse": "14 rue Auguste Morel, 89100 Sens",
     "source": "https://naturalisation-facile.fr/centres-examen-civique/centre/sens-1096",
     "a_confirmer": true
+  },
+  "CHAUMONT": {
+    "adresse": "49 rue Lévy Alphandéry, 52000 Chaumont",
+    "verification": "2026-10-09",
+    "mise_a_jour": "Informations communiquées par Frate Formation Conseil",
+    "a_confirmer": false
+  },
+  "ANNEMASSE": {
+    "adresse": "3 passage Jean Moulin, 74100 Annemasse",
+    "verification": "2026-10-09",
+    "mise_a_jour": "Informations communiquées par Frate Formation Conseil",
+    "a_confirmer": false
+  },
+  "MONTLUEL": {
+    "adresse": "630 rue des Valets, 01120 Montluel",
+    "verification": "2026-10-09",
+    "mise_a_jour": "Informations communiquées par Frate Formation Conseil",
+    "a_confirmer": false
   }
 }

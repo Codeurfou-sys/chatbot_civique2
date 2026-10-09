@@ -29,7 +29,7 @@ Choisissez un chapitre à réviser.
 8. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH01_ACC
-### 📘 Chapitre 1 — CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE FRANCAISE
+### 📘 Chapitre 1 — CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE FRANÇAISE
 
 Dans ce chapitre, vous découvrirez :
 
@@ -1250,7 +1250,7 @@ Le coq est un symbole historique de la France. Il ne fait pas partie des trois s
 
 ❌ **Point de vigilance :** Le coq est un symbole officiel de la République.
 
-✅ **Correction :** Non le coq est un symbole non officiel. Il est notamment présent sur les maillots des équipe de France (football, basketball,handall...)
+✅ **Correction :** Non, le coq est un symbole non officiel. Il est notamment présent sur les maillots des équipes de France (football, basketball, handball…)
 
 1. [📖 Voir les notions utiles](SCR_REV_T1_CH03_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T1_CH03_SYN)
@@ -2184,7 +2184,7 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 ❌ **Point de vigilance :** La France interdit de parler d'autres langues.
 
-✅ **Correction :** La France n'interdit aucune autre langue, cependant les démarches officielles et les documents admnistratifs sont rédigés en français. 
+✅ **Correction :** La France n'interdit aucune autre langue, cependant les démarches officielles et les documents administratifs sont rédigés en français. 
 
 #### Erreur fréquente n°2
 
@@ -2862,7 +2862,7 @@ Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essen
 
 Comprendre comment fonctionne un État de droit et pourquoi la séparation des pouvoirs est essentielle au fonctionnement d'une démocratie.
 
-#### 1. Qu'est-ce qu'un Etat de droit ?
+#### 1. Qu'est-ce qu'un État de droit ?
 
 :::info 📝 Notion essentielle
 
@@ -3420,7 +3420,7 @@ Durée du mandat :6 ans.
 
 Objectif :Élire les conseillers municipaux et le maire.
 Rôle du conseiller municipal : Le conseiller municipal représente les habitants, vote le budget de la commune et participe aux décisions sur la vie locale.
-Rôle du maire : Le maire applique les lois votés par le conseil municipal, prépare et gère le budget de sa ville, représente l'Etat, est responsable de la sécurité. 
+Rôle du maire : Le maire applique les lois votées par le conseil municipal, prépare et gère le budget de sa ville, représente l'État, est responsable de la sécurité. 
 Durée du mandat : 6 ans.
 
 ##### Élections départementales
@@ -4526,7 +4526,7 @@ Ses missions :
 
 Elle représente l'intérêt général de l'Union européenne.
 
-Elle est composé : 
+Elle est composée : 
 
 - d'un collège des commissaires composé de 27 membres (un par État de l'Union européenne), avec à sa tête une présidente et plusieurs vice-présidents.
 
@@ -6222,7 +6222,7 @@ La France est organisée en **communes**, **départements** et **régions**. Par
 :::
 
 ##### 🧩 Explication simple
-Les grandes villes concentrent habitants, emplois et services, tandis que les espaces ruraux sont moins densément peuplés. C'est ce qu'on appelle l'exode rurale ( départ définitif des habitants des campagnes vers les villes. Ce mouvement massif s'explique par la recherche d'un travail dans l'industrie ou les services, et par de meilleures conditions de vie.). Mais depuis les années 70, on constate un **exode urbain** (retour vers la campagne). Ce mouvement s'est fortement transformé et accéléré plus récemment, notamment à partir de 2020 grâce à la crise sanitaire de la COVID-19 et au développement du télétravail.
+Les grandes villes concentrent habitants, emplois et services, tandis que les espaces ruraux sont moins densément peuplés. C'est ce qu'on appelle l'exode rural ( départ définitif des habitants des campagnes vers les villes. Ce mouvement massif s'explique par la recherche d'un travail dans l'industrie ou les services, et par de meilleures conditions de vie.). Mais depuis les années 70, on constate un **exode urbain** (retour vers la campagne). Ce mouvement s'est fortement transformé et accéléré plus récemment, notamment à partir de 2020 grâce à la crise sanitaire de la COVID-19 et au développement du télétravail.
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T4_CH02_SYN)
@@ -9105,7 +9105,7 @@ Quand a eu lieu la Première Guerre mondiale ?
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [📘 Consulter Première Guerre mondiale](SCR_GLO_0108)
 1. [📖 Lire le chapitre : L'histoire de France](SCR_REV_T4_CH01_ACC)
@@ -9271,7 +9271,7 @@ Quelle est cette monnaie ?
 
 **L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [📘 Consulter Euro](SCR_GLO_0055)
 1. [📖 Lire le chapitre : Les institutions européennes](SCR_REV_T2_CH04_ACC)
@@ -9852,7 +9852,7 @@ Quand a eu lieu la Première Guerre mondiale ?
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [📘 Consulter Première Guerre mondiale](SCR_GLO_0108)
 1. [📖 Lire le chapitre : L'histoire de France](SCR_REV_T4_CH01_ACC)
@@ -10018,7 +10018,7 @@ Quelle est cette monnaie ?
 
 **L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [📘 Consulter Euro](SCR_GLO_0055)
 1. [📖 Lire le chapitre : Les institutions européennes](SCR_REV_T2_CH04_ACC)
@@ -12381,9 +12381,9 @@ La Révolution française débute en 1789. Elle marque une étape majeure de l'h
 
 Que lui répondez-vous ?
 
-**Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [📘 Consulter Élections européennes](SCR_GLO_0160)
 1. [📘 Consulter Vote](SCR_GLO_0137)
@@ -13129,9 +13129,9 @@ La Révolution française débute en 1789. Elle marque une étape majeure de l'h
 
 Que lui répondez-vous ?
 
-**Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [📘 Consulter Élections européennes](SCR_GLO_0160)
 1. [📘 Consulter Vote](SCR_GLO_0137)
@@ -13417,7 +13417,7 @@ Qui peut voter aux élections en France ?
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [📘 Consulter Vote](SCR_GLO_0137)
 1. [📘 Consulter Élection](SCR_GLO_0050)
@@ -14164,7 +14164,7 @@ Qui peut voter aux élections en France ?
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [📘 Consulter Vote](SCR_GLO_0137)
 1. [📘 Consulter Élection](SCR_GLO_0050)
@@ -14894,7 +14894,7 @@ Pourquoi les libertés individuelles peuvent-elles être limitées ?
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [📘 Consulter Ordre public](SCR_GLO_0099)
 1. [📖 Lire le chapitre : Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -14950,7 +14950,7 @@ Qui était Albert Camus ?
 
 **Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -15636,7 +15636,7 @@ Pourquoi les libertés individuelles peuvent-elles être limitées ?
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [📘 Consulter Ordre public](SCR_GLO_0099)
 1. [📖 Lire le chapitre : Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -15692,7 +15692,7 @@ Qui était Albert Camus ?
 
 **Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -16491,7 +16491,7 @@ Dans quels établissements scolaires vont les élèves après l'école élément
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [📘 Consulter École](SCR_GLO_0048)
 1. [📘 Consulter Collège](SCR_GLO_0022)
@@ -16549,7 +16549,7 @@ Quelle est la langue officielle de la République française ?
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [📖 Lire le chapitre : La langue de la République](SCR_REV_T1_CH05_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V06_Q22)
@@ -16854,7 +16854,7 @@ Laquelle choisissez-vous ?
 
 **Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [📘 Consulter Fleuve](SCR_GLO_0202)
 1. [📖 Lire le chapitre : Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
@@ -17235,7 +17235,7 @@ Dans quels établissements scolaires vont les élèves après l'école élément
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [📘 Consulter École](SCR_GLO_0048)
 1. [📘 Consulter Collège](SCR_GLO_0022)
@@ -17293,7 +17293,7 @@ Quelle est la langue officielle de la République française ?
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [📖 Lire le chapitre : La langue de la République](SCR_REV_T1_CH05_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V06_Q22_LAST)
@@ -17598,7 +17598,7 @@ Laquelle choisissez-vous ?
 
 **Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [📘 Consulter Fleuve](SCR_GLO_0202)
 1. [📖 Lire le chapitre : Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
@@ -17652,7 +17652,7 @@ Quand a eu lieu la Première Guerre mondiale ?
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [📘 Consulter Première Guerre mondiale](SCR_GLO_0108)
 1. [📖 Lire le chapitre : L'histoire de France](SCR_REV_T4_CH01_ACC)
@@ -18398,7 +18398,7 @@ Quand a eu lieu la Première Guerre mondiale ?
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [📘 Consulter Première Guerre mondiale](SCR_GLO_0108)
 1. [📖 Lire le chapitre : L'histoire de France](SCR_REV_T4_CH01_ACC)
@@ -19805,7 +19805,7 @@ Que répondez-vous ?
 
 **Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [📘 Consulter Président de la République](SCR_GLO_0109)
 1. [📘 Consulter Vote](SCR_GLO_0137)
@@ -19838,7 +19838,7 @@ Les libertés sont essentielles dans une démocratie, mais elles s'exercent dans
 
 Qu'est-ce qu'un préfet ?
 
-**Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -20557,7 +20557,7 @@ Que répondez-vous ?
 
 **Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [📘 Consulter Président de la République](SCR_GLO_0109)
 1. [📘 Consulter Vote](SCR_GLO_0137)
@@ -20590,7 +20590,7 @@ Les libertés sont essentielles dans une démocratie, mais elles s'exercent dans
 
 Qu'est-ce qu'un préfet ?
 
-**Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -21303,7 +21303,7 @@ La Seconde Guerre mondiale se déroule de 1939 à 1945 et se termine en Europe l
 
 Que lui répondez-vous ?
 
-**La police protége les personnes et les biens et fait respecter la loi.**
+**La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -22050,7 +22050,7 @@ La Seconde Guerre mondiale se déroule de 1939 à 1945 et se termine en Europe l
 
 Que lui répondez-vous ?
 
-**La police protége les personnes et les biens et fait respecter la loi.**
+**La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -22317,7 +22317,7 @@ Qui était Albert Camus ?
 
 **Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -22814,7 +22814,7 @@ La peine de mort a été abolie en France en 1981. Son abolition est inscrite da
 
 Que lui répondez-vous ?
 
-**Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -23064,7 +23064,7 @@ Qui était Albert Camus ?
 
 **Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -23561,7 +23561,7 @@ La peine de mort a été abolie en France en 1981. Son abolition est inscrite da
 
 Que lui répondez-vous ?
 
-**Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -23685,7 +23685,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_POINT_CR_V01_Q05
-### 📖 Etat de droit
+### 📖 État de droit
 
 **La notion en contexte**
 
@@ -23695,7 +23695,7 @@ Qu'est-ce que l'État de droit ?
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [📖 Lire le chapitre : L'État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V01_Q05)
@@ -24057,7 +24057,7 @@ Quel mariage est reconnu par l'État ?
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [📖 Lire le chapitre : Les démarches administratives](SCR_REV_T5_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V01_Q24)
@@ -24432,7 +24432,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_POINT_CR_V01_Q05_LAST
-### 📖 Etat de droit
+### 📖 État de droit
 
 **La notion en contexte**
 
@@ -24442,7 +24442,7 @@ Qu'est-ce que l'État de droit ?
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [📖 Lire le chapitre : L'État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V01_Q05_LAST)
@@ -24804,7 +24804,7 @@ Quel mariage est reconnu par l'État ?
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [📖 Lire le chapitre : Les démarches administratives](SCR_REV_T5_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V01_Q24_LAST)
@@ -25516,7 +25516,7 @@ Sur quel site internet peut-on retrouver les symboles de la République françai
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [📖 Lire le chapitre : Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V02_Q22)
@@ -26265,7 +26265,7 @@ Sur quel site internet peut-on retrouver les symboles de la République françai
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [📖 Lire le chapitre : Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V02_Q22_LAST)
@@ -27046,7 +27046,7 @@ Qui peut voter aux élections en France ?
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [📘 Consulter Vote](SCR_GLO_0137)
 1. [📘 Consulter Élection](SCR_GLO_0050)
@@ -27789,7 +27789,7 @@ Qui peut voter aux élections en France ?
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [📘 Consulter Vote](SCR_GLO_0137)
 1. [📘 Consulter Élection](SCR_GLO_0050)
@@ -28325,7 +28325,7 @@ La séparation des pouvoirs est un principe fondamental. Quels sont les trois po
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [📘 Consulter Séparation des pouvoirs](SCR_GLO_0211)
 1. [📘 Consulter Pouvoir exécutif](SCR_GLO_0161)
@@ -28364,7 +28364,7 @@ Qui est le préfet ?
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [📘 Consulter Préfet](SCR_GLO_0106)
 1. [📘 Consulter Département](SCR_GLO_0041)
@@ -28384,7 +28384,7 @@ Quelle condition est nécessaire pour voter aux élections ?
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [📘 Consulter Vote](SCR_GLO_0137)
 1. [📘 Consulter Élection](SCR_GLO_0050)
@@ -29071,7 +29071,7 @@ La séparation des pouvoirs est un principe fondamental. Quels sont les trois po
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [📘 Consulter Séparation des pouvoirs](SCR_GLO_0211)
 1. [📘 Consulter Pouvoir exécutif](SCR_GLO_0161)
@@ -29110,7 +29110,7 @@ Qui est le préfet ?
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [📘 Consulter Préfet](SCR_GLO_0106)
 1. [📘 Consulter Département](SCR_GLO_0041)
@@ -29130,7 +29130,7 @@ Quelle condition est nécessaire pour voter aux élections ?
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [📘 Consulter Vote](SCR_GLO_0137)
 1. [📘 Consulter Élection](SCR_GLO_0050)
@@ -29721,7 +29721,7 @@ Quel est le rôle du président de la République ?
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [📘 Consulter Président de la République](SCR_GLO_0109)
 1. [📘 Consulter Constitution](SCR_GLO_0032)
@@ -30463,7 +30463,7 @@ Quel est le rôle du président de la République ?
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [📘 Consulter Président de la République](SCR_GLO_0109)
 1. [📘 Consulter Constitution](SCR_GLO_0032)
@@ -32771,7 +32771,7 @@ Quel mariage est reconnu par l'État ?
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [📖 Lire le chapitre : Les démarches administratives](SCR_REV_T5_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V07_Q12)
@@ -32848,7 +32848,7 @@ Pourquoi le principe de laïcité doit-il être respecté à l'école ?
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
 1. [📘 Consulter Liberté de conscience](SCR_GLO_0083)
@@ -32868,7 +32868,7 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
 1. [📖 Lire le chapitre : La laïcité](SCR_REV_T1_CH04_ACC)
@@ -32984,7 +32984,7 @@ De quoi est composé le drapeau européen ?
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [📘 Consulter Drapeau français](SCR_GLO_0046)
 1. [📖 Lire le chapitre : L'organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
@@ -33519,7 +33519,7 @@ Quel mariage est reconnu par l'État ?
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [📖 Lire le chapitre : Les démarches administratives](SCR_REV_T5_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V07_Q12_LAST)
@@ -33596,7 +33596,7 @@ Pourquoi le principe de laïcité doit-il être respecté à l'école ?
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
 1. [📘 Consulter Liberté de conscience](SCR_GLO_0083)
@@ -33616,7 +33616,7 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
 1. [📖 Lire le chapitre : La laïcité](SCR_REV_T1_CH04_ACC)
@@ -33732,7 +33732,7 @@ De quoi est composé le drapeau européen ?
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [📘 Consulter Drapeau français](SCR_GLO_0046)
 1. [📖 Lire le chapitre : L'organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
@@ -34209,7 +34209,7 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [📘 Consulter École](SCR_GLO_0048)
 1. [📖 Lire le chapitre : La laïcité](SCR_REV_T1_CH04_ACC)
@@ -34228,7 +34228,7 @@ Selon le principe de laïcité, que signifie la neutralité de l'État ?
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
 1. [📘 Consulter Neutralité](SCR_GLO_0098)
@@ -34954,7 +34954,7 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [📘 Consulter École](SCR_GLO_0048)
 1. [📖 Lire le chapitre : La laïcité](SCR_REV_T1_CH04_ACC)
@@ -34973,7 +34973,7 @@ Selon le principe de laïcité, que signifie la neutralité de l'État ?
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
 1. [📘 Consulter Neutralité](SCR_GLO_0098)
@@ -35545,7 +35545,7 @@ Qui doit respecter le principe de neutralité religieuse dans une préfecture ?
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [📘 Consulter Neutralité](SCR_GLO_0098)
 1. [📘 Consulter Préfecture](SCR_GLO_0105)
@@ -35565,7 +35565,7 @@ La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usa
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [📘 Consulter Agents publics](SCR_GLO_0172)
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
@@ -35653,7 +35653,7 @@ Les six pays fondateurs de la construction européenne sont la France, l'Allemag
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_POINT_CR_V09_Q07
-### 📖 Etat de droit
+### 📖 État de droit
 
 **La notion en contexte**
 
@@ -35663,7 +35663,7 @@ Qu'est-ce que l'État de droit ?
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [📖 Lire le chapitre : L'État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q07)
@@ -36288,7 +36288,7 @@ Qui doit respecter le principe de neutralité religieuse dans une préfecture ?
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [📘 Consulter Neutralité](SCR_GLO_0098)
 1. [📘 Consulter Préfecture](SCR_GLO_0105)
@@ -36308,7 +36308,7 @@ La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usa
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [📘 Consulter Agents publics](SCR_GLO_0172)
 1. [📘 Consulter Laïcité](SCR_GLO_0080)
@@ -36396,7 +36396,7 @@ Les six pays fondateurs de la construction européenne sont la France, l'Allemag
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_POINT_CR_V09_Q07_LAST
-### 📖 Etat de droit
+### 📖 État de droit
 
 **La notion en contexte**
 
@@ -36406,7 +36406,7 @@ Qu'est-ce que l'État de droit ?
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [📖 Lire le chapitre : L'État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q07_LAST)
@@ -46003,7 +46003,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 
 **La notion en contexte**
 
-Qui représente l'Etat dans un département ?
+Qui représente l'État dans un département ?
 
 **Le représentant de l'État dans le département.**
 
@@ -46743,7 +46743,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 
 **La notion en contexte**
 
-Qui représente l'Etat dans un département ?
+Qui représente l'État dans un département ?
 
 **Le représentant de l'État dans le département.**
 
@@ -49257,11 +49257,11 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 
 **La notion en contexte**
 
-Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?
+Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?
 
 **Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [📘 Consulter Union européenne](SCR_GLO_0133)
 1. [📘 Consulter Vote](SCR_GLO_0137)
@@ -49626,7 +49626,7 @@ La citoyenneté européenne a été créée par le traité de Maastricht en 1992
 
 Quelle est la devise de la République française ?
 
-**Liberté, Egalité, Fraternité.**
+**Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -49997,11 +49997,11 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 
 **La notion en contexte**
 
-Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?
+Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?
 
 **Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [📘 Consulter Union européenne](SCR_GLO_0133)
 1. [📘 Consulter Vote](SCR_GLO_0137)
@@ -50366,7 +50366,7 @@ La citoyenneté européenne a été créée par le traité de Maastricht en 1992
 
 Quelle est la devise de la République française ?
 
-**Liberté, Egalité, Fraternité.**
+**Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 

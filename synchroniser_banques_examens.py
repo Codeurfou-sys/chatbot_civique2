@@ -31,6 +31,7 @@ import unicodedata
 from difflib import SequenceMatcher
 
 from openpyxl import load_workbook
+from corrections_langue import corriger_texte
 
 
 # Les 19 chapitres du programme civique restent identiques quel que soit
@@ -118,7 +119,8 @@ def read_rows(path: Path, sheet_name: str) -> list[dict[str, object]]:
     headers = [clean(value) for value in next(rows)]
     result = [dict(zip(headers, row)) for row in rows if any(value is not None for value in row)]
     workbook.close()
-    return result
+    visible = {"Question", "Question posée", "Mise en situation", "Réponse A", "Réponse B", "Réponse C", "Réponse D", "Explication pédagogique", "Feedback pédagogique", "Astuce mémoire", "Chapitre", "Thématique", "Compétence", "Ressources à revoir"}
+    return [{key: corriger_texte(clean(value)) if key in visible and isinstance(value, str) else value for key, value in row.items()} for row in result]
 
 
 def chapter_key(row: dict[str, object], chapter_col: str) -> str:

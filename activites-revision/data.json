@@ -1589,17 +1589,17 @@
           {
             "label": "Petite section",
             "target": "Maternelle",
-            "explanation": "Petite section se situe dans le niveau maternelle de ce parcours."
+            "explanation": "Petite section se situe au niveau de l’école maternelle dans ce parcours."
           },
           {
             "label": "Moyenne section",
             "target": "Maternelle",
-            "explanation": "Moyenne section se situe dans le niveau maternelle de ce parcours."
+            "explanation": "Moyenne section se situe au niveau de l’école maternelle dans ce parcours."
           },
           {
             "label": "Grande section",
             "target": "Maternelle",
-            "explanation": "Grande section se situe dans le niveau maternelle de ce parcours."
+            "explanation": "Grande section se situe au niveau de l’école maternelle dans ce parcours."
           },
           {
             "label": "CP",

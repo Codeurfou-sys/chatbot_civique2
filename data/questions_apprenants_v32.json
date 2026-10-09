@@ -52,7 +52,7 @@
     {
       "id": "INTENT_USAGE_RESULTATS",
       "condition": "(@qlNormalisee.includes(\" retrouver \") || @qlNormalisee.includes(\" consulter \") || @qlNormalisee.includes(\" voir \") || @qlNormalisee.includes(\" sauvegardes \") || @qlNormalisee.includes(\" enregistres \")) && (@qlNormalisee.includes(\" resultats \") || @qlNormalisee.includes(\" tentatives \") || @qlNormalisee.includes(\" progression \") || @qlNormalisee.includes(\" parcours \") || @qlNormalisee.includes(\" scores \"))",
-      "answer": "Vous pouvez retrouver vos bilans, entraînements et examens blancs dans **Mon parcours personnalisé**. **Mes résultats sauvegardés** permet aussi de consulter les tentatives enregistrées et de télécharger votre parcours en PDF.",
+      "answer": "Vous pouvez retrouver vos bilans, entraînements et examens blancs dans **Mon parcours personnalisé**. La rubrique **Mes résultats sauvegardés** vous permet aussi de consulter les tentatives enregistrées et de télécharger votre parcours en PDF.",
       "links": [
         [
           "🧭 Mon parcours personnalisé",
@@ -398,7 +398,7 @@
     {
       "id": "INTENT_FAQ_ENTRETIEN_DUREE",
       "condition": "((@qlNormalisee.includes(\" entretien \")) && (@qlNormalisee.includes(\" duree \") || @qlNormalisee.includes(\" duree \") || @qlNormalisee.includes(\" temps \") || @qlNormalisee.includes(\" dure \")))",
-      "answer": "La durée peut varier selon les situations.\n\nEn général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française alors l'entretien peut être court. Dans tous les cas ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !",
+      "answer": "La durée peut varier selon les situations.\n\nEn général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française, alors l'entretien peut être court. Dans tous les cas, ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !",
       "links": [
         [
           "💬 👤 Combien de temps dure l'entretien de naturalisation ?",
@@ -490,7 +490,7 @@
     {
       "id": "INTENT_FAQ_ENTRETIEN_MOTIVATION",
       "condition": "((@qlNormalisee.includes(\" devenir francais \") || @qlNormalisee.includes(\" devenir francais \") || @qlNormalisee.includes(\" souhaitez devenir \")))",
-      "answer": "Il n'existe pas de réponse unique.\n\nL'important est de répondre de manière personnelle, sincère et cohérente avec votre parcours.\n\nExpliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Evitez les réponses trop génériques comme \"mes enfants sont nés ici alors je souhaite devenir français\".",
+      "answer": "Il n'existe pas de réponse unique.\n\nL'important est de répondre de manière personnelle, sincère et cohérente avec votre parcours.\n\nExpliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Évitez les réponses trop génériques comme \"mes enfants sont nés ici alors je souhaite devenir français\".",
       "links": [
         [
           "💬 👤 Comment répondre à la question : \"Pourquoi souhaitez-vous devenir français ?\"",
@@ -664,7 +664,7 @@
     {
       "id": "INTENT_FAQ_NIVEAU_FRANCAIS",
       "condition": "((@qlNormalisee.includes(\" niveau \") || @qlNormalisee.includes(\" francais \") || @qlNormalisee.includes(\" francais \")) && (@qlNormalisee.includes(\" requis \") || @qlNormalisee.includes(\" necessaire \") || @qlNormalisee.includes(\" necessaire \") || @qlNormalisee.includes(\" b1 \") || @qlNormalisee.includes(\" a2 \") || @qlNormalisee.includes(\" b2 \")))",
-      "answer": "L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que les 12 mises en situation.",
+      "answer": "L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que pour les 12 mises en situation.",
       "links": [
         [
           "💬 📘 Quel est le niveau de français requis pour passer l'examen ?",
@@ -712,7 +712,7 @@
     {
       "id": "INTENT_FAQ_QUESTIONS_PIEGES",
       "condition": "((@qlNormalisee.includes(\" piege \") || @qlNormalisee.includes(\" piege \") || @qlNormalisee.includes(\" pieges \") || @qlNormalisee.includes(\" pieges \")))",
-      "answer": "Oui, notamment pour les \"mises en situation\" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acqusise. Exemple : Une entreprise refuse de recruter une personne en situation d'handicap. Quelle valeur républicaine n'est pas respectée ? \n\nConseil : Lisez bien les mots comme \"toujours\", \"jamais\" ou \"interdit\" qui vous donneront des indices pour répondre.",
+      "answer": "Oui, notamment pour les \"mises en situation\" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acquises. Exemple : Une entreprise refuse de recruter une personne en situation de handicap. Quelle valeur républicaine n'est pas respectée ? \n\nConseil : Lisez bien les mots comme \"toujours\", \"jamais\" ou \"interdit\" qui vous donneront des indices pour répondre.",
       "links": [
         [
           "💬 📘 Existe-t-il des questions pièges dans cet examen ?",
@@ -851,7 +851,7 @@
       "answer": "Les trois examens civiques ont des niveaux de difficulté différents : CSP (Carte de Séjour Pluriannuelle, 4 ans) est le plus accessible avec 191 questions officielles. CR (Carte de Résident, 10 ans) est plus exigeant avec 209 questions. NAT (Naturalisation) est le plus difficile avec 258 questions approfondies sur l'histoire et les institutions. Dans tous les cas, 40 questions sont tirées au sort le jour J et le nombre de bonnes réponses à donner reste le même (32/40).",
       "links": [
         [
-          "💬 📘 Quelles sont les diffénces entre les examens Carte de séjour, Carte de résident et Naturalisation ?",
+          "💬 📘 Quelles sont les différences entre les examens Carte de séjour, Carte de résident et Naturalisation ?",
           "SCR_FAQ_005"
         ],
         [

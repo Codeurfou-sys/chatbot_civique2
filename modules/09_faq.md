@@ -581,7 +581,7 @@ Il n'existe pas de réponse unique.
 
 L'important est de répondre de manière personnelle, sincère et cohérente avec votre parcours.
 
-Expliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Evitez les réponses trop génériques comme "mes enfants sont nés ici alors je souhaite devenir français".
+Expliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Évitez les réponses trop génériques comme "mes enfants sont nés ici alors je souhaite devenir français".
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_038)
@@ -600,7 +600,7 @@ Expliquez ce qui motive votre demande (intégration, projet de vie, attachement 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Entretien de naturalisation
 La durée peut varier selon les situations.
 
-En général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française alors l'entretien peut être court. Dans tous les cas ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !
+En général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française, alors l'entretien peut être court. Dans tous les cas, ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_039)
@@ -1159,7 +1159,7 @@ Nous vous accompagnerons pour trouver la réponse la plus adaptée à votre situ
 <!-- Variables : {categorie}=RESULTATS; {ordre}=1; {faq_id}=FAQ-025 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Résultats
-Le score minimum à obtenir est de 32 bonnes réponses sur 40 (soit 80 % de réussite). Il n'y pas de repassage possible, en cas de score non atteint, il faut repasser l'examen. 
+Le score minimum à obtenir est de 32 bonnes réponses sur 40 (soit 80 % de réussite). Il n'y a pas de repassage possible : en cas de score non atteint, il faut repasser l'examen. 
 
 Le Coach vous aide à identifier les thèmes à renforcer.
 :::
@@ -1280,9 +1280,9 @@ Format, thèmes, niveaux et règles de l’examen.
 3. [➡️ Quelles sont les thématiques officielles de l'examen civique ?](SCR_FAQ_003)
 4. [➡️ Combien de questions comporte l'examen civique ?](SCR_FAQ_004)
 5. [➡️ Carte de résident et Naturalisation ?](SCR_FAQ_005)
-6. [➡️ A quoi correspond l'examen civique pour la naturalisation ?](SCR_FAQ_006)
-7. [➡️ A quoi correspond l'examen civique pour la carte de résident ?](SCR_FAQ_007)
-8. [➡️ A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?](SCR_FAQ_008)
+6. [➡️ À quoi correspond l'examen civique pour la naturalisation ?](SCR_FAQ_006)
+7. [➡️ À quoi correspond l'examen civique pour la carte de résident ?](SCR_FAQ_007)
+8. [➡️ À quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?](SCR_FAQ_008)
 9. [➡️ Quel score doit-on obtenir pour réussir l'examen civique ?](SCR_FAQ_009)
 10. [➡️ Que se passe-t-il si on triche à l'examen ?](SCR_FAQ_010)
 11. [➡️ L'examen est-il difficile ?](SCR_FAQ_011)
@@ -1356,7 +1356,7 @@ L'examen comporte 40 questions QCM : 28 questions de connaissances et 12 mises e
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
 ## SCR_FAQ_005
-### 📘 Quelles sont les diffénces entre les examens Carte de séjour, Carte de résident et Naturalisation ?
+### 📘 Quelles sont les différences entre les examens Carte de séjour, Carte de résident et Naturalisation ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=5; {faq_id}=FAQ-005 -->
 
@@ -1373,12 +1373,12 @@ Les trois examens civiques ont des niveaux de difficulté différents : CSP (Car
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
 ## SCR_FAQ_006
-### 📘 A quoi correspond l'examen civique pour la naturalisation ?
+### 📘 À quoi correspond l'examen civique pour la naturalisation ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=6; {faq_id}=FAQ-006 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-L'examen civique pour la naturalisation est le test officiel demandé lorsque l'on souhaite demander la nationalité française. Il permet d'évaluer la connaissance des valeurs de la République, les droits et devoirs du citoyen français, de connaître l'histoire de la France et sa géograhie. La banque de questions pour la **naturalisation** compte 258 questions officielles, avec un format de 40 QCM en 45 minutes et un seuil de réussite établi à 80%.
+L'examen civique pour la naturalisation est le test officiel demandé lorsque l'on souhaite demander la nationalité française. Il permet d'évaluer la connaissance des valeurs de la République, les droits et devoirs du citoyen français, de connaître l'histoire de la France et sa géographie. La banque de questions pour la **naturalisation** compte 258 questions officielles, avec un format de 40 QCM en 45 minutes et un seuil de réussite établi à 80%.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_005)
@@ -1390,7 +1390,7 @@ L'examen civique pour la naturalisation est le test officiel demandé lorsque l'
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
 ## SCR_FAQ_007
-### 📘 A quoi correspond l'examen civique pour la carte de résident ?
+### 📘 À quoi correspond l'examen civique pour la carte de résident ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=7; {faq_id}=FAQ-007 -->
 
@@ -1407,7 +1407,7 @@ L'examen civique pour la carte de résident est le test officiel demandé lorsqu
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
 ## SCR_FAQ_008
-### 📘 A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?
+### 📘 À quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=8; {faq_id}=FAQ-008 -->
 
@@ -1463,7 +1463,7 @@ La fraude à l'examen civique a de lourdes conséquences : vous serez immédiate
 <!-- Variables : {categorie}=EXAMEN; {ordre}=11; {faq_id}=FAQ-011 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjour pluriannuelle est accessible, il demande du bon sens et une connaissance de base des cinq grandes thématiques (principes et valeurs de la République, Droits et devoirs...). Le niveau pour la carte de résident est plus difficile et nécessite d'apprendre des dates historiques et le fonctionnement des institutions. Enfin le niveau pour la naturalisation est le plux exigeant des trois. Les questions sont plus approfondies sur l'histoire, la culture ou encore les institutions françaises.
+Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjour pluriannuelle est accessible, il demande du bon sens et une connaissance de base des cinq grandes thématiques (principes et valeurs de la République, Droits et devoirs...). Le niveau pour la carte de résident est plus difficile et nécessite d'apprendre des dates historiques et le fonctionnement des institutions. Enfin le niveau pour la naturalisation est le plus exigeant des trois. Les questions sont plus approfondies sur l'histoire, la culture ou encore les institutions françaises.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_010)
@@ -1480,7 +1480,7 @@ Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjou
 <!-- Variables : {categorie}=EXAMEN; {ordre}=12; {faq_id}=FAQ-012 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que les 12 mises en situation.
+L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que pour les 12 mises en situation.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_011)
@@ -1497,7 +1497,7 @@ L'examen se déroule uniquement en français, sans traduction disponible. Les qu
 <!-- Variables : {categorie}=EXAMEN; {ordre}=13; {faq_id}=FAQ-013 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-Oui, notamment pour les "mises en situation" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acqusise. Exemple : Une entreprise refuse de recruter une personne en situation d'handicap. Quelle valeur républicaine n'est pas respectée ? 
+Oui, notamment pour les "mises en situation" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acquises. Exemple : Une entreprise refuse de recruter une personne en situation de handicap. Quelle valeur républicaine n'est pas respectée ? 
 
 Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous donneront des indices pour répondre.
 :::
@@ -1533,7 +1533,7 @@ Les dispenses dépendent du titre demandé — il n'existe pas de liste universe
 <!-- Variables : {categorie}=EXAMEN; {ordre}=15; {faq_id}=FAQ-015 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-Oui, il n'existe aucune limite de tentatives. Si vous échouez, vous pouvez retenter votre chance immédiatement (en repyant toute fois les frais d'examen). Rappel : en cas de fraude, vous serez interdit de le repasser pendant 2 ans.
+Oui, il n'existe aucune limite de tentatives. Si vous échouez, vous pouvez retenter votre chance immédiatement (en repayant toutefois les frais d'examen). Rappel : en cas de fraude, vous serez interdit de le repasser pendant 2 ans.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_014)
@@ -1554,7 +1554,7 @@ Dans la plupart des démarches concernées, l'examen civique doit être réussi 
 👉 Pour vous inscrire facilement, vous pouvez :
 
 - vous rendre dans la rubrique **« S’inscrire à l’examen civique »** du Coach ;
-- ou consulter la page d'inscription de puis choisir votre région et compléter le formulaire d'inscription.
+- ou consulter la page d'inscription, puis choisir votre région et compléter le formulaire d'inscription.
 :::
 
 1. [➡️ Question suivante](SCR_FAQ_017)
@@ -1570,7 +1570,7 @@ Dans la plupart des démarches concernées, l'examen civique doit être réussi 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=2; {faq_id}=FAQ-017 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-L'examen se passe dans un **centre agréé** par l'Etat. Frate Formation est organisme agréé. 
+L'examen se passe dans un **centre agréé** par l'État. Frate Formation est un organisme agréé. 
 
 Pour trouver une session près de chez vous :
 

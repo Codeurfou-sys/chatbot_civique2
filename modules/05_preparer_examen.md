@@ -671,7 +671,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](EXAM_CSP_V01_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](EXAM_CSP_V01_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](EXAM_CSP_V01_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](EXAM_CSP_V01_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](EXAM_CSP_V01_Q10_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
@@ -1830,7 +1830,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 1. [<span class="qcm-letter">A</span> Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.](EXAM_CSP_V01_Q30_VRAI)
 1. [<span class="qcm-letter">B</span> Oui, il décide de tout.](EXAM_CSP_V01_Q30_FAUX)
 1. [<span class="qcm-letter">C</span> Oui, il peut modifier seul les lois.](EXAM_CSP_V01_Q30_FAUX)
-1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'Etat.](EXAM_CSP_V01_Q30_FAUX)
+1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'État.](EXAM_CSP_V01_Q30_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2638,7 +2638,7 @@ La Seconde Guerre mondiale oppose de nombreux pays entre 1939 et 1945. Elle se t
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 `endif`
 `if @err_CSP_V01_Q24 == 1`
 **24. Quel numéro d'urgence permet d'appeler le SAMU ?**  
@@ -2707,7 +2707,7 @@ Les six États fondateurs (France, Allemagne, Italie, Belgique, Luxembourg, Pays
 **32. Quelle est cette monnaie ?**  
 ✅ L'euro.
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 `endif`
 `if @err_CSP_V01_Q33 == 1`
 **33. D'après, vous pourquoi faut-il trier ses déchets ?**  
@@ -4448,7 +4448,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](EXAM_CSP_V02_Q15_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](EXAM_CSP_V02_Q15_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](EXAM_CSP_V02_Q15_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](EXAM_CSP_V02_Q15_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](EXAM_CSP_V02_Q15_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -8072,7 +8072,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](EXAM_CSP_V03_Q17_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](EXAM_CSP_V03_Q17_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](EXAM_CSP_V03_Q17_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](EXAM_CSP_V03_Q17_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](EXAM_CSP_V03_Q17_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
@@ -9333,7 +9333,7 @@ Lors d'une visite guidée du musée Carnavalet, le guide évoque le début de la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q39
-<span hidden data-civi-question="81be86f9fa225f90" data-kind="examen" data-screen="EXAM_CSP_V03_Q39"></span>
+<span hidden data-civi-question="68194f1e438ef1c9" data-kind="examen" data-screen="EXAM_CSP_V03_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -9354,7 +9354,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [<span class="qcm-letter">A</span> Avoir une carte d'identité nationale française.](EXAM_CSP_V03_Q39_FAUX)
 1. [<span class="qcm-letter">B</span> Être propriétaire.](EXAM_CSP_V03_Q39_FAUX)
 1. [<span class="qcm-letter">C</span> Être salarié.](EXAM_CSP_V03_Q39_FAUX)
-1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un Etat membre de l'Union européenne.](EXAM_CSP_V03_Q39_VRAI)
+1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un État membre de l'Union européenne.](EXAM_CSP_V03_Q39_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9749,9 +9749,9 @@ La Révolution française débute en 1789. Elle marque une étape majeure de l'h
 `endif`
 `if @err_CSP_V03_Q39 == 1`
 **39. Que lui répondez-vous ?**  
-✅ Avoir la nationalité d'un Etat membre de l'Union européenne.
+✅ Avoir la nationalité d'un État membre de l'Union européenne.
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 `endif`
 `if @err_CSP_V03_Q40 == 1`
 **40. Que lui répondez-vous sur le travail non déclaré ?**  
@@ -11086,7 +11086,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](EXAM_CSP_V04_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](EXAM_CSP_V04_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](EXAM_CSP_V04_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](EXAM_CSP_V04_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](EXAM_CSP_V04_Q09_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -11200,7 +11200,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](EXAM_CSP_V04_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](EXAM_CSP_V04_Q11_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](EXAM_CSP_V04_Q11_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](EXAM_CSP_V04_Q11_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](EXAM_CSP_V04_Q11_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -13037,7 +13037,7 @@ Pour voter, il faut remplir plusieurs conditions. L'une des principales est d'ê
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 `endif`
 `if @err_CSP_V04_Q15 == 1`
 **15. Que signifie « suffrage universel » ?**  
@@ -14268,7 +14268,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](EXAM_CSP_V05_Q04_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](EXAM_CSP_V05_Q04_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](EXAM_CSP_V05_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](EXAM_CSP_V05_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](EXAM_CSP_V05_Q04_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -14327,7 +14327,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](EXAM_CSP_V05_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire](EXAM_CSP_V05_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.](EXAM_CSP_V05_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.](EXAM_CSP_V05_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.](EXAM_CSP_V05_Q05_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -15467,7 +15467,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](EXAM_CSP_V05_Q25_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](EXAM_CSP_V05_Q25_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](EXAM_CSP_V05_Q25_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](EXAM_CSP_V05_Q25_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](EXAM_CSP_V05_Q25_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -15524,7 +15524,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](EXAM_CSP_V05_Q26_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](EXAM_CSP_V05_Q26_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](EXAM_CSP_V05_Q26_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](EXAM_CSP_V05_Q26_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](EXAM_CSP_V05_Q26_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -16498,7 +16498,7 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 `endif`
 `if @err_CSP_V05_Q14 == 1`
 **14. Que doit faire une personne en cas d'accident ?**  
@@ -16520,7 +16520,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 **16. Qui était Albert Camus ?**  
 ✅ Un écrivain.
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 `endif`
@@ -18916,7 +18916,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](EXAM_CSP_V06_Q24_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](EXAM_CSP_V06_Q24_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](EXAM_CSP_V06_Q24_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](EXAM_CSP_V06_Q24_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](EXAM_CSP_V06_Q24_FAUX)
@@ -20055,7 +20055,7 @@ Le baccalauréat est le diplôme qui marque la fin des études au lycée et perm
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 `endif`
 `if @err_CSP_V06_Q20 == 1`
 **20. Un enfant inscrit à l'école :**  
@@ -20079,7 +20079,7 @@ Tous les enfants résidant en France ont droit à l'instruction. Des dispositifs
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 `endif`
 `if @err_CSP_V06_Q23 == 1`
 **23. Quelle est la place de la langue française dans la République ?**  
@@ -20198,7 +20198,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 **39. Laquelle choisissez-vous ?**  
 ✅ Lyon.
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 `endif`
 `if @err_CSP_V06_Q40 == 1`
 **40. Lequel choisissez-vous ?**  
@@ -22929,7 +22929,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 1. [<span class="qcm-letter">A</span> Fédérale.](EXAM_CSP_V07_Q33_FAUX)
 1. [<span class="qcm-letter">B</span> Catholique.](EXAM_CSP_V07_Q33_FAUX)
-1. [<span class="qcm-letter">C</span> Egalitaire.](EXAM_CSP_V07_Q33_FAUX)
+1. [<span class="qcm-letter">C</span> Égalitaire.](EXAM_CSP_V07_Q33_FAUX)
 1. [<span class="qcm-letter">D</span> Laïque.](EXAM_CSP_V07_Q33_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -22988,7 +22988,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 1. [<span class="qcm-letter">A</span> Guérir toutes les maladies.](EXAM_CSP_V07_Q34_FAUX)
 1. [<span class="qcm-letter">B</span> Remplacer les médicaments.](EXAM_CSP_V07_Q34_FAUX)
 1. [<span class="qcm-letter">C</span> Protéger la personne vaccinée et la population contre certaines maladies.](EXAM_CSP_V07_Q34_VRAI)
-1. [<span class="qcm-letter">D</span> Eviter d'aller chez un médecin traitant.](EXAM_CSP_V07_Q34_FAUX)
+1. [<span class="qcm-letter">D</span> Éviter d'aller chez un médecin traitant.](EXAM_CSP_V07_Q34_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -23396,7 +23396,7 @@ La Seconde Guerre mondiale oppose de nombreux pays entre 1939 et 1945. Elle se t
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 `endif`
 `if @err_CSP_V07_Q03 == 1`
 **3. En quelle année a été créée la Communauté Économique Européenne (CEE) ?**  
@@ -25757,7 +25757,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](EXAM_CSP_V08_Q22_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](EXAM_CSP_V08_Q22_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](EXAM_CSP_V08_Q22_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](EXAM_CSP_V08_Q22_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](EXAM_CSP_V08_Q22_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -26270,7 +26270,7 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q31
-<span hidden data-civi-question="2db905bff264df99" data-kind="examen" data-screen="EXAM_CSP_V08_Q31"></span>
+<span hidden data-civi-question="5dbb560688ab4995" data-kind="examen" data-screen="EXAM_CSP_V08_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -26284,7 +26284,7 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 
 <!-- Source csp : MS-CSP-T4-038 -->
 
-Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
+Lors d'une partie d'échecs avec une amie, elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
 
 **Que lui répondez-vous ?**
 
@@ -26734,7 +26734,7 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q39
-<span hidden data-civi-question="c005e4dd95f453e5" data-kind="examen" data-screen="EXAM_CSP_V08_Q39"></span>
+<span hidden data-civi-question="fe6ae03e7041872b" data-kind="examen" data-screen="EXAM_CSP_V08_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -26753,7 +26753,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 1. [<span class="qcm-letter">A</span> Un préfet est un maire qui gère plusieurs communes.](EXAM_CSP_V08_Q39_FAUX)
-1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.](EXAM_CSP_V08_Q39_VRAI)
+1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.](EXAM_CSP_V08_Q39_VRAI)
 1. [<span class="qcm-letter">C</span> Un préfet gère les budgets des villes.](EXAM_CSP_V08_Q39_FAUX)
 1. [<span class="qcm-letter">D</span> Un préfet élit les maires qui représenteront les villes sur son département.](EXAM_CSP_V08_Q39_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -27140,7 +27140,7 @@ En 1958, le général Charles de Gaulle fonde la Ve République avec l'adoption 
 **37. Que répondez-vous ?**  
 ✅ Le président de la République et le gouvernement.
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 `endif`
 `if @err_CSP_V08_Q38 == 1`
 **38. Pourquoi peuvent-elles l'être ?**  
@@ -27150,7 +27150,7 @@ Les libertés sont essentielles dans une démocratie, mais elles s'exercent dans
 `endif`
 `if @err_CSP_V08_Q39 == 1`
 **39. Qu'est-ce qu'un préfet ?**  
-✅ Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.
+✅ Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 `endif`
@@ -28404,7 +28404,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](EXAM_CSP_V09_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](EXAM_CSP_V09_Q07_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](EXAM_CSP_V09_Q07_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](EXAM_CSP_V09_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](EXAM_CSP_V09_Q07_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
@@ -30119,7 +30119,7 @@ Lors d'une commémoration, on vous demande de préciser les dates de la Seconde 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q37
-<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="examen" data-screen="EXAM_CSP_V09_Q37"></span>
+<span hidden data-civi-question="ce344aba5253f19f" data-kind="examen" data-screen="EXAM_CSP_V09_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30139,7 +30139,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 1. [<span class="qcm-letter">A</span> La police juge les personnes.](EXAM_CSP_V09_Q37_FAUX)
 1. [<span class="qcm-letter">B</span> La police arrête les voleurs.](EXAM_CSP_V09_Q37_FAUX)
-1. [<span class="qcm-letter">C</span> La police protége les personnes et les biens et fait respecter la loi.](EXAM_CSP_V09_Q37_VRAI)
+1. [<span class="qcm-letter">C</span> La police protège les personnes et les biens et fait respecter la loi.](EXAM_CSP_V09_Q37_VRAI)
 1. [<span class="qcm-letter">D</span> La police encadre les évènements sportifs ou associatifs.](EXAM_CSP_V09_Q37_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -30639,7 +30639,7 @@ La Seconde Guerre mondiale se déroule de 1939 à 1945 et se termine en Europe l
 `endif`
 `if @err_CSP_V09_Q37 == 1`
 **37. Que lui répondez-vous ?**  
-✅ La police protége les personnes et les biens et fait respecter la loi.
+✅ La police protège les personnes et les biens et fait respecter la loi.
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 `endif`
@@ -33638,7 +33638,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q38
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="examen" data-screen="EXAM_CSP_V10_Q38"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="examen" data-screen="EXAM_CSP_V10_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -33658,7 +33658,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](EXAM_CSP_V10_Q38_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](EXAM_CSP_V10_Q38_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](EXAM_CSP_V10_Q38_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](EXAM_CSP_V10_Q38_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](EXAM_CSP_V10_Q38_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -33905,7 +33905,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 **11. Qui était Albert Camus ?**  
 ✅ Un écrivain.
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 `endif`
@@ -34106,7 +34106,7 @@ La peine de mort a été abolie en France en 1981. Son abolition est inscrite da
 `endif`
 `if @err_CSP_V10_Q38 == 1`
 **38. Que lui répondez-vous ?**  
-✅ Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
+✅ Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 `endif`
@@ -35766,7 +35766,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> Oui.](EXAM_CR_V01_Q14_VRAI)
 1. [<span class="qcm-letter">B</span> Cela dépend du contrat de mariage signé.](EXAM_CR_V01_Q14_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement avec l'accord de la famille.](EXAM_CR_V01_Q14_FAUX)
-1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'Etat.](EXAM_CR_V01_Q14_FAUX)
+1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'État.](EXAM_CR_V01_Q14_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -36393,7 +36393,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> La préfecture.](EXAM_CR_V01_Q25_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](EXAM_CR_V01_Q25_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](EXAM_CR_V01_Q25_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](EXAM_CR_V01_Q25_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](EXAM_CR_V01_Q25_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -36675,7 +36675,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q30
-<span hidden data-civi-question="388eb0e6098ad205" data-kind="examen" data-screen="EXAM_CR_V01_Q30"></span>
+<span hidden data-civi-question="a233160180224c8a" data-kind="examen" data-screen="EXAM_CR_V01_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -36689,7 +36689,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 <!-- Source cr : MS-T2-029 -->
 
-Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
+Ethan est en classe de première. Son professeur d'histoire lui demande quelles fonctions exerce le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -37360,7 +37360,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 `endif`
 `if @err_CR_V01_Q06 == 1`
 **6. Le président de la République a commis un crime. Quelle proposition est correcte ?**  
@@ -37512,7 +37512,7 @@ La CECA qui rassemble six pays européens afin de développer une coopération �
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 `endif`
 `if @err_CR_V01_Q25 == 1`
 **25. Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?**  
@@ -37893,7 +37893,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -38178,7 +38178,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -39853,7 +39853,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](EXAM_CR_V02_Q24_VRAI)
 1. [<span class="qcm-letter">B</span> Le jour d'histoire est arrivé.](EXAM_CR_V02_Q24_FAUX)
 1. [<span class="qcm-letter">C</span> Le jour de la Révolution est arrivé.](EXAM_CR_V02_Q24_FAUX)
-1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivé.](EXAM_CR_V02_Q24_FAUX)
+1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivée.](EXAM_CR_V02_Q24_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -41013,7 +41013,7 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 `endif`
 `if @err_CR_V02_Q23 == 1`
 **23. Complétez ces paroles de la Marseillaise : « Aux armes [...] ! Formez vos bataillons. »**  
@@ -42928,7 +42928,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 **Quelle est la devise de la France ?**
 
-1. [<span class="qcm-letter">A</span> Liberté, Justice, Egalité,](EXAM_CR_V03_Q17_FAUX)
+1. [<span class="qcm-letter">A</span> Liberté, Justice, Égalité,](EXAM_CR_V03_Q17_FAUX)
 1. [<span class="qcm-letter">B</span> Travail, Famille, Patrie.](EXAM_CR_V03_Q17_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Égalité, Fraternité.](EXAM_CR_V03_Q17_VRAI)
 1. [<span class="qcm-letter">D</span> Égalité, Solidarité, Liberté,](EXAM_CR_V03_Q17_FAUX)
@@ -44506,7 +44506,7 @@ L'Assemblée nationale est composée de 577 députés élus au suffrage universe
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 `endif`
 `if @err_CR_V03_Q25 == 1`
 **25. Que garantit la liberté de la presse ?**  
@@ -47911,7 +47911,7 @@ Les sénateurs sont élus pour un mandat de six ans. Le Sénat est renouvelé pa
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 `endif`
 `if @err_CR_V04_Q14 == 1`
 **14. Est-ce que le président de la République a tous les pouvoirs ?**  
@@ -47927,7 +47927,7 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 `endif`
 `if @err_CR_V04_Q16 == 1`
 **16. Quelle condition est nécessaire pour voter aux élections ?**  
@@ -47935,7 +47935,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 `endif`
 `if @err_CR_V04_Q17 == 1`
 **17. Qui dirige la commune ?**  
@@ -51364,7 +51364,7 @@ Le Parlement français est composé de deux chambres : l'Assemblée nationale et
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 `endif`
 `if @err_CR_V05_Q09 == 1`
 **9. Quel est le rôle du Premier ministre ?**  
@@ -53858,7 +53858,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](EXAM_CR_V06_Q25_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](EXAM_CR_V06_Q25_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](EXAM_CR_V06_Q25_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](EXAM_CR_V06_Q25_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](EXAM_CR_V06_Q25_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -56675,7 +56675,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> La préfecture.](EXAM_CR_V07_Q13_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](EXAM_CR_V07_Q13_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](EXAM_CR_V07_Q13_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](EXAM_CR_V07_Q13_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](EXAM_CR_V07_Q13_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -58382,7 +58382,7 @@ L'école française favorise l'école inclusive. Les élèves en situation de ha
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 `endif`
 `if @err_CR_V07_Q13 == 1`
 **13. Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?**  
@@ -58414,7 +58414,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 `endif`
 `if @err_CR_V07_Q17 == 1`
 **17. En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**  
@@ -58422,7 +58422,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 `endif`
 `if @err_CR_V07_Q18 == 1`
 **18. Une personne a-t-elle le droit de ne pas croire en une religion ?**  
@@ -58470,7 +58470,7 @@ L'hymne européen est l'« Ode à la Joie », extraite de la Neuvième Symphonie
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 `endif`
 `if @err_CR_V07_Q24 == 1`
 **24. De quelle couleur est le drapeau européen ?**  
@@ -61811,7 +61811,7 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 `endif`
 `if @err_CR_V08_Q10 == 1`
 **10. Selon le principe de laïcité, que signifie la neutralité de l'État ?**  
@@ -61819,7 +61819,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 `endif`
 `if @err_CR_V08_Q11 == 1`
 **11. Que peut faire un usager du service public dans une mairie ?**  
@@ -63097,7 +63097,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](EXAM_CR_V09_Q04_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](EXAM_CR_V09_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](EXAM_CR_V09_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](EXAM_CR_V09_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](EXAM_CR_V09_Q04_VRAI)
@@ -65232,7 +65232,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 `endif`
 `if @err_CR_V09_Q02 == 1`
 **2. La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?**  
@@ -65240,7 +65240,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 `endif`
 `if @err_CR_V09_Q03 == 1`
 **3. Que garantit le principe de laïcité ?**  
@@ -65280,7 +65280,7 @@ Les six pays fondateurs de la construction européenne sont la France, l'Allemag
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 `endif`
 `if @err_CR_V09_Q08 == 1`
 **8. Le président de la République a commis un crime. Quelle proposition est correcte ?**  
@@ -65805,7 +65805,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -66086,7 +66086,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -68088,7 +68088,7 @@ Lors d'un cours de géographie, on vous demande de citer une mer ou un océan qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q30
-<span hidden data-civi-question="bf36430c3fdfc4ea" data-kind="examen" data-screen="EXAM_CR_V10_Q30"></span>
+<span hidden data-civi-question="29c06e8a4fbbfeb1" data-kind="examen" data-screen="EXAM_CR_V10_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68102,7 +68102,7 @@ Lors d'un cours de géographie, on vous demande de citer une mer ou un océan qu
 
 <!-- Source cr : MS-T3-036 -->
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -77176,7 +77176,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 1. [<span class="qcm-letter">A</span> La Communauté européenne du charbon et de l'acier (CECA).](EXAM_NAT_V03_Q06_VRAI)
-1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les Etats membres.](EXAM_NAT_V03_Q06_FAUX)
+1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les États membres.](EXAM_NAT_V03_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le traité de Maastricht pour instaurer une citoyenneté européenne.](EXAM_NAT_V03_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> La mise en place d'une monnaie commune : l'Euro.](EXAM_NAT_V03_Q06_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -80769,7 +80769,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](EXAM_NAT_V04_Q08_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](EXAM_NAT_V04_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> La signature de la Constitution.](EXAM_NAT_V04_Q08_FAUX)
-1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers Etats membres.](EXAM_NAT_V04_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers États membres.](EXAM_NAT_V04_Q08_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -82078,7 +82078,7 @@ Lors d'un cours d'instruction civique pour adultes, le formateur pose une questi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q31
-<span hidden data-civi-question="2ff6a4663d695971" data-kind="examen" data-screen="EXAM_NAT_V04_Q31"></span>
+<span hidden data-civi-question="97a8ff49b527f72d" data-kind="examen" data-screen="EXAM_NAT_V04_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82092,7 +82092,7 @@ Lors d'un cours d'instruction civique pour adultes, le formateur pose une questi
 
 <!-- Source nat : MS-NAT-T1-002 -->
 
-Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
+Arthur, votre ami d'enfance, va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
 
 **Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
 
@@ -82194,7 +82194,7 @@ Un ami vous montre sur son téléphone, une nouvelle importante. Les députés e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q33
-<span hidden data-civi-question="347e5b837aa0e7b0" data-kind="examen" data-screen="EXAM_NAT_V04_Q33"></span>
+<span hidden data-civi-question="b86cb38e18d122e8" data-kind="examen" data-screen="EXAM_NAT_V04_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82208,7 +82208,7 @@ Un ami vous montre sur son téléphone, une nouvelle importante. Les députés e
 
 <!-- Source nat : MS-NAT-T2-010 -->
 
-Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
+Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quelle est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
 
 **À partir de quel âge devient-on électeur en France ?**
 
@@ -82252,7 +82252,7 @@ Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q34
-<span hidden data-civi-question="baa8cc1dffaf4ba1" data-kind="examen" data-screen="EXAM_NAT_V04_Q34"></span>
+<span hidden data-civi-question="5bfff78af6a26b2b" data-kind="examen" data-screen="EXAM_NAT_V04_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82266,7 +82266,7 @@ Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est l
 
 <!-- Source nat : MS-NAT-T1-026 -->
 
-Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financer. En effet, elle a vu que dans d'autres pays les Etats pouvaient financer des lieux de culte par exemple.
+Catherine, votre amie d'enfance, vous demande ce que l'État français peut financer. En effet, elle a vu que dans d'autres pays les États pouvaient financer des lieux de culte par exemple.
 
 **En France, il est possible pour l'État de financer :**
 
@@ -83984,7 +83984,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](EXAM_NAT_V05_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](EXAM_NAT_V05_Q03_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](EXAM_NAT_V05_Q03_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](EXAM_NAT_V05_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](EXAM_NAT_V05_Q03_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
@@ -85695,7 +85695,7 @@ Un ami de nationalité étrangère, en situation régulière, envisage de créer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q33
-<span hidden data-civi-question="2f1992f608792172" data-kind="examen" data-screen="EXAM_NAT_V05_Q33"></span>
+<span hidden data-civi-question="ac493ec481f131ce" data-kind="examen" data-screen="EXAM_NAT_V05_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85709,7 +85709,7 @@ Un ami de nationalité étrangère, en situation régulière, envisage de créer
 
 <!-- Source nat : MS-NAT-T3-031 -->
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -85753,7 +85753,7 @@ Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q34
-<span hidden data-civi-question="afe9cc557cdb1806" data-kind="examen" data-screen="EXAM_NAT_V05_Q34"></span>
+<span hidden data-civi-question="8e978311bc79e118" data-kind="examen" data-screen="EXAM_NAT_V05_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85767,7 +85767,7 @@ Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle 
 
 <!-- Source nat : MS-NAT-T2-022 -->
 
-Regardant les infos avec votre père, il confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
+Lorsque vous regardez les infos avec votre père, celui-ci confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
 
 **Qui dirige l'action du gouvernement au quotidien ?**
 
@@ -87418,7 +87418,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q02
-<span hidden data-civi-question="382f63fabf959435" data-kind="examen" data-screen="EXAM_NAT_V06_Q02"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="examen" data-screen="EXAM_NAT_V06_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -87432,7 +87432,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](EXAM_NAT_V06_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](EXAM_NAT_V06_Q02_FAUX)
@@ -88462,7 +88462,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](EXAM_NAT_V06_Q20_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](EXAM_NAT_V06_Q20_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](EXAM_NAT_V06_Q20_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](EXAM_NAT_V06_Q20_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](EXAM_NAT_V06_Q20_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
@@ -88748,7 +88748,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](EXAM_NAT_V06_Q25_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V06_Q25_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](EXAM_NAT_V06_Q25_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](EXAM_NAT_V06_Q25_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](EXAM_NAT_V06_Q25_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -89686,7 +89686,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 💡 Retenez: organisation territoriale = communes + départements + régions
 `endif`
 `if @err_NAT_V06_Q02 == 1`
-**2. Qui représente l'Etat dans un département ?**  
+**2. Qui représente l'État dans un département ?**  
 ✅ Le représentant de l'État dans le département.
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État sur le territoire.
@@ -95251,7 +95251,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q17
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="examen" data-screen="EXAM_NAT_V08_Q17"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="examen" data-screen="EXAM_NAT_V08_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95265,12 +95265,12 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](EXAM_NAT_V08_Q17_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](EXAM_NAT_V08_Q17_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](EXAM_NAT_V08_Q17_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](EXAM_NAT_V08_Q17_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](EXAM_NAT_V08_Q17_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](EXAM_NAT_V08_Q17_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -96066,7 +96066,7 @@ Votre fille de 14 ans veut créer un compte sur un réseau social et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q31
-<span hidden data-civi-question="9431bb003fa3ba68" data-kind="examen" data-screen="EXAM_NAT_V08_Q31"></span>
+<span hidden data-civi-question="a2c1199319e03ab6" data-kind="examen" data-screen="EXAM_NAT_V08_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96080,7 +96080,7 @@ Votre fille de 14 ans veut créer un compte sur un réseau social et vous demand
 
 <!-- Source nat : MS-NAT-T1-022 -->
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -96414,7 +96414,7 @@ Lors d'un cours du soir sur l'Union européenne, le formateur demande en quelle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q37
-<span hidden data-civi-question="6341985f99e9fdff" data-kind="examen" data-screen="EXAM_NAT_V08_Q37"></span>
+<span hidden data-civi-question="771f05d6588f584b" data-kind="examen" data-screen="EXAM_NAT_V08_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96433,7 +96433,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Égalité, Fierté.](EXAM_NAT_V08_Q37_FAUX)
-1. [<span class="qcm-letter">B</span> Liberté, Egalité, Fraternité.](EXAM_NAT_V08_Q37_VRAI)
+1. [<span class="qcm-letter">B</span> Liberté, Égalité, Fraternité.](EXAM_NAT_V08_Q37_VRAI)
 1. [<span class="qcm-letter">C</span> Égalité, Travail, Patrie.](EXAM_NAT_V08_Q37_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Solidarité, Égalité.](EXAM_NAT_V08_Q37_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -96784,10 +96784,10 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 💡 Retenez: Union européenne = 27 États membres
 `endif`
 `if @err_NAT_V08_Q17 == 1`
-**17. Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**  
+**17. Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**  
 ✅ Oui cela est possible grâce à la citoyenneté européenne.
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 `endif`
 `if @err_NAT_V08_Q18 == 1`
 **18. Comment demander une carte nationale d'identité ?**  
@@ -96932,7 +96932,7 @@ La citoyenneté européenne a été créée par le traité de Maastricht en 1992
 `endif`
 `if @err_NAT_V08_Q37 == 1`
 **37. Quelle est la devise de la République française ?**  
-✅ Liberté, Egalité, Fraternité.
+✅ Liberté, Égalité, Fraternité.
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 `endif`
@@ -99683,7 +99683,7 @@ Sofiane a été surpris par le nombre d'associations qui existaient en France (r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q34
-<span hidden data-civi-question="ccc2bc439bb00fb4" data-kind="examen" data-screen="EXAM_NAT_V09_Q34"></span>
+<span hidden data-civi-question="fd99ed278415687f" data-kind="examen" data-screen="EXAM_NAT_V09_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99697,7 +99697,7 @@ Sofiane a été surpris par le nombre d'associations qui existaient en France (r
 
 <!-- Source nat : MS-NAT-T2-029 -->
 
-Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours.. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
+Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
 
 **Comment la Constitution peut-elle être révisée ?**
 
@@ -99857,7 +99857,7 @@ Une grève des transports perturbe votre trajet et un passager mécontent dit qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q37
-<span hidden data-civi-question="8c226c67e411c232" data-kind="examen" data-screen="EXAM_NAT_V09_Q37"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="examen" data-screen="EXAM_NAT_V09_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99871,7 +99871,7 @@ Une grève des transports perturbe votre trajet et un passager mécontent dit qu
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -112026,7 +112026,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -112311,7 +112311,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -117778,7 +117778,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -118059,7 +118059,7 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -126272,7 +126272,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>31.</strong> Lequel de ces pays est un pays fondateur ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDFfUTMxX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — La France.</td><td data-label="Explication courte">Les six États fondateurs (France, Allemagne, Italie, Belgique, Luxembourg, Pays-Bas) ont créé la Communauté économique européenne en 1957.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAxX1EzMV9MQVNU">Cours : Union européenne</a><br><a href="#U0NSX0dMT18wMTMz">Glossaire : Union européenne</a></td></tr>
 `endif`
 `if @lastErr32 == 1`
-<tr><td data-label="Question"><strong>32.</strong> Quelle est cette monnaie ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDFfUTMyX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — L&#x27;euro.</td><td data-label="Explication courte">Depuis 2002, la monnaie utilisée en France est l&#x27;euro. Certains Etats membres de l&#x27;Union européenne n&#x27;utilisent pas l&#x27;euro comme le Danemark par exemple.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAxX1EzMl9MQVNU">Cours : Euro</a><br><a href="#U0NSX0dMT18wMDU1">Glossaire : Euro</a></td></tr>
+<tr><td data-label="Question"><strong>32.</strong> Quelle est cette monnaie ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDFfUTMyX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — L&#x27;euro.</td><td data-label="Explication courte">Depuis 2002, la monnaie utilisée en France est l&#x27;euro. Certains États membres de l&#x27;Union européenne n&#x27;utilisent pas l&#x27;euro comme le Danemark par exemple.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAxX1EzMl9MQVNU">Cours : Euro</a><br><a href="#U0NSX0dMT18wMDU1">Glossaire : Euro</a></td></tr>
 `endif`
 `if @lastErr33 == 1`
 <tr><td data-label="Question"><strong>33.</strong> D&#x27;après, vous pourquoi faut-il trier ses déchets ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDFfUTMzX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Pour protéger l&#x27;environnement, réduire la pollution et économiser de l&#x27;énergie.</td><td data-label="Explication courte">Chaque personne peut agir pour limiter les déchets en consommant de manière responsable, en triant et en recyclant.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAxX1EzM19MQVNU">Cours : Déchets</a><br><a href="#U0NSX0dMT18wMTg2">Glossaire : Déchets</a><br><a href="#U0NSX0dMT18wMDUy">Glossaire : Environnement</a></td></tr>
@@ -126577,7 +126577,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>38.</strong> En quelle année a-t-elle débuté ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDNfUTM4X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — 1789.</td><td data-label="Explication courte">La Révolution française débute en 1789. Elle marque une étape majeure de l&#x27;histoire de France.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAzX1EzOF9MQVNU">Cours : Révolution française</a><br><a href="#U0NSX0dMT18wMTE5">Glossaire : Révolution française</a><br><a href="#U0NSX0dMT18wMjI4">Glossaire : Révolution</a></td></tr>
 `endif`
 `if @lastErr39 == 1`
-<tr><td data-label="Question"><strong>39.</strong> Que lui répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDNfUTM5X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Avoir la nationalité d&#x27;un Etat membre de l&#x27;Union européenne.</td><td data-label="Explication courte">Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d&#x27;un Etat membre de l&#x27;UE, avoir 18 ans, résider en France.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAzX1EzOV9MQVNU">Cours : Élections européennes</a><br><a href="#U0NSX0dMT18wMTYw">Glossaire : Élections européennes</a><br><a href="#U0NSX0dMT18wMTM3">Glossaire : Vote</a></td></tr>
+<tr><td data-label="Question"><strong>39.</strong> Que lui répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDNfUTM5X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Avoir la nationalité d&#x27;un État membre de l&#x27;Union européenne.</td><td data-label="Explication courte">Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d&#x27;un État membre de l&#x27;UE, avoir 18 ans, résider en France.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAzX1EzOV9MQVNU">Cours : Élections européennes</a><br><a href="#U0NSX0dMT18wMTYw">Glossaire : Élections européennes</a><br><a href="#U0NSX0dMT18wMTM3">Glossaire : Vote</a></td></tr>
 `endif`
 `if @lastErr40 == 1`
 <tr><td data-label="Question"><strong>40.</strong> Que lui répondez-vous sur le travail non déclaré ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDNfUTQwX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Interdit par la loi.</td><td data-label="Explication courte">Le travail non déclaré est interdit. Il prive notamment le salarié de ses droits sociaux (assurance maladie, retraite, chômage...).</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjAzX1E0MF9MQVNU">Cours : Travail non déclaré</a></td></tr>
@@ -126787,7 +126787,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>15.</strong> Qui était Simone de Beauvoir ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDVfUTE1X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Une écrivaine et philosophe.</td><td data-label="Explication courte">Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA1X1ExNV9MQVNU">Cours : Simone de Beauvoir</a></td></tr>
 `endif`
 `if @lastErr16 == 1`
-<tr><td data-label="Question"><strong>16.</strong> Qui était Albert Camus ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDVfUTE2X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Un écrivain.</td><td data-label="Explication courte">Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l&#x27;ensemble de son œuvre. Son roman le plus connu est &quot;L&#x27;Etranger&quot; de 1942.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA1X1ExNl9MQVNU">Cours : Albert Camus</a></td></tr>
+<tr><td data-label="Question"><strong>16.</strong> Qui était Albert Camus ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDVfUTE2X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Un écrivain.</td><td data-label="Explication courte">Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l&#x27;ensemble de son œuvre. Son roman le plus connu est &quot;L&#x27;Étranger&quot; de 1942.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA1X1ExNl9MQVNU">Cours : Albert Camus</a></td></tr>
 `endif`
 `if @lastErr17 == 1`
 <tr><td data-label="Question"><strong>17.</strong> Qui était Paul Cézanne ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDVfUTE3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un peintre.</td><td data-label="Explication courte">Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profondément influencé l&#x27;art moderne. Son tableau le plus connu est &quot;Les joueurs de cartes&quot;.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA1X1ExN19MQVNU">Cours : Paul Cézanne</a></td></tr>
@@ -127003,7 +127003,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>38.</strong> Quel est cet animal ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDZfUTM4X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Le coq.</td><td data-label="Explication courte">Le coq est un symbole traditionnel de la France, souvent utilisé lors des compétitions sportives. Il ne fait toutefois pas partie des symboles officiels de la République.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA2X1EzOF9MQVNU">Cours : Quel est cet animal ?</a></td></tr>
 `endif`
 `if @lastErr39 == 1`
-<tr><td data-label="Question"><strong>39.</strong> Laquelle choisissez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDZfUTM5X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Lyon.</td><td data-label="Explication courte">Lyon est la troisième plus grande ville de France. Port-Louis se situe à l&#x27;île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA2X1EzOV9MQVNU">Cours : Fleuve</a><br><a href="#U0NSX0dMT18wMjAy">Glossaire : Fleuve</a></td></tr>
+<tr><td data-label="Question"><strong>39.</strong> Laquelle choisissez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDZfUTM5X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Lyon.</td><td data-label="Explication courte">Lyon est la troisième plus grande ville de France. Port-Louis se situe à l&#x27;île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA2X1EzOV9MQVNU">Cours : Fleuve</a><br><a href="#U0NSX0dMT18wMjAy">Glossaire : Fleuve</a></td></tr>
 `endif`
 `if @lastErr40 == 1`
 <tr><td data-label="Question"><strong>40.</strong> Lequel choisissez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDZfUTQwX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Victor Hugo.</td><td data-label="Explication courte">Victor Hugo est un grand écrivain français du XIXᵉ siècle, auteur des &quot;Misérables&quot; et de &quot;Notre-Dame de Paris&quot;.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA2X1E0MF9MQVNU">Cours : Louvre</a></td></tr>
@@ -127281,13 +127281,13 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>36.</strong> Que lui répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTM2X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>A</strong> — Le général Charles de Gaulle.</td><td data-label="Explication courte">En 1958, le général Charles de Gaulle fonde la Ve République avec l&#x27;adoption d&#x27;une nouvelle Constitution.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1EzNl9MQVNU">Cours : Révolution française</a><br><a href="#U0NSX0dMT18wMTE5">Glossaire : Révolution française</a><br><a href="#U0NSX0dMT18wMjMw">Glossaire : Charles de Gaulle</a></td></tr>
 `endif`
 `if @lastErr37 == 1`
-<tr><td data-label="Question"><strong>37.</strong> Que répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTM3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Le président de la République et le gouvernement.</td><td data-label="Explication courte">Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d&#x27;Etat.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1EzN19MQVNU">Cours : Président de la République</a><br><a href="#U0NSX0dMT18wMTA5">Glossaire : Président de la République</a><br><a href="#U0NSX0dMT18wMTM3">Glossaire : Vote</a></td></tr>
+<tr><td data-label="Question"><strong>37.</strong> Que répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTM3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Le président de la République et le gouvernement.</td><td data-label="Explication courte">Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d&#x27;État.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1EzN19MQVNU">Cours : Président de la République</a><br><a href="#U0NSX0dMT18wMTA5">Glossaire : Président de la République</a><br><a href="#U0NSX0dMT18wMTM3">Glossaire : Vote</a></td></tr>
 `endif`
 `if @lastErr38 == 1`
 <tr><td data-label="Question"><strong>38.</strong> Pourquoi peuvent-elles l&#x27;être ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTM4X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Pour protéger les droits des autres, l&#x27;ordre public et la sécurité.</td><td data-label="Explication courte">Les libertés sont essentielles dans une démocratie, mais elles s&#x27;exercent dans le respect de la loi et des droits de chacun.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1EzOF9MQVNU">Cours : Ordre public</a><br><a href="#U0NSX0dMT18wMDk5">Glossaire : Ordre public</a></td></tr>
 `endif`
 `if @lastErr39 == 1`
-<tr><td data-label="Question"><strong>39.</strong> Qu&#x27;est-ce qu&#x27;un préfet ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTM5X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un préfet est un haut fonctionnaire qui représente l&#x27;Etat dans un département ou une région.</td><td data-label="Explication courte">Le préfet représente l&#x27;État dans le département. Il veille notamment à l&#x27;application des lois. Il maintient la sécurité et l&#x27;ordre public en dirigeant les forces de l&#x27;ordre.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1EzOV9MQVNU">Cours : Commune</a><br><a href="#U0NSX0dMT18wMDI0">Glossaire : Commune</a><br><a href="#U0NSX0dMT18wMTA2">Glossaire : Préfet</a></td></tr>
+<tr><td data-label="Question"><strong>39.</strong> Qu&#x27;est-ce qu&#x27;un préfet ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTM5X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un préfet est un haut fonctionnaire qui représente l&#x27;État dans un département ou une région.</td><td data-label="Explication courte">Le préfet représente l&#x27;État dans le département. Il veille notamment à l&#x27;application des lois. Il maintient la sécurité et l&#x27;ordre public en dirigeant les forces de l&#x27;ordre.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1EzOV9MQVNU">Cours : Commune</a><br><a href="#U0NSX0dMT18wMDI0">Glossaire : Commune</a><br><a href="#U0NSX0dMT18wMTA2">Glossaire : Préfet</a></td></tr>
 `endif`
 `if @lastErr40 == 1`
 <tr><td data-label="Question"><strong>40.</strong> Quelle est la bonne réponse ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDhfUTQwX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Cinq.</td><td data-label="Explication courte">La France est actuellement sous la Ve République, instaurée en 1958.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA4X1E0MF9MQVNU">Cours : École</a><br><a href="#U0NSX0dMT18wMDQ4">Glossaire : École</a></td></tr>
@@ -127423,7 +127423,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>36.</strong> Quelles sont ces dates ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDlfUTM2X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — 1939-1945.</td><td data-label="Explication courte">La Seconde Guerre mondiale se déroule de 1939 à 1945 et se termine en Europe le 8 mai 1945.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA5X1EzNl9MQVNU">Cours : Seconde Guerre mondiale</a><br><a href="#U0NSX0dMT18wMTIx">Glossaire : Seconde Guerre mondiale</a></td></tr>
 `endif`
 `if @lastErr37 == 1`
-<tr><td data-label="Question"><strong>37.</strong> Que lui répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDlfUTM3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — La police protége les personnes et les biens et fait respecter la loi.</td><td data-label="Explication courte">La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA5X1EzN19MQVNU">Cours : Police</a><br><a href="#U0NSX0dMT18wMTA0">Glossaire : Police</a></td></tr>
+<tr><td data-label="Question"><strong>37.</strong> Que lui répondez-vous ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDlfUTM3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — La police protège les personnes et les biens et fait respecter la loi.</td><td data-label="Explication courte">La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA5X1EzN19MQVNU">Cours : Police</a><br><a href="#U0NSX0dMT18wMTA0">Glossaire : Police</a></td></tr>
 `endif`
 `if @lastErr38 == 1`
 <tr><td data-label="Question"><strong>38.</strong> Quelle liberté lui permet de croire ou de ne pas croire ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMDlfUTM4X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — La liberté de conscience.</td><td data-label="Explication courte">La liberté de conscience protège toutes les convictions, religieuses ou non religieuses.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjA5X1EzOF9MQVNU">Cours : Liberté de conscience</a><br><a href="#U0NSX0dMT18wMDgz">Glossaire : Liberté de conscience</a><br><a href="#U0NSX0dMT18wMTc1">Glossaire : Religion</a></td></tr>
@@ -127482,7 +127482,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>10.</strong> Qui était Simone de Beauvoir ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMTBfUTEwX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Une écrivaine et philosophe.</td><td data-label="Explication courte">Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjEwX1ExMF9MQVNU">Cours : Simone de Beauvoir</a></td></tr>
 `endif`
 `if @lastErr11 == 1`
-<tr><td data-label="Question"><strong>11.</strong> Qui était Albert Camus ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMTBfUTExX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Un écrivain.</td><td data-label="Explication courte">Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l&#x27;ensemble de son œuvre. Son roman le plus connu est &quot;L&#x27;Etranger&quot; de 1942.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjEwX1ExMV9MQVNU">Cours : Albert Camus</a></td></tr>
+<tr><td data-label="Question"><strong>11.</strong> Qui était Albert Camus ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMTBfUTExX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Un écrivain.</td><td data-label="Explication courte">Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l&#x27;ensemble de son œuvre. Son roman le plus connu est &quot;L&#x27;Étranger&quot; de 1942.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjEwX1ExMV9MQVNU">Cours : Albert Camus</a></td></tr>
 `endif`
 `if @lastErr12 == 1`
 <tr><td data-label="Question"><strong>12.</strong> Qui était Paul Cézanne ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NTUF9WMTBfUTEyX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un peintre.</td><td data-label="Explication courte">Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profondément influencé l&#x27;art moderne. Son tableau le plus connu est &quot;Les joueurs de cartes&quot;.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DU1BfVjEwX1ExMl9MQVNU">Cours : Paul Cézanne</a></td></tr>
@@ -127606,7 +127606,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>4.</strong> La liberté de circulation permet à toute personne de :<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwMV9RMDRfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Se déplacer librement sur le territoire national et à l&#x27;étranger.</td><td data-label="Explication courte">La liberté de circulation permet à chacun de se déplacer librement, dans le respect des lois et des règles applicables.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDFfUTA0X0xBU1Q=">Cours : Liberté de circulation</a><br><a href="#U0NSX0dMT18wMjE1">Glossaire : Liberté de circulation</a></td></tr>
 `endif`
 `if @lastErr5 == 1`
-<tr><td data-label="Question"><strong>5.</strong> Qu&#x27;est-ce que l&#x27;État de droit ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwMV9RMDVfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un État dans lequel tous, y compris les pouvoirs publics, sont soumis à la loi.</td><td data-label="Explication courte">L&#x27;État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n&#x27;est au-dessus des règles juridiques.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDFfUTA1X0xBU1Q=">Cours : Etat de droit</a></td></tr>
+<tr><td data-label="Question"><strong>5.</strong> Qu&#x27;est-ce que l&#x27;État de droit ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwMV9RMDVfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un État dans lequel tous, y compris les pouvoirs publics, sont soumis à la loi.</td><td data-label="Explication courte">L&#x27;État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n&#x27;est au-dessus des règles juridiques.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDFfUTA1X0xBU1Q=">Cours : État de droit</a></td></tr>
 `endif`
 `if @lastErr6 == 1`
 <tr><td data-label="Question"><strong>6.</strong> Le président de la République a commis un crime. Quelle proposition est correcte ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwMV9RMDZfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Il n&#x27;est pas au-dessus des lois, mais bénéficie d&#x27;une inviolabilité durant son mandat (sauf exceptions prévues par la Constitution et le droit international).</td><td data-label="Explication courte">Le président de la République n&#x27;est pas au-dessus des lois.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDFfUTA2X0xBU1Q=">Cours : Président de la République</a><br><a href="#U0NSX0dMT18wMTA5">Glossaire : Président de la République</a><br><a href="#U0NSX0dMT18wMDM3">Glossaire : Crime</a></td></tr>
@@ -128748,7 +128748,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>6.</strong> Quel pays est un pays fondateur de l&#x27;Union européenne ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwOV9RMDZfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — France.</td><td data-label="Explication courte">Les six pays fondateurs de la construction européenne sont la France, l&#x27;Allemagne, l&#x27;Italie, la Belgique, les Pays-Bas et le Luxembourg. Ils ont lancé la coopération européenne après la Seconde Guerre mondiale.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDlfUTA2X0xBU1Q=">Cours : Union européenne</a><br><a href="#U0NSX0dMT18wMTMz">Glossaire : Union européenne</a></td></tr>
 `endif`
 `if @lastErr7 == 1`
-<tr><td data-label="Question"><strong>7.</strong> Qu&#x27;est-ce que l&#x27;État de droit ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwOV9RMDdfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un État dans lequel tous, y compris les pouvoirs publics, sont soumis à la loi.</td><td data-label="Explication courte">L&#x27;État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n&#x27;est au-dessus des règles juridiques.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDlfUTA3X0xBU1Q=">Cours : Etat de droit</a></td></tr>
+<tr><td data-label="Question"><strong>7.</strong> Qu&#x27;est-ce que l&#x27;État de droit ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwOV9RMDdfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Un État dans lequel tous, y compris les pouvoirs publics, sont soumis à la loi.</td><td data-label="Explication courte">L&#x27;État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n&#x27;est au-dessus des règles juridiques.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDlfUTA3X0xBU1Q=">Cours : État de droit</a></td></tr>
 `endif`
 `if @lastErr8 == 1`
 <tr><td data-label="Question"><strong>8.</strong> Le président de la République a commis un crime. Quelle proposition est correcte ?<br><a href="#U0NSX0NPUlJfREVUQUlMX0NSX1YwOV9RMDhfTEFTVA==">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Il n&#x27;est pas au-dessus des lois, mais bénéficie d&#x27;une inviolabilité durant son mandat (sauf exceptions prévues par la Constitution et le droit international).</td><td data-label="Explication courte">Le président de la République n&#x27;est pas au-dessus des lois.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9DUl9WMDlfUTA4X0xBU1Q=">Cours : Président de la République</a><br><a href="#U0NSX0dMT18wMTA5">Glossaire : Président de la République</a><br><a href="#U0NSX0dMT18wMDM3">Glossaire : Crime</a></td></tr>
@@ -129727,7 +129727,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>1.</strong> En quels niveaux le territoire français est-il découpé ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDZfUTAxX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Communes, départements et régions.</td><td data-label="Explication courte">L&#x27;organisation territoriale de la France repose principalement sur trois niveaux de collectivités territoriales : les communes, les départements et les régions, chacun exerçant des compétences spécifiques.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA2X1EwMV9MQVNU">Cours : Commune</a><br><a href="#U0NSX0dMT18wMDI0">Glossaire : Commune</a><br><a href="#U0NSX0dMT18wMDQx">Glossaire : Département</a></td></tr>
 `endif`
 `if @lastErr2 == 1`
-<tr><td data-label="Question"><strong>2.</strong> Qui représente l&#x27;Etat dans un département ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDZfUTAyX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Le représentant de l&#x27;État dans le département.</td><td data-label="Explication courte">Le préfet représente l&#x27;État dans le département. Il veille notamment à l&#x27;application des lois et coordonne les services de l&#x27;État sur le territoire.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA2X1EwMl9MQVNU">Cours : Département</a><br><a href="#U0NSX0dMT18wMDQx">Glossaire : Département</a></td></tr>
+<tr><td data-label="Question"><strong>2.</strong> Qui représente l&#x27;État dans un département ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDZfUTAyX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Le représentant de l&#x27;État dans le département.</td><td data-label="Explication courte">Le préfet représente l&#x27;État dans le département. Il veille notamment à l&#x27;application des lois et coordonne les services de l&#x27;État sur le territoire.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA2X1EwMl9MQVNU">Cours : Département</a><br><a href="#U0NSX0dMT18wMDQx">Glossaire : Département</a></td></tr>
 `endif`
 `if @lastErr3 == 1`
 <tr><td data-label="Question"><strong>3.</strong> Quel est le rôle du président de la République ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDZfUTAzX0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — Il est le chef de l&#x27;État, veille au respect de la Constitution et assure le fonctionnement des institutions.</td><td data-label="Explication courte">Le président de la République est le chef de l&#x27;État. Il veille au respect de la Constitution, assure le fonctionnement régulier des pouvoirs publics et représente la France, notamment à l&#x27;étranger.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA2X1EwM19MQVNU">Cours : Président de la République</a><br><a href="#U0NSX0dMT18wMTA5">Glossaire : Président de la République</a><br><a href="#U0NSX0dMT18wMTY0">Glossaire : Chef de l’État</a></td></tr>
@@ -130056,7 +130056,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>16.</strong> Combien d&#x27;États compte aujourd&#x27;hui l&#x27;Union européenne ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTE2X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — 27.</td><td data-label="Explication courte">Depuis le départ du Royaume-Uni en 2020, l&#x27;Union européenne compte 27 États membres.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1ExNl9MQVNU">Cours : Union européenne</a><br><a href="#U0NSX0dMT18wMTMz">Glossaire : Union européenne</a></td></tr>
 `endif`
 `if @lastErr17 == 1`
-<tr><td data-label="Question"><strong>17.</strong> Les citoyens de l&#x27;Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l&#x27;Union ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTE3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Oui cela est possible grâce à la citoyenneté européenne.</td><td data-label="Explication courte">Les citoyens de l&#x27;Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l&#x27;UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l&#x27;Union où l&#x27;on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d&#x27;un autre Etat membre; il faut être âgé d&#x27;au moins 18 ans.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1ExN19MQVNU">Cours : Union européenne</a><br><a href="#U0NSX0dMT18wMTMz">Glossaire : Union européenne</a><br><a href="#U0NSX0dMT18wMTM3">Glossaire : Vote</a></td></tr>
+<tr><td data-label="Question"><strong>17.</strong> Les citoyens de l&#x27;Union européenne peuvent-ils voter aux élections locales dans un autre État de l&#x27;Union ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTE3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — Oui cela est possible grâce à la citoyenneté européenne.</td><td data-label="Explication courte">Les citoyens de l&#x27;Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l&#x27;UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l&#x27;Union où l&#x27;on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d&#x27;un autre État membre; il faut être âgé d&#x27;au moins 18 ans.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1ExN19MQVNU">Cours : Union européenne</a><br><a href="#U0NSX0dMT18wMTMz">Glossaire : Union européenne</a><br><a href="#U0NSX0dMT18wMTM3">Glossaire : Vote</a></td></tr>
 `endif`
 `if @lastErr18 == 1`
 <tr><td data-label="Question"><strong>18.</strong> Comment demander une carte nationale d&#x27;identité ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTE4X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>D</strong> — En faire la demande auprès d&#x27;une mairie équipée.</td><td data-label="Explication courte">La carte nationale d&#x27;identité est délivrée après dépôt d&#x27;un dossier dans une mairie habilitée à recueillir les demandes.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1ExOF9MQVNU">Cours : Mairie</a><br><a href="#U0NSX0dMT18wMDg4">Glossaire : Mairie</a></td></tr>
@@ -130121,7 +130121,7 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 <tr><td data-label="Question"><strong>36.</strong> En quelle année la citoyenneté européenne a-t-elle été créée ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTM2X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>C</strong> — 1992.</td><td data-label="Explication courte">La citoyenneté européenne a été créée par le traité de Maastricht en 1992. Elle complète la citoyenneté nationale et accorde certains droits aux citoyens des États membres de l&#x27;Union européenne.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1EzNl9MQVNU">Cours : Citoyenneté</a><br><a href="#U0NSX0dMT18wMDIw">Glossaire : Citoyenneté</a></td></tr>
 `endif`
 `if @lastErr37 == 1`
-<tr><td data-label="Question"><strong>37.</strong> Quelle est la devise de la République française ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTM3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Liberté, Egalité, Fraternité.</td><td data-label="Explication courte">La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1EzN19MQVNU">Cours : Devise de la République</a><br><a href="#U0NSX0dMT18wMDQ0">Glossaire : Devise de la République</a><br><a href="#U0NSX0dMT18wMjE3">Glossaire : Devise</a></td></tr>
+<tr><td data-label="Question"><strong>37.</strong> Quelle est la devise de la République française ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTM3X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Liberté, Égalité, Fraternité.</td><td data-label="Explication courte">La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1EzN19MQVNU">Cours : Devise de la République</a><br><a href="#U0NSX0dMT18wMDQ0">Glossaire : Devise de la République</a><br><a href="#U0NSX0dMT18wMjE3">Glossaire : Devise</a></td></tr>
 `endif`
 `if @lastErr38 == 1`
 <tr><td data-label="Question"><strong>38.</strong> En quels niveaux le territoire français est-il découpé ?<br><a href="#U0NSX0NPUlJfREVUQUlMX05BVF9WMDhfUTM4X0xBU1Q=">Détails</a></td><td data-label="Réponse correcte"><strong>B</strong> — Communes, départements et régions.</td><td data-label="Explication courte">L&#x27;organisation territoriale de la France repose principalement sur trois niveaux de collectivités territoriales : les communes, les départements et les régions, chacun exerçant des compétences spécifiques.</td><td data-label="Notion à revoir"><a href="#U0NSX1JFVl9QT0lOVF9OQVRfVjA4X1EzOF9MQVNU">Cours : Commune</a><br><a href="#U0NSX0dMT18wMDI0">Glossaire : Commune</a><br><a href="#U0NSX0dMT18wMDQx">Glossaire : Département</a></td></tr>
@@ -133372,7 +133372,7 @@ Le respect de la loi est un devoir fondamental. Les lois garantissent les droits
 
 A. Seulement les Français.
 B. Seulement les adultes.
-C. Seulement les personnes majeurs.
+C. Seulement les personnes majeures.
 D. Toutes les personnes présentes sur le territoire français.
 
 **Réponse correcte : D — Toutes les personnes présentes sur le territoire français.**
@@ -133760,7 +133760,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 A. Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.
 B. Oui, il décide de tout.
 C. Oui, il peut modifier seul les lois.
-D. Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'Etat.
+D. Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'État.
 
 **Réponse correcte : A — Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.**
 
@@ -133807,7 +133807,7 @@ D. L'euro.
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V01_Q32)
 1. [📘 Euro](SCR_GLO_0055)
@@ -134167,7 +134167,7 @@ Le respect de la loi est un devoir fondamental. Les lois garantissent les droits
 
 A. Seulement les Français.
 B. Seulement les adultes.
-C. Seulement les personnes majeurs.
+C. Seulement les personnes majeures.
 D. Toutes les personnes présentes sur le territoire français.
 
 **Réponse correcte : D — Toutes les personnes présentes sur le territoire français.**
@@ -134555,7 +134555,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 A. Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.
 B. Oui, il décide de tout.
 C. Oui, il peut modifier seul les lois.
-D. Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'Etat.
+D. Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'État.
 
 **Réponse correcte : A — Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.**
 
@@ -134602,7 +134602,7 @@ D. L'euro.
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V01_Q32_LAST)
 1. [📘 Euro](SCR_GLO_0055)
@@ -137910,7 +137910,7 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 **Qui a fondé la Ve République ?**
 
 A. Charles de Gaulle.
-B. Edouard Balladur.
+B. Édouard Balladur.
 C. Napoléon Bonaparte.
 D. Georges Pompidou.
 
@@ -138704,7 +138704,7 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 **Qui a fondé la Ve République ?**
 
 A. Charles de Gaulle.
-B. Edouard Balladur.
+B. Édouard Balladur.
 C. Napoléon Bonaparte.
 D. Georges Pompidou.
 
@@ -142178,7 +142178,7 @@ La devise « Liberté, Égalité, Fraternité » est inscrite sur de nombreux b�
 
 A. Le coq, Marianne , le béret et la baguette.
 B. Le drapeau tricolore, Marianne, la Marseillaise et la devise.
-C. La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.
+C. La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.
 D. Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.
 
 **Réponse correcte : B — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
@@ -142628,11 +142628,11 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 A. Avoir une carte d'identité nationale française.
 B. Être propriétaire.
 C. Être salarié.
-D. Avoir la nationalité d'un Etat membre de l'Union européenne.
+D. Avoir la nationalité d'un État membre de l'Union européenne.
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V03_Q39)
 1. [📘 Élections européennes](SCR_GLO_0160)
@@ -142973,7 +142973,7 @@ La devise « Liberté, Égalité, Fraternité » est inscrite sur de nombreux b�
 
 A. Le coq, Marianne , le béret et la baguette.
 B. Le drapeau tricolore, Marianne, la Marseillaise et la devise.
-C. La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.
+C. La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.
 D. Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.
 
 **Réponse correcte : B — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
@@ -143423,11 +143423,11 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 A. Avoir une carte d'identité nationale française.
 B. Être propriétaire.
 C. Être salarié.
-D. Avoir la nationalité d'un Etat membre de l'Union européenne.
+D. Avoir la nationalité d'un État membre de l'Union européenne.
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V03_Q39_LAST)
 1. [📘 Élections européennes](SCR_GLO_0160)
@@ -146262,7 +146262,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 A. Être tous membres de la même famille.
 B. La solidarité, l'entraide et le respect entre les personnes.
 C. Être tous amis.
-D. Etre égaux devant la loi.
+D. Être égaux devant la loi.
 
 **Réponse correcte : B — La solidarité, l'entraide et le respect entre les personnes.**
 
@@ -146300,7 +146300,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 A. Faire respecter la loi.
 B. Réunir des personnes ayant des centres d'intérêt communs.
 C. Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.
-D. Aider l'Etat à prendre des décisions en apportant une expertise.
+D. Aider l'État à prendre des décisions en apportant une expertise.
 
 **Réponse correcte : C — Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.**
 
@@ -147053,7 +147053,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 A. Être tous membres de la même famille.
 B. La solidarité, l'entraide et le respect entre les personnes.
 C. Être tous amis.
-D. Etre égaux devant la loi.
+D. Être égaux devant la loi.
 
 **Réponse correcte : B — La solidarité, l'entraide et le respect entre les personnes.**
 
@@ -147091,7 +147091,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 A. Faire respecter la loi.
 B. Réunir des personnes ayant des centres d'intérêt communs.
 C. Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.
-D. Aider l'Etat à prendre des décisions en apportant une expertise.
+D. Aider l'État à prendre des décisions en apportant une expertise.
 
 **Réponse correcte : C — Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.**
 
@@ -150596,7 +150596,7 @@ La fête nationale française est célébrée chaque année le 14 juillet. Elle 
 **Quelle est la devise de la République française ?**
 
 A. Liberté, Justice, Fraternité.
-B. Egalité, Justice,Solidarité.
+B. Égalité, Justice,Solidarité.
 C. Liberté, Solidarité, Fraternité.
 D. Liberté, Égalité, Fraternité.
 
@@ -150618,7 +150618,7 @@ La devise de la République française exprime les trois valeurs fondamentales q
 A. Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.
 B. Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire
 C. Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.
-D. Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.
+D. Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.
 
 **Réponse correcte : A — Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.**
 
@@ -150835,7 +150835,7 @@ D. Un écrivain.
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V05_Q16)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -150993,7 +150993,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 A. À faciliter la prise en charge et le remboursement des frais de santé.
 B. À remplacer une carte bancaire pour payer les médecins.
 C. À obtenir une mutuelle.
-D. A payer directement les soins.
+D. À payer directement les soins.
 
 **Réponse correcte : A — À faciliter la prise en charge et le remboursement des frais de santé.**
 
@@ -151012,7 +151012,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 A. À remplacer l'Assurance Maladie.
 B. À compléter le remboursement des frais de santé.
 C. À obtenir une carte Vitale.
-D. A payer le médecin en cas d'absence de la carte vitale.
+D. À payer le médecin en cas d'absence de la carte vitale.
 
 **Réponse correcte : B — À compléter le remboursement des frais de santé.**
 
@@ -151379,7 +151379,7 @@ La fête nationale française est célébrée chaque année le 14 juillet. Elle 
 **Quelle est la devise de la République française ?**
 
 A. Liberté, Justice, Fraternité.
-B. Egalité, Justice,Solidarité.
+B. Égalité, Justice,Solidarité.
 C. Liberté, Solidarité, Fraternité.
 D. Liberté, Égalité, Fraternité.
 
@@ -151401,7 +151401,7 @@ La devise de la République française exprime les trois valeurs fondamentales q
 A. Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.
 B. Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire
 C. Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.
-D. Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.
+D. Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.
 
 **Réponse correcte : A — Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.**
 
@@ -151618,7 +151618,7 @@ D. Un écrivain.
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V05_Q16_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -151776,7 +151776,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 A. À faciliter la prise en charge et le remboursement des frais de santé.
 B. À remplacer une carte bancaire pour payer les médecins.
 C. À obtenir une mutuelle.
-D. A payer directement les soins.
+D. À payer directement les soins.
 
 **Réponse correcte : A — À faciliter la prise en charge et le remboursement des frais de santé.**
 
@@ -151795,7 +151795,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 A. À remplacer l'Assurance Maladie.
 B. À compléter le remboursement des frais de santé.
 C. À obtenir une carte Vitale.
-D. A payer le médecin en cas d'absence de la carte vitale.
+D. À payer le médecin en cas d'absence de la carte vitale.
 
 **Réponse correcte : B — À compléter le remboursement des frais de santé.**
 
@@ -155233,7 +155233,7 @@ Le français est la langue officielle de la République. Il est utilisé dans le
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-A. La liberté d'opinon.
+A. La liberté d'opinion.
 B. La liberté de réunion.
 C. La liberté d'expression.
 D. La liberté de vote.
@@ -155551,7 +155551,7 @@ D. Gênes.
 
 **Réponse correcte : C — Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V06_Q39)
 1. [📘 Fleuve](SCR_GLO_0202)
@@ -156024,7 +156024,7 @@ Le français est la langue officielle de la République. Il est utilisé dans le
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-A. La liberté d'opinon.
+A. La liberté d'opinion.
 B. La liberté de réunion.
 C. La liberté d'expression.
 D. La liberté de vote.
@@ -156342,7 +156342,7 @@ D. Gênes.
 
 **Réponse correcte : C — Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V06_Q39_LAST)
 1. [📘 Fleuve](SCR_GLO_0202)
@@ -159690,7 +159690,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 A. Fédérale.
 B. Catholique.
-C. Egalitaire.
+C. Égalitaire.
 D. Laïque.
 
 **Réponse correcte : D — Laïque.**
@@ -159713,7 +159713,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 A. Guérir toutes les maladies.
 B. Remplacer les médicaments.
 C. Protéger la personne vaccinée et la population contre certaines maladies.
-D. Eviter d'aller chez un médecin traitant.
+D. Éviter d'aller chez un médecin traitant.
 
 **Réponse correcte : C — Protéger la personne vaccinée et la population contre certaines maladies.**
 
@@ -160483,7 +160483,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 A. Fédérale.
 B. Catholique.
-C. Egalitaire.
+C. Égalitaire.
 D. Laïque.
 
 **Réponse correcte : D — Laïque.**
@@ -160506,7 +160506,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 A. Guérir toutes les maladies.
 B. Remplacer les médicaments.
 C. Protéger la personne vaccinée et la population contre certaines maladies.
-D. Eviter d'aller chez un médecin traitant.
+D. Éviter d'aller chez un médecin traitant.
 
 **Réponse correcte : C — Protéger la personne vaccinée et la population contre certaines maladies.**
 
@@ -163869,7 +163869,7 @@ Adoptée en 1789 pendant la Révolution française, la Déclaration des droits d
 **Qui a fondé la Ve République ?**
 
 A. Charles de Gaulle.
-B. Edouard Balladur.
+B. Édouard Balladur.
 C. Napoléon Bonaparte.
 D. Georges Pompidou.
 
@@ -164040,7 +164040,7 @@ Le drapeau tricolore, bleu, blanc et rouge, est l'un des principaux symboles off
 ## SCR_CORR_DETAIL_CSP_V08_Q31
 ### 📘 Votre erreur — Question 31
 
-Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
+Lors d'une partie d'échecs avec une amie, elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
 
 **Que lui répondez-vous ?**
 
@@ -164178,7 +164178,7 @@ D. Le président de la République et le gouvernement.
 
 **Réponse correcte : D — Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V08_Q37)
 1. [📘 Président de la République](SCR_GLO_0109)
@@ -164215,11 +164215,11 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 A. Un préfet est un maire qui gère plusieurs communes.
-B. Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.
+B. Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.
 C. Un préfet gère les budgets des villes.
 D. Un préfet élit les maires qui représenteront les villes sur son département.
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -164668,7 +164668,7 @@ Adoptée en 1789 pendant la Révolution française, la Déclaration des droits d
 **Qui a fondé la Ve République ?**
 
 A. Charles de Gaulle.
-B. Edouard Balladur.
+B. Édouard Balladur.
 C. Napoléon Bonaparte.
 D. Georges Pompidou.
 
@@ -164839,7 +164839,7 @@ Le drapeau tricolore, bleu, blanc et rouge, est l'un des principaux symboles off
 ## SCR_CORR_DETAIL_CSP_V08_Q31_LAST
 ### 📘 Votre erreur — Question 31
 
-Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
+Lors d'une partie d'échecs avec une amie, elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
 
 **Que lui répondez-vous ?**
 
@@ -164977,7 +164977,7 @@ D. Le président de la République et le gouvernement.
 
 **Réponse correcte : D — Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V08_Q37_LAST)
 1. [📘 Président de la République](SCR_GLO_0109)
@@ -165014,11 +165014,11 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 A. Un préfet est un maire qui gère plusieurs communes.
-B. Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.
+B. Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.
 C. Un préfet gère les budgets des villes.
 D. Un préfet élit les maires qui représenteront les villes sur son département.
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -167780,7 +167780,7 @@ Le respect de la loi est un devoir fondamental. Les lois garantissent les droits
 
 A. Seulement les Français.
 B. Seulement les adultes.
-C. Seulement les personnes majeurs.
+C. Seulement les personnes majeures.
 D. Toutes les personnes présentes sur le territoire français.
 
 **Réponse correcte : D — Toutes les personnes présentes sur le territoire français.**
@@ -168375,10 +168375,10 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 A. La police juge les personnes.
 B. La police arrête les voleurs.
-C. La police protége les personnes et les biens et fait respecter la loi.
+C. La police protège les personnes et les biens et fait respecter la loi.
 D. La police encadre les évènements sportifs ou associatifs.
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -168573,7 +168573,7 @@ Le respect de la loi est un devoir fondamental. Les lois garantissent les droits
 
 A. Seulement les Français.
 B. Seulement les adultes.
-C. Seulement les personnes majeurs.
+C. Seulement les personnes majeures.
 D. Toutes les personnes présentes sur le territoire français.
 
 **Réponse correcte : D — Toutes les personnes présentes sur le territoire français.**
@@ -169168,10 +169168,10 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 A. La police juge les personnes.
 B. La police arrête les voleurs.
-C. La police protége les personnes et les biens et fait respecter la loi.
+C. La police protège les personnes et les biens et fait respecter la loi.
 D. La police encadre les évènements sportifs ou associatifs.
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -172256,7 +172256,7 @@ D. Un écrivain.
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V10_Q11)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -172784,10 +172784,10 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 A. Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.
 B. Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.
-C. Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
+C. Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 D. Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -173044,7 +173044,7 @@ D. Un écrivain.
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_CSP_V10_Q11_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -173572,10 +173572,10 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 A. Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.
 B. Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.
-C. Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
+C. Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 D. Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -173714,7 +173714,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -173999,7 +173999,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -174284,7 +174284,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -174569,7 +174569,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -174854,7 +174854,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@err_CR_V01_Q05 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V01_Q06 == 1) && @r13NotionCount < 3`
@@ -175158,7 +175158,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -175443,7 +175443,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -175728,7 +175728,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -176013,7 +176013,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -176298,7 +176298,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 **Commencez par ces notions manquées :**
 `@r13NotionCount = 0`
 `if (@lastErr5 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr6 == 1) && @r13NotionCount < 3`
@@ -176772,7 +176772,7 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 A. Oui.
 B. Cela dépend du contrat de mariage signé.
 C. Seulement avec l'accord de la famille.
-D. Seulement avec l'accord de l'Etat.
+D. Seulement avec l'accord de l'État.
 
 **Réponse correcte : A — Oui.**
 
@@ -176981,7 +176981,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 A. La préfecture.
 B. À la mairie.
 C. Au commissariat.
-D. A l'école directement.
+D. À l'école directement.
 
 **Réponse correcte : B — À la mairie.**
 
@@ -177076,7 +177076,7 @@ Le tri des déchets est un geste citoyen qui protège l'environnement. Les déch
 ## SCR_CORR_DETAIL_CR_V01_Q30
 ### 📘 Votre erreur — Question 30
 
-Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
+Ethan est en classe de première. Son professeur d'histoire lui demande quelles fonctions exerce le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -177567,7 +177567,7 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 A. Oui.
 B. Cela dépend du contrat de mariage signé.
 C. Seulement avec l'accord de la famille.
-D. Seulement avec l'accord de l'Etat.
+D. Seulement avec l'accord de l'État.
 
 **Réponse correcte : A — Oui.**
 
@@ -177776,7 +177776,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 A. La préfecture.
 B. À la mairie.
 C. Au commissariat.
-D. A l'école directement.
+D. À l'école directement.
 
 **Réponse correcte : B — À la mairie.**
 
@@ -177871,7 +177871,7 @@ Le tri des déchets est un geste citoyen qui protège l'environnement. Les déch
 ## SCR_CORR_DETAIL_CR_V01_Q30_LAST
 ### 📘 Votre erreur — Question 30
 
-Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
+Ethan est en classe de première. Son professeur d'histoire lui demande quelles fonctions exerce le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -181243,7 +181243,7 @@ La Marseillaise est l'hymne national français. Chaque citoyen est invité à co
 A. Le jour de gloire est arrivé.
 B. Le jour d'histoire est arrivé.
 C. Le jour de la Révolution est arrivé.
-D. La nuit de la révolte est arrivé.
+D. La nuit de la révolte est arrivée.
 
 **Réponse correcte : A — Le jour de gloire est arrivé.**
 
@@ -182039,7 +182039,7 @@ La Marseillaise est l'hymne national français. Chaque citoyen est invité à co
 A. Le jour de gloire est arrivé.
 B. Le jour d'histoire est arrivé.
 C. Le jour de la Révolution est arrivé.
-D. La nuit de la révolte est arrivé.
+D. La nuit de la révolte est arrivée.
 
 **Réponse correcte : A — Le jour de gloire est arrivé.**
 
@@ -185460,7 +185460,7 @@ Les cours de sport font partie des enseignements obligatoires. La mixité entre 
 
 **Quelle est la devise de la France ?**
 
-A. Liberté, Justice, Egalité,
+A. Liberté, Justice, Égalité,
 B. Travail, Famille, Patrie.
 C. Liberté, Égalité, Fraternité.
 D. Égalité, Solidarité, Liberté,
@@ -186250,7 +186250,7 @@ Les cours de sport font partie des enseignements obligatoires. La mixité entre 
 
 **Quelle est la devise de la France ?**
 
-A. Liberté, Justice, Egalité,
+A. Liberté, Justice, Égalité,
 B. Travail, Famille, Patrie.
 C. Liberté, Égalité, Fraternité.
 D. Égalité, Solidarité, Liberté,
@@ -198665,7 +198665,7 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 A. L'Arc de triomphe.
 B. La tour Eiffel.
 C. Le coq.
-D. Le bonnet prhygien.
+D. Le bonnet phrygien.
 
 **Réponse correcte : A — L'Arc de triomphe.**
 
@@ -199457,7 +199457,7 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 A. L'Arc de triomphe.
 B. La tour Eiffel.
 C. Le coq.
-D. Le bonnet prhygien.
+D. Le bonnet phrygien.
 
 **Réponse correcte : A — L'Arc de triomphe.**
 
@@ -202585,7 +202585,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 A. La préfecture.
 B. À la mairie.
 C. Au commissariat.
-D. A l'école directement.
+D. À l'école directement.
 
 **Réponse correcte : B — À la mairie.**
 
@@ -203381,7 +203381,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 A. La préfecture.
 B. À la mairie.
 C. Au commissariat.
-D. A l'école directement.
+D. À l'école directement.
 
 **Réponse correcte : B — À la mairie.**
 
@@ -208348,7 +208348,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -208629,7 +208629,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -208910,7 +208910,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -209191,7 +209191,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -209472,7 +209472,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q07 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@err_CR_V09_Q08 == 1) && @r13NotionCount < 3`
@@ -209772,7 +209772,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -210053,7 +210053,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -210334,7 +210334,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -210615,7 +210615,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -210896,7 +210896,7 @@ Les conseils correspondent à votre résultat et aux notions réellement manqué
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr7 == 1) && @r13NotionCount < 3`
-- Etat de droit
+- État de droit
 `@r13NotionCount = calc(@r13NotionCount+1)`
 `endif`
 `if (@lastErr8 == 1) && @r13NotionCount < 3`
@@ -211166,7 +211166,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 
 **A-t-on le droit de changer de religion ?**
 
-A. Seulement avec l'autorisation de l'Etat.
+A. Seulement avec l'autorisation de l'État.
 B. Seulement avec une autorisation parentale.
 C. Non c'est interdit par la loi.
 D. Oui.
@@ -211954,7 +211954,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 
 **A-t-on le droit de changer de religion ?**
 
-A. Seulement avec l'autorisation de l'Etat.
+A. Seulement avec l'autorisation de l'État.
 B. Seulement avec une autorisation parentale.
 C. Non c'est interdit par la loi.
 D. Oui.
@@ -215969,7 +215969,7 @@ La France métropolitaine est bordée par quatre espaces maritimes : la Manche, 
 ## SCR_CORR_DETAIL_CR_V10_Q30
 ### 📘 Votre erreur — Question 30
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -216761,7 +216761,7 @@ La France métropolitaine est bordée par quatre espaces maritimes : la Manche, 
 ## SCR_CORR_DETAIL_CR_V10_Q30_LAST
 ### 📘 Votre erreur — Question 30
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -228415,7 +228415,7 @@ Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés en
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 A. La Communauté européenne du charbon et de l'acier (CECA).
-B. Un traité pour garantir une solidarité et la paix durable entre les Etats membres.
+B. Un traité pour garantir une solidarité et la paix durable entre les États membres.
 C. Le traité de Maastricht pour instaurer une citoyenneté européenne.
 D. La mise en place d'une monnaie commune : l'Euro.
 
@@ -229214,7 +229214,7 @@ Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés en
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 A. La Communauté européenne du charbon et de l'acier (CECA).
-B. Un traité pour garantir une solidarité et la paix durable entre les Etats membres.
+B. Un traité pour garantir une solidarité et la paix durable entre les États membres.
 C. Le traité de Maastricht pour instaurer une citoyenneté européenne.
 D. La mise en place d'une monnaie commune : l'Euro.
 
@@ -232859,7 +232859,7 @@ Toute personne qui réside ou travaille en France de manière stable et réguli�
 A. La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
 B. La fin de la Seconde Guerre mondiale.
 C. La signature de la Constitution.
-D. La création de l'Union européenne et le rassemblement des six premiers Etats membres.
+D. La création de l'Union européenne et le rassemblement des six premiers États membres.
 
 **Réponse correcte : A — La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.**
 
@@ -233302,7 +233302,7 @@ Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat
 ## SCR_CORR_DETAIL_NAT_V04_Q31
 ### 📘 Votre erreur — Question 31
 
-Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
+Arthur, votre ami d'enfance, va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
 
 **Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
 
@@ -233345,7 +233345,7 @@ Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les 
 ## SCR_CORR_DETAIL_NAT_V04_Q33
 ### 📘 Votre erreur — Question 33
 
-Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
+Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quelle est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
 
 **À partir de quel âge devient-on électeur en France ?**
 
@@ -233366,7 +233366,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 ## SCR_CORR_DETAIL_NAT_V04_Q34
 ### 📘 Votre erreur — Question 34
 
-Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financer. En effet, elle a vu que dans d'autres pays les Etats pouvaient financer des lieux de culte par exemple.
+Catherine, votre amie d'enfance, vous demande ce que l'État français peut financer. En effet, elle a vu que dans d'autres pays les États pouvaient financer des lieux de culte par exemple.
 
 **En France, il est possible pour l'État de financer :**
 
@@ -233653,7 +233653,7 @@ Toute personne qui réside ou travaille en France de manière stable et réguli�
 A. La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
 B. La fin de la Seconde Guerre mondiale.
 C. La signature de la Constitution.
-D. La création de l'Union européenne et le rassemblement des six premiers Etats membres.
+D. La création de l'Union européenne et le rassemblement des six premiers États membres.
 
 **Réponse correcte : A — La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.**
 
@@ -234096,7 +234096,7 @@ Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat
 ## SCR_CORR_DETAIL_NAT_V04_Q31_LAST
 ### 📘 Votre erreur — Question 31
 
-Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
+Arthur, votre ami d'enfance, va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
 
 **Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
 
@@ -234139,7 +234139,7 @@ Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les 
 ## SCR_CORR_DETAIL_NAT_V04_Q33_LAST
 ### 📘 Votre erreur — Question 33
 
-Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
+Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quelle est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
 
 **À partir de quel âge devient-on électeur en France ?**
 
@@ -234160,7 +234160,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 ## SCR_CORR_DETAIL_NAT_V04_Q34_LAST
 ### 📘 Votre erreur — Question 34
 
-Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financer. En effet, elle a vu que dans d'autres pays les Etats pouvaient financer des lieux de culte par exemple.
+Catherine, votre amie d'enfance, vous demande ce que l'État français peut financer. En effet, elle a vu que dans d'autres pays les États pouvaient financer des lieux de culte par exemple.
 
 **En France, il est possible pour l'État de financer :**
 
@@ -237201,7 +237201,7 @@ La liberté d'association est une liberté fondamentale garantie par la loi. Ell
 
 A. Faire tout ce que l'on veut.
 B. Ne respecter aucune règle.
-C. Etre au-dessus des lois.
+C. Être au-dessus des lois.
 D. Le droit de faire ce que la loi autorise, dans le respect des droits des autres.
 
 **Réponse correcte : D — Le droit de faire ce que la loi autorise, dans le respect des droits des autres.**
@@ -237775,7 +237775,7 @@ La création d'entreprise est ouverte aux personnes étrangères en situation r�
 ## SCR_CORR_DETAIL_NAT_V05_Q33
 ### 📘 Votre erreur — Question 33
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -237796,7 +237796,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 ## SCR_CORR_DETAIL_NAT_V05_Q34
 ### 📘 Votre erreur — Question 34
 
-Regardant les infos avec votre père, il confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
+Lorsque vous regardez les infos avec votre père, celui-ci confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
 
 **Qui dirige l'action du gouvernement au quotidien ?**
 
@@ -237988,7 +237988,7 @@ La liberté d'association est une liberté fondamentale garantie par la loi. Ell
 
 A. Faire tout ce que l'on veut.
 B. Ne respecter aucune règle.
-C. Etre au-dessus des lois.
+C. Être au-dessus des lois.
 D. Le droit de faire ce que la loi autorise, dans le respect des droits des autres.
 
 **Réponse correcte : D — Le droit de faire ce que la loi autorise, dans le respect des droits des autres.**
@@ -238562,7 +238562,7 @@ La création d'entreprise est ouverte aux personnes étrangères en situation r�
 ## SCR_CORR_DETAIL_NAT_V05_Q33_LAST
 ### 📘 Votre erreur — Question 33
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -238583,7 +238583,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 ## SCR_CORR_DETAIL_NAT_V05_Q34_LAST
 ### 📘 Votre erreur — Question 34
 
-Regardant les infos avec votre père, il confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
+Lorsque vous regardez les infos avec votre père, celui-ci confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
 
 **Qui dirige l'action du gouvernement au quotidien ?**
 
@@ -241440,7 +241440,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 ## SCR_CORR_DETAIL_NAT_V06_Q02
 ### 📘 Votre erreur — Question 2
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 A. Le maire.
 B. Le président du conseil départemental.
@@ -241779,7 +241779,7 @@ En France, les femmes disposent des mêmes droits que les hommes pour créer une
 
 A. Le Code du travail et les conventions collectives.
 B. Le Code de la route.
-C. La Code pénal.
+C. Le Code pénal.
 D. Le règlement intérieur uniquement.
 
 **Réponse correcte : A — Le Code du travail et les conventions collectives.**
@@ -241875,7 +241875,7 @@ La liberté de conscience garantit à chacun le droit de croire, de changer de r
 A. L'État interdit les religions.
 B. L'État ne favorise ni ne défavorise aucune religion.
 C. L'État finance toutes les religions.
-D. L'Etat choisit une religion officielle.
+D. L'État choisit une religion officielle.
 
 **Réponse correcte : A — L'État interdit les religions.**
 
@@ -242222,7 +242222,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 ## SCR_CORR_DETAIL_NAT_V06_Q02_LAST
 ### 📘 Votre erreur — Question 2
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 A. Le maire.
 B. Le président du conseil départemental.
@@ -242561,7 +242561,7 @@ En France, les femmes disposent des mêmes droits que les hommes pour créer une
 
 A. Le Code du travail et les conventions collectives.
 B. Le Code de la route.
-C. La Code pénal.
+C. Le Code pénal.
 D. Le règlement intérieur uniquement.
 
 **Réponse correcte : A — Le Code du travail et les conventions collectives.**
@@ -242657,7 +242657,7 @@ La liberté de conscience garantit à chacun le droit de croire, de changer de r
 A. L'État interdit les religions.
 B. L'État ne favorise ni ne défavorise aucune religion.
 C. L'État finance toutes les religions.
-D. L'Etat choisit une religion officielle.
+D. L'État choisit une religion officielle.
 
 **Réponse correcte : A — L'État interdit les religions.**
 
@@ -250204,16 +250204,16 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 ## SCR_CORR_DETAIL_NAT_V08_Q17
 ### 📘 Votre erreur — Question 17
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-A. Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.
+A. Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.
 B. Oui, cela dépend des lois inscrites par les pays membres.
 C. Oui cela est possible grâce à la citoyenneté européenne.
-D. Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.
+D. Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_NAT_V08_Q17)
 1. [📘 Union européenne](SCR_GLO_0133)
@@ -250476,7 +250476,7 @@ En France, la majorité numérique est fixée à 15 ans, depuis le 07 juillet 20
 ## SCR_CORR_DETAIL_NAT_V08_Q31
 ### 📘 Votre erreur — Question 31
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -250609,11 +250609,11 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 A. Liberté, Égalité, Fierté.
-B. Liberté, Egalité, Fraternité.
+B. Liberté, Égalité, Fraternité.
 C. Égalité, Travail, Patrie.
 D. Liberté, Solidarité, Égalité.
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -250992,16 +250992,16 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 ## SCR_CORR_DETAIL_NAT_V08_Q17_LAST
 ### 📘 Votre erreur — Question 17
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-A. Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.
+A. Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.
 B. Oui, cela dépend des lois inscrites par les pays membres.
 C. Oui cela est possible grâce à la citoyenneté européenne.
-D. Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.
+D. Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [📖 Revoir la notion précise](SCR_REV_POINT_NAT_V08_Q17_LAST)
 1. [📘 Union européenne](SCR_GLO_0133)
@@ -251264,7 +251264,7 @@ En France, la majorité numérique est fixée à 15 ans, depuis le 07 juillet 20
 ## SCR_CORR_DETAIL_NAT_V08_Q31_LAST
 ### 📘 Votre erreur — Question 31
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -251397,11 +251397,11 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 A. Liberté, Égalité, Fierté.
-B. Liberté, Egalité, Fraternité.
+B. Liberté, Égalité, Fraternité.
 C. Égalité, Travail, Patrie.
 D. Liberté, Solidarité, Égalité.
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -254736,7 +254736,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 ## SCR_CORR_DETAIL_NAT_V09_Q34
 ### 📘 Votre erreur — Question 34
 
-Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours.. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
+Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
 
 **Comment la Constitution peut-elle être révisée ?**
 
@@ -254799,7 +254799,7 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 ## SCR_CORR_DETAIL_NAT_V09_Q37
 ### 📘 Votre erreur — Question 37
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -255536,7 +255536,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 ## SCR_CORR_DETAIL_NAT_V09_Q34_LAST
 ### 📘 Votre erreur — Question 34
 
-Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours.. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
+Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
 
 **Comment la Constitution peut-elle être révisée ?**
 
@@ -255599,7 +255599,7 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 ## SCR_CORR_DETAIL_NAT_V09_Q37_LAST
 ### 📘 Votre erreur — Question 37
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 

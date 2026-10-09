@@ -238,5 +238,16 @@
     "longitude": 5.783079,
     "score": 0.4074520779220779,
     "updated_at": "2026-10-04T09:51:29+00:00"
+  },
+  "MONTLUEL": {
+    "code_centre": "MONTLUEL",
+    "ville": "Montluel",
+    "query": "Montluel 01120",
+    "label": "Montluel (repère communal)",
+    "latitude": 45.8868,
+    "longitude": 5.0185,
+    "source": "https://geo.api.gouv.fr/communes",
+    "precision": "commune",
+    "updated_at": "2026-10-09"
   }
 }

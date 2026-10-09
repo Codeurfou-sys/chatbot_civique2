@@ -326,7 +326,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V01_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V01_Q04_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V01_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V01_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V01_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -961,7 +961,7 @@ L'école publique est un lieu où tous les élèves apprennent ensemble, quelles
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V02_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V02_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V02_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V02_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V02_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1063,7 +1063,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](ENT_CSP_T1_Q_DIF_V02_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](ENT_CSP_T1_Q_DIF_V02_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](ENT_CSP_T1_Q_DIF_V02_Q07_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_DIF_V02_Q07_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_DIF_V02_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1443,7 +1443,7 @@ La loi du 9 décembre 1905 garantit la séparation des Églises et de l'État. E
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V03_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V03_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V03_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V03_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V03_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1644,7 +1644,7 @@ Les symboles de la République représentent l'identité de la France et ses val
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_T1_Q_DIF_V03_Q07_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_T1_Q_DIF_V03_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_T1_Q_DIF_V03_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_T1_Q_DIF_V03_Q07_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_T1_Q_DIF_V03_Q07_FAUX)
@@ -2282,7 +2282,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](ENT_CSP_T1_Q_DIF_V04_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](ENT_CSP_T1_Q_DIF_V04_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](ENT_CSP_T1_Q_DIF_V04_Q08_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_DIF_V04_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_DIF_V04_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2662,7 +2662,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V05_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V05_Q04_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V05_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V05_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V05_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3447,7 +3447,7 @@ La liberté de conscience qui protège toutes les convictions, religieuses ou no
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_T1_Q_DIF_V06_Q08_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_T1_Q_DIF_V06_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_T1_Q_DIF_V06_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_T1_Q_DIF_V06_Q08_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_T1_Q_DIF_V06_Q08_FAUX)
@@ -3779,7 +3779,7 @@ La loi du 9 décembre 1905 garantit la séparation des Églises et de l'État. E
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](ENT_CSP_T1_Q_DIF_V07_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](ENT_CSP_T1_Q_DIF_V07_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](ENT_CSP_T1_Q_DIF_V07_Q03_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_DIF_V07_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_DIF_V07_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3983,7 +3983,7 @@ L'école publique est un lieu où tous les élèves apprennent ensemble, quelles
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V07_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V07_Q07_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V07_Q07_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V07_Q07_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V07_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4567,7 +4567,7 @@ La République garantit la liberté de conscience tout en imposant l'instruction
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V08_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V08_Q07_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V08_Q07_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V08_Q07_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V08_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4666,7 +4666,7 @@ Le français est la langue officielle de la République. Il est utilisé dans le
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_T1_Q_DIF_V08_Q09_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_T1_Q_DIF_V08_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_T1_Q_DIF_V08_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_T1_Q_DIF_V08_Q09_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_T1_Q_DIF_V08_Q09_FAUX)
@@ -5049,7 +5049,7 @@ La laïcité protège la liberté de conscience. Elle permet à chacun de pratiq
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V09_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V09_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V09_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V09_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V09_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5531,7 +5531,7 @@ La laïcité est l'un des principes fondamentaux de la République française. E
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_DIF_V10_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_DIF_V10_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_DIF_V10_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_DIF_V10_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_DIF_V10_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -12145,7 +12145,7 @@ En France, les libertés sont protégées, mais elles doivent s'exercer dans le 
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V01_Q06)
 
@@ -12160,7 +12160,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V01_Q06)
 
@@ -12525,7 +12525,7 @@ Toute victime de violences doit être protégée. Elle peut contacter la police,
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V02_Q02)
 
@@ -12540,7 +12540,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V02_Q02)
 
@@ -13262,7 +13262,7 @@ Les droits individuels sont protégés en France. Ils s'exercent dans le respect
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V03_Q05)
 
@@ -13277,7 +13277,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V03_Q05)
 
@@ -14101,7 +14101,7 @@ La citoyenneté française donne des droits civiques, notamment le droit de vote
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V04_Q10)
 
@@ -14116,7 +14116,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V04_Q10)
 
@@ -14277,7 +14277,7 @@ La Constitution est la norme juridique la plus élevée en France. Son bloc de c
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V05_Q02)
 
@@ -14292,7 +14292,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V05_Q02)
 
@@ -15218,7 +15218,7 @@ La citoyenneté française donne des droits civiques, notamment le droit de vote
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V06_Q09)
 
@@ -15233,7 +15233,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V06_Q09)
 
@@ -15802,7 +15802,7 @@ La citoyenneté française donne des droits civiques, notamment le droit de vote
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V07_Q09)
 
@@ -15817,7 +15817,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V07_Q09)
 
@@ -16284,7 +16284,7 @@ La liberté d'expression est un droit fondamental reconnu en France. Elle s'exer
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V08_Q07)
 
@@ -16299,7 +16299,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V08_Q07)
 
@@ -16766,7 +16766,7 @@ La liberté d'expression est un droit fondamental reconnu en France. Elle s'exer
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V09_Q05)
 
@@ -16781,7 +16781,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V09_Q05)
 
@@ -17554,7 +17554,7 @@ Réduire ses déchets permet de protéger les ressources naturelles et de limite
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V10_Q09)
 
@@ -17569,7 +17569,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_DIF_V10_Q09)
 
@@ -23728,7 +23728,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V01_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V01_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V01_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V01_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V01_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -23881,7 +23881,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V01_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V01_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V01_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V01_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V01_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -24312,7 +24312,7 @@ En France, la durée légale du travail est fixée à 35 heures par semaine pour
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V02_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V02_Q02_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V02_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V02_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V02_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -24465,7 +24465,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V02_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V02_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V02_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V02_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V02_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -24947,7 +24947,7 @@ En France, la durée légale du travail est fixée à 35 heures par semaine pour
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V03_Q03_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V03_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V03_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V03_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V03_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -24998,7 +24998,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V03_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V03_Q04_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V03_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V03_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V03_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -25582,7 +25582,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V04_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V04_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V04_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V04_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V04_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -25684,7 +25684,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V04_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V04_Q06_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V04_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V04_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V04_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -26166,7 +26166,7 @@ En France, un employeur ne peut pas fixer un salaire inférieur au salaire minim
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V05_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V05_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V05_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V05_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V05_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -26217,7 +26217,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V05_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V05_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V05_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V05_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V05_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -26648,7 +26648,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V06_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V06_Q02_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V06_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V06_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V06_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -26801,7 +26801,7 @@ En France, la durée légale du travail est fixée à 35 heures par semaine pour
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V06_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V06_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V06_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V06_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V06_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -27181,7 +27181,7 @@ Le travail non déclaré est interdit. Il prive notamment le salarié de ses dro
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V07_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V07_Q01_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V07_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V07_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V07_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -27232,7 +27232,7 @@ La mutuelle santé, aussi appelée complémentaire santé, rembourse tout ou par
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V07_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V07_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V07_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V07_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V07_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -27816,7 +27816,7 @@ En France, seul le mariage civil célébré à la mairie par un officier d'état
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V08_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V08_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V08_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V08_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V08_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -27918,7 +27918,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V08_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V08_Q04_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V08_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V08_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V08_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -28451,7 +28451,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V09_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V09_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V09_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V09_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V09_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -28553,7 +28553,7 @@ En France, seul le mariage civil célébré à la mairie par un officier d'état
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V09_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V09_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V09_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V09_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V09_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -28933,7 +28933,7 @@ La naissance d'un enfant doit être déclarée à la mairie dans les cinq jours 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V10_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_DIF_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_DIF_V10_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_DIF_V10_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_DIF_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -29188,7 +29188,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_DIF_V10_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_DIF_V10_Q06_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_DIF_V10_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V10_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_DIF_V10_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -30290,7 +30290,7 @@ La Marseillaise est l'hymne national français depuis la Révolution française.
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](ENT_CSP_T1_Q_V02_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](ENT_CSP_T1_Q_V02_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](ENT_CSP_T1_Q_V02_Q04_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_V02_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_V02_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -30392,7 +30392,7 @@ La Marseillaise est l'hymne national français. Elle fait partie des symboles of
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_V02_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_V02_Q06_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_V02_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_V02_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_V02_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -30719,7 +30719,7 @@ Le drapeau tricolore est l'un des principaux symboles officiels de la Républiqu
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](ENT_CSP_T1_Q_V03_Q01_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](ENT_CSP_T1_Q_V03_Q01_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](ENT_CSP_T1_Q_V03_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](ENT_CSP_T1_Q_V03_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](ENT_CSP_T1_Q_V03_Q01_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -31126,7 +31126,7 @@ La liberté de conscience qui protège toutes les convictions, religieuses ou no
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_T1_Q_V03_Q09_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_T1_Q_V03_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_T1_Q_V03_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_T1_Q_V03_Q09_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_T1_Q_V03_Q09_FAUX)
@@ -31321,7 +31321,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [➡️ Question suivante](ENT_CSP_T1_Q_V04_Q02)
 
@@ -31336,7 +31336,7 @@ L'article 2 de la Constitution précise que « la langue de la République est l
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [➡️ Question suivante](ENT_CSP_T1_Q_V04_Q02)
 
@@ -31457,7 +31457,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](ENT_CSP_T1_Q_V04_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_Q_V04_Q04_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](ENT_CSP_T1_Q_V04_Q04_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](ENT_CSP_T1_Q_V04_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](ENT_CSP_T1_Q_V04_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -32473,7 +32473,7 @@ La Marseillaise est l'hymne national français depuis la Révolution française.
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](ENT_CSP_T1_Q_V06_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](ENT_CSP_T1_Q_V06_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](ENT_CSP_T1_Q_V06_Q01_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_V06_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_V06_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -32575,7 +32575,7 @@ La Marseillaise est l'hymne national français. Elle fait partie des symboles of
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_V06_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_V06_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_V06_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_V06_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_V06_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -32828,7 +32828,7 @@ Le drapeau tricolore est l'un des principaux symboles officiels de la Républiqu
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](ENT_CSP_T1_Q_V06_Q08_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](ENT_CSP_T1_Q_V06_Q08_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](ENT_CSP_T1_Q_V06_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](ENT_CSP_T1_Q_V06_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](ENT_CSP_T1_Q_V06_Q08_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -33309,7 +33309,7 @@ La liberté de conscience qui protège toutes les convictions, religieuses ou no
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_T1_Q_V07_Q06_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_T1_Q_V07_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_T1_Q_V07_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_T1_Q_V07_Q06_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_T1_Q_V07_Q06_FAUX)
@@ -33430,7 +33430,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [➡️ Question suivante](ENT_CSP_T1_Q_V07_Q09)
 
@@ -33445,7 +33445,7 @@ L'article 2 de la Constitution précise que « la langue de la République est l
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [➡️ Question suivante](ENT_CSP_T1_Q_V07_Q09)
 
@@ -33640,7 +33640,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](ENT_CSP_T1_Q_V08_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_Q_V08_Q01_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](ENT_CSP_T1_Q_V08_Q01_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](ENT_CSP_T1_Q_V08_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](ENT_CSP_T1_Q_V08_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -34582,7 +34582,7 @@ La Marseillaise est l'hymne national français depuis la Révolution française.
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](ENT_CSP_T1_Q_V09_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](ENT_CSP_T1_Q_V09_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](ENT_CSP_T1_Q_V09_Q08_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_V09_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](ENT_CSP_T1_Q_V09_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -34684,7 +34684,7 @@ La Marseillaise est l'hymne national français. Elle fait partie des symboles of
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_T1_Q_V09_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_T1_Q_V09_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_T1_Q_V09_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_T1_Q_V09_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_T1_Q_V09_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -35011,7 +35011,7 @@ Le drapeau tricolore est l'un des principaux symboles officiels de la Républiqu
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](ENT_CSP_T1_Q_V10_Q05_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](ENT_CSP_T1_Q_V10_Q05_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](ENT_CSP_T1_Q_V10_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](ENT_CSP_T1_Q_V10_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](ENT_CSP_T1_Q_V10_Q05_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -35802,7 +35802,7 @@ Depuis le retrait du Royaume-Uni, l'Union européenne compte 27 États membres.
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_T2_Q_V01_Q09)
 
@@ -35817,7 +35817,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_T2_Q_V01_Q09)
 
@@ -36216,7 +36216,7 @@ L'autorité judiciaire est chargée de trancher les litiges, de protéger les li
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](ENT_CSP_T2_Q_V02_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](ENT_CSP_T2_Q_V02_Q05_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](ENT_CSP_T2_Q_V02_Q05_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](ENT_CSP_T2_Q_V02_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](ENT_CSP_T2_Q_V02_Q05_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -37436,7 +37436,7 @@ Le maire est le responsable de la commune. Il met en œuvre les décisions du co
 1. [<span class="qcm-letter">A</span> Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](ENT_CSP_T2_Q_V04_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire](ENT_CSP_T2_Q_V04_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.](ENT_CSP_T2_Q_V04_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.](ENT_CSP_T2_Q_V04_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.](ENT_CSP_T2_Q_V04_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -38467,7 +38467,7 @@ Depuis le retrait du Royaume-Uni, l'Union européenne compte 27 États membres.
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_T2_Q_V06_Q04)
 
@@ -38482,7 +38482,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_T2_Q_V06_Q04)
 
@@ -38807,7 +38807,7 @@ L'autorité judiciaire est chargée de trancher les litiges, de protéger les li
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](ENT_CSP_T2_Q_V06_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](ENT_CSP_T2_Q_V06_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](ENT_CSP_T2_Q_V06_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](ENT_CSP_T2_Q_V06_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](ENT_CSP_T2_Q_V06_Q10_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -40101,7 +40101,7 @@ Le maire est le responsable de la commune. Il met en œuvre les décisions du co
 1. [<span class="qcm-letter">A</span> Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](ENT_CSP_T2_Q_V09_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire](ENT_CSP_T2_Q_V09_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.](ENT_CSP_T2_Q_V09_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.](ENT_CSP_T2_Q_V09_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.](ENT_CSP_T2_Q_V09_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -41058,7 +41058,7 @@ Depuis le retrait du Royaume-Uni, l'Union européenne compte 27 États membres.
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_T2_Q_V10_Q09)
 
@@ -41073,7 +41073,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_T2_Q_V10_Q09)
 
@@ -42211,7 +42211,7 @@ La liberté de conscience est un principe fondamental de la République. Elle pr
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_V02_Q08)
 
@@ -42226,7 +42226,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_V02_Q08)
 
@@ -43963,7 +43963,7 @@ La liberté de conscience est un principe fondamental de la République. Elle pr
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_V05_Q08)
 
@@ -43978,7 +43978,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_V05_Q08)
 
@@ -45715,7 +45715,7 @@ La liberté de conscience est un principe fondamental de la République. Elle pr
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_V08_Q08)
 
@@ -45730,7 +45730,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_T3_Q_V08_Q08)
 
@@ -47485,7 +47485,7 @@ Jean de La Fontaine (1621-1695) est un écrivain et poète français. Ses fables
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_T4_Q_V01_Q07_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_T4_Q_V01_Q07_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_T4_Q_V01_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_T4_Q_V01_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_T4_Q_V01_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -48189,7 +48189,7 @@ La France est aujourd'hui sous la Ve République, instaurée en 1958 avec la Con
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [➡️ Question suivante](ENT_CSP_T4_Q_V02_Q10)
 
@@ -48204,7 +48204,7 @@ La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [➡️ Question suivante](ENT_CSP_T4_Q_V02_Q10)
 
@@ -48516,7 +48516,7 @@ La France possède plusieurs grands fleuves qui traversent son territoire. Les p
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -48531,7 +48531,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -50252,7 +50252,7 @@ Jean de La Fontaine (1621-1695) est un écrivain et poète français. Ses fables
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_T4_Q_V06_Q04_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_T4_Q_V06_Q04_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_T4_Q_V06_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_T4_Q_V06_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_T4_Q_V06_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -50956,7 +50956,7 @@ La France est aujourd'hui sous la Ve République, instaurée en 1958 avec la Con
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [➡️ Question suivante](ENT_CSP_T4_Q_V07_Q07)
 
@@ -50971,7 +50971,7 @@ La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [➡️ Question suivante](ENT_CSP_T4_Q_V07_Q07)
 
@@ -51283,7 +51283,7 @@ La France possède plusieurs grands fleuves qui traversent son territoire. Les p
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -51298,7 +51298,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -53073,7 +53073,7 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V01_Q02)
 
@@ -53088,7 +53088,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V01_Q02)
 
@@ -53210,7 +53210,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi et propose 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_V01_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_V01_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_V01_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_V01_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_V01_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -54429,7 +54429,7 @@ Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_V03_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_V03_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_V03_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_V03_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_V03_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -54825,7 +54825,7 @@ Le médecin traitant est l'interlocuteur privilégié pour assurer le suivi méd
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V04_Q02)
 
@@ -54840,7 +54840,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V04_Q02)
 
@@ -54962,7 +54962,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi et propose 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_V04_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_V04_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_V04_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_V04_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_V04_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -56181,7 +56181,7 @@ Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_V06_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_V06_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_V06_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_V06_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_V06_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -56577,7 +56577,7 @@ Le médecin traitant est l'interlocuteur privilégié pour assurer le suivi méd
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V07_Q02)
 
@@ -56592,7 +56592,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V07_Q02)
 
@@ -56714,7 +56714,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi et propose 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_V07_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_V07_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_V07_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_V07_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_V07_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -57933,7 +57933,7 @@ Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_T5_Q_V09_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_T5_Q_V09_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_T5_Q_V09_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_V09_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_T5_Q_V09_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -58329,7 +58329,7 @@ Le médecin traitant est l'interlocuteur privilégié pour assurer le suivi méd
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V10_Q02)
 
@@ -58344,7 +58344,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_T5_Q_V10_Q02)
 
@@ -58466,7 +58466,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi et propose 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_Q_V10_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_T5_Q_V10_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_Q_V10_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_Q_V10_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_Q_V10_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -59845,7 +59845,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 1. [<span class="qcm-letter">A</span> Fédérale.](ENT_CSP_T1_MIS_V02_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Catholique.](ENT_CSP_T1_MIS_V02_Q08_FAUX)
-1. [<span class="qcm-letter">C</span> Egalitaire.](ENT_CSP_T1_MIS_V02_Q08_FAUX)
+1. [<span class="qcm-letter">C</span> Égalitaire.](ENT_CSP_T1_MIS_V02_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Laïque.](ENT_CSP_T1_MIS_V02_Q08_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -60102,7 +60102,7 @@ La République garantit la liberté de conscience tout en imposant l'instruction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V03_Q02
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V03_Q02"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V03_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -60115,7 +60115,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_T1_MIS_V03_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_T1_MIS_V03_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_T1_MIS_V03_Q02_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_T1_MIS_V03_Q02_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_T1_MIS_V03_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -60128,7 +60128,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -60138,10 +60138,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V03_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -60214,7 +60214,7 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [<span class="qcm-letter">A</span> Cette devise devrait être inscrite uniquement sur les passeports.](ENT_CSP_T1_MIS_V03_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Cette devise devrait être inscrite uniquement sur le Parlement et le Sénat.](ENT_CSP_T1_MIS_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Cette devise peut être inscrite sur tous les bâtiments publics.](ENT_CSP_T1_MIS_V03_Q04_VRAI)
-1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Elysée et Matignon.](ENT_CSP_T1_MIS_V03_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Élysée et Matignon.](ENT_CSP_T1_MIS_V03_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -60827,7 +60827,7 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 1. [<span class="qcm-letter">A</span> Jeanne d'Arc.](ENT_CSP_T1_MIS_V04_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> Marianne.](ENT_CSP_T1_MIS_V04_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> Madeleine la femme de Napoléon.](ENT_CSP_T1_MIS_V04_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Edith Cresson la première femme 1er ministre.](ENT_CSP_T1_MIS_V04_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Édith Cresson la première femme 1er ministre.](ENT_CSP_T1_MIS_V04_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -61905,7 +61905,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 1. [<span class="qcm-letter">A</span> Fédérale.](ENT_CSP_T1_MIS_V06_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Catholique.](ENT_CSP_T1_MIS_V06_Q04_FAUX)
-1. [<span class="qcm-letter">C</span> Egalitaire.](ENT_CSP_T1_MIS_V06_Q04_FAUX)
+1. [<span class="qcm-letter">C</span> Égalitaire.](ENT_CSP_T1_MIS_V06_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Laïque.](ENT_CSP_T1_MIS_V06_Q04_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -62088,7 +62088,7 @@ La République garantit la liberté de conscience tout en imposant l'instruction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V06_Q08
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V06_Q08"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V06_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
@@ -62101,7 +62101,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_T1_MIS_V06_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_T1_MIS_V06_Q08_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_T1_MIS_V06_Q08_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_T1_MIS_V06_Q08_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_T1_MIS_V06_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -62114,7 +62114,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -62124,10 +62124,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V06_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -62200,7 +62200,7 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [<span class="qcm-letter">A</span> Cette devise devrait être inscrite uniquement sur les passeports.](ENT_CSP_T1_MIS_V06_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Cette devise devrait être inscrite uniquement sur le Parlement et le Sénat.](ENT_CSP_T1_MIS_V06_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Cette devise peut être inscrite sur tous les bâtiments publics.](ENT_CSP_T1_MIS_V06_Q10_VRAI)
-1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Elysée et Matignon.](ENT_CSP_T1_MIS_V06_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Élysée et Matignon.](ENT_CSP_T1_MIS_V06_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -62887,7 +62887,7 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 1. [<span class="qcm-letter">A</span> Jeanne d'Arc.](ENT_CSP_T1_MIS_V08_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Marianne.](ENT_CSP_T1_MIS_V08_Q01_VRAI)
 1. [<span class="qcm-letter">C</span> Madeleine la femme de Napoléon.](ENT_CSP_T1_MIS_V08_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Edith Cresson la première femme 1er ministre.](ENT_CSP_T1_MIS_V08_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Édith Cresson la première femme 1er ministre.](ENT_CSP_T1_MIS_V08_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -63891,7 +63891,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 1. [<span class="qcm-letter">A</span> Fédérale.](ENT_CSP_T1_MIS_V09_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Catholique.](ENT_CSP_T1_MIS_V09_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> Egalitaire.](ENT_CSP_T1_MIS_V09_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Égalitaire.](ENT_CSP_T1_MIS_V09_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Laïque.](ENT_CSP_T1_MIS_V09_Q10_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -64148,7 +64148,7 @@ La République garantit la liberté de conscience tout en imposant l'instruction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V10_Q04
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V10_Q04"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V10_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
@@ -64161,7 +64161,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_T1_MIS_V10_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_T1_MIS_V10_Q04_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_T1_MIS_V10_Q04_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_T1_MIS_V10_Q04_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_T1_MIS_V10_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -64174,7 +64174,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -64184,10 +64184,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V10_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -64260,7 +64260,7 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [<span class="qcm-letter">A</span> Cette devise devrait être inscrite uniquement sur les passeports.](ENT_CSP_T1_MIS_V10_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> Cette devise devrait être inscrite uniquement sur le Parlement et le Sénat.](ENT_CSP_T1_MIS_V10_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Cette devise peut être inscrite sur tous les bâtiments publics.](ENT_CSP_T1_MIS_V10_Q06_VRAI)
-1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Elysée et Matignon.](ENT_CSP_T1_MIS_V10_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Élysée et Matignon.](ENT_CSP_T1_MIS_V10_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -64752,7 +64752,7 @@ Les députés européens sont élus au suffrage universel direct par les citoyen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V01_Q04
-<span hidden data-civi-question="81be86f9fa225f90" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V01_Q04"></span>
+<span hidden data-civi-question="68194f1e438ef1c9" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V01_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
@@ -64766,7 +64766,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [<span class="qcm-letter">A</span> Avoir une carte d'identité nationale française.](ENT_CSP_T2_MIS_V01_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Être propriétaire.](ENT_CSP_T2_MIS_V01_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Être salarié.](ENT_CSP_T2_MIS_V01_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un Etat membre de l'Union européenne.](ENT_CSP_T2_MIS_V01_Q04_VRAI)
+1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un État membre de l'Union européenne.](ENT_CSP_T2_MIS_V01_Q04_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -64778,9 +64778,9 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V01_Q05)
 
@@ -64788,12 +64788,12 @@ Pour voter aux élections européennes en France, il faut notamment être inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V01_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|81be86f9fa225f90|")`
+`@entMistakes = calc((@entMistakes || "")+"|68194f1e438ef1c9|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V01_Q05)
 
@@ -65365,14 +65365,14 @@ L'article 4 de la Constitution précise que les partis et groupements politiques
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V02_Q05
-<span hidden data-civi-question="5ba369de2c0c26a3" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V02_Q05"></span>
+<span hidden data-civi-question="bb601067bebe52db" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V02_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
 
 <!-- Source csp : MS-CSP-T2-009 -->
 
-Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
+Votre enfant prépare un exposé sur l'État français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
 
 **Que lui répondez-vous ?**
 
@@ -65401,7 +65401,7 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V02_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5ba369de2c0c26a3|")`
+`@entMistakes = calc((@entMistakes || "")+"|bb601067bebe52db|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les juges.**
@@ -65540,7 +65540,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V02_Q09)
 
@@ -65553,7 +65553,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V02_Q09)
 
@@ -65761,7 +65761,7 @@ Lors d'un cours de formation civique, votre formateur vous demande qui possède 
 
 **Réponse correcte : D — Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V03_Q02)
 
@@ -65774,7 +65774,7 @@ Le pouvoir exécutif est exercé conjointement par le président de la Républiq
 
 **Réponse correcte : D — Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V03_Q02)
 
@@ -66125,7 +66125,7 @@ La séparation des pouvoirs permet d'éviter qu'une seule personne ou une seule 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V03_Q09
-<span hidden data-civi-question="c005e4dd95f453e5" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V03_Q09"></span>
+<span hidden data-civi-question="fe6ae03e7041872b" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V03_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
@@ -66137,7 +66137,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 1. [<span class="qcm-letter">A</span> Un préfet est un maire qui gère plusieurs communes.](ENT_CSP_T2_MIS_V03_Q09_FAUX)
-1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.](ENT_CSP_T2_MIS_V03_Q09_VRAI)
+1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.](ENT_CSP_T2_MIS_V03_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Un préfet gère les budgets des villes.](ENT_CSP_T2_MIS_V03_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Un préfet élit les maires qui représenteront les villes sur son département.](ENT_CSP_T2_MIS_V03_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
@@ -66151,7 +66151,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -66161,10 +66161,10 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V03_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c005e4dd95f453e5|")`
+`@entMistakes = calc((@entMistakes || "")+"|fe6ae03e7041872b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -66507,7 +66507,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 1. [<span class="qcm-letter">A</span> Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.](ENT_CSP_T2_MIS_V04_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> Oui, il décide de tout.](ENT_CSP_T2_MIS_V04_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Oui, il peut modifier seul les lois.](ENT_CSP_T2_MIS_V04_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'Etat.](ENT_CSP_T2_MIS_V04_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'État.](ENT_CSP_T2_MIS_V04_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -67204,7 +67204,7 @@ Les députés européens sont élus au suffrage universel direct par les citoyen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V05_Q08
-<span hidden data-civi-question="81be86f9fa225f90" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V05_Q08"></span>
+<span hidden data-civi-question="68194f1e438ef1c9" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V05_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
@@ -67218,7 +67218,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [<span class="qcm-letter">A</span> Avoir une carte d'identité nationale française.](ENT_CSP_T2_MIS_V05_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Être propriétaire.](ENT_CSP_T2_MIS_V05_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Être salarié.](ENT_CSP_T2_MIS_V05_Q08_FAUX)
-1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un Etat membre de l'Union européenne.](ENT_CSP_T2_MIS_V05_Q08_VRAI)
+1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un État membre de l'Union européenne.](ENT_CSP_T2_MIS_V05_Q08_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -67230,9 +67230,9 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V05_Q09)
 
@@ -67240,12 +67240,12 @@ Pour voter aux élections européennes en France, il faut notamment être inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V05_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|81be86f9fa225f90|")`
+`@entMistakes = calc((@entMistakes || "")+"|68194f1e438ef1c9|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V05_Q09)
 
@@ -67817,14 +67817,14 @@ L'article 4 de la Constitution précise que les partis et groupements politiques
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V06_Q09
-<span hidden data-civi-question="5ba369de2c0c26a3" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V06_Q09"></span>
+<span hidden data-civi-question="bb601067bebe52db" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V06_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source csp : MS-CSP-T2-009 -->
 
-Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
+Votre enfant prépare un exposé sur l'État français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
 
 **Que lui répondez-vous ?**
 
@@ -67853,7 +67853,7 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V06_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5ba369de2c0c26a3|")`
+`@entMistakes = calc((@entMistakes || "")+"|bb601067bebe52db|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les juges.**
@@ -68066,7 +68066,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V07_Q03)
 
@@ -68079,7 +68079,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V07_Q03)
 
@@ -68213,7 +68213,7 @@ Lors d'un cours de formation civique, votre formateur vous demande qui possède 
 
 **Réponse correcte : D — Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V07_Q06)
 
@@ -68226,7 +68226,7 @@ Le pouvoir exécutif est exercé conjointement par le président de la Républiq
 
 **Réponse correcte : D — Le président de la République et le gouvernement.**
 
-Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'Etat.
+Le pouvoir exécutif est exercé conjointement par le président de la République et le gouvernement composé du 1er ministre, des ministres et des secrétaires d'État.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V07_Q06)
 
@@ -68651,7 +68651,7 @@ La séparation des pouvoirs permet d'éviter qu'une seule personne ou une seule 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V08_Q03
-<span hidden data-civi-question="c005e4dd95f453e5" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V08_Q03"></span>
+<span hidden data-civi-question="fe6ae03e7041872b" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V08_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
@@ -68663,7 +68663,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 1. [<span class="qcm-letter">A</span> Un préfet est un maire qui gère plusieurs communes.](ENT_CSP_T2_MIS_V08_Q03_FAUX)
-1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.](ENT_CSP_T2_MIS_V08_Q03_VRAI)
+1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.](ENT_CSP_T2_MIS_V08_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> Un préfet gère les budgets des villes.](ENT_CSP_T2_MIS_V08_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Un préfet élit les maires qui représenteront les villes sur son département.](ENT_CSP_T2_MIS_V08_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
@@ -68677,7 +68677,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -68687,10 +68687,10 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V08_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c005e4dd95f453e5|")`
+`@entMistakes = calc((@entMistakes || "")+"|fe6ae03e7041872b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -68959,7 +68959,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 1. [<span class="qcm-letter">A</span> Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.](ENT_CSP_T2_MIS_V08_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> Oui, il décide de tout.](ENT_CSP_T2_MIS_V08_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Oui, il peut modifier seul les lois.](ENT_CSP_T2_MIS_V08_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'Etat.](ENT_CSP_T2_MIS_V08_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'État.](ENT_CSP_T2_MIS_V08_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -69730,7 +69730,7 @@ Les députés européens sont élus au suffrage universel direct par les citoyen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V10_Q02
-<span hidden data-civi-question="81be86f9fa225f90" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V10_Q02"></span>
+<span hidden data-civi-question="68194f1e438ef1c9" data-kind="entrainement" data-screen="ENT_CSP_T2_MIS_V10_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -69744,7 +69744,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [<span class="qcm-letter">A</span> Avoir une carte d'identité nationale française.](ENT_CSP_T2_MIS_V10_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Être propriétaire.](ENT_CSP_T2_MIS_V10_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Être salarié.](ENT_CSP_T2_MIS_V10_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un Etat membre de l'Union européenne.](ENT_CSP_T2_MIS_V10_Q02_VRAI)
+1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un État membre de l'Union européenne.](ENT_CSP_T2_MIS_V10_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -69756,9 +69756,9 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V10_Q03)
 
@@ -69766,12 +69766,12 @@ Pour voter aux élections européennes en France, il faut notamment être inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T2_MIS_V10_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|81be86f9fa225f90|")`
+`@entMistakes = calc((@entMistakes || "")+"|68194f1e438ef1c9|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_T2_MIS_V10_Q03)
 
@@ -71707,7 +71707,7 @@ Les droits de la défense permettent à chacun de connaître les accusations por
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T3_MIS_V03_Q07
-<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="entrainement" data-screen="ENT_CSP_T3_MIS_V03_Q07"></span>
+<span hidden data-civi-question="ce344aba5253f19f" data-kind="entrainement" data-screen="ENT_CSP_T3_MIS_V03_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -71720,7 +71720,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 1. [<span class="qcm-letter">A</span> La police juge les personnes.](ENT_CSP_T3_MIS_V03_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> La police arrête les voleurs.](ENT_CSP_T3_MIS_V03_Q07_FAUX)
-1. [<span class="qcm-letter">C</span> La police protége les personnes et les biens et fait respecter la loi.](ENT_CSP_T3_MIS_V03_Q07_VRAI)
+1. [<span class="qcm-letter">C</span> La police protège les personnes et les biens et fait respecter la loi.](ENT_CSP_T3_MIS_V03_Q07_VRAI)
 1. [<span class="qcm-letter">D</span> La police encadre les évènements sportifs ou associatifs.](ENT_CSP_T3_MIS_V03_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -71733,7 +71733,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -71743,10 +71743,10 @@ La Police nationale prévient les infractions, protège la population et fait re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T3_MIS_V03_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d68b5ed1122f8d33|")`
+`@entMistakes = calc((@entMistakes || "")+"|ce344aba5253f19f|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -73399,7 +73399,7 @@ Les droits de la défense permettent à chacun de connaître les accusations por
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T3_MIS_V06_Q07
-<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="entrainement" data-screen="ENT_CSP_T3_MIS_V06_Q07"></span>
+<span hidden data-civi-question="ce344aba5253f19f" data-kind="entrainement" data-screen="ENT_CSP_T3_MIS_V06_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -73412,7 +73412,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 1. [<span class="qcm-letter">A</span> La police juge les personnes.](ENT_CSP_T3_MIS_V06_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> La police arrête les voleurs.](ENT_CSP_T3_MIS_V06_Q07_FAUX)
-1. [<span class="qcm-letter">C</span> La police protége les personnes et les biens et fait respecter la loi.](ENT_CSP_T3_MIS_V06_Q07_VRAI)
+1. [<span class="qcm-letter">C</span> La police protège les personnes et les biens et fait respecter la loi.](ENT_CSP_T3_MIS_V06_Q07_VRAI)
 1. [<span class="qcm-letter">D</span> La police encadre les évènements sportifs ou associatifs.](ENT_CSP_T3_MIS_V06_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -73425,7 +73425,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -73435,10 +73435,10 @@ La Police nationale prévient les infractions, protège la population et fait re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T3_MIS_V06_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d68b5ed1122f8d33|")`
+`@entMistakes = calc((@entMistakes || "")+"|ce344aba5253f19f|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -75091,7 +75091,7 @@ Les droits de la défense permettent à chacun de connaître les accusations por
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T3_MIS_V09_Q07
-<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="entrainement" data-screen="ENT_CSP_T3_MIS_V09_Q07"></span>
+<span hidden data-civi-question="ce344aba5253f19f" data-kind="entrainement" data-screen="ENT_CSP_T3_MIS_V09_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -75104,7 +75104,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 1. [<span class="qcm-letter">A</span> La police juge les personnes.](ENT_CSP_T3_MIS_V09_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> La police arrête les voleurs.](ENT_CSP_T3_MIS_V09_Q07_FAUX)
-1. [<span class="qcm-letter">C</span> La police protége les personnes et les biens et fait respecter la loi.](ENT_CSP_T3_MIS_V09_Q07_VRAI)
+1. [<span class="qcm-letter">C</span> La police protège les personnes et les biens et fait respecter la loi.](ENT_CSP_T3_MIS_V09_Q07_VRAI)
 1. [<span class="qcm-letter">D</span> La police encadre les évènements sportifs ou associatifs.](ENT_CSP_T3_MIS_V09_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -75117,7 +75117,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -75127,10 +75127,10 @@ La Police nationale prévient les infractions, protège la population et fait re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T3_MIS_V09_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d68b5ed1122f8d33|")`
+`@entMistakes = calc((@entMistakes || "")+"|ce344aba5253f19f|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -77240,18 +77240,18 @@ Napoléon Bonaparte devient Napoléon Ier en 1804. Il marque profondément l'his
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V03_Q04
-<span hidden data-civi-question="29a1459954a5559a" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V03_Q04"></span>
+<span hidden data-civi-question="4358ab8e5bc200df" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V03_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source csp : MS-CSP-T4-018 -->
 
-Un collègue étranger venu pour visiter votre usine de bois, a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
+Un collègue étranger venu pour visiter votre usine de bois a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
 
 **Que lui répondez-vous ?**
 
-1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1er guerre mondiale, donc un jour férié en France.](ENT_CSP_T4_MIS_V03_Q04_FAUX)
+1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1re guerre mondiale, donc un jour férié en France.](ENT_CSP_T4_MIS_V03_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> C'est l'armistice de la 2e guerre mondiale, donc un jour férié en France.](ENT_CSP_T4_MIS_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> C'est une fête religieuse catholique, donc un jour férié en France.](ENT_CSP_T4_MIS_V03_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> C'est la fête nationale française, donc un jour férié en France.](ENT_CSP_T4_MIS_V03_Q04_VRAI)
@@ -77276,7 +77276,7 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V03_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|29a1459954a5559a|")`
+`@entMistakes = calc((@entMistakes || "")+"|4358ab8e5bc200df|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — C'est la fête nationale française, donc un jour férié en France.**
@@ -77289,14 +77289,14 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V03_Q05
-<span hidden data-civi-question="2db905bff264df99" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V03_Q05"></span>
+<span hidden data-civi-question="5dbb560688ab4995" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V03_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
 
 <!-- Source csp : MS-CSP-T4-038 -->
 
-Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
+Lors d'une partie d'échecs avec une amie, elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
 
 **Que lui répondez-vous ?**
 
@@ -77325,7 +77325,7 @@ Albert Camus est un écrivain et philosophe français, prix Nobel de littératur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V03_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2db905bff264df99|")`
+`@entMistakes = calc((@entMistakes || "")+"|5dbb560688ab4995|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Un écrivain français.**
@@ -77513,7 +77513,7 @@ Un ami a lu un article dans le journal avec les villes les plus attractives pour
 
 **Réponse correcte : C — Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [➡️ Question suivante](ENT_CSP_T4_MIS_V03_Q10)
 
@@ -77526,7 +77526,7 @@ Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'îl
 
 **Réponse correcte : C — Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [➡️ Question suivante](ENT_CSP_T4_MIS_V03_Q10)
 
@@ -79741,18 +79741,18 @@ Napoléon Bonaparte devient Napoléon Ier en 1804. Il marque profondément l'his
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V07_Q09
-<span hidden data-civi-question="29a1459954a5559a" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V07_Q09"></span>
+<span hidden data-civi-question="4358ab8e5bc200df" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V07_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source csp : MS-CSP-T4-018 -->
 
-Un collègue étranger venu pour visiter votre usine de bois, a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
+Un collègue étranger venu pour visiter votre usine de bois a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
 
 **Que lui répondez-vous ?**
 
-1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1er guerre mondiale, donc un jour férié en France.](ENT_CSP_T4_MIS_V07_Q09_FAUX)
+1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1re guerre mondiale, donc un jour férié en France.](ENT_CSP_T4_MIS_V07_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> C'est l'armistice de la 2e guerre mondiale, donc un jour férié en France.](ENT_CSP_T4_MIS_V07_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> C'est une fête religieuse catholique, donc un jour férié en France.](ENT_CSP_T4_MIS_V07_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> C'est la fête nationale française, donc un jour férié en France.](ENT_CSP_T4_MIS_V07_Q09_VRAI)
@@ -79777,7 +79777,7 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V07_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|29a1459954a5559a|")`
+`@entMistakes = calc((@entMistakes || "")+"|4358ab8e5bc200df|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — C'est la fête nationale française, donc un jour férié en France.**
@@ -79790,14 +79790,14 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V07_Q10
-<span hidden data-civi-question="2db905bff264df99" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V07_Q10"></span>
+<span hidden data-civi-question="5dbb560688ab4995" data-kind="entrainement" data-screen="ENT_CSP_T4_MIS_V07_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source csp : MS-CSP-T4-038 -->
 
-Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
+Lors d'une partie d'échecs avec une amie, elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
 
 **Que lui répondez-vous ?**
 
@@ -79826,7 +79826,7 @@ Albert Camus est un écrivain et philosophe français, prix Nobel de littératur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_MIS_V07_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2db905bff264df99|")`
+`@entMistakes = calc((@entMistakes || "")+"|5dbb560688ab4995|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Un écrivain français.**
@@ -80088,7 +80088,7 @@ Un ami a lu un article dans le journal avec les villes les plus attractives pour
 
 **Réponse correcte : C — Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [➡️ Question suivante](ENT_CSP_T4_MIS_V08_Q05)
 
@@ -80101,7 +80101,7 @@ Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'îl
 
 **Réponse correcte : C — Lyon.**
 
-Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux Etats-Unis et Gênes est située en Italie.
+Lyon est la troisième plus grande ville de France. Port-Louis se situe à l'île Maurice, Bâton-Rouge est la capitale de la Louisiane aux États-Unis et Gênes est située en Italie.
 
 1. [➡️ Question suivante](ENT_CSP_T4_MIS_V08_Q05)
 
@@ -82615,7 +82615,7 @@ Amélie, récemment affiliée à la Sécurité sociale reçoit sa carte Vitale s
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_MIS_V02_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer le médecin.](ENT_CSP_T5_MIS_V02_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_MIS_V02_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_MIS_V02_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_MIS_V02_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -83130,7 +83130,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 1. [<span class="qcm-letter">A</span> Guérir toutes les maladies.](ENT_CSP_T5_MIS_V03_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Remplacer les médicaments.](ENT_CSP_T5_MIS_V03_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Protéger la personne vaccinée et la population contre certaines maladies.](ENT_CSP_T5_MIS_V03_Q08_VRAI)
-1. [<span class="qcm-letter">D</span> Eviter d'aller chez un médecin traitant.](ENT_CSP_T5_MIS_V03_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> Éviter d'aller chez un médecin traitant.](ENT_CSP_T5_MIS_V03_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -84307,7 +84307,7 @@ Amélie, récemment affiliée à la Sécurité sociale reçoit sa carte Vitale s
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_MIS_V05_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer le médecin.](ENT_CSP_T5_MIS_V05_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_MIS_V05_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_MIS_V05_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_MIS_V05_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -84822,7 +84822,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 1. [<span class="qcm-letter">A</span> Guérir toutes les maladies.](ENT_CSP_T5_MIS_V06_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Remplacer les médicaments.](ENT_CSP_T5_MIS_V06_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Protéger la personne vaccinée et la population contre certaines maladies.](ENT_CSP_T5_MIS_V06_Q08_VRAI)
-1. [<span class="qcm-letter">D</span> Eviter d'aller chez un médecin traitant.](ENT_CSP_T5_MIS_V06_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> Éviter d'aller chez un médecin traitant.](ENT_CSP_T5_MIS_V06_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -85999,7 +85999,7 @@ Amélie, récemment affiliée à la Sécurité sociale reçoit sa carte Vitale s
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_T5_MIS_V08_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer le médecin.](ENT_CSP_T5_MIS_V08_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_T5_MIS_V08_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_T5_MIS_V08_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_T5_MIS_V08_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -86514,7 +86514,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 1. [<span class="qcm-letter">A</span> Guérir toutes les maladies.](ENT_CSP_T5_MIS_V09_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Remplacer les médicaments.](ENT_CSP_T5_MIS_V09_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Protéger la personne vaccinée et la population contre certaines maladies.](ENT_CSP_T5_MIS_V09_Q08_VRAI)
-1. [<span class="qcm-letter">D</span> Eviter d'aller chez un médecin traitant.](ENT_CSP_T5_MIS_V09_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> Éviter d'aller chez un médecin traitant.](ENT_CSP_T5_MIS_V09_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -87967,7 +87967,7 @@ La laïcité protège la liberté de conscience. Elle permet à chacun de pratiq
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](ENT_CSP_ALL_Q_V02_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_ALL_Q_V02_Q02_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](ENT_CSP_ALL_Q_V02_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](ENT_CSP_ALL_Q_V02_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](ENT_CSP_ALL_Q_V02_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -88325,7 +88325,7 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_ALL_Q_V02_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_ALL_Q_V02_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_ALL_Q_V02_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_ALL_Q_V02_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_ALL_Q_V02_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -88856,7 +88856,7 @@ Napoléon Bonaparte est une figure majeure de l'histoire de France. Les autres p
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_ALL_Q_V03_Q08_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_ALL_Q_V03_Q08_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_ALL_Q_V03_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_ALL_Q_V03_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_ALL_Q_V03_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -89493,7 +89493,7 @@ La Shoah est l'un des plus grands crimes contre l'humanité de l'histoire. Elle 
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_ALL_Q_V04_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_ALL_Q_V04_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_ALL_Q_V04_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_ALL_Q_V04_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_ALL_Q_V04_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -90144,7 +90144,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi et propose 
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [📊 Voir mes résultats](ENT_CSP_ALL_Q_V05_RESULT)
 
@@ -90159,7 +90159,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [📊 Voir mes résultats](ENT_CSP_ALL_Q_V05_RESULT)
 
@@ -90728,7 +90728,7 @@ En règle générale, un mineur peut travailler à partir de 16 ans. Certaines e
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [📊 Voir mes résultats](ENT_CSP_ALL_Q_V06_RESULT)
 
@@ -90743,7 +90743,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [📊 Voir mes résultats](ENT_CSP_ALL_Q_V06_RESULT)
 
@@ -90835,7 +90835,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](ENT_CSP_ALL_Q_V07_Q01_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](ENT_CSP_ALL_Q_V07_Q01_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](ENT_CSP_ALL_Q_V07_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](ENT_CSP_ALL_Q_V07_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](ENT_CSP_ALL_Q_V07_Q01_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -92158,7 +92158,7 @@ Le pouvoir exécutif est chargé de mettre en œuvre les lois votées par le Par
 1. [<span class="qcm-letter">A</span> Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](ENT_CSP_ALL_Q_V09_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire](ENT_CSP_ALL_Q_V09_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.](ENT_CSP_ALL_Q_V09_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.](ENT_CSP_ALL_Q_V09_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.](ENT_CSP_ALL_Q_V09_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -92640,7 +92640,7 @@ La liberté d'expression est une liberté fondamentale. Elle permet à chacun d'
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_ALL_Q_V10_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_ALL_Q_V10_Q02_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_ALL_Q_V10_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_ALL_Q_V10_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_ALL_Q_V10_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -92742,7 +92742,7 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 1. [<span class="qcm-letter">A</span> Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](ENT_CSP_ALL_Q_V10_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire](ENT_CSP_ALL_Q_V10_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.](ENT_CSP_ALL_Q_V10_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.](ENT_CSP_ALL_Q_V10_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.](ENT_CSP_ALL_Q_V10_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -92893,7 +92893,7 @@ Le non-respect de la loi peut entraîner différentes sanctions décidées par l
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_ALL_Q_V10_Q07_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_ALL_Q_V10_Q07_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_ALL_Q_V10_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_ALL_Q_V10_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_ALL_Q_V10_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -93362,7 +93362,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 1. [<span class="qcm-letter">A</span> Non, les pouvoirs sont séparés entre exécutif, législatif et judiciaire.](ENT_CSP_ALL_MIS_V01_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> Oui, il décide de tout.](ENT_CSP_ALL_MIS_V01_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Oui, il peut modifier seul les lois.](ENT_CSP_ALL_MIS_V01_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'Etat.](ENT_CSP_ALL_MIS_V01_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Oui, il a tous les pouvoirs et peut désigner tous les ministres et hauts fonctionnaires de l'État.](ENT_CSP_ALL_MIS_V01_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -93863,14 +93863,14 @@ Le français est la langue officielle de la République. Il est utilisé dans le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V02_Q03
-<span hidden data-civi-question="5ba369de2c0c26a3" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V02_Q03"></span>
+<span hidden data-civi-question="bb601067bebe52db" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V02_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source csp : MS-CSP-T2-009 -->
 
-Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
+Votre enfant prépare un exposé sur l'État français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
 
 **Que lui répondez-vous ?**
 
@@ -93899,7 +93899,7 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V02_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5ba369de2c0c26a3|")`
+`@entMistakes = calc((@entMistakes || "")+"|bb601067bebe52db|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les juges.**
@@ -94784,7 +94784,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 1. [<span class="qcm-letter">A</span> Guérir toutes les maladies.](ENT_CSP_ALL_MIS_V03_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Remplacer les médicaments.](ENT_CSP_ALL_MIS_V03_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Protéger la personne vaccinée et la population contre certaines maladies.](ENT_CSP_ALL_MIS_V03_Q10_VRAI)
-1. [<span class="qcm-letter">D</span> Eviter d'aller chez un médecin traitant.](ENT_CSP_ALL_MIS_V03_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> Éviter d'aller chez un médecin traitant.](ENT_CSP_ALL_MIS_V03_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -95604,7 +95604,7 @@ Les députés européens sont élus au suffrage universel direct par les citoyen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V05_Q04
-<span hidden data-civi-question="c005e4dd95f453e5" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V05_Q04"></span>
+<span hidden data-civi-question="fe6ae03e7041872b" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V05_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
@@ -95616,7 +95616,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 1. [<span class="qcm-letter">A</span> Un préfet est un maire qui gère plusieurs communes.](ENT_CSP_ALL_MIS_V05_Q04_FAUX)
-1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.](ENT_CSP_ALL_MIS_V05_Q04_VRAI)
+1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.](ENT_CSP_ALL_MIS_V05_Q04_VRAI)
 1. [<span class="qcm-letter">C</span> Un préfet gère les budgets des villes.](ENT_CSP_ALL_MIS_V05_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Un préfet élit les maires qui représenteront les villes sur son département.](ENT_CSP_ALL_MIS_V05_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
@@ -95630,7 +95630,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -95640,10 +95640,10 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V05_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c005e4dd95f453e5|")`
+`@entMistakes = calc((@entMistakes || "")+"|fe6ae03e7041872b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -95751,14 +95751,14 @@ Les infractions sont classées selon leur gravité en contraventions, délits et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V05_Q07
-<span hidden data-civi-question="2db905bff264df99" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V05_Q07"></span>
+<span hidden data-civi-question="5dbb560688ab4995" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V05_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source csp : MS-CSP-T4-038 -->
 
-Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
+Lors d'une partie d'échecs avec une amie, elle vous demande qui était Albert Camus car elle a entendu ce nom à la radio avant de venir chez vous.
 
 **Que lui répondez-vous ?**
 
@@ -95787,7 +95787,7 @@ Albert Camus est un écrivain et philosophe français, prix Nobel de littératur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V05_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2db905bff264df99|")`
+`@entMistakes = calc((@entMistakes || "")+"|5dbb560688ab4995|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Un écrivain français.**
@@ -96083,7 +96083,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 1. [<span class="qcm-letter">A</span> Fédérale.](ENT_CSP_ALL_MIS_V06_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Catholique.](ENT_CSP_ALL_MIS_V06_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> Egalitaire.](ENT_CSP_ALL_MIS_V06_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> Égalitaire.](ENT_CSP_ALL_MIS_V06_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Laïque.](ENT_CSP_ALL_MIS_V06_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -96196,7 +96196,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_ALL_MIS_V06_Q05)
 
@@ -96209,7 +96209,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_ALL_MIS_V06_Q05)
 
@@ -96683,14 +96683,14 @@ La République garantit à chacun la liberté de conscience, qui comprend le dro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V07_Q03
-<span hidden data-civi-question="5ba369de2c0c26a3" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V07_Q03"></span>
+<span hidden data-civi-question="bb601067bebe52db" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V07_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source csp : MS-CSP-T2-009 -->
 
-Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
+Votre enfant prépare un exposé sur l'État français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
 
 **Que lui répondez-vous ?**
 
@@ -96719,7 +96719,7 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V07_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5ba369de2c0c26a3|")`
+`@entMistakes = calc((@entMistakes || "")+"|bb601067bebe52db|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les juges.**
@@ -96760,7 +96760,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_ALL_MIS_V07_Q05)
 
@@ -96773,7 +96773,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_ALL_MIS_V07_Q05)
 
@@ -97762,7 +97762,7 @@ La Marseillaise est l'hymne national français depuis la Révolution française,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V09_Q02
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V09_Q02"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V09_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -97775,7 +97775,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_ALL_MIS_V09_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_ALL_MIS_V09_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_ALL_MIS_V09_Q02_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_ALL_MIS_V09_Q02_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_ALL_MIS_V09_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -97788,7 +97788,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -97798,10 +97798,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V09_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -98340,7 +98340,7 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [<span class="qcm-letter">A</span> Cette devise devrait être inscrite uniquement sur les passeports.](ENT_CSP_ALL_MIS_V10_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Cette devise devrait être inscrite uniquement sur le Parlement et le Sénat.](ENT_CSP_ALL_MIS_V10_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Cette devise peut être inscrite sur tous les bâtiments publics.](ENT_CSP_ALL_MIS_V10_Q02_VRAI)
-1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Elysée et Matignon.](ENT_CSP_ALL_MIS_V10_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Élysée et Matignon.](ENT_CSP_ALL_MIS_V10_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -98375,7 +98375,7 @@ La devise « Liberté, Égalité, Fraternité » est inscrite sur de nombreux b�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V10_Q03
-<span hidden data-civi-question="81be86f9fa225f90" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V10_Q03"></span>
+<span hidden data-civi-question="68194f1e438ef1c9" data-kind="entrainement" data-screen="ENT_CSP_ALL_MIS_V10_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
@@ -98389,7 +98389,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [<span class="qcm-letter">A</span> Avoir une carte d'identité nationale française.](ENT_CSP_ALL_MIS_V10_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Être propriétaire.](ENT_CSP_ALL_MIS_V10_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Être salarié.](ENT_CSP_ALL_MIS_V10_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un Etat membre de l'Union européenne.](ENT_CSP_ALL_MIS_V10_Q03_VRAI)
+1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un État membre de l'Union européenne.](ENT_CSP_ALL_MIS_V10_Q03_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -98401,9 +98401,9 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_ALL_MIS_V10_Q04)
 
@@ -98411,12 +98411,12 @@ Pour voter aux élections européennes en France, il faut notamment être inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_ALL_MIS_V10_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|81be86f9fa225f90|")`
+`@entMistakes = calc((@entMistakes || "")+"|68194f1e438ef1c9|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_ALL_MIS_V10_Q04)
 
@@ -99491,7 +99491,7 @@ Les six États fondateurs (France, Allemagne, Italie, Belgique, Luxembourg, Pays
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_FAC_V01_Q13
-<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="entrainement" data-screen="ENT_CSP_LVL_FAC_V01_Q13"></span>
+<span hidden data-civi-question="ce344aba5253f19f" data-kind="entrainement" data-screen="ENT_CSP_LVL_FAC_V01_Q13"></span>
 ### 📝 Question 13 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **12/15 réponses données**
@@ -99504,7 +99504,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 1. [<span class="qcm-letter">A</span> La police juge les personnes.](ENT_CSP_LVL_FAC_V01_Q13_FAUX)
 1. [<span class="qcm-letter">B</span> La police arrête les voleurs.](ENT_CSP_LVL_FAC_V01_Q13_FAUX)
-1. [<span class="qcm-letter">C</span> La police protége les personnes et les biens et fait respecter la loi.](ENT_CSP_LVL_FAC_V01_Q13_VRAI)
+1. [<span class="qcm-letter">C</span> La police protège les personnes et les biens et fait respecter la loi.](ENT_CSP_LVL_FAC_V01_Q13_VRAI)
 1. [<span class="qcm-letter">D</span> La police encadre les évènements sportifs ou associatifs.](ENT_CSP_LVL_FAC_V01_Q13_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -99517,7 +99517,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -99527,10 +99527,10 @@ La Police nationale prévient les infractions, protège la population et fait re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_FAC_V01_Q13_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d68b5ed1122f8d33|")`
+`@entMistakes = calc((@entMistakes || "")+"|ce344aba5253f19f|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -100111,7 +100111,7 @@ Paris est la capitale de la République française. C'est également la ville la
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V02_Q10)
 
@@ -100126,7 +100126,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V02_Q10)
 
@@ -100285,7 +100285,7 @@ Le président de la République est élu au suffrage universel direct par les ci
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_FAC_V02_Q13
-<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="entrainement" data-screen="ENT_CSP_LVL_FAC_V02_Q13"></span>
+<span hidden data-civi-question="ce344aba5253f19f" data-kind="entrainement" data-screen="ENT_CSP_LVL_FAC_V02_Q13"></span>
 ### 📝 Question 13 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **12/15 réponses données**
@@ -100298,7 +100298,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 1. [<span class="qcm-letter">A</span> La police juge les personnes.](ENT_CSP_LVL_FAC_V02_Q13_FAUX)
 1. [<span class="qcm-letter">B</span> La police arrête les voleurs.](ENT_CSP_LVL_FAC_V02_Q13_FAUX)
-1. [<span class="qcm-letter">C</span> La police protége les personnes et les biens et fait respecter la loi.](ENT_CSP_LVL_FAC_V02_Q13_VRAI)
+1. [<span class="qcm-letter">C</span> La police protège les personnes et les biens et fait respecter la loi.](ENT_CSP_LVL_FAC_V02_Q13_VRAI)
 1. [<span class="qcm-letter">D</span> La police encadre les évènements sportifs ou associatifs.](ENT_CSP_LVL_FAC_V02_Q13_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -100311,7 +100311,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -100321,10 +100321,10 @@ La Police nationale prévient les infractions, protège la population et fait re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_FAC_V02_Q13_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d68b5ed1122f8d33|")`
+`@entMistakes = calc((@entMistakes || "")+"|ce344aba5253f19f|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — La police protége les personnes et les biens et fait respecter la loi.**
+**Réponse correcte : C — La police protège les personnes et les biens et fait respecter la loi.**
 
 La Police nationale prévient les infractions, protège la population et fait respecter la loi, sans exercer de fonction judiciaire.
 
@@ -100530,7 +100530,7 @@ Le drapeau tricolore est l'un des principaux symboles officiels de la Républiqu
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](ENT_CSP_LVL_FAC_V03_Q02_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](ENT_CSP_LVL_FAC_V03_Q02_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](ENT_CSP_LVL_FAC_V03_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](ENT_CSP_LVL_FAC_V03_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](ENT_CSP_LVL_FAC_V03_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -102118,7 +102118,7 @@ La Marseillaise est l'hymne national français depuis la Révolution française.
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](ENT_CSP_LVL_FAC_V05_Q02_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](ENT_CSP_LVL_FAC_V05_Q02_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](ENT_CSP_LVL_FAC_V05_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](ENT_CSP_LVL_FAC_V05_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](ENT_CSP_LVL_FAC_V05_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -103287,7 +103287,7 @@ Paris est la capitale de la République française. C'est également la ville la
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V06_Q10)
 
@@ -103302,7 +103302,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V06_Q10)
 
@@ -104081,7 +104081,7 @@ La Seconde Guerre mondiale oppose de nombreux pays entre 1939 et 1945. Elle se t
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V07_Q10)
 
@@ -104096,7 +104096,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V07_Q10)
 
@@ -104171,7 +104171,7 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [<span class="qcm-letter">A</span> Cette devise devrait être inscrite uniquement sur les passeports.](ENT_CSP_LVL_FAC_V07_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Cette devise devrait être inscrite uniquement sur le Parlement et le Sénat.](ENT_CSP_LVL_FAC_V07_Q11_FAUX)
 1. [<span class="qcm-letter">C</span> Cette devise peut être inscrite sur tous les bâtiments publics.](ENT_CSP_LVL_FAC_V07_Q11_VRAI)
-1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Elysée et Matignon.](ENT_CSP_LVL_FAC_V07_Q11_FAUX)
+1. [<span class="qcm-letter">D</span> Cette devise devrait être inscrite uniquement sur l'Élysée et Matignon.](ENT_CSP_LVL_FAC_V07_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -105028,7 +105028,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V08_Q13)
 
@@ -105041,7 +105041,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V08_Q13)
 
@@ -105295,7 +105295,7 @@ La fête nationale française est célébrée chaque année le 14 juillet. Elle 
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](ENT_CSP_LVL_FAC_V09_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_LVL_FAC_V09_Q02_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](ENT_CSP_LVL_FAC_V09_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](ENT_CSP_LVL_FAC_V09_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](ENT_CSP_LVL_FAC_V09_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -106361,7 +106361,7 @@ La gendarmerie nationale assure des missions de sécurité publique, notamment d
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V10_Q08)
 
@@ -106376,7 +106376,7 @@ La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V10_Q08)
 
@@ -106616,7 +106616,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V10_Q13)
 
@@ -106629,7 +106629,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_FAC_V10_Q13)
 
@@ -107177,7 +107177,7 @@ La Constitution est la norme juridique la plus élevée en France. Son bloc de c
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_LVL_INT_V01_Q07_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_LVL_INT_V01_Q07_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_LVL_INT_V01_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_LVL_INT_V01_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_LVL_INT_V01_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -108165,7 +108165,7 @@ L'autorité parentale regroupe les droits et les devoirs des parents dans l'int�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V02_Q11
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V02_Q11"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V02_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -108180,7 +108180,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_LVL_INT_V02_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_LVL_INT_V02_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V02_Q11_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V02_Q11_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_LVL_INT_V02_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -108193,7 +108193,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -108203,10 +108203,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V02_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -108959,7 +108959,7 @@ En France, une personne étrangère en situation régulière peut créer une ent
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V03_Q11
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V03_Q11"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V03_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -108974,7 +108974,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_LVL_INT_V03_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_LVL_INT_V03_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V03_Q11_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V03_Q11_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_LVL_INT_V03_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -108987,7 +108987,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -108997,10 +108997,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V03_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -109010,7 +109010,7 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V03_Q12
-<span hidden data-civi-question="c005e4dd95f453e5" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V03_Q12"></span>
+<span hidden data-civi-question="fe6ae03e7041872b" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V03_Q12"></span>
 ### 📝 Question 12 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **11/15 réponses données**
@@ -109022,7 +109022,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 **Qu'est-ce qu'un préfet ?**
 
 1. [<span class="qcm-letter">A</span> Un préfet est un maire qui gère plusieurs communes.](ENT_CSP_LVL_INT_V03_Q12_FAUX)
-1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.](ENT_CSP_LVL_INT_V03_Q12_VRAI)
+1. [<span class="qcm-letter">B</span> Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.](ENT_CSP_LVL_INT_V03_Q12_VRAI)
 1. [<span class="qcm-letter">C</span> Un préfet gère les budgets des villes.](ENT_CSP_LVL_INT_V03_Q12_FAUX)
 1. [<span class="qcm-letter">D</span> Un préfet élit les maires qui représenteront les villes sur son département.](ENT_CSP_LVL_INT_V03_Q12_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -109036,7 +109036,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -109046,10 +109046,10 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V03_Q12_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c005e4dd95f453e5|")`
+`@entMistakes = calc((@entMistakes || "")+"|fe6ae03e7041872b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'Etat dans un département ou une région.**
+**Réponse correcte : B — Un préfet est un haut fonctionnaire qui représente l'État dans un département ou une région.**
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois. Il maintient la sécurité et l'ordre public en dirigeant les forces de l'ordre.
 
@@ -109356,7 +109356,7 @@ Les symboles de la République représentent l'identité de la France et ses val
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](ENT_CSP_LVL_INT_V04_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](ENT_CSP_LVL_INT_V04_Q03_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](ENT_CSP_LVL_INT_V04_Q03_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](ENT_CSP_LVL_INT_V04_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](ENT_CSP_LVL_INT_V04_Q03_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -109768,7 +109768,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 1. [<span class="qcm-letter">A</span> Fédérale.](ENT_CSP_LVL_INT_V04_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Catholique.](ENT_CSP_LVL_INT_V04_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> Egalitaire.](ENT_CSP_LVL_INT_V04_Q11_FAUX)
+1. [<span class="qcm-letter">C</span> Égalitaire.](ENT_CSP_LVL_INT_V04_Q11_FAUX)
 1. [<span class="qcm-letter">D</span> Laïque.](ENT_CSP_LVL_INT_V04_Q11_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -110150,7 +110150,7 @@ La Constitution du 4 octobre 1958 fonde la Ve République et organise le fonctio
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](ENT_CSP_LVL_INT_V05_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](ENT_CSP_LVL_INT_V05_Q03_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](ENT_CSP_LVL_INT_V05_Q03_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](ENT_CSP_LVL_INT_V05_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](ENT_CSP_LVL_INT_V05_Q03_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -110696,18 +110696,18 @@ La Constitution de la Ve République est le texte fondamental qui organise les i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V05_Q14
-<span hidden data-civi-question="29a1459954a5559a" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V05_Q14"></span>
+<span hidden data-civi-question="4358ab8e5bc200df" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V05_Q14"></span>
 ### 📝 Question 14 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **13/15 réponses données**
 
 <!-- Source csp : MS-CSP-T4-018 -->
 
-Un collègue étranger venu pour visiter votre usine de bois, a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
+Un collègue étranger venu pour visiter votre usine de bois a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
 
 **Que lui répondez-vous ?**
 
-1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1er guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V05_Q14_FAUX)
+1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1re guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V05_Q14_FAUX)
 1. [<span class="qcm-letter">B</span> C'est l'armistice de la 2e guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V05_Q14_FAUX)
 1. [<span class="qcm-letter">C</span> C'est une fête religieuse catholique, donc un jour férié en France.](ENT_CSP_LVL_INT_V05_Q14_FAUX)
 1. [<span class="qcm-letter">D</span> C'est la fête nationale française, donc un jour férié en France.](ENT_CSP_LVL_INT_V05_Q14_VRAI)
@@ -110732,7 +110732,7 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V05_Q14_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|29a1459954a5559a|")`
+`@entMistakes = calc((@entMistakes || "")+"|4358ab8e5bc200df|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — C'est la fête nationale française, donc un jour férié en France.**
@@ -111012,7 +111012,7 @@ En France, nul n'est au-dessus de la loi. Les ministres doivent eux aussi respec
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_LVL_INT_V06_Q05)
 
@@ -111027,7 +111027,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_LVL_INT_V06_Q05)
 
@@ -111634,7 +111634,7 @@ Les services d'urgence sont destinés à prendre en charge les situations graves
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_LVL_INT_V07_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_LVL_INT_V07_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_LVL_INT_V07_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_LVL_INT_V07_Q01_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_LVL_INT_V07_Q01_FAUX)
@@ -112135,7 +112135,7 @@ Les services d'urgence sont destinés à prendre en charge les situations graves
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V07_Q11
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V07_Q11"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V07_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -112150,7 +112150,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_LVL_INT_V07_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_LVL_INT_V07_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V07_Q11_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V07_Q11_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_LVL_INT_V07_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -112163,7 +112163,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -112173,10 +112173,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V07_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -112479,7 +112479,7 @@ L'égalité garantit que chaque personne bénéficie des mêmes droits et est tr
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](ENT_CSP_LVL_INT_V08_Q02_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](ENT_CSP_LVL_INT_V08_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](ENT_CSP_LVL_INT_V08_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](ENT_CSP_LVL_INT_V08_Q02_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](ENT_CSP_LVL_INT_V08_Q02_FAUX)
@@ -112786,7 +112786,7 @@ Molière (1622-1673) est considéré comme l'un des plus grands auteurs du thé�
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_LVL_INT_V08_Q08_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_LVL_INT_V08_Q08_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_LVL_INT_V08_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_LVL_INT_V08_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_LVL_INT_V08_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -112929,7 +112929,7 @@ En France, l'accès aux soins est organisé pour permettre à chacun d'être soi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V08_Q11
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V08_Q11"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V08_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -112944,7 +112944,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_LVL_INT_V08_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_LVL_INT_V08_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V08_Q11_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V08_Q11_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_LVL_INT_V08_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -112957,7 +112957,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -112967,10 +112967,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V08_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -113078,18 +113078,18 @@ Le bloc de constitutionnalité, qui comprend notamment la DDHC de 1789, protège
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V08_Q14
-<span hidden data-civi-question="29a1459954a5559a" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V08_Q14"></span>
+<span hidden data-civi-question="4358ab8e5bc200df" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V08_Q14"></span>
 ### 📝 Question 14 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **13/15 réponses données**
 
 <!-- Source csp : MS-CSP-T4-018 -->
 
-Un collègue étranger venu pour visiter votre usine de bois, a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
+Un collègue étranger venu pour visiter votre usine de bois a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
 
 **Que lui répondez-vous ?**
 
-1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1er guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V08_Q14_FAUX)
+1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1re guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V08_Q14_FAUX)
 1. [<span class="qcm-letter">B</span> C'est l'armistice de la 2e guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V08_Q14_FAUX)
 1. [<span class="qcm-letter">C</span> C'est une fête religieuse catholique, donc un jour férié en France.](ENT_CSP_LVL_INT_V08_Q14_FAUX)
 1. [<span class="qcm-letter">D</span> C'est la fête nationale française, donc un jour férié en France.](ENT_CSP_LVL_INT_V08_Q14_VRAI)
@@ -113114,7 +113114,7 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V08_Q14_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|29a1459954a5559a|")`
+`@entMistakes = calc((@entMistakes || "")+"|4358ab8e5bc200df|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — C'est la fête nationale française, donc un jour férié en France.**
@@ -113723,7 +113723,7 @@ Le médecin traitant est l'interlocuteur privilégié pour assurer le suivi méd
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V09_Q11
-<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V09_Q11"></span>
+<span hidden data-civi-question="e905333ce5241cf8" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V09_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -113738,7 +113738,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 1. [<span class="qcm-letter">A</span> Oui, c'est la liberté d'information. Le participant a le droit d'informer le public.](ENT_CSP_LVL_INT_V09_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, c'est la liberté d'opinion. Le participant peut donner son opinion et l'imposer aux autres.](ENT_CSP_LVL_INT_V09_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V09_Q11_VRAI)
+1. [<span class="qcm-letter">C</span> Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.](ENT_CSP_LVL_INT_V09_Q11_VRAI)
 1. [<span class="qcm-letter">D</span> Oui, c'est la liberté du débat politique. Les personnalités politiques ont le droit de donner leur opinion, d'informer le public et d'imposer leurs idées.](ENT_CSP_LVL_INT_V09_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -113751,7 +113751,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -113761,10 +113761,10 @@ La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V09_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|921bd0c7e61aa2c8|")`
+`@entMistakes = calc((@entMistakes || "")+"|e905333ce5241cf8|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : C — Oui, c'est la liberté d'expression. permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
+**Réponse correcte : C — Oui, c'est la liberté d'expression. Elle permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.**
 
 La liberté d'expression permet à chacun d'exprimer ses opinions et ses idées, dans le respect de la loi et des droits des autres.
 
@@ -114070,7 +114070,7 @@ La laïcité protège la liberté de conscience. Elle permet à chacun de pratiq
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](ENT_CSP_LVL_INT_V10_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](ENT_CSP_LVL_INT_V10_Q02_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](ENT_CSP_LVL_INT_V10_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](ENT_CSP_LVL_INT_V10_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](ENT_CSP_LVL_INT_V10_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -114666,18 +114666,18 @@ Adoptée en 1789 pendant la Révolution française, la DDHC est le texte fondate
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V10_Q14
-<span hidden data-civi-question="29a1459954a5559a" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V10_Q14"></span>
+<span hidden data-civi-question="4358ab8e5bc200df" data-kind="entrainement" data-screen="ENT_CSP_LVL_INT_V10_Q14"></span>
 ### 📝 Question 14 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **13/15 réponses données**
 
 <!-- Source csp : MS-CSP-T4-018 -->
 
-Un collègue étranger venu pour visiter votre usine de bois, a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
+Un collègue étranger venu pour visiter votre usine de bois a été surpris à son arrivée de voir tous les magasins fermés. C'était le 14 juillet. Il vous demande de lui expliquer.
 
 **Que lui répondez-vous ?**
 
-1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1er guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V10_Q14_FAUX)
+1. [<span class="qcm-letter">A</span> C'est l'armistice de la 1re guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V10_Q14_FAUX)
 1. [<span class="qcm-letter">B</span> C'est l'armistice de la 2e guerre mondiale, donc un jour férié en France.](ENT_CSP_LVL_INT_V10_Q14_FAUX)
 1. [<span class="qcm-letter">C</span> C'est une fête religieuse catholique, donc un jour férié en France.](ENT_CSP_LVL_INT_V10_Q14_FAUX)
 1. [<span class="qcm-letter">D</span> C'est la fête nationale française, donc un jour férié en France.](ENT_CSP_LVL_INT_V10_Q14_VRAI)
@@ -114702,7 +114702,7 @@ Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_INT_V10_Q14_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|29a1459954a5559a|")`
+`@entMistakes = calc((@entMistakes || "")+"|4358ab8e5bc200df|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — C'est la fête nationale française, donc un jour férié en France.**
@@ -115261,7 +115261,7 @@ George Sand (1804-1876) est une célèbre écrivaine française, connue pour ses
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V01_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_LVL_DIF_V01_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_LVL_DIF_V01_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_LVL_DIF_V01_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_LVL_DIF_V01_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -116106,7 +116106,7 @@ En France, seul le mariage civil célébré à la mairie par un officier d'état
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V02_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_LVL_DIF_V02_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_LVL_DIF_V02_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_LVL_DIF_V02_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_LVL_DIF_V02_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -116900,7 +116900,7 @@ En France, la durée légale du travail est fixée à 35 heures par semaine pour
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_LVL_DIF_V03_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V03_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_LVL_DIF_V03_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_LVL_DIF_V03_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_LVL_DIF_V03_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -117151,7 +117151,7 @@ Amélie, récemment affiliée à la Sécurité sociale reçoit sa carte Vitale s
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V03_Q15_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer le médecin.](ENT_CSP_LVL_DIF_V03_Q15_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_LVL_DIF_V03_Q15_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_LVL_DIF_V03_Q15_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_LVL_DIF_V03_Q15_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -119231,7 +119231,7 @@ La gratuité de l'école publique est instaurée par les lois Jules Ferry en 188
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V06_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_LVL_DIF_V06_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_LVL_DIF_V06_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_LVL_DIF_V06_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_LVL_DIF_V06_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -120819,7 +120819,7 @@ La France possède plusieurs grands ports maritimes qui jouent un rôle essentie
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_LVL_DIF_V08_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V08_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_LVL_DIF_V08_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_LVL_DIF_V08_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_LVL_DIF_V08_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -120960,7 +120960,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que l'Éta
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_DIF_V08_Q12
-<span hidden data-civi-question="81be86f9fa225f90" data-kind="entrainement" data-screen="ENT_CSP_LVL_DIF_V08_Q12"></span>
+<span hidden data-civi-question="68194f1e438ef1c9" data-kind="entrainement" data-screen="ENT_CSP_LVL_DIF_V08_Q12"></span>
 ### 📝 Question 12 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **11/15 réponses données**
@@ -120974,7 +120974,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [<span class="qcm-letter">A</span> Avoir une carte d'identité nationale française.](ENT_CSP_LVL_DIF_V08_Q12_FAUX)
 1. [<span class="qcm-letter">B</span> Être propriétaire.](ENT_CSP_LVL_DIF_V08_Q12_FAUX)
 1. [<span class="qcm-letter">C</span> Être salarié.](ENT_CSP_LVL_DIF_V08_Q12_FAUX)
-1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un Etat membre de l'Union européenne.](ENT_CSP_LVL_DIF_V08_Q12_VRAI)
+1. [<span class="qcm-letter">D</span> Avoir la nationalité d'un État membre de l'Union européenne.](ENT_CSP_LVL_DIF_V08_Q12_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -120986,9 +120986,9 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_DIF_V08_Q13)
 
@@ -120996,12 +120996,12 @@ Pour voter aux élections européennes en France, il faut notamment être inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_DIF_V08_Q12_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|81be86f9fa225f90|")`
+`@entMistakes = calc((@entMistakes || "")+"|68194f1e438ef1c9|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — Avoir la nationalité d'un Etat membre de l'Union européenne.**
+**Réponse correcte : D — Avoir la nationalité d'un État membre de l'Union européenne.**
 
-Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un Etat membre de l'UE, avoir 18 ans, résider en France.
+Pour voter aux élections européennes en France, il faut notamment être inscrit sur les listes électorales, être ressortissant d'un État membre de l'UE, avoir 18 ans, résider en France.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_DIF_V08_Q13)
 
@@ -121425,7 +121425,7 @@ Depuis le retrait du Royaume-Uni, l'Union européenne compte 27 États membres.
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_LVL_DIF_V09_Q06)
 
@@ -121440,7 +121440,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_LVL_DIF_V09_Q06)
 
@@ -122219,7 +122219,7 @@ Le juge exerce le pouvoir judiciaire. Il applique la loi de manière indépendan
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_LVL_DIF_V10_Q06)
 
@@ -122234,7 +122234,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 1. [➡️ Question suivante](ENT_CSP_LVL_DIF_V10_Q06)
 
@@ -122458,7 +122458,7 @@ En France, un employeur ne peut pas fixer un salaire inférieur au salaire minim
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](ENT_CSP_LVL_DIF_V10_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](ENT_CSP_LVL_DIF_V10_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](ENT_CSP_LVL_DIF_V10_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_LVL_DIF_V10_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](ENT_CSP_LVL_DIF_V10_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -123382,14 +123382,14 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_TOUS_V01_Q12
-<span hidden data-civi-question="5ba369de2c0c26a3" data-kind="entrainement" data-screen="ENT_CSP_LVL_TOUS_V01_Q12"></span>
+<span hidden data-civi-question="bb601067bebe52db" data-kind="entrainement" data-screen="ENT_CSP_LVL_TOUS_V01_Q12"></span>
 ### 📝 Question 12 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **11/15 réponses données**
 
 <!-- Source csp : MS-CSP-T2-009 -->
 
-Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
+Votre enfant prépare un exposé sur l'État français et ses institutions. Il vous demande qui dispose du pouvoir judiciaire.
 
 **Que lui répondez-vous ?**
 
@@ -123418,7 +123418,7 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_TOUS_V01_Q12_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5ba369de2c0c26a3|")`
+`@entMistakes = calc((@entMistakes || "")+"|bb601067bebe52db|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les juges.**
@@ -123728,7 +123728,7 @@ La liberté d'expression est une liberté fondamentale. Elle permet à chacun d'
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](ENT_CSP_LVL_TOUS_V02_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](ENT_CSP_LVL_TOUS_V02_Q03_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](ENT_CSP_LVL_TOUS_V02_Q03_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](ENT_CSP_LVL_TOUS_V02_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](ENT_CSP_LVL_TOUS_V02_Q03_VRAI)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -124051,7 +124051,7 @@ Lyon est la troisième plus grande ville de France. Barcelone est en Espagne, Ge
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V02_Q10)
 
@@ -124066,7 +124066,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V02_Q10)
 
@@ -127211,7 +127211,7 @@ L'esclavage est définitivement aboli en France en 1848 grâce au décret porté
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](ENT_CSP_LVL_TOUS_V06_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](ENT_CSP_LVL_TOUS_V06_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](ENT_CSP_LVL_TOUS_V06_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](ENT_CSP_LVL_TOUS_V06_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](ENT_CSP_LVL_TOUS_V06_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -127278,7 +127278,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Accéder aux mises en situation](ENT_CSP_LVL_TOUS_V06_Q11)
 
@@ -127293,7 +127293,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 1. [➡️ Accéder aux mises en situation](ENT_CSP_LVL_TOUS_V06_Q11)
 
@@ -127901,7 +127901,7 @@ Les droits individuels sont protégés en France. Ils s'exercent dans le respect
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](ENT_CSP_LVL_TOUS_V07_Q07_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](ENT_CSP_LVL_TOUS_V07_Q07_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](ENT_CSP_LVL_TOUS_V07_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](ENT_CSP_LVL_TOUS_V07_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](ENT_CSP_LVL_TOUS_V07_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -128174,7 +128174,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V07_Q13)
 
@@ -128187,7 +128187,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres d
 
 **Réponse correcte : D — L'euro.**
 
-Depuis 2002, la monnaie utilisée en France est l'euro. Certains Etats membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
+Depuis 2002, la monnaie utilisée en France est l'euro. Certains États membres de l'Union européenne n'utilisent pas l'euro comme le Danemark par exemple.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V07_Q13)
 
@@ -129184,7 +129184,7 @@ Seul le mariage civil célébré à la mairie par un officier d'état civil est 
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](ENT_CSP_LVL_TOUS_V09_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_LVL_TOUS_V09_Q01_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](ENT_CSP_LVL_TOUS_V09_Q01_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](ENT_CSP_LVL_TOUS_V09_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](ENT_CSP_LVL_TOUS_V09_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -129252,7 +129252,7 @@ Les symboles officiels représentent les valeurs de la République française et
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V09_Q03)
 
@@ -129267,7 +129267,7 @@ L'article 2 de la Constitution précise que « la langue de la République est l
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V09_Q03)
 
@@ -130148,7 +130148,7 @@ L'autorité judiciaire est chargée de trancher les litiges, de protéger les li
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V10_Q05)
 
@@ -130163,7 +130163,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CSP_LVL_TOUS_V10_Q05)
 
@@ -131177,7 +131177,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V01_Q07)
 
@@ -131192,7 +131192,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V01_Q07)
 
@@ -131212,7 +131212,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V01_Q07_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -131557,7 +131557,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V02_Q03)
 
@@ -131572,7 +131572,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V02_Q03)
 
@@ -131694,7 +131694,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V02_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -132227,7 +132227,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V03_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -132447,7 +132447,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V03_Q09)
 
@@ -132462,7 +132462,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V03_Q09)
 
@@ -132709,7 +132709,7 @@ En France, une personne ne peut pas être discriminée lors d'un recrutement en 
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V04_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -133031,7 +133031,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V04_Q09)
 
@@ -133046,7 +133046,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V04_Q09)
 
@@ -133293,7 +133293,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V05_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -133462,7 +133462,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V05_Q06)
 
@@ -133477,7 +133477,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V05_Q06)
 
@@ -134081,7 +134081,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V06_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -134199,7 +134199,7 @@ La loi protège chaque personne contre les discriminations fondées notamment su
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V06_Q09)
 
@@ -134214,7 +134214,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V06_Q09)
 
@@ -134477,7 +134477,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V07_Q03)
 
@@ -134492,7 +134492,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V07_Q03)
 
@@ -134665,7 +134665,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V07_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -135316,7 +135316,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V08_Q08)
 
@@ -135331,7 +135331,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V08_Q08)
 
@@ -135402,7 +135402,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V08_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -135798,7 +135798,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V09_Q06)
 
@@ -135813,7 +135813,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V09_Q06)
 
@@ -135935,7 +135935,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V09_Q08_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -136162,7 +136162,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V10_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -136535,7 +136535,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V10_Q09)
 
@@ -136550,7 +136550,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V10_Q09)
 
@@ -137104,7 +137104,7 @@ La démocratie repose sur la séparation des pouvoirs exécutif, législatif et 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V01_Q08)
 
@@ -137119,7 +137119,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V01_Q08)
 
@@ -137841,7 +137841,7 @@ Le pouvoir législatif est exercé par le Parlement. Il consiste à débattre, m
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [📊 Voir mes résultats](ENT_CR_T2_Q_DIF_V02_RESULT)
 
@@ -137856,7 +137856,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [📊 Voir mes résultats](ENT_CR_T2_Q_DIF_V02_RESULT)
 
@@ -138703,7 +138703,7 @@ Le Premier ministre coordonne le travail des ministres et veille à l'applicatio
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V04_Q05)
 
@@ -138718,7 +138718,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V04_Q05)
 
@@ -138907,7 +138907,7 @@ Le pouvoir législatif est exercé par le Parlement. Il consiste à débattre, m
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V04_Q09)
 
@@ -138922,7 +138922,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V04_Q09)
 
@@ -138958,7 +138958,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V04_Q10)
 
@@ -138973,7 +138973,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V04_Q10)
 
@@ -140075,7 +140075,7 @@ Le président de la République nomme le Premier ministre. Celui-ci dirige ensui
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V06_Q09)
 
@@ -140090,7 +140090,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V06_Q09)
 
@@ -141090,7 +141090,7 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V08_Q06)
 
@@ -141105,7 +141105,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V08_Q06)
 
@@ -141192,7 +141192,7 @@ Selon la Constitution, le Premier ministre dirige l'action du gouvernement et ve
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V08_Q08)
 
@@ -141207,7 +141207,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V08_Q08)
 
@@ -141776,7 +141776,7 @@ Le Premier ministre est le chef du gouvernement. Il dirige son action et coordon
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V09_Q08)
 
@@ -141791,7 +141791,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_DIF_V09_Q08)
 
@@ -160302,7 +160302,7 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V01_Q02)
 
@@ -160317,7 +160317,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V01_Q02)
 
@@ -160506,7 +160506,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V01_Q06)
 
@@ -160521,7 +160521,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V01_Q06)
 
@@ -160691,7 +160691,7 @@ Les usagers des services publics bénéficient d'un égal accès au service publ
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](ENT_CR_T1_Q_V01_Q09_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](ENT_CR_T1_Q_V01_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](ENT_CR_T1_Q_V01_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](ENT_CR_T1_Q_V01_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](ENT_CR_T1_Q_V01_Q09_VRAI)
@@ -160886,7 +160886,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V02_Q02)
 
@@ -160901,7 +160901,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V02_Q02)
 
@@ -160988,7 +160988,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V02_Q04)
 
@@ -161003,7 +161003,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V02_Q04)
 
@@ -161521,7 +161521,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V03_Q03)
 
@@ -161536,7 +161536,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V03_Q03)
 
@@ -161623,7 +161623,7 @@ La Marseillaise est l'hymne national français. Chaque citoyen est invité à co
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V03_Q05)
 
@@ -161638,7 +161638,7 @@ La neutralité de l'État garantit que les services publics traitent toutes les 
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V03_Q05)
 
@@ -161827,7 +161827,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V03_Q09)
 
@@ -161842,7 +161842,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V03_Q09)
 
@@ -161859,7 +161859,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 **Quelle est la devise de la France ?**
 
-1. [<span class="qcm-letter">A</span> Liberté, Justice, Egalité,](ENT_CR_T1_Q_V03_Q09_FAUX)
+1. [<span class="qcm-letter">A</span> Liberté, Justice, Égalité,](ENT_CR_T1_Q_V03_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> Travail, Famille, Patrie.](ENT_CR_T1_Q_V03_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Égalité, Fraternité.](ENT_CR_T1_Q_V03_Q09_VRAI)
 1. [<span class="qcm-letter">D</span> Égalité, Solidarité, Liberté,](ENT_CR_T1_Q_V03_Q09_FAUX)
@@ -162038,7 +162038,7 @@ En France, les femmes et les hommes disposent des mêmes droits. La répudiation
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](ENT_CR_T1_Q_V04_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> Le jour d'histoire est arrivé.](ENT_CR_T1_Q_V04_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le jour de la Révolution est arrivé.](ENT_CR_T1_Q_V04_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivé.](ENT_CR_T1_Q_V04_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivée.](ENT_CR_T1_Q_V04_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -162293,7 +162293,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_V04_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_V04_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_V04_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_V04_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_V04_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -162513,7 +162513,7 @@ En France, chacun est libre de croire, de ne pas croire ou de changer de religio
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [📊 Voir mes résultats](ENT_CR_T1_Q_V04_RESULT)
 
@@ -162528,7 +162528,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [📊 Voir mes résultats](ENT_CR_T1_Q_V04_RESULT)
 
@@ -162791,7 +162791,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V05_Q05)
 
@@ -162806,7 +162806,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V05_Q05)
 
@@ -162976,7 +162976,7 @@ Les usagers des services publics bénéficient d'un égal accès au service publ
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](ENT_CR_T1_Q_V05_Q08_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](ENT_CR_T1_Q_V05_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](ENT_CR_T1_Q_V05_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](ENT_CR_T1_Q_V05_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](ENT_CR_T1_Q_V05_Q08_VRAI)
@@ -163097,7 +163097,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [📊 Voir mes résultats](ENT_CR_T1_Q_V05_RESULT)
 
@@ -163112,7 +163112,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [📊 Voir mes résultats](ENT_CR_T1_Q_V05_RESULT)
 
@@ -163273,7 +163273,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V06_Q03)
 
@@ -163288,7 +163288,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V06_Q03)
 
@@ -163806,7 +163806,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V07_Q02)
 
@@ -163821,7 +163821,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V07_Q02)
 
@@ -163908,7 +163908,7 @@ La Marseillaise est l'hymne national français. Chaque citoyen est invité à co
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V07_Q04)
 
@@ -163923,7 +163923,7 @@ La neutralité de l'État garantit que les services publics traitent toutes les 
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V07_Q04)
 
@@ -164112,7 +164112,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V07_Q08)
 
@@ -164127,7 +164127,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V07_Q08)
 
@@ -164144,7 +164144,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 **Quelle est la devise de la France ?**
 
-1. [<span class="qcm-letter">A</span> Liberté, Justice, Egalité,](ENT_CR_T1_Q_V07_Q08_FAUX)
+1. [<span class="qcm-letter">A</span> Liberté, Justice, Égalité,](ENT_CR_T1_Q_V07_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Travail, Famille, Patrie.](ENT_CR_T1_Q_V07_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Égalité, Fraternité.](ENT_CR_T1_Q_V07_Q08_VRAI)
 1. [<span class="qcm-letter">D</span> Égalité, Solidarité, Liberté,](ENT_CR_T1_Q_V07_Q08_FAUX)
@@ -164249,7 +164249,7 @@ En France, les femmes et les hommes disposent des mêmes droits. La répudiation
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](ENT_CR_T1_Q_V07_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> Le jour d'histoire est arrivé.](ENT_CR_T1_Q_V07_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Le jour de la Révolution est arrivé.](ENT_CR_T1_Q_V07_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivé.](ENT_CR_T1_Q_V07_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivée.](ENT_CR_T1_Q_V07_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -164578,7 +164578,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_V08_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_V08_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_V08_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_T1_Q_V08_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_V08_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -164798,7 +164798,7 @@ En France, chacun est libre de croire, de ne pas croire ou de changer de religio
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V08_Q10)
 
@@ -164813,7 +164813,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V08_Q10)
 
@@ -165076,7 +165076,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V09_Q04)
 
@@ -165091,7 +165091,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V09_Q04)
 
@@ -165261,7 +165261,7 @@ Les usagers des services publics bénéficient d'un égal accès au service publ
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](ENT_CR_T1_Q_V09_Q07_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](ENT_CR_T1_Q_V09_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](ENT_CR_T1_Q_V09_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](ENT_CR_T1_Q_V09_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](ENT_CR_T1_Q_V09_Q07_VRAI)
@@ -165382,7 +165382,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V09_Q10)
 
@@ -165397,7 +165397,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V09_Q10)
 
@@ -165558,7 +165558,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V10_Q02)
 
@@ -165573,7 +165573,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V10_Q02)
 
@@ -166017,7 +166017,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [📊 Voir mes résultats](ENT_CR_T1_Q_V10_RESULT)
 
@@ -166032,7 +166032,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [📊 Voir mes résultats](ENT_CR_T1_Q_V10_RESULT)
 
@@ -166586,7 +166586,7 @@ Le drapeau européen est bleu avec un cercle de douze étoiles jaunes.
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V01_Q10)
 
@@ -166601,7 +166601,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V01_Q10)
 
@@ -166762,7 +166762,7 @@ La police enquête sur les infractions, mais c'est le juge qui décide de la san
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V02_Q02)
 
@@ -166777,7 +166777,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V02_Q02)
 
@@ -167448,7 +167448,7 @@ Le gouvernement met en œuvre les politiques publiques et veille à l'applicatio
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V03_Q04)
 
@@ -167463,7 +167463,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V03_Q04)
 
@@ -167981,7 +167981,7 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V04_Q03)
 
@@ -167996,7 +167996,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V04_Q03)
 
@@ -168185,7 +168185,7 @@ La démocratie repose sur la séparation des pouvoirs exécutif, législatif et 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V04_Q07)
 
@@ -168200,7 +168200,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V04_Q07)
 
@@ -168338,7 +168338,7 @@ La commune est la collectivité la plus proche des habitants. Elle gère de nomb
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V04_Q10)
 
@@ -168353,7 +168353,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V04_Q10)
 
@@ -168820,7 +168820,7 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V05_Q08)
 
@@ -168835,7 +168835,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V05_Q08)
 
@@ -169506,7 +169506,7 @@ Le drapeau européen est bleu avec un cercle de douze étoiles jaunes.
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V06_Q10)
 
@@ -169521,7 +169521,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V06_Q10)
 
@@ -169682,7 +169682,7 @@ La police enquête sur les infractions, mais c'est le juge qui décide de la san
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V07_Q02)
 
@@ -169697,7 +169697,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V07_Q02)
 
@@ -170368,7 +170368,7 @@ Le gouvernement met en œuvre les politiques publiques et veille à l'applicatio
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V08_Q04)
 
@@ -170383,7 +170383,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V08_Q04)
 
@@ -170901,7 +170901,7 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V09_Q03)
 
@@ -170916,7 +170916,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V09_Q03)
 
@@ -171105,7 +171105,7 @@ La démocratie repose sur la séparation des pouvoirs exécutif, législatif et 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V09_Q07)
 
@@ -171120,7 +171120,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V09_Q07)
 
@@ -171258,7 +171258,7 @@ La commune est la collectivité la plus proche des habitants. Elle gère de nomb
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V09_Q10)
 
@@ -171273,7 +171273,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V09_Q10)
 
@@ -171740,7 +171740,7 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V10_Q08)
 
@@ -171755,7 +171755,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_T2_Q_V10_Q08)
 
@@ -174096,7 +174096,7 @@ La liberté de conscience garantit à chacun le droit de choisir ses convictions
 1. [<span class="qcm-letter">A</span> Oui.](ENT_CR_T3_Q_V04_Q07_VRAI)
 1. [<span class="qcm-letter">B</span> Cela dépend du contrat de mariage signé.](ENT_CR_T3_Q_V04_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement avec l'accord de la famille.](ENT_CR_T3_Q_V04_Q07_FAUX)
-1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'Etat.](ENT_CR_T3_Q_V04_Q07_FAUX)
+1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'État.](ENT_CR_T3_Q_V04_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -176330,7 +176330,7 @@ La liberté de conscience garantit à chacun le droit de choisir ses convictions
 1. [<span class="qcm-letter">A</span> Oui.](ENT_CR_T3_Q_V08_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> Cela dépend du contrat de mariage signé.](ENT_CR_T3_Q_V08_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement avec l'accord de la famille.](ENT_CR_T3_Q_V08_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'Etat.](ENT_CR_T3_Q_V08_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'État.](ENT_CR_T3_Q_V08_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -184798,7 +184798,7 @@ La cantine scolaire est un service proposé aux élèves. Les modalités d'inscr
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V02_Q10)
 
@@ -184813,7 +184813,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V02_Q10)
 
@@ -185315,7 +185315,7 @@ Le conseil de prud'hommes est un tribunal spécialisé qui traite les litiges in
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_T5_Q_V03_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_T5_Q_V03_Q08_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_T5_Q_V03_Q08_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_T5_Q_V03_Q08_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_T5_Q_V03_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -186726,7 +186726,7 @@ La cantine scolaire est un service proposé aux élèves. Les modalités d'inscr
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V06_Q02)
 
@@ -186741,7 +186741,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V06_Q02)
 
@@ -187169,7 +187169,7 @@ Le conseil de prud'hommes est un tribunal spécialisé qui traite les litiges in
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_T5_Q_V06_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_T5_Q_V06_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_T5_Q_V06_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_T5_Q_V06_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_T5_Q_V06_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -188580,7 +188580,7 @@ La cantine scolaire est un service proposé aux élèves. Les modalités d'inscr
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V09_Q04)
 
@@ -188595,7 +188595,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V09_Q04)
 
@@ -189097,7 +189097,7 @@ Le conseil de prud'hommes est un tribunal spécialisé qui traite les litiges in
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_T5_Q_V10_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_T5_Q_V10_Q02_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_T5_Q_V10_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_T5_Q_V10_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_T5_Q_V10_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -195951,14 +195951,14 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T2_MIS_V02_Q02
-<span hidden data-civi-question="388eb0e6098ad205" data-kind="entrainement" data-screen="ENT_CR_T2_MIS_V02_Q02"></span>
+<span hidden data-civi-question="a233160180224c8a" data-kind="entrainement" data-screen="ENT_CR_T2_MIS_V02_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source cr : MS-T2-029 -->
 
-Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
+Ethan est en classe de première. Son professeur d'histoire lui demande quelles fonctions exerce le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -195987,7 +195987,7 @@ Le Premier ministre coordonne le travail des ministres et veille à l'applicatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T2_MIS_V02_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|388eb0e6098ad205|")`
+`@entMistakes = calc((@entMistakes || "")+"|a233160180224c8a|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Il dirige l'action du gouvernement.**
@@ -198771,14 +198771,14 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T2_MIS_V07_Q02
-<span hidden data-civi-question="388eb0e6098ad205" data-kind="entrainement" data-screen="ENT_CR_T2_MIS_V07_Q02"></span>
+<span hidden data-civi-question="a233160180224c8a" data-kind="entrainement" data-screen="ENT_CR_T2_MIS_V07_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source cr : MS-T2-029 -->
 
-Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
+Ethan est en classe de première. Son professeur d'histoire lui demande quelles fonctions exerce le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -198807,7 +198807,7 @@ Le Premier ministre coordonne le travail des ministres et veille à l'applicatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T2_MIS_V07_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|388eb0e6098ad205|")`
+`@entMistakes = calc((@entMistakes || "")+"|a233160180224c8a|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Il dirige l'action du gouvernement.**
@@ -201067,14 +201067,14 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T3_MIS_V01_Q02
-<span hidden data-civi-question="bf36430c3fdfc4ea" data-kind="entrainement" data-screen="ENT_CR_T3_MIS_V01_Q02"></span>
+<span hidden data-civi-question="29c06e8a4fbbfeb1" data-kind="entrainement" data-screen="ENT_CR_T3_MIS_V01_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source cr : MS-T3-036 -->
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -201103,7 +201103,7 @@ Le vol est un délit. En droit français, les infractions sont classées en troi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T3_MIS_V01_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|bf36430c3fdfc4ea|")`
+`@entMistakes = calc((@entMistakes || "")+"|29c06e8a4fbbfeb1|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Un vol.**
@@ -203151,14 +203151,14 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T3_MIS_V04_Q10
-<span hidden data-civi-question="bf36430c3fdfc4ea" data-kind="entrainement" data-screen="ENT_CR_T3_MIS_V04_Q10"></span>
+<span hidden data-civi-question="29c06e8a4fbbfeb1" data-kind="entrainement" data-screen="ENT_CR_T3_MIS_V04_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source cr : MS-T3-036 -->
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -203187,7 +203187,7 @@ Le vol est un délit. En droit français, les infractions sont classées en troi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T3_MIS_V04_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|bf36430c3fdfc4ea|")`
+`@entMistakes = calc((@entMistakes || "")+"|29c06e8a4fbbfeb1|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Un vol.**
@@ -205309,14 +205309,14 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T3_MIS_V08_Q08
-<span hidden data-civi-question="bf36430c3fdfc4ea" data-kind="entrainement" data-screen="ENT_CR_T3_MIS_V08_Q08"></span>
+<span hidden data-civi-question="29c06e8a4fbbfeb1" data-kind="entrainement" data-screen="ENT_CR_T3_MIS_V08_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source cr : MS-T3-036 -->
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -205345,7 +205345,7 @@ Le vol est un délit. En droit français, les infractions sont classées en troi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T3_MIS_V08_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|bf36430c3fdfc4ea|")`
+`@entMistakes = calc((@entMistakes || "")+"|29c06e8a4fbbfeb1|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Un vol.**
@@ -218133,7 +218133,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V01_Q03)
 
@@ -218148,7 +218148,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V01_Q03)
 
@@ -219885,7 +219885,7 @@ En France, chacun est libre de pratiquer une religion, d'en changer ou de ne pas
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V04_Q03)
 
@@ -219900,7 +219900,7 @@ La neutralité de l'État garantit que les services publics traitent toutes les 
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V04_Q03)
 
@@ -220418,7 +220418,7 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V05_Q02)
 
@@ -220433,7 +220433,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V05_Q02)
 
@@ -220571,7 +220571,7 @@ Les citoyens des États membres de l'Union européenne élisent leurs députés 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V05_Q05)
 
@@ -220586,7 +220586,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V05_Q05)
 
@@ -220983,7 +220983,7 @@ Le diplôme national du brevet évalue les connaissances et compétences acquise
 
 **Quelle est la devise de la France ?**
 
-1. [<span class="qcm-letter">A</span> Liberté, Justice, Egalité,](ENT_CR_ALL_Q_V06_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> Liberté, Justice, Égalité,](ENT_CR_ALL_Q_V06_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Travail, Famille, Patrie.](ENT_CR_ALL_Q_V06_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Égalité, Fraternité.](ENT_CR_ALL_Q_V06_Q01_VRAI)
 1. [<span class="qcm-letter">D</span> Égalité, Solidarité, Liberté,](ENT_CR_ALL_Q_V06_Q01_FAUX)
@@ -221155,7 +221155,7 @@ Le mandat présidentiel est limité dans le temps. En démocratie, le renouvelle
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V06_Q05)
 
@@ -221170,7 +221170,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V06_Q05)
 
@@ -221774,7 +221774,7 @@ La devise de l'Union européenne est « Unie dans la diversité ». Elle soulign
 1. [<span class="qcm-letter">A</span> Oui.](ENT_CR_ALL_Q_V07_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> Cela dépend du contrat de mariage signé.](ENT_CR_ALL_Q_V07_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement avec l'accord de la famille.](ENT_CR_ALL_Q_V07_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'Etat.](ENT_CR_ALL_Q_V07_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'État.](ENT_CR_ALL_Q_V07_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -222613,7 +222613,7 @@ En France, l'instruction est obligatoire pour tous les enfants à partir de 3 an
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_ALL_Q_V08_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_ALL_Q_V08_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_ALL_Q_V08_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_ALL_Q_V08_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_ALL_Q_V08_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -222738,7 +222738,7 @@ L'inscription à l'école publique commence généralement par une démarche aup
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_ALL_Q_V09_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_ALL_Q_V09_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_ALL_Q_V09_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_ALL_Q_V09_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_ALL_Q_V09_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -223338,7 +223338,7 @@ L'école maternelle constitue la première étape de la scolarité. Elle favoris
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V10_Q02)
 
@@ -223353,7 +223353,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V10_Q02)
 
@@ -230538,7 +230538,7 @@ En France, chacun est libre de croire, de ne pas croire ou de changer de religio
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V02_Q04)
 
@@ -230553,7 +230553,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V02_Q04)
 
@@ -232920,7 +232920,7 @@ En France, chacun est libre de croire, de ne pas croire ou de changer de religio
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V05_Q04)
 
@@ -232935,7 +232935,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V05_Q04)
 
@@ -233210,7 +233210,7 @@ La France compte plusieurs grandes métropoles qui concentrent une grande partie
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_LVL_FAC_V05_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_LVL_FAC_V05_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_LVL_FAC_V05_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_LVL_FAC_V05_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_LVL_FAC_V05_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -233714,7 +233714,7 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V06_Q04)
 
@@ -233729,7 +233729,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V06_Q04)
 
@@ -234508,7 +234508,7 @@ En France, chacun est libre de croire, de ne pas croire ou de changer de religio
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V07_Q04)
 
@@ -234523,7 +234523,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V07_Q04)
 
@@ -235353,7 +235353,7 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V08_Q05)
 
@@ -235368,7 +235368,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V08_Q05)
 
@@ -236890,7 +236890,7 @@ La liberté d'expression est une liberté fondamentale. Elle permet à chacun d'
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V10_Q04)
 
@@ -236905,7 +236905,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_FAC_V10_Q04)
 
@@ -237603,7 +237603,7 @@ Ces mises en situation sont des exercices pédagogiques. Elles ne reproduisent p
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](ENT_CR_LVL_INT_V01_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](ENT_CR_LVL_INT_V01_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](ENT_CR_LVL_INT_V01_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](ENT_CR_LVL_INT_V01_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](ENT_CR_LVL_INT_V01_Q01_VRAI)
@@ -238518,7 +238518,7 @@ La liberté religieuse est garantie en France. Chacun est libre de croire, de pr
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V02_Q04)
 
@@ -238533,7 +238533,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V02_Q04)
 
@@ -238569,7 +238569,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V02_Q05)
 
@@ -238584,7 +238584,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V02_Q05)
 
@@ -239210,7 +239210,7 @@ En France, l'instruction est obligatoire pour tous les enfants à partir de 3 an
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q02)
 
@@ -239225,7 +239225,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q02)
 
@@ -239261,7 +239261,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q03)
 
@@ -239276,7 +239276,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q03)
 
@@ -239312,7 +239312,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q04)
 
@@ -239327,7 +239327,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q04)
 
@@ -239363,7 +239363,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q05)
 
@@ -239378,7 +239378,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q05)
 
@@ -239618,7 +239618,7 @@ L'ordonnance du 21 avril 1944 accorde aux femmes le droit de vote et d'éligibil
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q10)
 
@@ -239633,7 +239633,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V03_Q10)
 
@@ -240055,7 +240055,7 @@ La liberté religieuse est garantie en France. Chacun est libre de croire, de pr
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V04_Q03)
 
@@ -240070,7 +240070,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V04_Q03)
 
@@ -240833,7 +240833,7 @@ Les cours de sport font partie des enseignements obligatoires. La mixité entre 
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](ENT_CR_LVL_INT_V05_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> Le jour d'histoire est arrivé.](ENT_CR_LVL_INT_V05_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le jour de la Révolution est arrivé.](ENT_CR_LVL_INT_V05_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivé.](ENT_CR_LVL_INT_V05_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivée.](ENT_CR_LVL_INT_V05_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -241190,7 +241190,7 @@ Le musée du Louvre est situé à Paris. C'est l'un des plus grands musées du m
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_LVL_INT_V05_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_LVL_INT_V05_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_LVL_INT_V05_Q09_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_LVL_INT_V05_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_LVL_INT_V05_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -242539,7 +242539,7 @@ En France, les membres du gouvernement doivent respecter la loi. Ils ne sont pas
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V07_Q05)
 
@@ -242554,7 +242554,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V07_Q05)
 
@@ -243180,7 +243180,7 @@ Le diplôme national du brevet évalue les connaissances et compétences acquise
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V08_Q02)
 
@@ -243195,7 +243195,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V08_Q02)
 
@@ -243231,7 +243231,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V08_Q03)
 
@@ -243246,7 +243246,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V08_Q03)
 
@@ -243623,7 +243623,7 @@ En France, l'instruction est obligatoire pour tous les enfants à partir de 3 an
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_LVL_INT_V08_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_LVL_INT_V08_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_LVL_INT_V08_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_LVL_INT_V08_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_LVL_INT_V08_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -243974,7 +243974,7 @@ En France, l'instruction est obligatoire pour tous les enfants à partir de 3 an
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V09_Q02)
 
@@ -243989,7 +243989,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V09_Q02)
 
@@ -244025,7 +244025,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V09_Q03)
 
@@ -244040,7 +244040,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_INT_V09_Q03)
 
@@ -244749,7 +244749,7 @@ Les heures supplémentaires sont encadrées par le Code du travail. Elles doiven
 
 **Quelle est la devise de la France ?**
 
-1. [<span class="qcm-letter">A</span> Liberté, Justice, Egalité,](ENT_CR_LVL_INT_V10_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> Liberté, Justice, Égalité,](ENT_CR_LVL_INT_V10_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Travail, Famille, Patrie.](ENT_CR_LVL_INT_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Égalité, Fraternité.](ENT_CR_LVL_INT_V10_Q01_VRAI)
 1. [<span class="qcm-letter">D</span> Égalité, Solidarité, Liberté,](ENT_CR_LVL_INT_V10_Q01_FAUX)
@@ -245007,7 +245007,7 @@ Face à des violences, il est important d'agir en alertant les secours ou les fo
 1. [<span class="qcm-letter">A</span> Oui.](ENT_CR_LVL_INT_V10_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> Cela dépend du contrat de mariage signé.](ENT_CR_LVL_INT_V10_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement avec l'accord de la famille.](ENT_CR_LVL_INT_V10_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'Etat.](ENT_CR_LVL_INT_V10_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'État.](ENT_CR_LVL_INT_V10_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -245350,14 +245350,14 @@ La Déclaration des droits de l'homme et du citoyen de 1789 affirme que « La lo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_INT_V10_Q13
-<span hidden data-civi-question="bf36430c3fdfc4ea" data-kind="entrainement" data-screen="ENT_CR_LVL_INT_V10_Q13"></span>
+<span hidden data-civi-question="29c06e8a4fbbfeb1" data-kind="entrainement" data-screen="ENT_CR_LVL_INT_V10_Q13"></span>
 ### 📝 Question 13 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **12/15 réponses données**
 
 <!-- Source cr : MS-T3-036 -->
 
-Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
+Vanessa, une de vos amies, vous demande laquelle de ces infractions constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -245386,7 +245386,7 @@ Le vol est un délit. En droit français, les infractions sont classées en troi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_INT_V10_Q13_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|bf36430c3fdfc4ea|")`
+`@entMistakes = calc((@entMistakes || "")+"|29c06e8a4fbbfeb1|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Un vol.**
@@ -245704,7 +245704,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V01_Q04)
 
@@ -245719,7 +245719,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V01_Q04)
 
@@ -247241,7 +247241,7 @@ La Charte de la laïcité à l'école interdit le prosélytisme et les pressions
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V03_Q03)
 
@@ -247256,7 +247256,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V03_Q03)
 
@@ -250401,7 +250401,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_LVL_DIF_V07_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -250468,7 +250468,7 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V07_Q04)
 
@@ -250483,7 +250483,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V07_Q04)
 
@@ -251195,7 +251195,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_LVL_DIF_V08_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -252850,7 +252850,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V10_Q04)
 
@@ -252865,7 +252865,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V10_Q04)
 
@@ -253614,7 +253614,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](ENT_CR_LVL_TOUS_V01_Q02_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](ENT_CR_LVL_TOUS_V01_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](ENT_CR_LVL_TOUS_V01_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](ENT_CR_LVL_TOUS_V01_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](ENT_CR_LVL_TOUS_V01_Q02_VRAI)
@@ -254376,7 +254376,7 @@ Le droit syndical garantit aux salariés la liberté d'adhérer à un syndicat, 
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q02)
 
@@ -254391,7 +254391,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q02)
 
@@ -254478,7 +254478,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q04)
 
@@ -254493,7 +254493,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q04)
 
@@ -254529,7 +254529,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q05)
 
@@ -254544,7 +254544,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q05)
 
@@ -254819,7 +254819,7 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [<span class="qcm-letter">A</span> La préfecture.](ENT_CR_LVL_TOUS_V02_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](ENT_CR_LVL_TOUS_V02_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](ENT_CR_LVL_TOUS_V02_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](ENT_CR_LVL_TOUS_V02_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](ENT_CR_LVL_TOUS_V02_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -255323,7 +255323,7 @@ Le vote est personnel. Lorsqu'un électeur ne peut pas se déplacer, il peut don
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V03_Q05)
 
@@ -255338,7 +255338,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V03_Q05)
 
@@ -257552,7 +257552,7 @@ Les appareils électroménagers usagés doivent être déposés dans une déchè
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V06_Q02)
 
@@ -257567,7 +257567,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V06_Q02)
 
@@ -258397,7 +258397,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V07_Q03)
 
@@ -258412,7 +258412,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V07_Q03)
 
@@ -259191,7 +259191,7 @@ La Charte de la laïcité à l'école interdit le prosélytisme et les pressions
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V08_Q03)
 
@@ -259206,7 +259206,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V08_Q03)
 
@@ -259242,7 +259242,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V08_Q04)
 
@@ -259257,7 +259257,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V08_Q04)
 
@@ -260036,7 +260036,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V09_Q04)
 
@@ -260051,7 +260051,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V09_Q04)
 
@@ -260728,7 +260728,7 @@ L'aide juridictionnelle permet aux personnes disposant de faibles ressources de 
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V10_Q02)
 
@@ -260743,7 +260743,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V10_Q02)
 
@@ -260779,7 +260779,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V10_Q03)
 
@@ -260794,7 +260794,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V10_Q03)
 
@@ -260881,7 +260881,7 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V10_Q05)
 
@@ -260896,7 +260896,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V10_Q05)
 
@@ -262375,7 +262375,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_T1_Q_DIF_V02_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_T1_Q_DIF_V02_Q04_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_T1_Q_DIF_V02_Q04_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_T1_Q_DIF_V02_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_T1_Q_DIF_V02_Q04_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -263594,7 +263594,7 @@ La Journée nationale de la laïcité est célébrée le 9 décembre, date anniv
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_T1_Q_DIF_V04_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_T1_Q_DIF_V04_Q05_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_T1_Q_DIF_V04_Q05_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_T1_Q_DIF_V04_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_T1_Q_DIF_V04_Q05_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -265777,7 +265777,7 @@ La fraternité est l'une des trois valeurs de la devise républicaine. Elle invi
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_T1_Q_DIF_V08_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_T1_Q_DIF_V08_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_T1_Q_DIF_V08_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_T1_Q_DIF_V08_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_T1_Q_DIF_V08_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -267353,7 +267353,7 @@ La Marseillaise est l'hymne national français depuis 1795. Le vers exact est «
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_T1_Q_DIF_V10_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_T1_Q_DIF_V10_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_T1_Q_DIF_V10_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_T1_Q_DIF_V10_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_T1_Q_DIF_V10_Q10_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -268824,19 +268824,19 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V03_Q04
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V03_Q04"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V03_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V03_Q04_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V03_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](ENT_NAT_T2_Q_DIF_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](ENT_NAT_T2_Q_DIF_V03_Q04_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](ENT_NAT_T2_Q_DIF_V03_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](ENT_NAT_T2_Q_DIF_V03_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -268850,7 +268850,7 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V03_Q05)
 
@@ -268858,12 +268858,12 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V03_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|14d2866b7018e2fc|")`
+`@entMistakes = calc((@entMistakes || "")+"|2e4842ed61eb1c7e|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V03_Q05)
 
@@ -269404,19 +269404,19 @@ Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conse
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V04_Q04
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V04_Q04"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V04_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V04_Q04_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V04_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](ENT_NAT_T2_Q_DIF_V04_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](ENT_NAT_T2_Q_DIF_V04_Q04_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](ENT_NAT_T2_Q_DIF_V04_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](ENT_NAT_T2_Q_DIF_V04_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -269430,7 +269430,7 @@ Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conse
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V04_Q05)
 
@@ -269438,12 +269438,12 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V04_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|14d2866b7018e2fc|")`
+`@entMistakes = calc((@entMistakes || "")+"|2e4842ed61eb1c7e|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V04_Q05)
 
@@ -272167,19 +272167,19 @@ La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V09_Q01
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V09_Q01"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V09_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V09_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V09_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](ENT_NAT_T2_Q_DIF_V09_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](ENT_NAT_T2_Q_DIF_V09_Q01_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](ENT_NAT_T2_Q_DIF_V09_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](ENT_NAT_T2_Q_DIF_V09_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -272193,7 +272193,7 @@ La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V09_Q02)
 
@@ -272201,12 +272201,12 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V09_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|14d2866b7018e2fc|")`
+`@entMistakes = calc((@entMistakes || "")+"|2e4842ed61eb1c7e|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V09_Q02)
 
@@ -272747,19 +272747,19 @@ La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V10_Q01
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V10_Q01"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_DIF_V10_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V10_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_DIF_V10_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](ENT_NAT_T2_Q_DIF_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](ENT_NAT_T2_Q_DIF_V10_Q01_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](ENT_NAT_T2_Q_DIF_V10_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](ENT_NAT_T2_Q_DIF_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -272773,7 +272773,7 @@ La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V10_Q02)
 
@@ -272781,12 +272781,12 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_DIF_V10_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|14d2866b7018e2fc|")`
+`@entMistakes = calc((@entMistakes || "")+"|2e4842ed61eb1c7e|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_DIF_V10_Q02)
 
@@ -285228,7 +285228,7 @@ Depuis la loi de 2019, l'instruction est obligatoire dès l'âge de 3 ans.
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_DIF_V01_Q03_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_DIF_V01_Q03_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_DIF_V01_Q03_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_DIF_V01_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_DIF_V01_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -286549,7 +286549,7 @@ Pour une école publique, les parents effectuent d'abord l'inscription auprès d
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_DIF_V03_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_DIF_V03_Q06_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_DIF_V03_Q06_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_DIF_V03_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_DIF_V03_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -288681,7 +288681,7 @@ L'Assurance maladie prend en charge une partie des dépenses de santé. Une mutu
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_DIF_V07_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_DIF_V07_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_DIF_V07_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_DIF_V07_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_DIF_V07_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -289367,7 +289367,7 @@ La naissance d'un enfant doit obligatoirement être déclarée au service de l'�
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_DIF_V08_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_DIF_V08_Q04_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_DIF_V08_Q04_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_DIF_V08_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_DIF_V08_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -289849,7 +289849,7 @@ Le locataire peut librement réaliser des aménagements légers. En revanche, to
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_DIF_V09_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_DIF_V09_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_DIF_V09_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_DIF_V09_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_DIF_V09_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -292324,7 +292324,7 @@ Le service public applique le principe d'égalité : chaque usager bénéficie d
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](ENT_NAT_T1_Q_V03_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](ENT_NAT_T1_Q_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](ENT_NAT_T1_Q_V03_Q04_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](ENT_NAT_T1_Q_V03_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](ENT_NAT_T1_Q_V03_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -292375,7 +292375,7 @@ La neutralité de l'État est l'un des principes de la laïcité. Elle garantit 
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](ENT_NAT_T1_Q_V03_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_T1_Q_V03_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> La signature de la Constitution.](ENT_NAT_T1_Q_V03_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers Etats membres.](ENT_NAT_T1_Q_V03_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers États membres.](ENT_NAT_T1_Q_V03_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -292805,7 +292805,7 @@ En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefoi
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_T1_Q_V04_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_T1_Q_V04_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_T1_Q_V04_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_T1_Q_V04_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_T1_Q_V04_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -294558,7 +294558,7 @@ Le service public applique le principe d'égalité : chaque usager bénéficie d
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](ENT_NAT_T1_Q_V07_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](ENT_NAT_T1_Q_V07_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](ENT_NAT_T1_Q_V07_Q02_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](ENT_NAT_T1_Q_V07_Q02_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](ENT_NAT_T1_Q_V07_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -294609,7 +294609,7 @@ La neutralité de l'État est l'un des principes de la laïcité. Elle garantit 
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](ENT_NAT_T1_Q_V07_Q03_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_T1_Q_V07_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> La signature de la Constitution.](ENT_NAT_T1_Q_V07_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers Etats membres.](ENT_NAT_T1_Q_V07_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers États membres.](ENT_NAT_T1_Q_V07_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -294965,7 +294965,7 @@ En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefoi
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_T1_Q_V07_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_T1_Q_V07_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_T1_Q_V07_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_T1_Q_V07_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_T1_Q_V07_Q10_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -296718,7 +296718,7 @@ Le service public applique le principe d'égalité : chaque usager bénéficie d
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](ENT_NAT_T1_Q_V10_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](ENT_NAT_T1_Q_V10_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](ENT_NAT_T1_Q_V10_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](ENT_NAT_T1_Q_V10_Q10_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](ENT_NAT_T1_Q_V10_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -297859,14 +297859,14 @@ Après les élections municipales, les conseillers municipaux se réunissent pou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V02_Q09
-<span hidden data-civi-question="382f63fabf959435" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V02_Q09"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V02_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](ENT_NAT_T2_Q_V02_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](ENT_NAT_T2_Q_V02_Q09_FAUX)
@@ -297895,7 +297895,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V02_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|382f63fabf959435|")`
+`@entMistakes = calc((@entMistakes || "")+"|119f6c87a2852c53|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Le représentant de l'État dans le département.**
@@ -298874,19 +298874,19 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V04_Q06
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V04_Q06"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V04_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_V04_Q06_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_V04_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](ENT_NAT_T2_Q_V04_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](ENT_NAT_T2_Q_V04_Q06_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](ENT_NAT_T2_Q_V04_Q06_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](ENT_NAT_T2_Q_V04_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -298900,7 +298900,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_V04_Q07)
 
@@ -298908,12 +298908,12 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V04_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|14d2866b7018e2fc|")`
+`@entMistakes = calc((@entMistakes || "")+"|2e4842ed61eb1c7e|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_V04_Q07)
 
@@ -301104,14 +301104,14 @@ Après les élections municipales, les conseillers municipaux se réunissent pou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V08_Q04
-<span hidden data-civi-question="382f63fabf959435" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V08_Q04"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V08_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](ENT_NAT_T2_Q_V08_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](ENT_NAT_T2_Q_V08_Q04_FAUX)
@@ -301140,7 +301140,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V08_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|382f63fabf959435|")`
+`@entMistakes = calc((@entMistakes || "")+"|119f6c87a2852c53|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Le représentant de l'État dans le département.**
@@ -302119,19 +302119,19 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V10_Q01
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V10_Q01"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="entrainement" data-screen="ENT_NAT_T2_Q_V10_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_V10_Q01_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](ENT_NAT_T2_Q_V10_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](ENT_NAT_T2_Q_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](ENT_NAT_T2_Q_V10_Q01_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](ENT_NAT_T2_Q_V10_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](ENT_NAT_T2_Q_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -302145,7 +302145,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_V10_Q02)
 
@@ -302153,12 +302153,12 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_Q_V10_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|14d2866b7018e2fc|")`
+`@entMistakes = calc((@entMistakes || "")+"|2e4842ed61eb1c7e|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 1. [➡️ Question suivante](ENT_NAT_T2_Q_V10_Q02)
 
@@ -309029,7 +309029,7 @@ Le 11 novembre commémore l'Armistice signé en 1918, qui met fin aux combats de
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 1. [<span class="qcm-letter">A</span> La Communauté européenne du charbon et de l'acier (CECA).](ENT_NAT_T4_Q_V01_Q09_VRAI)
-1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les Etats membres.](ENT_NAT_T4_Q_V01_Q09_FAUX)
+1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les États membres.](ENT_NAT_T4_Q_V01_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Le traité de Maastricht pour instaurer une citoyenneté européenne.](ENT_NAT_T4_Q_V01_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> La mise en place d'une monnaie commune : l'Euro.](ENT_NAT_T4_Q_V01_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
@@ -313877,7 +313877,7 @@ Le 11 novembre commémore l'Armistice signé en 1918, qui met fin aux combats de
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 1. [<span class="qcm-letter">A</span> La Communauté européenne du charbon et de l'acier (CECA).](ENT_NAT_T4_Q_V10_Q01_VRAI)
-1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les Etats membres.](ENT_NAT_T4_Q_V10_Q01_FAUX)
+1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les États membres.](ENT_NAT_T4_Q_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le traité de Maastricht pour instaurer une citoyenneté européenne.](ENT_NAT_T4_Q_V10_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> La mise en place d'une monnaie commune : l'Euro.](ENT_NAT_T4_Q_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
@@ -316250,7 +316250,7 @@ La mutuelle santé, ou complémentaire santé, rembourse tout ou partie des dép
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_V04_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_V04_Q01_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_V04_Q01_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_V04_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_V04_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -318790,7 +318790,7 @@ La mutuelle santé, ou complémentaire santé, rembourse tout ou partie des dép
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_T5_Q_V08_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_T5_Q_V08_Q05_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_T5_Q_V08_Q05_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_T5_Q_V08_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_T5_Q_V08_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -320514,7 +320514,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V01_Q04
-<span hidden data-civi-question="9c317555828f1beb" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V01_Q04"></span>
+<span hidden data-civi-question="1108d12d4272cf30" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V01_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
@@ -320523,7 +320523,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 
 En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , ainsi vous ne retravaillez pas avant mercredi 15 juillet. Vous vous demandez à quoi correspond le 14 juillet pour être un jour reconnu comme férié.
 
-**A quoi correspond la date du 14 juillet ?**
+**À quoi correspond la date du 14 juillet ?**
 
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête nationale française.](ENT_NAT_T1_MIS_V01_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_T1_MIS_V01_Q04_FAUX)
@@ -320550,7 +320550,7 @@ Le 14 juillet est la fête nationale française. Elle rappelle la Révolution fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V01_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9c317555828f1beb|")`
+`@entMistakes = calc((@entMistakes || "")+"|1108d12d4272cf30|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — La prise de la Bastille en 1789 et la Fête nationale française.**
@@ -320624,7 +320624,7 @@ Sylvain, un de vos amis vous dit qu'il vient d'être accepté en tant qu'agent d
 **Que peut faire un usager du service public dans une mairie ?**
 
 1. [<span class="qcm-letter">A</span> Accéder aux services publics dans les mêmes conditions que tous les autres usagers.](ENT_NAT_T1_MIS_V01_Q06_VRAI)
-1. [<span class="qcm-letter">B</span> Être prioritaire pour toutes les démarches administratives et disposer de primes de l'Etat.](ENT_NAT_T1_MIS_V01_Q06_FAUX)
+1. [<span class="qcm-letter">B</span> Être prioritaire pour toutes les démarches administratives et disposer de primes de l'État.](ENT_NAT_T1_MIS_V01_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Obtenir un service réservé à certaines personnes.](ENT_NAT_T1_MIS_V01_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Choisir les règles de la mairie.](ENT_NAT_T1_MIS_V01_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -320980,14 +320980,14 @@ La loi de 2004 interdit aux élèves des écoles publiques le port de signes rel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q02
-<span hidden data-civi-question="9431bb003fa3ba68" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q02"></span>
+<span hidden data-civi-question="a2c1199319e03ab6" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-022 -->
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -321016,7 +321016,7 @@ Toutes les personnes sont égales en droits devant la loi, sans discrimination .
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9431bb003fa3ba68|")`
+`@entMistakes = calc((@entMistakes || "")+"|a2c1199319e03ab6|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Toutes les personnes sont égales en droits devant la loi, sans discrimination.**
@@ -321141,7 +321141,7 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe, la tour Eiffel, le béret et la baguette.](ENT_NAT_T1_MIS_V02_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_NAT_T1_MIS_V02_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, la mode et le parfum.](ENT_NAT_T1_MIS_V02_Q05_FAUX)
-1. [<span class="qcm-letter">D</span> Le guide Michelin, Edith Piaf, Louis XVI et la gastronomie.](ENT_NAT_T1_MIS_V02_Q05_FAUX)
+1. [<span class="qcm-letter">D</span> Le guide Michelin, Édith Piaf, Louis XVI et la gastronomie.](ENT_NAT_T1_MIS_V02_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -321176,14 +321176,14 @@ Les quatre symboles officiels de la République française sont le drapeau trico
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q06
-<span hidden data-civi-question="c11c29981295f9e4" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q06"></span>
+<span hidden data-civi-question="3aceb5980552b02c" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-023 -->
 
-Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion . Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
+Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion. Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
 
 **Une personne peut-elle changer librement de religion en France ?**
 
@@ -321212,7 +321212,7 @@ Oui, chacun est libre de changer de religion. La liberté de conscience garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c11c29981295f9e4|")`
+`@entMistakes = calc((@entMistakes || "")+"|3aceb5980552b02c|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui, chacun est libre de changer de religion.**
@@ -321323,7 +321323,7 @@ La loi du 9 décembre 1905 organise la séparation des Églises et de l'État et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q09
-<span hidden data-civi-question="6341985f99e9fdff" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q09"></span>
+<span hidden data-civi-question="771f05d6588f584b" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
@@ -321335,7 +321335,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Égalité, Fierté.](ENT_NAT_T1_MIS_V02_Q09_FAUX)
-1. [<span class="qcm-letter">B</span> Liberté, Egalité, Fraternité.](ENT_NAT_T1_MIS_V02_Q09_VRAI)
+1. [<span class="qcm-letter">B</span> Liberté, Égalité, Fraternité.](ENT_NAT_T1_MIS_V02_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Égalité, Travail, Patrie.](ENT_NAT_T1_MIS_V02_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Solidarité, Égalité.](ENT_NAT_T1_MIS_V02_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -321349,7 +321349,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -321359,10 +321359,10 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6341985f99e9fdff|")`
+`@entMistakes = calc((@entMistakes || "")+"|771f05d6588f584b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -321372,14 +321372,14 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q10
-<span hidden data-civi-question="1431ce325376cd92" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q10"></span>
+<span hidden data-civi-question="69ed6be5fd186321" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V02_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-016 -->
 
-Pendant une discussion avec un ami devant un match de football. Vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
+Pendant une discussion avec un ami devant un match de football, vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
 
 **Quel symbole peut-on voir sur les maillots de l'équipe de France de football ?**
 
@@ -321408,7 +321408,7 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V02_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1431ce325376cd92|")`
+`@entMistakes = calc((@entMistakes || "")+"|69ed6be5fd186321|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Le coq.**
@@ -321495,14 +321495,14 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V03_Q01
-<span hidden data-civi-question="a7aba09009d98201" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V03_Q01"></span>
+<span hidden data-civi-question="25e4fb4c11f7f55d" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V03_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-027 -->
 
-Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Eglise comme la dîme. Il vous interroge et vous demande si vous savez :
+Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Église comme la dîme. Il vous interroge et vous demande si vous savez :
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
 
@@ -321531,7 +321531,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V03_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|a7aba09009d98201|")`
+`@entMistakes = calc((@entMistakes || "")+"|25e4fb4c11f7f55d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — 1905.**
@@ -321544,14 +321544,14 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V03_Q02
-<span hidden data-civi-question="8c226c67e411c232" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V03_Q02"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V03_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -321580,7 +321580,7 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V03_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|8c226c67e411c232|")`
+`@entMistakes = calc((@entMistakes || "")+"|5033ce6aa7c68cbd|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — L'État ne favorise ni ne défavorise aucune religion.**
@@ -321593,14 +321593,14 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V03_Q03
-<span hidden data-civi-question="dee805e969adc662" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V03_Q03"></span>
+<span hidden data-civi-question="b8efc8ae2f79ccf8" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V03_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-009 -->
 
-Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
+Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y est écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
 
 **Où peut-on voir la devise de la République ?**
 
@@ -321629,7 +321629,7 @@ La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V03_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|dee805e969adc662|")`
+`@entMistakes = calc((@entMistakes || "")+"|b8efc8ae2f79ccf8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — Sur les bâtiments publics, notamment les mairies et les écoles.**
@@ -322059,14 +322059,14 @@ Les agents publics représentent l'État et les services publics. À ce titre, i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V04_Q01
-<span hidden data-civi-question="2ff6a4663d695971" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V04_Q01"></span>
+<span hidden data-civi-question="97a8ff49b527f72d" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V04_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-002 -->
 
-Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
+Arthur, votre ami d'enfance, va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
 
 **Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
 
@@ -322095,7 +322095,7 @@ Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V04_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2ff6a4663d695971|")`
+`@entMistakes = calc((@entMistakes || "")+"|97a8ff49b527f72d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.**
@@ -322206,14 +322206,14 @@ C'est la liberté de créer une association, d'y adhérer ou de ne pas y adhére
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V04_Q04
-<span hidden data-civi-question="baa8cc1dffaf4ba1" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V04_Q04"></span>
+<span hidden data-civi-question="5bfff78af6a26b2b" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V04_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-026 -->
 
-Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financer. En effet, elle a vu que dans d'autres pays les Etats pouvaient financer des lieux de culte par exemple.
+Catherine, votre amie d'enfance, vous demande ce que l'État français peut financer. En effet, elle a vu que dans d'autres pays les États pouvaient financer des lieux de culte par exemple.
 
 **En France, il est possible pour l'État de financer :**
 
@@ -322242,7 +322242,7 @@ Les aumôneries dans certains services publics (hôpitaux, prisons, armées) ».
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V04_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|baa8cc1dffaf4ba1|")`
+`@entMistakes = calc((@entMistakes || "")+"|5bfff78af6a26b2b|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les aumôneries dans certains services publics (hôpitaux, prisons, armées).**
@@ -322672,7 +322672,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V05_Q02
-<span hidden data-civi-question="9c317555828f1beb" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V05_Q02"></span>
+<span hidden data-civi-question="1108d12d4272cf30" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V05_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -322681,7 +322681,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 
 En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , ainsi vous ne retravaillez pas avant mercredi 15 juillet. Vous vous demandez à quoi correspond le 14 juillet pour être un jour reconnu comme férié.
 
-**A quoi correspond la date du 14 juillet ?**
+**À quoi correspond la date du 14 juillet ?**
 
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête nationale française.](ENT_NAT_T1_MIS_V05_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_T1_MIS_V05_Q02_FAUX)
@@ -322708,7 +322708,7 @@ Le 14 juillet est la fête nationale française. Elle rappelle la Révolution fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V05_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9c317555828f1beb|")`
+`@entMistakes = calc((@entMistakes || "")+"|1108d12d4272cf30|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — La prise de la Bastille en 1789 et la Fête nationale française.**
@@ -322782,7 +322782,7 @@ Sylvain, un de vos amis vous dit qu'il vient d'être accepté en tant qu'agent d
 **Que peut faire un usager du service public dans une mairie ?**
 
 1. [<span class="qcm-letter">A</span> Accéder aux services publics dans les mêmes conditions que tous les autres usagers.](ENT_NAT_T1_MIS_V05_Q04_VRAI)
-1. [<span class="qcm-letter">B</span> Être prioritaire pour toutes les démarches administratives et disposer de primes de l'Etat.](ENT_NAT_T1_MIS_V05_Q04_FAUX)
+1. [<span class="qcm-letter">B</span> Être prioritaire pour toutes les démarches administratives et disposer de primes de l'État.](ENT_NAT_T1_MIS_V05_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Obtenir un service réservé à certaines personnes.](ENT_NAT_T1_MIS_V05_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Choisir les règles de la mairie.](ENT_NAT_T1_MIS_V05_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -323064,14 +323064,14 @@ La loi de 2004 interdit aux élèves des écoles publiques le port de signes rel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V05_Q10
-<span hidden data-civi-question="9431bb003fa3ba68" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V05_Q10"></span>
+<span hidden data-civi-question="a2c1199319e03ab6" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V05_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-022 -->
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -323100,7 +323100,7 @@ Toutes les personnes sont égales en droits devant la loi, sans discrimination .
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V05_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9431bb003fa3ba68|")`
+`@entMistakes = calc((@entMistakes || "")+"|a2c1199319e03ab6|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Toutes les personnes sont égales en droits devant la loi, sans discrimination.**
@@ -323299,7 +323299,7 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe, la tour Eiffel, le béret et la baguette.](ENT_NAT_T1_MIS_V06_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_NAT_T1_MIS_V06_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, la mode et le parfum.](ENT_NAT_T1_MIS_V06_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> Le guide Michelin, Edith Piaf, Louis XVI et la gastronomie.](ENT_NAT_T1_MIS_V06_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Le guide Michelin, Édith Piaf, Louis XVI et la gastronomie.](ENT_NAT_T1_MIS_V06_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -323334,14 +323334,14 @@ Les quatre symboles officiels de la République française sont le drapeau trico
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q04
-<span hidden data-civi-question="c11c29981295f9e4" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q04"></span>
+<span hidden data-civi-question="3aceb5980552b02c" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-023 -->
 
-Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion . Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
+Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion. Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
 
 **Une personne peut-elle changer librement de religion en France ?**
 
@@ -323370,7 +323370,7 @@ Oui, chacun est libre de changer de religion. La liberté de conscience garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c11c29981295f9e4|")`
+`@entMistakes = calc((@entMistakes || "")+"|3aceb5980552b02c|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui, chacun est libre de changer de religion.**
@@ -323481,7 +323481,7 @@ La loi du 9 décembre 1905 organise la séparation des Églises et de l'État et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q07
-<span hidden data-civi-question="6341985f99e9fdff" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q07"></span>
+<span hidden data-civi-question="771f05d6588f584b" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -323493,7 +323493,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Égalité, Fierté.](ENT_NAT_T1_MIS_V06_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Liberté, Egalité, Fraternité.](ENT_NAT_T1_MIS_V06_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Liberté, Égalité, Fraternité.](ENT_NAT_T1_MIS_V06_Q07_VRAI)
 1. [<span class="qcm-letter">C</span> Égalité, Travail, Patrie.](ENT_NAT_T1_MIS_V06_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Solidarité, Égalité.](ENT_NAT_T1_MIS_V06_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -323507,7 +323507,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -323517,10 +323517,10 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6341985f99e9fdff|")`
+`@entMistakes = calc((@entMistakes || "")+"|771f05d6588f584b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -323530,14 +323530,14 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q08
-<span hidden data-civi-question="1431ce325376cd92" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q08"></span>
+<span hidden data-civi-question="69ed6be5fd186321" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-016 -->
 
-Pendant une discussion avec un ami devant un match de football. Vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
+Pendant une discussion avec un ami devant un match de football, vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
 
 **Quel symbole peut-on voir sur les maillots de l'équipe de France de football ?**
 
@@ -323566,7 +323566,7 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1431ce325376cd92|")`
+`@entMistakes = calc((@entMistakes || "")+"|69ed6be5fd186321|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Le coq.**
@@ -323579,14 +323579,14 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q09
-<span hidden data-civi-question="a7aba09009d98201" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q09"></span>
+<span hidden data-civi-question="25e4fb4c11f7f55d" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-027 -->
 
-Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Eglise comme la dîme. Il vous interroge et vous demande si vous savez :
+Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Église comme la dîme. Il vous interroge et vous demande si vous savez :
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
 
@@ -323615,7 +323615,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|a7aba09009d98201|")`
+`@entMistakes = calc((@entMistakes || "")+"|25e4fb4c11f7f55d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — 1905.**
@@ -323628,14 +323628,14 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q10
-<span hidden data-civi-question="8c226c67e411c232" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q10"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V06_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -323664,7 +323664,7 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V06_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|8c226c67e411c232|")`
+`@entMistakes = calc((@entMistakes || "")+"|5033ce6aa7c68cbd|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — L'État ne favorise ni ne défavorise aucune religion.**
@@ -323751,14 +323751,14 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V07_Q01
-<span hidden data-civi-question="dee805e969adc662" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V07_Q01"></span>
+<span hidden data-civi-question="b8efc8ae2f79ccf8" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V07_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-009 -->
 
-Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
+Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y est écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
 
 **Où peut-on voir la devise de la République ?**
 
@@ -323787,7 +323787,7 @@ La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V07_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|dee805e969adc662|")`
+`@entMistakes = calc((@entMistakes || "")+"|b8efc8ae2f79ccf8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — Sur les bâtiments publics, notamment les mairies et les écoles.**
@@ -324143,14 +324143,14 @@ Les agents publics représentent l'État et les services publics. À ce titre, i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V07_Q09
-<span hidden data-civi-question="2ff6a4663d695971" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V07_Q09"></span>
+<span hidden data-civi-question="97a8ff49b527f72d" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V07_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-002 -->
 
-Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
+Arthur, votre ami d'enfance, va passer un entretien professionnel dans quelques jours. Il est très stressé et se demande s'il doit répondre à toutes les questions.
 
 **Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
 
@@ -324179,7 +324179,7 @@ Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V07_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2ff6a4663d695971|")`
+`@entMistakes = calc((@entMistakes || "")+"|97a8ff49b527f72d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.**
@@ -324364,14 +324364,14 @@ C'est la liberté de créer une association, d'y adhérer ou de ne pas y adhére
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V08_Q02
-<span hidden data-civi-question="baa8cc1dffaf4ba1" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V08_Q02"></span>
+<span hidden data-civi-question="5bfff78af6a26b2b" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V08_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-026 -->
 
-Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financer. En effet, elle a vu que dans d'autres pays les Etats pouvaient financer des lieux de culte par exemple.
+Catherine, votre amie d'enfance, vous demande ce que l'État français peut financer. En effet, elle a vu que dans d'autres pays les États pouvaient financer des lieux de culte par exemple.
 
 **En France, il est possible pour l'État de financer :**
 
@@ -324400,7 +324400,7 @@ Les aumôneries dans certains services publics (hôpitaux, prisons, armées) ».
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V08_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|baa8cc1dffaf4ba1|")`
+`@entMistakes = calc((@entMistakes || "")+"|5bfff78af6a26b2b|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les aumôneries dans certains services publics (hôpitaux, prisons, armées).**
@@ -324756,7 +324756,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V08_Q10
-<span hidden data-civi-question="9c317555828f1beb" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V08_Q10"></span>
+<span hidden data-civi-question="1108d12d4272cf30" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V08_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
@@ -324765,7 +324765,7 @@ liberté d'association est une liberté fondamentale. Chacun est libre de créer
 
 En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , ainsi vous ne retravaillez pas avant mercredi 15 juillet. Vous vous demandez à quoi correspond le 14 juillet pour être un jour reconnu comme férié.
 
-**A quoi correspond la date du 14 juillet ?**
+**À quoi correspond la date du 14 juillet ?**
 
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête nationale française.](ENT_NAT_T1_MIS_V08_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_T1_MIS_V08_Q10_FAUX)
@@ -324792,7 +324792,7 @@ Le 14 juillet est la fête nationale française. Elle rappelle la Révolution fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V08_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9c317555828f1beb|")`
+`@entMistakes = calc((@entMistakes || "")+"|1108d12d4272cf30|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — La prise de la Bastille en 1789 et la Fête nationale française.**
@@ -324940,7 +324940,7 @@ Sylvain, un de vos amis vous dit qu'il vient d'être accepté en tant qu'agent d
 **Que peut faire un usager du service public dans une mairie ?**
 
 1. [<span class="qcm-letter">A</span> Accéder aux services publics dans les mêmes conditions que tous les autres usagers.](ENT_NAT_T1_MIS_V09_Q02_VRAI)
-1. [<span class="qcm-letter">B</span> Être prioritaire pour toutes les démarches administratives et disposer de primes de l'Etat.](ENT_NAT_T1_MIS_V09_Q02_FAUX)
+1. [<span class="qcm-letter">B</span> Être prioritaire pour toutes les démarches administratives et disposer de primes de l'État.](ENT_NAT_T1_MIS_V09_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Obtenir un service réservé à certaines personnes.](ENT_NAT_T1_MIS_V09_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Choisir les règles de la mairie.](ENT_NAT_T1_MIS_V09_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -325222,14 +325222,14 @@ La loi de 2004 interdit aux élèves des écoles publiques le port de signes rel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V09_Q08
-<span hidden data-civi-question="9431bb003fa3ba68" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V09_Q08"></span>
+<span hidden data-civi-question="a2c1199319e03ab6" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V09_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-022 -->
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -325258,7 +325258,7 @@ Toutes les personnes sont égales en droits devant la loi, sans discrimination .
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V09_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9431bb003fa3ba68|")`
+`@entMistakes = calc((@entMistakes || "")+"|a2c1199319e03ab6|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Toutes les personnes sont égales en droits devant la loi, sans discrimination.**
@@ -325457,7 +325457,7 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe, la tour Eiffel, le béret et la baguette.](ENT_NAT_T1_MIS_V10_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_NAT_T1_MIS_V10_Q01_VRAI)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, la mode et le parfum.](ENT_NAT_T1_MIS_V10_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Le guide Michelin, Edith Piaf, Louis XVI et la gastronomie.](ENT_NAT_T1_MIS_V10_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Le guide Michelin, Édith Piaf, Louis XVI et la gastronomie.](ENT_NAT_T1_MIS_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -325492,14 +325492,14 @@ Les quatre symboles officiels de la République française sont le drapeau trico
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q02
-<span hidden data-civi-question="c11c29981295f9e4" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q02"></span>
+<span hidden data-civi-question="3aceb5980552b02c" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-023 -->
 
-Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion . Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
+Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion. Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
 
 **Une personne peut-elle changer librement de religion en France ?**
 
@@ -325528,7 +325528,7 @@ Oui, chacun est libre de changer de religion. La liberté de conscience garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c11c29981295f9e4|")`
+`@entMistakes = calc((@entMistakes || "")+"|3aceb5980552b02c|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui, chacun est libre de changer de religion.**
@@ -325639,7 +325639,7 @@ La loi du 9 décembre 1905 organise la séparation des Églises et de l'État et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q05
-<span hidden data-civi-question="6341985f99e9fdff" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q05"></span>
+<span hidden data-civi-question="771f05d6588f584b" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
@@ -325651,7 +325651,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Égalité, Fierté.](ENT_NAT_T1_MIS_V10_Q05_FAUX)
-1. [<span class="qcm-letter">B</span> Liberté, Egalité, Fraternité.](ENT_NAT_T1_MIS_V10_Q05_VRAI)
+1. [<span class="qcm-letter">B</span> Liberté, Égalité, Fraternité.](ENT_NAT_T1_MIS_V10_Q05_VRAI)
 1. [<span class="qcm-letter">C</span> Égalité, Travail, Patrie.](ENT_NAT_T1_MIS_V10_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Solidarité, Égalité.](ENT_NAT_T1_MIS_V10_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -325665,7 +325665,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -325675,10 +325675,10 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6341985f99e9fdff|")`
+`@entMistakes = calc((@entMistakes || "")+"|771f05d6588f584b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -325688,14 +325688,14 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q06
-<span hidden data-civi-question="1431ce325376cd92" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q06"></span>
+<span hidden data-civi-question="69ed6be5fd186321" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-016 -->
 
-Pendant une discussion avec un ami devant un match de football. Vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
+Pendant une discussion avec un ami devant un match de football, vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
 
 **Quel symbole peut-on voir sur les maillots de l'équipe de France de football ?**
 
@@ -325724,7 +325724,7 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1431ce325376cd92|")`
+`@entMistakes = calc((@entMistakes || "")+"|69ed6be5fd186321|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Le coq.**
@@ -325737,14 +325737,14 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q07
-<span hidden data-civi-question="a7aba09009d98201" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q07"></span>
+<span hidden data-civi-question="25e4fb4c11f7f55d" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-027 -->
 
-Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Eglise comme la dîme. Il vous interroge et vous demande si vous savez :
+Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Église comme la dîme. Il vous interroge et vous demande si vous savez :
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
 
@@ -325773,7 +325773,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|a7aba09009d98201|")`
+`@entMistakes = calc((@entMistakes || "")+"|25e4fb4c11f7f55d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — 1905.**
@@ -325786,14 +325786,14 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q08
-<span hidden data-civi-question="8c226c67e411c232" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q08"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -325822,7 +325822,7 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|8c226c67e411c232|")`
+`@entMistakes = calc((@entMistakes || "")+"|5033ce6aa7c68cbd|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — L'État ne favorise ni ne défavorise aucune religion.**
@@ -325835,14 +325835,14 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q09
-<span hidden data-civi-question="dee805e969adc662" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q09"></span>
+<span hidden data-civi-question="b8efc8ae2f79ccf8" data-kind="entrainement" data-screen="ENT_NAT_T1_MIS_V10_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-009 -->
 
-Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
+Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y est écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
 
 **Où peut-on voir la devise de la République ?**
 
@@ -325871,7 +325871,7 @@ La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T1_MIS_V10_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|dee805e969adc662|")`
+`@entMistakes = calc((@entMistakes || "")+"|b8efc8ae2f79ccf8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — Sur les bâtiments publics, notamment les mairies et les écoles.**
@@ -326145,14 +326145,14 @@ Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V01_Q03
-<span hidden data-civi-question="347e5b837aa0e7b0" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V01_Q03"></span>
+<span hidden data-civi-question="b86cb38e18d122e8" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V01_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : MS-NAT-T2-010 -->
 
-Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
+Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quelle est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
 
 **À partir de quel âge devient-on électeur en France ?**
 
@@ -326181,7 +326181,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V01_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|347e5b837aa0e7b0|")`
+`@entMistakes = calc((@entMistakes || "")+"|b86cb38e18d122e8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — 18 ans.**
@@ -326194,14 +326194,14 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V01_Q04
-<span hidden data-civi-question="ccc2bc439bb00fb4" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V01_Q04"></span>
+<span hidden data-civi-question="fd99ed278415687f" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V01_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source nat : MS-NAT-T2-029 -->
 
-Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours.. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
+Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
 
 **Comment la Constitution peut-elle être révisée ?**
 
@@ -326230,7 +326230,7 @@ La Constitution est le texte juridique suprême. Sa révision suit une procédur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V01_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|ccc2bc439bb00fb4|")`
+`@entMistakes = calc((@entMistakes || "")+"|fd99ed278415687f|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — Par référendum ou par le Parlement réuni en Congrès.**
@@ -328145,7 +328145,7 @@ Après avoir vu le nom du préfet dans le journal local à propos d'un arrêté,
 1. [<span class="qcm-letter">A</span> Le maire de plusieurs villes.](ENT_NAT_T2_MIS_V04_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil municipal.](ENT_NAT_T2_MIS_V04_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Le représentant de l'État dans le département.](ENT_NAT_T2_MIS_V04_Q09_VRAI)
-1. [<span class="qcm-letter">D</span> Le représentant de l'Etat au sein du conseil municipal.](ENT_NAT_T2_MIS_V04_Q09_FAUX)
+1. [<span class="qcm-letter">D</span> Le représentant de l'État au sein du conseil municipal.](ENT_NAT_T2_MIS_V04_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -328597,14 +328597,14 @@ La France compte 101 départements : 96 en métropole et 5 en outre-mer.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V05_Q07
-<span hidden data-civi-question="afe9cc557cdb1806" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V05_Q07"></span>
+<span hidden data-civi-question="8e978311bc79e118" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V05_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source nat : MS-NAT-T2-022 -->
 
-Regardant les infos avec votre père, il confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
+Lorsque vous regardez les infos avec votre père, celui-ci confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
 
 **Qui dirige l'action du gouvernement au quotidien ?**
 
@@ -328633,7 +328633,7 @@ Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du go
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V05_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|afe9cc557cdb1806|")`
+`@entMistakes = calc((@entMistakes || "")+"|8e978311bc79e118|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Le Premier ministre.**
@@ -329161,14 +329161,14 @@ Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V06_Q07
-<span hidden data-civi-question="347e5b837aa0e7b0" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V06_Q07"></span>
+<span hidden data-civi-question="b86cb38e18d122e8" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V06_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source nat : MS-NAT-T2-010 -->
 
-Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
+Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quelle est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
 
 **À partir de quel âge devient-on électeur en France ?**
 
@@ -329197,7 +329197,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V06_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|347e5b837aa0e7b0|")`
+`@entMistakes = calc((@entMistakes || "")+"|b86cb38e18d122e8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — 18 ans.**
@@ -329210,14 +329210,14 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V06_Q08
-<span hidden data-civi-question="ccc2bc439bb00fb4" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V06_Q08"></span>
+<span hidden data-civi-question="fd99ed278415687f" data-kind="entrainement" data-screen="ENT_NAT_T2_MIS_V06_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source nat : MS-NAT-T2-029 -->
 
-Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours.. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
+Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une nouvelle qu'il a entendue à la radio ce matin. La constitution pourrait être révisée dans 15 jours. Votre collègue a été surpris car il ne pensait pas que cela était possible et il vous demande comment cela se passe.
 
 **Comment la Constitution peut-elle être révisée ?**
 
@@ -329246,7 +329246,7 @@ La Constitution est le texte juridique suprême. Sa révision suit une procédur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T2_MIS_V06_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|ccc2bc439bb00fb4|")`
+`@entMistakes = calc((@entMistakes || "")+"|fd99ed278415687f|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — Par référendum ou par le Parlement réuni en Congrès.**
@@ -331235,7 +331235,7 @@ Après avoir vu le nom du préfet dans le journal local à propos d'un arrêté,
 1. [<span class="qcm-letter">A</span> Le maire de plusieurs villes.](ENT_NAT_T2_MIS_V10_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil municipal.](ENT_NAT_T2_MIS_V10_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Le représentant de l'État dans le département.](ENT_NAT_T2_MIS_V10_Q03_VRAI)
-1. [<span class="qcm-letter">D</span> Le représentant de l'Etat au sein du conseil municipal.](ENT_NAT_T2_MIS_V10_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Le représentant de l'État au sein du conseil municipal.](ENT_NAT_T2_MIS_V10_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -332596,7 +332596,7 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
 
-1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'Etat.](ENT_NAT_T3_MIS_V02_Q07_FAUX)
+1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'État.](ENT_NAT_T3_MIS_V02_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> Oui tous les citoyens sont catholiques.](ENT_NAT_T3_MIS_V02_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Non mais tous les ministres et responsables politiques doivent avoir la même religion.](ENT_NAT_T3_MIS_V02_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Non, chacun est libre de croire ou de ne pas croire.](ENT_NAT_T3_MIS_V02_Q07_VRAI)
@@ -333296,14 +333296,14 @@ La liberté individuelle est un droit fondamental. Personne ne peut être arrêt
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T3_MIS_V03_Q10
-<span hidden data-civi-question="2f1992f608792172" data-kind="entrainement" data-screen="ENT_NAT_T3_MIS_V03_Q10"></span>
+<span hidden data-civi-question="ac493ec481f131ce" data-kind="entrainement" data-screen="ENT_NAT_T3_MIS_V03_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : MS-NAT-T3-031 -->
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -333332,7 +333332,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T3_MIS_V03_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2f1992f608792172|")`
+`@entMistakes = calc((@entMistakes || "")+"|ac493ec481f131ce|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Respecter les lois.**
@@ -334656,7 +334656,7 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
 
-1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'Etat.](ENT_NAT_T3_MIS_V06_Q03_FAUX)
+1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'État.](ENT_NAT_T3_MIS_V06_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Oui tous les citoyens sont catholiques.](ENT_NAT_T3_MIS_V06_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Non mais tous les ministres et responsables politiques doivent avoir la même religion.](ENT_NAT_T3_MIS_V06_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Non, chacun est libre de croire ou de ne pas croire.](ENT_NAT_T3_MIS_V06_Q03_VRAI)
@@ -335356,14 +335356,14 @@ La liberté individuelle est un droit fondamental. Personne ne peut être arrêt
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T3_MIS_V07_Q06
-<span hidden data-civi-question="2f1992f608792172" data-kind="entrainement" data-screen="ENT_NAT_T3_MIS_V07_Q06"></span>
+<span hidden data-civi-question="ac493ec481f131ce" data-kind="entrainement" data-screen="ENT_NAT_T3_MIS_V07_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : MS-NAT-T3-031 -->
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -335392,7 +335392,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T3_MIS_V07_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2f1992f608792172|")`
+`@entMistakes = calc((@entMistakes || "")+"|ac493ec481f131ce|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Respecter les lois.**
@@ -336642,7 +336642,7 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
 
-1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'Etat.](ENT_NAT_T3_MIS_V09_Q09_FAUX)
+1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'État.](ENT_NAT_T3_MIS_V09_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> Oui tous les citoyens sont catholiques.](ENT_NAT_T3_MIS_V09_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Non mais tous les ministres et responsables politiques doivent avoir la même religion.](ENT_NAT_T3_MIS_V09_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Non, chacun est libre de croire ou de ne pas croire.](ENT_NAT_T3_MIS_V09_Q09_VRAI)
@@ -337999,7 +337999,7 @@ Vous lisez un roman d'aventure. Dans ce roman, le héros est identifié comme ay
 
 **Réponse correcte : B — Voltaire.**
 
-Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées, écrits et essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées ainsi que les écrits et les essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
 
 1. [➡️ Question suivante](ENT_NAT_T4_MIS_V02_Q02)
 
@@ -338012,7 +338012,7 @@ Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'e
 
 **Réponse correcte : B — Voltaire.**
 
-Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées, écrits et essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées ainsi que les écrits et les essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
 
 1. [➡️ Question suivante](ENT_NAT_T4_MIS_V02_Q02)
 
@@ -338180,7 +338180,7 @@ Lors de votre visite dans un musée à Marseille, vous découvrez un tableau qui
 
 1. [<span class="qcm-letter">A</span> Paul Verlaine.](ENT_NAT_T4_MIS_V02_Q05_FAUX)
 1. [<span class="qcm-letter">B</span> Paul Cézanne.](ENT_NAT_T4_MIS_V02_Q05_VRAI)
-1. [<span class="qcm-letter">C</span> Paul Eluard.](ENT_NAT_T4_MIS_V02_Q05_FAUX)
+1. [<span class="qcm-letter">C</span> Paul Éluard.](ENT_NAT_T4_MIS_V02_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Claude Monet.](ENT_NAT_T4_MIS_V02_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -340889,14 +340889,14 @@ La France compte de nombreux peintres mondialement connus, notamment les impress
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V07_Q03
-<span hidden data-civi-question="5f21eb4bb49b063e" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V07_Q03"></span>
+<span hidden data-civi-question="994d83df19adb4f9" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V07_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : MS-NAT-T4-011 -->
 
-Un film que vous avez regardé au cinéma avec votre famille, relate l'histoire d'un paysan révolutionnaire. Votre femme reste assez choquée par la scène où le roi est guillotiné. A ce propos, elle vous demande :
+Un film que vous avez regardé au cinéma avec votre famille relate l'histoire d'un paysan révolutionnaire. Votre femme reste assez choquée par la scène où le roi est guillotiné. À ce propos, elle vous demande :
 
 **Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**
 
@@ -340925,7 +340925,7 @@ Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V07_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5f21eb4bb49b063e|")`
+`@entMistakes = calc((@entMistakes || "")+"|994d83df19adb4f9|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Louis XVI.**
@@ -342192,7 +342192,7 @@ Vous lisez un roman d'aventure. Dans ce roman, le héros est identifié comme ay
 
 **Réponse correcte : B — Voltaire.**
 
-Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées, écrits et essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées ainsi que les écrits et les essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
 
 1. [➡️ Question suivante](ENT_NAT_T4_MIS_V09_Q07)
 
@@ -342205,7 +342205,7 @@ Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'e
 
 **Réponse correcte : B — Voltaire.**
 
-Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées, écrits et essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées ainsi que les écrits et les essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
 
 1. [➡️ Question suivante](ENT_NAT_T4_MIS_V09_Q07)
 
@@ -342373,7 +342373,7 @@ Lors de votre visite dans un musée à Marseille, vous découvrez un tableau qui
 
 1. [<span class="qcm-letter">A</span> Paul Verlaine.](ENT_NAT_T4_MIS_V09_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> Paul Cézanne.](ENT_NAT_T4_MIS_V09_Q10_VRAI)
-1. [<span class="qcm-letter">C</span> Paul Eluard.](ENT_NAT_T4_MIS_V09_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Paul Éluard.](ENT_NAT_T4_MIS_V09_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Claude Monet.](ENT_NAT_T4_MIS_V09_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -345086,7 +345086,7 @@ Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous
 
 1. [<span class="qcm-letter">A</span> Une simple remarque de la part du proviseur de l'école.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_MIS_V04_Q07_VRAI)
-1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Education avec le rappel des devoirs parentaux.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
+1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Éducation avec le rappel des devoirs parentaux.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -347612,7 +347612,7 @@ Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous
 
 1. [<span class="qcm-letter">A</span> Une simple remarque de la part du proviseur de l'école.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_MIS_V09_Q01_VRAI)
-1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Education avec le rappel des devoirs parentaux.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
+1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Éducation avec le rappel des devoirs parentaux.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -349079,7 +349079,7 @@ La liberté de circulation est une liberté fondamentale. Elle permet de se dép
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 1. [<span class="qcm-letter">A</span> La Communauté européenne du charbon et de l'acier (CECA).](ENT_NAT_ALL_Q_V01_Q07_VRAI)
-1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les Etats membres.](ENT_NAT_ALL_Q_V01_Q07_FAUX)
+1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les États membres.](ENT_NAT_ALL_Q_V01_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Le traité de Maastricht pour instaurer une citoyenneté européenne.](ENT_NAT_ALL_Q_V01_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> La mise en place d'une monnaie commune : l'Euro.](ENT_NAT_ALL_Q_V01_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
@@ -350033,14 +350033,14 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_Q_V03_Q03
-<span hidden data-civi-question="382f63fabf959435" data-kind="entrainement" data-screen="ENT_NAT_ALL_Q_V03_Q03"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="entrainement" data-screen="ENT_NAT_ALL_Q_V03_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](ENT_NAT_ALL_Q_V03_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](ENT_NAT_ALL_Q_V03_Q03_FAUX)
@@ -350069,7 +350069,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_Q_V03_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|382f63fabf959435|")`
+`@entMistakes = calc((@entMistakes || "")+"|119f6c87a2852c53|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Le représentant de l'État dans le département.**
@@ -351694,7 +351694,7 @@ En France, les violences éducatives ordinaires, y compris les châtiments corpo
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_ALL_Q_V06_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_ALL_Q_V06_Q01_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_ALL_Q_V06_Q01_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_ALL_Q_V06_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_ALL_Q_V06_Q01_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -352913,7 +352913,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](ENT_NAT_ALL_Q_V08_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](ENT_NAT_ALL_Q_V08_Q02_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](ENT_NAT_ALL_Q_V08_Q02_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](ENT_NAT_ALL_Q_V08_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](ENT_NAT_ALL_Q_V08_Q02_VRAI)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -352953,14 +352953,14 @@ Les libertés sont garanties par la République, mais elles s'exercent dans le r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_Q_V08_Q03
-<span hidden data-civi-question="382f63fabf959435" data-kind="entrainement" data-screen="ENT_NAT_ALL_Q_V08_Q03"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="entrainement" data-screen="ENT_NAT_ALL_Q_V08_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](ENT_NAT_ALL_Q_V08_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](ENT_NAT_ALL_Q_V08_Q03_FAUX)
@@ -352989,7 +352989,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_Q_V08_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|382f63fabf959435|")`
+`@entMistakes = calc((@entMistakes || "")+"|119f6c87a2852c53|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Le représentant de l'État dans le département.**
@@ -354031,7 +354031,7 @@ En France, le mariage doit obligatoirement être célébré devant un officier d
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](ENT_NAT_ALL_Q_V10_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_ALL_Q_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> La signature de la Constitution.](ENT_NAT_ALL_Q_V10_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers Etats membres.](ENT_NAT_ALL_Q_V10_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers États membres.](ENT_NAT_ALL_Q_V10_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -356027,7 +356027,7 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
 
-1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'Etat.](ENT_NAT_ALL_MIS_V03_Q06_FAUX)
+1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'État.](ENT_NAT_ALL_MIS_V03_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> Oui tous les citoyens sont catholiques.](ENT_NAT_ALL_MIS_V03_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Non mais tous les ministres et responsables politiques doivent avoir la même religion.](ENT_NAT_ALL_MIS_V03_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Non, chacun est libre de croire ou de ne pas croire.](ENT_NAT_ALL_MIS_V03_Q06_VRAI)
@@ -356948,7 +356948,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V05_Q02
-<span hidden data-civi-question="9c317555828f1beb" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V05_Q02"></span>
+<span hidden data-civi-question="1108d12d4272cf30" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V05_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -356957,7 +356957,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle garantit
 
 En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , ainsi vous ne retravaillez pas avant mercredi 15 juillet. Vous vous demandez à quoi correspond le 14 juillet pour être un jour reconnu comme férié.
 
-**A quoi correspond la date du 14 juillet ?**
+**À quoi correspond la date du 14 juillet ?**
 
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête nationale française.](ENT_NAT_ALL_MIS_V05_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_ALL_MIS_V05_Q02_FAUX)
@@ -356984,7 +356984,7 @@ Le 14 juillet est la fête nationale française. Elle rappelle la Révolution fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V05_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9c317555828f1beb|")`
+`@entMistakes = calc((@entMistakes || "")+"|1108d12d4272cf30|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — La prise de la Bastille en 1789 et la Fête nationale française.**
@@ -357255,7 +357255,7 @@ Lors de votre visite dans un musée à Marseille, vous découvrez un tableau qui
 
 1. [<span class="qcm-letter">A</span> Paul Verlaine.](ENT_NAT_ALL_MIS_V05_Q08_FAUX)
 1. [<span class="qcm-letter">B</span> Paul Cézanne.](ENT_NAT_ALL_MIS_V05_Q08_VRAI)
-1. [<span class="qcm-letter">C</span> Paul Eluard.](ENT_NAT_ALL_MIS_V05_Q08_FAUX)
+1. [<span class="qcm-letter">C</span> Paul Éluard.](ENT_NAT_ALL_MIS_V05_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Claude Monet.](ENT_NAT_ALL_MIS_V05_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -357463,14 +357463,14 @@ Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V06_Q01
-<span hidden data-civi-question="8c226c67e411c232" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V06_Q01"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V06_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -357499,7 +357499,7 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V06_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|8c226c67e411c232|")`
+`@entMistakes = calc((@entMistakes || "")+"|5033ce6aa7c68cbd|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — L'État ne favorise ni ne défavorise aucune religion.**
@@ -357834,7 +357834,7 @@ Vous lisez un roman d'aventure. Dans ce roman, le héros est identifié comme ay
 
 **Réponse correcte : B — Voltaire.**
 
-Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées, écrits et essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées ainsi que les écrits et les essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
 
 1. [➡️ Question suivante](ENT_NAT_ALL_MIS_V06_Q09)
 
@@ -357847,7 +357847,7 @@ Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'e
 
 **Réponse correcte : B — Voltaire.**
 
-Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées, écrits et essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, comme Montesquieu ou Diderot. Toutes les pensées ainsi que les écrits et les essais des philosophes ont été consignés dans "L'Encyclopédie" qui a été publiée par Diderot et d'Alembert en 1751.
 
 1. [➡️ Question suivante](ENT_NAT_ALL_MIS_V06_Q09)
 
@@ -358027,7 +358027,7 @@ En France, un divorce peut être demandé par l'un des époux ou être engagé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q01
-<span hidden data-civi-question="6341985f99e9fdff" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q01"></span>
+<span hidden data-civi-question="771f05d6588f584b" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
@@ -358039,7 +358039,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Égalité, Fierté.](ENT_NAT_ALL_MIS_V07_Q01_FAUX)
-1. [<span class="qcm-letter">B</span> Liberté, Egalité, Fraternité.](ENT_NAT_ALL_MIS_V07_Q01_VRAI)
+1. [<span class="qcm-letter">B</span> Liberté, Égalité, Fraternité.](ENT_NAT_ALL_MIS_V07_Q01_VRAI)
 1. [<span class="qcm-letter">C</span> Égalité, Travail, Patrie.](ENT_NAT_ALL_MIS_V07_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Solidarité, Égalité.](ENT_NAT_ALL_MIS_V07_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -358053,7 +358053,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -358063,10 +358063,10 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6341985f99e9fdff|")`
+`@entMistakes = calc((@entMistakes || "")+"|771f05d6588f584b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -358076,14 +358076,14 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q02
-<span hidden data-civi-question="8c226c67e411c232" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q02"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -358112,7 +358112,7 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|8c226c67e411c232|")`
+`@entMistakes = calc((@entMistakes || "")+"|5033ce6aa7c68cbd|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — L'État ne favorise ni ne défavorise aucune religion.**
@@ -358125,14 +358125,14 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q03
-<span hidden data-civi-question="afe9cc557cdb1806" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q03"></span>
+<span hidden data-civi-question="8e978311bc79e118" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : MS-NAT-T2-022 -->
 
-Regardant les infos avec votre père, il confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
+Lorsque vous regardez les infos avec votre père, celui-ci confond souvent les rôles du président et du Premier ministre. Il vous demande lequel des deux dirige l'action du gouvernement au jour le jour.
 
 **Qui dirige l'action du gouvernement au quotidien ?**
 
@@ -358161,7 +358161,7 @@ Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du go
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|afe9cc557cdb1806|")`
+`@entMistakes = calc((@entMistakes || "")+"|8e978311bc79e118|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Le Premier ministre.**
@@ -358188,7 +358188,7 @@ Après avoir vu le nom du préfet dans le journal local à propos d'un arrêté,
 1. [<span class="qcm-letter">A</span> Le maire de plusieurs villes.](ENT_NAT_ALL_MIS_V07_Q04_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil municipal.](ENT_NAT_ALL_MIS_V07_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Le représentant de l'État dans le département.](ENT_NAT_ALL_MIS_V07_Q04_VRAI)
-1. [<span class="qcm-letter">D</span> Le représentant de l'Etat au sein du conseil municipal.](ENT_NAT_ALL_MIS_V07_Q04_FAUX)
+1. [<span class="qcm-letter">D</span> Le représentant de l'État au sein du conseil municipal.](ENT_NAT_ALL_MIS_V07_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -358321,14 +358321,14 @@ En France, la polygamie est interdite. Une personne ne peut être mariée qu'à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q07
-<span hidden data-civi-question="5f21eb4bb49b063e" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q07"></span>
+<span hidden data-civi-question="994d83df19adb4f9" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V07_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source nat : MS-NAT-T4-011 -->
 
-Un film que vous avez regardé au cinéma avec votre famille, relate l'histoire d'un paysan révolutionnaire. Votre femme reste assez choquée par la scène où le roi est guillotiné. A ce propos, elle vous demande :
+Un film que vous avez regardé au cinéma avec votre famille relate l'histoire d'un paysan révolutionnaire. Votre femme reste assez choquée par la scène où le roi est guillotiné. À ce propos, elle vous demande :
 
 **Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**
 
@@ -358357,7 +358357,7 @@ Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V07_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|5f21eb4bb49b063e|")`
+`@entMistakes = calc((@entMistakes || "")+"|994d83df19adb4f9|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Louis XVI.**
@@ -358591,14 +358591,14 @@ Le conseil de prud'hommes est une juridiction spécialisée qui traite les confl
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V08_Q01
-<span hidden data-civi-question="a7aba09009d98201" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V08_Q01"></span>
+<span hidden data-civi-question="25e4fb4c11f7f55d" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V08_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : MS-NAT-T1-027 -->
 
-Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Eglise comme la dîme. Il vous interroge et vous demande si vous savez :
+Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Église comme la dîme. Il vous interroge et vous demande si vous savez :
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
 
@@ -358627,7 +358627,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V08_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|a7aba09009d98201|")`
+`@entMistakes = calc((@entMistakes || "")+"|25e4fb4c11f7f55d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — 1905.**
@@ -360124,7 +360124,7 @@ Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous
 
 1. [<span class="qcm-letter">A</span> Une simple remarque de la part du proviseur de l'école.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_ALL_MIS_V10_Q09_VRAI)
-1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Education avec le rappel des devoirs parentaux.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
+1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Éducation avec le rappel des devoirs parentaux.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -361627,7 +361627,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_FAC_V02_Q11
-<span hidden data-civi-question="c11c29981295f9e4" data-kind="entrainement" data-screen="ENT_NAT_LVL_FAC_V02_Q11"></span>
+<span hidden data-civi-question="3aceb5980552b02c" data-kind="entrainement" data-screen="ENT_NAT_LVL_FAC_V02_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -361636,7 +361636,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 
 <!-- Source nat : MS-NAT-T1-023 -->
 
-Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion . Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
+Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion. Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
 
 **Une personne peut-elle changer librement de religion en France ?**
 
@@ -361665,7 +361665,7 @@ Oui, chacun est libre de changer de religion. La liberté de conscience garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_FAC_V02_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c11c29981295f9e4|")`
+`@entMistakes = calc((@entMistakes || "")+"|3aceb5980552b02c|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui, chacun est libre de changer de religion.**
@@ -361738,7 +361738,7 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
 
-1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'Etat.](ENT_NAT_LVL_FAC_V02_Q13_FAUX)
+1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'État.](ENT_NAT_LVL_FAC_V02_Q13_FAUX)
 1. [<span class="qcm-letter">B</span> Oui tous les citoyens sont catholiques.](ENT_NAT_LVL_FAC_V02_Q13_FAUX)
 1. [<span class="qcm-letter">C</span> Non mais tous les ministres et responsables politiques doivent avoir la même religion.](ENT_NAT_LVL_FAC_V02_Q13_FAUX)
 1. [<span class="qcm-letter">D</span> Non, chacun est libre de croire ou de ne pas croire.](ENT_NAT_LVL_FAC_V02_Q13_VRAI)
@@ -362421,7 +362421,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_FAC_V03_Q11
-<span hidden data-civi-question="c11c29981295f9e4" data-kind="entrainement" data-screen="ENT_NAT_LVL_FAC_V03_Q11"></span>
+<span hidden data-civi-question="3aceb5980552b02c" data-kind="entrainement" data-screen="ENT_NAT_LVL_FAC_V03_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -362430,7 +362430,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 
 <!-- Source nat : MS-NAT-T1-023 -->
 
-Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion . Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
+Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion. Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
 
 **Une personne peut-elle changer librement de religion en France ?**
 
@@ -362459,7 +362459,7 @@ Oui, chacun est libre de changer de religion. La liberté de conscience garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_FAC_V03_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c11c29981295f9e4|")`
+`@entMistakes = calc((@entMistakes || "")+"|3aceb5980552b02c|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui, chacun est libre de changer de religion.**
@@ -366502,7 +366502,7 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
 
-1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'Etat.](ENT_NAT_LVL_FAC_V08_Q13_FAUX)
+1. [<span class="qcm-letter">A</span> Oui, une seule religion est reconnue en France et par l'État.](ENT_NAT_LVL_FAC_V08_Q13_FAUX)
 1. [<span class="qcm-letter">B</span> Oui tous les citoyens sont catholiques.](ENT_NAT_LVL_FAC_V08_Q13_FAUX)
 1. [<span class="qcm-letter">C</span> Non mais tous les ministres et responsables politiques doivent avoir la même religion.](ENT_NAT_LVL_FAC_V08_Q13_FAUX)
 1. [<span class="qcm-letter">D</span> Non, chacun est libre de croire ou de ne pas croire.](ENT_NAT_LVL_FAC_V08_Q13_VRAI)
@@ -367979,7 +367979,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_FAC_V10_Q11
-<span hidden data-civi-question="c11c29981295f9e4" data-kind="entrainement" data-screen="ENT_NAT_LVL_FAC_V10_Q11"></span>
+<span hidden data-civi-question="3aceb5980552b02c" data-kind="entrainement" data-screen="ENT_NAT_LVL_FAC_V10_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -367988,7 +367988,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 
 <!-- Source nat : MS-NAT-T1-023 -->
 
-Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion . Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
+Vous regardez la télévision avec votre époux. Il s'agit d'un reportage sur la religion. Dans ce reportage, un homme explique qu'il a décidé de se convertir au judaïsme car il se sent plus proche de cette religion par rapport au catholicisme. Vous vous posez alors une question :
 
 **Une personne peut-elle changer librement de religion en France ?**
 
@@ -368017,7 +368017,7 @@ Oui, chacun est libre de changer de religion. La liberté de conscience garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_FAC_V10_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|c11c29981295f9e4|")`
+`@entMistakes = calc((@entMistakes || "")+"|3aceb5980552b02c|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Oui, chacun est libre de changer de religion.**
@@ -368315,7 +368315,7 @@ Ces mises en situation sont des exercices pédagogiques. Elles ne reproduisent p
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](ENT_NAT_LVL_INT_V01_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](ENT_NAT_LVL_INT_V01_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](ENT_NAT_LVL_INT_V01_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](ENT_NAT_LVL_INT_V01_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](ENT_NAT_LVL_INT_V01_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -370401,7 +370401,7 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V03_Q11
-<span hidden data-civi-question="baa8cc1dffaf4ba1" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V03_Q11"></span>
+<span hidden data-civi-question="5bfff78af6a26b2b" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V03_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -370410,7 +370410,7 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 
 <!-- Source nat : MS-NAT-T1-026 -->
 
-Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financer. En effet, elle a vu que dans d'autres pays les Etats pouvaient financer des lieux de culte par exemple.
+Catherine, votre amie d'enfance, vous demande ce que l'État français peut financer. En effet, elle a vu que dans d'autres pays les États pouvaient financer des lieux de culte par exemple.
 
 **En France, il est possible pour l'État de financer :**
 
@@ -370439,7 +370439,7 @@ Les aumôneries dans certains services publics (hôpitaux, prisons, armées) ».
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V03_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|baa8cc1dffaf4ba1|")`
+`@entMistakes = calc((@entMistakes || "")+"|5bfff78af6a26b2b|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Les aumôneries dans certains services publics (hôpitaux, prisons, armées).**
@@ -370697,7 +370697,7 @@ La contraception est un droit et dépend du choix de chacun. Différents moyens 
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](ENT_NAT_LVL_INT_V04_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](ENT_NAT_LVL_INT_V04_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](ENT_NAT_LVL_INT_V04_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](ENT_NAT_LVL_INT_V04_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](ENT_NAT_LVL_INT_V04_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -371195,7 +371195,7 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V04_Q11
-<span hidden data-civi-question="8c226c67e411c232" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V04_Q11"></span>
+<span hidden data-civi-question="5033ce6aa7c68cbd" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V04_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -371204,7 +371204,7 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 
 <!-- Source nat : MS-NAT-T1-024 -->
 
-Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'Etat français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
+Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV prévoit un voyage en France. Certains sont très contents de cette visite mais d'autres mettent en avant le fait que l'État français ne respecte pas la neutralité en finançant la protection du pape et d'autres coûts.
 
 **Selon le principe de laïcité, que signifie cette neutralité de l'État ?**
 
@@ -371233,7 +371233,7 @@ La neutralité de l'État est le principe par lequel la puissance publique s'abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V04_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|8c226c67e411c232|")`
+`@entMistakes = calc((@entMistakes || "")+"|5033ce6aa7c68cbd|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — L'État ne favorise ni ne défavorise aucune religion.**
@@ -371989,7 +371989,7 @@ En France, le mariage doit obligatoirement être célébré devant un officier d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V05_Q11
-<span hidden data-civi-question="1431ce325376cd92" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V05_Q11"></span>
+<span hidden data-civi-question="69ed6be5fd186321" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V05_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -371998,7 +371998,7 @@ En France, le mariage doit obligatoirement être célébré devant un officier d
 
 <!-- Source nat : MS-NAT-T1-016 -->
 
-Pendant une discussion avec un ami devant un match de football. Vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
+Pendant une discussion avec un ami devant un match de football, vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
 
 **Quel symbole peut-on voir sur les maillots de l'équipe de France de football ?**
 
@@ -372027,7 +372027,7 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V05_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1431ce325376cd92|")`
+`@entMistakes = calc((@entMistakes || "")+"|69ed6be5fd186321|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Le coq.**
@@ -372285,7 +372285,7 @@ En France, les femmes disposent des mêmes droits que les hommes pour créer une
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](ENT_NAT_LVL_INT_V06_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](ENT_NAT_LVL_INT_V06_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> La signature de la Constitution.](ENT_NAT_LVL_INT_V06_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers Etats membres.](ENT_NAT_LVL_INT_V06_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers États membres.](ENT_NAT_LVL_INT_V06_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -372783,7 +372783,7 @@ La contraception est un droit et dépend du choix de chacun. Différents moyens 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V06_Q11
-<span hidden data-civi-question="dee805e969adc662" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V06_Q11"></span>
+<span hidden data-civi-question="b8efc8ae2f79ccf8" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V06_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -372792,7 +372792,7 @@ La contraception est un droit et dépend du choix de chacun. Différents moyens 
 
 <!-- Source nat : MS-NAT-T1-009 -->
 
-Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
+Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y est écrit : Liberté, égalité, fraternité. Vous savez qu'il s'agit de la devise française mais vous vous demandez où vous l'aviez déjà vue auparavant.
 
 **Où peut-on voir la devise de la République ?**
 
@@ -372821,7 +372821,7 @@ La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V06_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|dee805e969adc662|")`
+`@entMistakes = calc((@entMistakes || "")+"|b8efc8ae2f79ccf8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : A — Sur les bâtiments publics, notamment les mairies et les écoles.**
@@ -373628,14 +373628,14 @@ La République française est « Indivisible, laïque, démocratique et sociale 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V07_Q12
-<span hidden data-civi-question="347e5b837aa0e7b0" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V07_Q12"></span>
+<span hidden data-civi-question="b86cb38e18d122e8" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V07_Q12"></span>
 ### 📝 Question 12 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **11/15 réponses données**
 
 <!-- Source nat : MS-NAT-T2-010 -->
 
-Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
+Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quelle est la majorité électorale en France car cela ne semble pas être pareil en Autriche.
 
 **À partir de quel âge devient-on électeur en France ?**
 
@@ -373664,7 +373664,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V07_Q12_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|347e5b837aa0e7b0|")`
+`@entMistakes = calc((@entMistakes || "")+"|b86cb38e18d122e8|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — 18 ans.**
@@ -374371,7 +374371,7 @@ Toute personne qui réside ou travaille en France de manière stable et réguli�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V08_Q11
-<span hidden data-civi-question="6341985f99e9fdff" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V08_Q11"></span>
+<span hidden data-civi-question="771f05d6588f584b" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V08_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -374385,7 +374385,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Égalité, Fierté.](ENT_NAT_LVL_INT_V08_Q11_FAUX)
-1. [<span class="qcm-letter">B</span> Liberté, Egalité, Fraternité.](ENT_NAT_LVL_INT_V08_Q11_VRAI)
+1. [<span class="qcm-letter">B</span> Liberté, Égalité, Fraternité.](ENT_NAT_LVL_INT_V08_Q11_VRAI)
 1. [<span class="qcm-letter">C</span> Égalité, Travail, Patrie.](ENT_NAT_LVL_INT_V08_Q11_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Solidarité, Égalité.](ENT_NAT_LVL_INT_V08_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
@@ -374399,7 +374399,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -374409,10 +374409,10 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V08_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6341985f99e9fdff|")`
+`@entMistakes = calc((@entMistakes || "")+"|771f05d6588f584b|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Liberté, Egalité, Fraternité.**
+**Réponse correcte : B — Liberté, Égalité, Fraternité.**
 
 La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
@@ -374436,7 +374436,7 @@ Après avoir vu le nom du préfet dans le journal local à propos d'un arrêté,
 1. [<span class="qcm-letter">A</span> Le maire de plusieurs villes.](ENT_NAT_LVL_INT_V08_Q12_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil municipal.](ENT_NAT_LVL_INT_V08_Q12_FAUX)
 1. [<span class="qcm-letter">C</span> Le représentant de l'État dans le département.](ENT_NAT_LVL_INT_V08_Q12_VRAI)
-1. [<span class="qcm-letter">D</span> Le représentant de l'Etat au sein du conseil municipal.](ENT_NAT_LVL_INT_V08_Q12_FAUX)
+1. [<span class="qcm-letter">D</span> Le représentant de l'État au sein du conseil municipal.](ENT_NAT_LVL_INT_V08_Q12_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -375551,14 +375551,14 @@ L'article 1er de la Constitution énonce que « La France est une République in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V10_Q03
-<span hidden data-civi-question="382f63fabf959435" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V10_Q03"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="entrainement" data-screen="ENT_NAT_LVL_INT_V10_Q03"></span>
 ### 📝 Question 3 sur 15
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **2/15 réponses données**
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](ENT_NAT_LVL_INT_V10_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](ENT_NAT_LVL_INT_V10_Q03_FAUX)
@@ -375587,7 +375587,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_INT_V10_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|382f63fabf959435|")`
+`@entMistakes = calc((@entMistakes || "")+"|119f6c87a2852c53|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — Le représentant de l'État dans le département.**
@@ -377587,7 +377587,7 @@ Depuis la loi de 2019, l'instruction est obligatoire dès l'âge de 3 ans.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V02_Q11
-<span hidden data-civi-question="9431bb003fa3ba68" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V02_Q11"></span>
+<span hidden data-civi-question="a2c1199319e03ab6" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V02_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -377596,7 +377596,7 @@ Depuis la loi de 2019, l'instruction est obligatoire dès l'âge de 3 ans.
 
 <!-- Source nat : MS-NAT-T1-022 -->
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -377625,7 +377625,7 @@ Toutes les personnes sont égales en droits devant la loi, sans discrimination .
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V02_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9431bb003fa3ba68|")`
+`@entMistakes = calc((@entMistakes || "")+"|a2c1199319e03ab6|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Toutes les personnes sont égales en droits devant la loi, sans discrimination.**
@@ -377687,14 +377687,14 @@ Pour être candidat à l'élection présidentielle, il faut notamment être de n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V02_Q13
-<span hidden data-civi-question="2f1992f608792172" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V02_Q13"></span>
+<span hidden data-civi-question="ac493ec481f131ce" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V02_Q13"></span>
 ### 📝 Question 13 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **12/15 réponses données**
 
 <!-- Source nat : MS-NAT-T3-031 -->
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -377723,7 +377723,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V02_Q13_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2f1992f608792172|")`
+`@entMistakes = calc((@entMistakes || "")+"|ac493ec481f131ce|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Respecter les lois.**
@@ -379929,7 +379929,7 @@ France Travail accompagne les demandeurs d'emploi dans leurs recherches, propose
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_LVL_DIF_V05_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_LVL_DIF_V05_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_LVL_DIF_V05_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_LVL_DIF_V05_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_LVL_DIF_V05_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -381557,7 +381557,7 @@ Les enfants allophones nouvellement arrivés en France sont scolarisés et peuve
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V07_Q11
-<span hidden data-civi-question="9431bb003fa3ba68" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V07_Q11"></span>
+<span hidden data-civi-question="a2c1199319e03ab6" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V07_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -381566,7 +381566,7 @@ Les enfants allophones nouvellement arrivés en France sont scolarisés et peuve
 
 <!-- Source nat : MS-NAT-T1-022 -->
 
-Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. A la fin vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
+Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un problème de mathématiques. À la fin, vous trouvez la solution et c'est une "égalité" parfaite. Assez surpris, vous comparez cela aux valeurs de la République pour donner un exemple à votre fille.
 
 **Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
 
@@ -381595,7 +381595,7 @@ Toutes les personnes sont égales en droits devant la loi, sans discrimination .
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V07_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|9431bb003fa3ba68|")`
+`@entMistakes = calc((@entMistakes || "")+"|a2c1199319e03ab6|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : B — Toutes les personnes sont égales en droits devant la loi, sans discrimination.**
@@ -386321,7 +386321,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance maladie po
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](ENT_NAT_LVL_TOUS_V03_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](ENT_NAT_LVL_TOUS_V03_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](ENT_NAT_LVL_TOUS_V03_Q10_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](ENT_NAT_LVL_TOUS_V03_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](ENT_NAT_LVL_TOUS_V03_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -386377,7 +386377,7 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe, la tour Eiffel, le béret et la baguette.](ENT_NAT_LVL_TOUS_V03_Q11_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_NAT_LVL_TOUS_V03_Q11_VRAI)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, la mode et le parfum.](ENT_NAT_LVL_TOUS_V03_Q11_FAUX)
-1. [<span class="qcm-letter">D</span> Le guide Michelin, Edith Piaf, Louis XVI et la gastronomie.](ENT_NAT_LVL_TOUS_V03_Q11_FAUX)
+1. [<span class="qcm-letter">D</span> Le guide Michelin, Édith Piaf, Louis XVI et la gastronomie.](ENT_NAT_LVL_TOUS_V03_Q11_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -386461,14 +386461,14 @@ L'État de droit repose sur le respect des lois par tous. Personne n'est au-dess
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V03_Q13
-<span hidden data-civi-question="2f1992f608792172" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V03_Q13"></span>
+<span hidden data-civi-question="ac493ec481f131ce" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V03_Q13"></span>
 ### 📝 Question 13 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **12/15 réponses données**
 
 <!-- Source nat : MS-NAT-T3-031 -->
 
-Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
+Cynthia, votre fille, révise ses cours d'enseignement moral et civique car elle a un examen vendredi. Elle vous interroge pour voir si vous connaissez vos devoirs en tant que citoyen. Voici sa question :
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
 
@@ -386497,7 +386497,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V03_Q13_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2f1992f608792172|")`
+`@entMistakes = calc((@entMistakes || "")+"|ac493ec481f131ce|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Respecter les lois.**
@@ -390331,7 +390331,7 @@ Le congé parental d'éducation permet à un salarié de suspendre ou réduire s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V08_Q11
-<span hidden data-civi-question="1431ce325376cd92" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V08_Q11"></span>
+<span hidden data-civi-question="69ed6be5fd186321" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V08_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -390340,7 +390340,7 @@ Le congé parental d'éducation permet à un salarié de suspendre ou réduire s
 
 <!-- Source nat : MS-NAT-T1-016 -->
 
-Pendant une discussion avec un ami devant un match de football. Vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
+Pendant une discussion avec un ami devant un match de football, vous entendez la Marseillaise et découvrez que les joueurs placent leur main sur leur maillot cachant quelque chose. Votre ami vous demande quel symbole non officiel est brodé sur le maillot de l'équipe de France.
 
 **Quel symbole peut-on voir sur les maillots de l'équipe de France de football ?**
 
@@ -390369,7 +390369,7 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V08_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1431ce325376cd92|")`
+`@entMistakes = calc((@entMistakes || "")+"|69ed6be5fd186321|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — Le coq.**
@@ -390396,7 +390396,7 @@ Après avoir vu le nom du préfet dans le journal local à propos d'un arrêté,
 1. [<span class="qcm-letter">A</span> Le maire de plusieurs villes.](ENT_NAT_LVL_TOUS_V08_Q12_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil municipal.](ENT_NAT_LVL_TOUS_V08_Q12_FAUX)
 1. [<span class="qcm-letter">C</span> Le représentant de l'État dans le département.](ENT_NAT_LVL_TOUS_V08_Q12_VRAI)
-1. [<span class="qcm-letter">D</span> Le représentant de l'Etat au sein du conseil municipal.](ENT_NAT_LVL_TOUS_V08_Q12_FAUX)
+1. [<span class="qcm-letter">D</span> Le représentant de l'État au sein du conseil municipal.](ENT_NAT_LVL_TOUS_V08_Q12_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -391125,7 +391125,7 @@ Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V09_Q11
-<span hidden data-civi-question="a7aba09009d98201" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V09_Q11"></span>
+<span hidden data-civi-question="25e4fb4c11f7f55d" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V09_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -391134,7 +391134,7 @@ Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une 
 
 <!-- Source nat : MS-NAT-T1-027 -->
 
-Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Eglise comme la dîme. Il vous interroge et vous demande si vous savez :
+Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Église comme la dîme. Il vous interroge et vous demande si vous savez :
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
 
@@ -391163,7 +391163,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V09_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|a7aba09009d98201|")`
+`@entMistakes = calc((@entMistakes || "")+"|25e4fb4c11f7f55d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — 1905.**
@@ -391919,7 +391919,7 @@ Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V10_Q11
-<span hidden data-civi-question="a7aba09009d98201" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V10_Q11"></span>
+<span hidden data-civi-question="25e4fb4c11f7f55d" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V10_Q11"></span>
 ### 📝 Question 11 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **10/15 réponses données**
@@ -391928,7 +391928,7 @@ Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une 
 
 <!-- Source nat : MS-NAT-T1-027 -->
 
-Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Eglise comme la dîme. Il vous interroge et vous demande si vous savez :
+Votre fils étudie l'histoire de France en classe. Il vous parle notamment des impôts mis en place par l'Église comme la dîme. Il vous interroge et vous demande si vous savez :
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
 
@@ -391957,7 +391957,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V10_Q11_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|a7aba09009d98201|")`
+`@entMistakes = calc((@entMistakes || "")+"|25e4fb4c11f7f55d|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : C — 1905.**

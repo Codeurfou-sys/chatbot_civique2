@@ -6926,7 +6926,7 @@ La devise « Liberté, Égalité, Fraternité » est inscrite sur de nombreux b�
 
 1. [<span class="qcm-letter">A</span> Le coq, Marianne , le béret et la baguette.](BIL_ITEM_CSP_011_FAUX)
 1. [<span class="qcm-letter">B</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](BIL_ITEM_CSP_011_VRAI)
-1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Elysée.](BIL_ITEM_CSP_011_FAUX)
+1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre, l'Arc de triomphe, l'Élysée.](BIL_ITEM_CSP_011_FAUX)
 1. [<span class="qcm-letter">D</span> Le béret, la baguette, le bœuf bourguignon, la blanquette de veau.](BIL_ITEM_CSP_011_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -7149,7 +7149,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 1. [<span class="qcm-letter">A</span> Être tous membres de la même famille.](BIL_ITEM_CSP_014_FAUX)
 1. [<span class="qcm-letter">B</span> La solidarité, l'entraide et le respect entre les personnes.](BIL_ITEM_CSP_014_VRAI)
 1. [<span class="qcm-letter">C</span> Être tous amis.](BIL_ITEM_CSP_014_FAUX)
-1. [<span class="qcm-letter">D</span> Etre égaux devant la loi.](BIL_ITEM_CSP_014_FAUX)
+1. [<span class="qcm-letter">D</span> Être égaux devant la loi.](BIL_ITEM_CSP_014_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7297,7 +7297,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 1. [<span class="qcm-letter">A</span> Faire respecter la loi.](BIL_ITEM_CSP_016_FAUX)
 1. [<span class="qcm-letter">B</span> Réunir des personnes ayant des centres d'intérêt communs.](BIL_ITEM_CSP_016_FAUX)
 1. [<span class="qcm-letter">C</span> Mener des actions d'intérêt général et développer des activités sportives, culturelles ou solidaires.](BIL_ITEM_CSP_016_VRAI)
-1. [<span class="qcm-letter">D</span> Aider l'Etat à prendre des décisions en apportant une expertise.](BIL_ITEM_CSP_016_FAUX)
+1. [<span class="qcm-letter">D</span> Aider l'État à prendre des décisions en apportant une expertise.](BIL_ITEM_CSP_016_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7591,7 +7591,7 @@ La fête nationale française est célébrée chaque année le 14 juillet. Elle 
 **Quelle est la devise de la République française ?**
 
 1. [<span class="qcm-letter">A</span> Liberté, Justice, Fraternité.](BIL_ITEM_CSP_020_FAUX)
-1. [<span class="qcm-letter">B</span> Egalité, Justice,Solidarité.](BIL_ITEM_CSP_020_FAUX)
+1. [<span class="qcm-letter">B</span> Égalité, Justice,Solidarité.](BIL_ITEM_CSP_020_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Solidarité, Fraternité.](BIL_ITEM_CSP_020_FAUX)
 1. [<span class="qcm-letter">D</span> Liberté, Égalité, Fraternité.](BIL_ITEM_CSP_020_VRAI)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
@@ -7684,7 +7684,7 @@ La devise de la République française exprime les trois valeurs fondamentales q
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -7710,7 +7710,7 @@ L'article 2 de la Constitution précise que « la langue de la République est l
 
 L'article 2 de la Constitution précise que « la langue de la République est le français ». C'est la langue utilisée par les administrations, les services publics et les institutions.
 
-💡 Retenez : le français est inscrit comme langue unique et officielle de l'Etat depuis 1992.
+💡 Retenez : le français est inscrit comme langue unique et officielle de l'État depuis 1992.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -7812,7 +7812,7 @@ Le français est la langue officielle de la République. Il est utilisé dans le
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
 
-1. [<span class="qcm-letter">A</span> La liberté d'opinon.](BIL_ITEM_CSP_023_FAUX)
+1. [<span class="qcm-letter">A</span> La liberté d'opinion.](BIL_ITEM_CSP_023_FAUX)
 1. [<span class="qcm-letter">B</span> La liberté de réunion.](BIL_ITEM_CSP_023_FAUX)
 1. [<span class="qcm-letter">C</span> La liberté d'expression.](BIL_ITEM_CSP_023_VRAI)
 1. [<span class="qcm-letter">D</span> La liberté de vote.](BIL_ITEM_CSP_023_FAUX)
@@ -9294,7 +9294,7 @@ Le respect de la loi est un devoir fondamental. Les lois garantissent les droits
 
 1. [<span class="qcm-letter">A</span> Seulement les Français.](BIL_ITEM_CSP_043_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement les adultes.](BIL_ITEM_CSP_043_FAUX)
-1. [<span class="qcm-letter">C</span> Seulement les personnes majeurs.](BIL_ITEM_CSP_043_FAUX)
+1. [<span class="qcm-letter">C</span> Seulement les personnes majeures.](BIL_ITEM_CSP_043_FAUX)
 1. [<span class="qcm-letter">D</span> Toutes les personnes présentes sur le territoire français.](BIL_ITEM_CSP_043_VRAI)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -10422,7 +10422,7 @@ Pour voter, il faut remplir plusieurs conditions. L'une des principales est d'ê
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -10448,7 +10448,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 
 Pour voter aux élections nationales, il faut être citoyen français, avoir au moins 18 ans et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut : - Etre citoyen français - Etre majeur - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut : - Être citoyen français - Être majeur - Être inscrit sur les listes électorales
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -10701,7 +10701,7 @@ Les députés siègent à l'Assemblée nationale. Ils représentent les citoyens
 1. [<span class="qcm-letter">A</span> Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](BIL_ITEM_CSP_062_VRAI)
 1. [<span class="qcm-letter">B</span> Le pouvoir de la justice, le pouvoir législatif et le pouvoir décisionnaire](BIL_ITEM_CSP_062_FAUX)
 1. [<span class="qcm-letter">C</span> Le pouvoir présidentiel, le pouvoir de l'armée et le pouvoir public.](BIL_ITEM_CSP_062_FAUX)
-1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir légistlatif.](BIL_ITEM_CSP_062_FAUX)
+1. [<span class="qcm-letter">D</span> Le pouvoir exécutif, le pouvoir arbitraire et le pouvoir législatif.](BIL_ITEM_CSP_062_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -13604,7 +13604,7 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -13630,7 +13630,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 Les libertés sont essentielles dans une démocratie, mais elles ne sont pas absolues. Elles s'exercent dans le respect de la loi et des droits de chacun.
 
-💡 Retenez : les libertés peuvent êtres limitées pour protéger la population (ex : confinement COVID)
+💡 Retenez : les libertés peuvent être limitées pour protéger la population (ex : confinement COVID)
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -15084,7 +15084,7 @@ La Seconde Guerre mondiale oppose de nombreux pays entre 1939 et 1945. Elle se t
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -15110,7 +15110,7 @@ La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'
 
 La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'armistice du 11 novembre 1918.
 
-💡 Retenez : 1er guerre mondiale = 1914-1918
+💡 Retenez : 1re guerre mondiale = 1914-1918
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -15657,7 +15657,7 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 **Qui a fondé la Ve République ?**
 
 1. [<span class="qcm-letter">A</span> Charles de Gaulle.](BIL_ITEM_CSP_129_VRAI)
-1. [<span class="qcm-letter">B</span> Edouard Balladur.](BIL_ITEM_CSP_129_FAUX)
+1. [<span class="qcm-letter">B</span> Édouard Balladur.](BIL_ITEM_CSP_129_FAUX)
 1. [<span class="qcm-letter">C</span> Napoléon Bonaparte.](BIL_ITEM_CSP_129_FAUX)
 1. [<span class="qcm-letter">D</span> Georges Pompidou.](BIL_ITEM_CSP_129_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
@@ -17228,7 +17228,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -17254,7 +17254,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 **Réponse correcte : D — Un écrivain.**
 
-Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Etranger" de 1942.
+Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le prix Nobel de littérature en 1957 pour l'ensemble de son œuvre. Son roman le plus connu est "L'Étranger" de 1942.
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
@@ -19507,7 +19507,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 1. [<span class="qcm-letter">A</span> À faciliter la prise en charge et le remboursement des frais de santé.](BIL_ITEM_CSP_181_VRAI)
 1. [<span class="qcm-letter">B</span> À remplacer une carte bancaire pour payer les médecins.](BIL_ITEM_CSP_181_FAUX)
 1. [<span class="qcm-letter">C</span> À obtenir une mutuelle.](BIL_ITEM_CSP_181_FAUX)
-1. [<span class="qcm-letter">D</span> A payer directement les soins.](BIL_ITEM_CSP_181_FAUX)
+1. [<span class="qcm-letter">D</span> À payer directement les soins.](BIL_ITEM_CSP_181_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -19581,7 +19581,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 1. [<span class="qcm-letter">A</span> À remplacer l'Assurance Maladie.](BIL_ITEM_CSP_182_FAUX)
 1. [<span class="qcm-letter">B</span> À compléter le remboursement des frais de santé.](BIL_ITEM_CSP_182_VRAI)
 1. [<span class="qcm-letter">C</span> À obtenir une carte Vitale.](BIL_ITEM_CSP_182_FAUX)
-1. [<span class="qcm-letter">D</span> A payer le médecin en cas d'absence de la carte vitale.](BIL_ITEM_CSP_182_FAUX)
+1. [<span class="qcm-letter">D</span> À payer le médecin en cas d'absence de la carte vitale.](BIL_ITEM_CSP_182_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -19968,7 +19968,7 @@ Le baccalauréat est le diplôme qui marque la fin des études au lycée et perm
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -19994,7 +19994,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 
 Après l'école élémentaire, les élèves poursuivent leur scolarité au collège. De la sixième à la troisième.
 
-💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. Ecole maternelle ->Ecole élémentaire->Collège
+💡 Retenez le mot-clé : Le collège se positionne en troisième position dans le cursus scolaire. École maternelle ->École élémentaire->Collège
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -21810,7 +21810,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -21836,7 +21836,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 
 Le site officiel de la Présidence de la République présente les symboles de la République française, notamment le drapeau, Marianne, la Marseillaise et la devise.
 
-💡 Retenez : Les sites officiels de l'Etat montrent les symboles
+💡 Retenez : Les sites officiels de l'État montrent les symboles
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -21941,7 +21941,7 @@ La Marseillaise est l'hymne national français. Chaque citoyen est invité à co
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](BIL_ITEM_CR_007_VRAI)
 1. [<span class="qcm-letter">B</span> Le jour d'histoire est arrivé.](BIL_ITEM_CR_007_FAUX)
 1. [<span class="qcm-letter">C</span> Le jour de la Révolution est arrivé.](BIL_ITEM_CR_007_FAUX)
-1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivé.](BIL_ITEM_CR_007_FAUX)
+1. [<span class="qcm-letter">D</span> La nuit de la révolte est arrivée.](BIL_ITEM_CR_007_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -22234,7 +22234,7 @@ Les cours de sport font partie des enseignements obligatoires. La mixité entre 
 
 **Quelle est la devise de la France ?**
 
-1. [<span class="qcm-letter">A</span> Liberté, Justice, Egalité,](BIL_ITEM_CR_011_FAUX)
+1. [<span class="qcm-letter">A</span> Liberté, Justice, Égalité,](BIL_ITEM_CR_011_FAUX)
 1. [<span class="qcm-letter">B</span> Travail, Famille, Patrie.](BIL_ITEM_CR_011_FAUX)
 1. [<span class="qcm-letter">C</span> Liberté, Égalité, Fraternité.](BIL_ITEM_CR_011_VRAI)
 1. [<span class="qcm-letter">D</span> Égalité, Solidarité, Liberté,](BIL_ITEM_CR_011_FAUX)
@@ -23199,7 +23199,7 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](BIL_ITEM_CR_024_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](BIL_ITEM_CR_024_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](BIL_ITEM_CR_024_FAUX)
-1. [<span class="qcm-letter">D</span> Le bonnet prhygien.](BIL_ITEM_CR_024_FAUX)
+1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](BIL_ITEM_CR_024_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -23364,7 +23364,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23390,7 +23390,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 L'école publique est un lieu où tous les élèves sont accueillis sans distinction de religion ou de conviction. La laïcité garantit le respect de chacun.
 
-💡 Retenez : Ecole = pas de distinction de la religion
+💡 Retenez : École = pas de distinction de la religion
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23438,7 +23438,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23464,7 +23464,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 
 La loi de 1905 établit la séparation des Églises et de l'État. Elle constitue l'un des fondements du principe de laïcité en France.
 
-💡 Retenez : 1905 = séparation religion/Etat
+💡 Retenez : 1905 = séparation religion/État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23660,7 +23660,7 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23686,7 +23686,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 
 Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux élèves de porter des signes religieux ostensibles (par exemple un voile, une kippa ou une grande croix). Cette règle vise à garantir le respect du principe de laïcité à l'école.
 
-💡 Retenez : Ecole = Pas de signes religieux
+💡 Retenez : École = Pas de signes religieux
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23734,7 +23734,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23760,7 +23760,7 @@ La neutralité de l'État garantit que les services publics traitent toutes les 
 
 La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, quelles que soient leurs convictions.
 
-💡 Retenez : L'Etat est neutre
+💡 Retenez : L'État est neutre
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23882,7 +23882,7 @@ Les usagers des services publics bénéficient d'un égal accès au service publ
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23908,7 +23908,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics exercent leurs fonctions dans le respect du principe de neutralité. Ils ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs missions.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23956,7 +23956,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23982,7 +23982,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 
 Les agents publics doivent assurer leurs missions avec neutralité afin de garantir l'égalité de traitement des usagers.
 
-💡 Retenez : Agents publics représentent la neutralité de l'Etat
+💡 Retenez : Agents publics représentent la neutralité de l'État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -24084,7 +24084,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 
 **A-t-on le droit de changer de religion ?**
 
-1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'Etat.](BIL_ITEM_CR_036_FAUX)
+1. [<span class="qcm-letter">A</span> Seulement avec l'autorisation de l'État.](BIL_ITEM_CR_036_FAUX)
 1. [<span class="qcm-letter">B</span> Seulement avec une autorisation parentale.](BIL_ITEM_CR_036_FAUX)
 1. [<span class="qcm-letter">C</span> Non c'est interdit par la loi.](BIL_ITEM_CR_036_FAUX)
 1. [<span class="qcm-letter">D</span> Oui.](BIL_ITEM_CR_036_VRAI)
@@ -24400,7 +24400,7 @@ L'article 1er de la Constitution définit les principes fondamentaux de la Répu
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -24426,7 +24426,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 
 L'État de droit garantit que toutes les personnes, y compris les autorités publiques, doivent respecter la loi. Personne n'est au-dessus des règles juridiques.
 
-💡 Retenez : Etat de droit = garantit le respect des lois pour tous
+💡 Retenez : État de droit = garantit le respect des lois pour tous
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -25658,7 +25658,7 @@ L'Assemblée nationale est composée de 577 députés élus au suffrage universe
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -25684,7 +25684,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 
 Pour voter aux élections nationales en France, il faut être citoyen français, être majeur et être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -25806,7 +25806,7 @@ Les sénateurs sont élus pour un mandat de six ans. Le Sénat est renouvelé pa
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -25832,7 +25832,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 
 La séparation des pouvoirs permet d'assurer un équilibre entre les institutions. Le pouvoir exécutif gouverne, le pouvoir législatif vote les lois et le pouvoir judiciaire rend la justice.
 
-💡 Retenez : Exécutif (gouverne), Légistatif (lois), Judiciaire (justice)
+💡 Retenez : Exécutif (gouverne), Législatif (lois), Judiciaire (justice)
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -25954,7 +25954,7 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -25980,7 +25980,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État.
 
-💡 Retenez : Le Préfet = représentant de l'Etat dans un département
+💡 Retenez : Le Préfet = représentant de l'État dans un département
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -26028,7 +26028,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -26054,7 +26054,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 
 Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notamment être inscrit sur les listes électorales.
 
-💡 Retenez : Pour voter, il faut trois conditions : - Etre majeur - Etre citoyen français - Etre inscrit sur les listes électorales
+💡 Retenez : Pour voter, il faut trois conditions : - Être majeur - Être citoyen français - Être inscrit sur les listes électorales
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -26398,7 +26398,7 @@ Le Parlement français est composé de deux chambres : l'Assemblée nationale et
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -26424,7 +26424,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 
 Le président de la République est le chef de l'État. Il veille au respect de la Constitution et assure le fonctionnement régulier des pouvoirs publics.
 
-💡 Retenez : Le président = chef de l'Etat (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
+💡 Retenez : Le président = chef de l'État (fait respecter la Constitution et fait fonctionner les pouvoirs publics)
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -27360,7 +27360,7 @@ L'hymne européen est l'« Ode à la Joie », extraite de la Neuvième Symphonie
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -27386,7 +27386,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 
 Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Elles ne représentent pas le nombre d'États membres.
 
-💡 Retenez : Les étoiles ne symbolisent pas les Etats membres mais des symboles comme la solidarité, l'unité…
+💡 Retenez : Les étoiles ne symbolisent pas les États membres mais des symboles comme la solidarité, l'unité…
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -28305,7 +28305,7 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 1. [<span class="qcm-letter">A</span> Oui.](BIL_ITEM_CR_093_VRAI)
 1. [<span class="qcm-letter">B</span> Cela dépend du contrat de mariage signé.](BIL_ITEM_CR_093_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement avec l'accord de la famille.](BIL_ITEM_CR_093_FAUX)
-1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'Etat.](BIL_ITEM_CR_093_FAUX)
+1. [<span class="qcm-letter">D</span> Seulement avec l'accord de l'État.](BIL_ITEM_CR_093_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -34242,7 +34242,7 @@ Construite pour l'Exposition universelle de 1889, la tour Eiffel est aujourd'hui
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -34268,7 +34268,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 
 En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
 
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
+💡 Retenez : Mariage civil = le seul reconnu par l'État
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -34299,7 +34299,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 1. [<span class="qcm-letter">A</span> La préfecture.](BIL_ITEM_CR_174_FAUX)
 1. [<span class="qcm-letter">B</span> À la mairie.](BIL_ITEM_CR_174_VRAI)
 1. [<span class="qcm-letter">C</span> Au commissariat.](BIL_ITEM_CR_174_FAUX)
-1. [<span class="qcm-letter">D</span> A l'école directement.](BIL_ITEM_CR_174_FAUX)
+1. [<span class="qcm-letter">D</span> À l'école directement.](BIL_ITEM_CR_174_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -39123,7 +39123,7 @@ La Sécurité sociale a été créée en 1945, après la Seconde Guerre mondiale
 1. [<span class="qcm-letter">A</span> La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](BIL_ITEM_NAT_013_VRAI)
 1. [<span class="qcm-letter">B</span> La fin de la Seconde Guerre mondiale.](BIL_ITEM_NAT_013_FAUX)
 1. [<span class="qcm-letter">C</span> La signature de la Constitution.](BIL_ITEM_NAT_013_FAUX)
-1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers Etats membres.](BIL_ITEM_NAT_013_FAUX)
+1. [<span class="qcm-letter">D</span> La création de l'Union européenne et le rassemblement des six premiers États membres.](BIL_ITEM_NAT_013_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -39566,7 +39566,7 @@ La liberté d'association est une liberté fondamentale garantie par la loi. Ell
 
 1. [<span class="qcm-letter">A</span> Faire tout ce que l'on veut.](BIL_ITEM_NAT_019_FAUX)
 1. [<span class="qcm-letter">B</span> Ne respecter aucune règle.](BIL_ITEM_NAT_019_FAUX)
-1. [<span class="qcm-letter">C</span> Etre au-dessus des lois.](BIL_ITEM_NAT_019_FAUX)
+1. [<span class="qcm-letter">C</span> Être au-dessus des lois.](BIL_ITEM_NAT_019_FAUX)
 1. [<span class="qcm-letter">D</span> Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](BIL_ITEM_NAT_019_VRAI)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -39937,7 +39937,7 @@ La liberté de conscience garantit à chacun le droit de croire, de changer de r
 1. [<span class="qcm-letter">A</span> L'État interdit les religions.](BIL_ITEM_NAT_024_VRAI)
 1. [<span class="qcm-letter">B</span> L'État ne favorise ni ne défavorise aucune religion.](BIL_ITEM_NAT_024_FAUX)
 1. [<span class="qcm-letter">C</span> L'État finance toutes les religions.](BIL_ITEM_NAT_024_FAUX)
-1. [<span class="qcm-letter">D</span> L'Etat choisit une religion officielle.](BIL_ITEM_NAT_024_FAUX)
+1. [<span class="qcm-letter">D</span> L'État choisit une religion officielle.](BIL_ITEM_NAT_024_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -43547,7 +43547,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_073
-<span hidden data-civi-question="382f63fabf959435" data-kind="bilan" data-screen="BIL_ITEM_NAT_073"></span>
+<span hidden data-civi-question="119f6c87a2852c53" data-kind="bilan" data-screen="BIL_ITEM_NAT_073"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ee09d1a2b3a0|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ee09d1a2b3a0|")`
@@ -43558,7 +43558,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 
 <!-- Source nat : NAT-T2-035 -->
 
-**Qui représente l'Etat dans un département ?**
+**Qui représente l'État dans un département ?**
 
 1. [<span class="qcm-letter">A</span> Le maire.](BIL_ITEM_NAT_073_FAUX)
 1. [<span class="qcm-letter">B</span> Le président du conseil départemental.](BIL_ITEM_NAT_073_FAUX)
@@ -43595,7 +43595,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_073_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|382f63fabf959435|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|119f6c87a2852c53|")`
 `if !@bilAnswerKeys.includes("|ee09d1a2b3a0|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|ee09d1a2b3a0|")`
 `@bilAnswered = calc(@bilAnswered+1)`
@@ -44509,7 +44509,7 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_086
-<span hidden data-civi-question="14d2866b7018e2fc" data-kind="bilan" data-screen="BIL_ITEM_NAT_086"></span>
+<span hidden data-civi-question="2e4842ed61eb1c7e" data-kind="bilan" data-screen="BIL_ITEM_NAT_086"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|438a42e46175|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|438a42e46175|")`
@@ -44520,12 +44520,12 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 
 <!-- Source nat : NAT-T2-048 -->
 
-**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?**
+**Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?**
 
-1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un Etat membre peut voter uniquement dans son pays d'origine.](BIL_ITEM_NAT_086_FAUX)
+1. [<span class="qcm-letter">A</span> Non, chaque ressortissant d'un État membre peut voter uniquement dans son pays d'origine.](BIL_ITEM_NAT_086_FAUX)
 1. [<span class="qcm-letter">B</span> Oui, cela dépend des lois inscrites par les pays membres.](BIL_ITEM_NAT_086_FAUX)
 1. [<span class="qcm-letter">C</span> Oui cela est possible grâce à la citoyenneté européenne.](BIL_ITEM_NAT_086_VRAI)
-1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six Etats membres historiques qui ont constitués l'Union européenne.](BIL_ITEM_NAT_086_FAUX)
+1. [<span class="qcm-letter">D</span> Cela est uniquement possible pour les citoyens des six États membres historiques qui ont constitué l'Union européenne.](BIL_ITEM_NAT_086_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -44540,7 +44540,7 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -44555,7 +44555,7 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_086_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|14d2866b7018e2fc|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|2e4842ed61eb1c7e|")`
 `if !@bilAnswerKeys.includes("|438a42e46175|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|438a42e46175|")`
 `@bilAnswered = calc(@bilAnswered+1)`
@@ -44564,7 +44564,7 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 
 **Réponse correcte : C — Oui cela est possible grâce à la citoyenneté européenne.**
 
-Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre Etat membre; il faut être âgé d'au moins 18 ans.
+Les citoyens de l'Union européenne peuvent voter aux élections locales (municipales) dans un autre État membre de l'UE où ils résident. Ils doivent cependant remplir quelques conditions : Il faut habiter dans le pays de l'Union où l'on souhaite voter ; il faut être inscrit sur une liste électorale spécifique ; il faut posséder la nationalité d'un autre État membre; il faut être âgé d'au moins 18 ans.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -49625,7 +49625,7 @@ Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés en
 **Quelle est la première étape de la construction européenne, créée en 1951 ?**
 
 1. [<span class="qcm-letter">A</span> La Communauté européenne du charbon et de l'acier (CECA).](BIL_ITEM_NAT_155_VRAI)
-1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les Etats membres.](BIL_ITEM_NAT_155_FAUX)
+1. [<span class="qcm-letter">B</span> Un traité pour garantir une solidarité et la paix durable entre les États membres.](BIL_ITEM_NAT_155_FAUX)
 1. [<span class="qcm-letter">C</span> Le traité de Maastricht pour instaurer une citoyenneté européenne.](BIL_ITEM_NAT_155_FAUX)
 1. [<span class="qcm-letter">D</span> La mise en place d'une monnaie commune : l'Euro.](BIL_ITEM_NAT_155_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
@@ -56064,7 +56064,7 @@ En France, les femmes disposent des mêmes droits que les hommes pour créer une
 
 1. [<span class="qcm-letter">A</span> Le Code du travail et les conventions collectives.](BIL_ITEM_NAT_242_VRAI)
 1. [<span class="qcm-letter">B</span> Le Code de la route.](BIL_ITEM_NAT_242_FAUX)
-1. [<span class="qcm-letter">C</span> La Code pénal.](BIL_ITEM_NAT_242_FAUX)
+1. [<span class="qcm-letter">C</span> Le Code pénal.](BIL_ITEM_NAT_242_FAUX)
 1. [<span class="qcm-letter">D</span> Le règlement intérieur uniquement.](BIL_ITEM_NAT_242_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)

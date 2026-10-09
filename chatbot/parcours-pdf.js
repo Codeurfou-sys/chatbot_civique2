@@ -91,7 +91,7 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
   const raw=state.variables['atelier_'+key];let workshop;try{workshop=JSON.parse(raw||'null');}catch(e){}
   const q=state.variables['revisionScore_'+key],total=state.variables['revisionTotal_'+key];
   if(!workshop&&!finite(q))continue;found=true;room(20);text(title,11);
-  if(workshop){icon('pieces',11,y-3,5);text('Activités : '+(workshop.complete?'terminées':'en cours')+' - '+workshop.step+'/'+(workshop.activityCount||2)+' activité(s). Score enregistré : '+workshop.score+'/'+workshop.total+'.');}
+  if(workshop){icon('pieces',11,y-3,5);text('Activités : '+(workshop.complete?'terminées':'en cours')+' - '+workshop.step+'/'+(workshop.activityCount||2)+((workshop.activityCount||2)>1?' activités. Score enregistré : ':' activité. Score enregistré : ')+workshop.score+'/'+workshop.total+'.');}
   if(finite(q)&&finite(total)){icon('pencil',11,y-3,5);text('Questions de connaissances : '+q+'/'+total+'.');}
   text('Relisez le corrigé des erreurs, puis revenez aux notions utiles avant de refaire les questions.');
  }

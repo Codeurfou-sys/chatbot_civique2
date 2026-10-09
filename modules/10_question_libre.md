@@ -3895,13 +3895,13 @@ Vous cherchez un centre FRATE proche de chez vous ou son adresse. Ouvrez la rech
 `endif`
 <!-- Réponse : INTENT_USAGE_PDF -->
 `if @qlRoute == "INTENT_USAGE_PDF"`
-Ouvrez **Mes résultats sauvegardés**, puis cliquez sur **Télécharger mon parcours en PDF**. Ce document reprend votre dernier bilan, votre dernier entraînement, votre dernier examen blanc et votre parcours de révisions avec les conseils associés. Si une tentative manque, vérifiez que vous avez terminé l’activité et atteint son écran de résultats.
+Ouvrez **Mes résultats sauvegardés**, puis cliquez sur **Télécharger mon parcours en PDF**. Ce document regroupe les tentatives enregistrées et les conseils associés. Si une tentative manque, vérifiez que vous avez terminé l’activité et atteint son écran de résultats.
 `@qlReponse = INTENT_USAGE_PDF`
 `@qlTrouvee = true`
 `endif`
 <!-- Réponse : INTENT_USAGE_RESULTATS -->
 `if @qlRoute == "INTENT_USAGE_RESULTATS"`
-Vous pouvez retrouver vos bilans, entraînements et examens blancs dans **Mon parcours personnalisé**. **Mes résultats sauvegardés** permet aussi de consulter les tentatives enregistrées et de télécharger votre parcours en PDF.
+Vous pouvez retrouver vos bilans, entraînements et examens blancs dans **Mon parcours personnalisé**. La rubrique **Mes résultats sauvegardés** vous permet aussi de consulter les tentatives enregistrées et de télécharger votre parcours en PDF.
 `@qlReponse = INTENT_USAGE_RESULTATS`
 `@qlTrouvee = true`
 `endif`
@@ -4008,7 +4008,7 @@ Vérifiez toujours votre convocation avant le rendez-vous.
 `if @qlRoute == "INTENT_FAQ_ENTRETIEN_DUREE"`
 La durée peut varier selon les situations.
 
-En général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française alors l'entretien peut être court. Dans tous les cas ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !
+En général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française, alors l'entretien peut être court. Dans tous les cas, ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !
 `@qlReponse = INTENT_FAQ_ENTRETIEN_DUREE`
 `@qlTrouvee = true`
 `endif`
@@ -4054,7 +4054,7 @@ Il n'existe pas de réponse unique.
 
 L'important est de répondre de manière personnelle, sincère et cohérente avec votre parcours.
 
-Expliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Evitez les réponses trop génériques comme "mes enfants sont nés ici alors je souhaite devenir français".
+Expliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Évitez les réponses trop génériques comme "mes enfants sont nés ici alors je souhaite devenir français".
 `@qlReponse = INTENT_FAQ_ENTRETIEN_MOTIVATION`
 `@qlTrouvee = true`
 `endif`
@@ -4102,7 +4102,7 @@ Les dispenses dépendent du titre demandé — il n'existe pas de liste universe
 `endif`
 <!-- Réponse : INTENT_FAQ_NIVEAU_FRANCAIS -->
 `if @qlRoute == "INTENT_FAQ_NIVEAU_FRANCAIS"`
-L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que les 12 mises en situation.
+L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que pour les 12 mises en situation.
 `@qlReponse = INTENT_FAQ_NIVEAU_FRANCAIS`
 `@qlTrouvee = true`
 `endif`
@@ -4114,7 +4114,7 @@ La fraude à l'examen civique a de lourdes conséquences : vous serez immédiate
 `endif`
 <!-- Réponse : INTENT_FAQ_QUESTIONS_PIEGES -->
 `if @qlRoute == "INTENT_FAQ_QUESTIONS_PIEGES"`
-Oui, notamment pour les "mises en situation" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acqusise. Exemple : Une entreprise refuse de recruter une personne en situation d'handicap. Quelle valeur républicaine n'est pas respectée ? 
+Oui, notamment pour les "mises en situation" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acquises. Exemple : Une entreprise refuse de recruter une personne en situation de handicap. Quelle valeur républicaine n'est pas respectée ? 
 
 Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous donneront des indices pour répondre.
 `@qlReponse = INTENT_FAQ_QUESTIONS_PIEGES`
@@ -6901,7 +6901,7 @@ Vous souhaitez vous exercer. Préférez-vous travailler les connaissances, les m
 1. [❓ Poser une autre question](SCR_QL_AGAIN)
 `endif`
 `if @qlReponse == "INTENT_FAQ_EXAMEN_DIFFERENCES"`
-1. [💬 📘 Quelles sont les diffénces entre les examens Carte de séjour, Carte de résident et Naturalisation ?](SCR_FAQ_005)
+1. [💬 📘 Quelles sont les différences entre les examens Carte de séjour, Carte de résident et Naturalisation ?](SCR_FAQ_005)
 1. [❓ Poser une autre question](SCR_QL_AGAIN)
 `endif`
 `if @qlReponse == "INTENT_FAQ_CIR"`

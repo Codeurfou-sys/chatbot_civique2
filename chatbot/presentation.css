@@ -38,3 +38,6 @@ html.civi-a11y-markers .civi-inline-help-links button,html.civi-a11y-markers .ci
 .civi-feedback-card [data-error-details] a {display:block;margin:.6rem 0;}
 .civi-review-errors {font:inherit;max-width:100%;border:1px solid currentColor;border-radius:16px;padding:.65rem 1rem;cursor:pointer;background:#fff;color:inherit;}
 .civi-a11y-markers .civi-badge,.civi-a11y-markers .civi-review-errors{background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important;}
+
+/* Adresses accessibles depuis les choix de centres par région. */
+.civi-centre-address { display: block; margin-top: .3rem; font-size: .85em; font-weight: normal; line-height: 1.4; }

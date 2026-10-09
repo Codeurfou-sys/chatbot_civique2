@@ -125,7 +125,7 @@ async function init() {
     }
     const today = new Intl.DateTimeFormat("en-CA", {timeZone:"Europe/Paris",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
     try {
-      const response = await fetch("data/adresses_centres.json?v=34", { cache: "no-store" });
+      const response = await fetch("data/adresses_centres.json?v=50", { cache: "no-store" });
       if (response.ok) {
         const addresses = await response.json();
         state.centres.forEach(c => { if (addresses[c.code_centre]) { c.adresse = addresses[c.code_centre].adresse; c.adresse_a_confirmer = !!addresses[c.code_centre].a_confirmer; } });

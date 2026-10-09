@@ -4,6 +4,10 @@
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
 
+<!-- Adresse centre -->
+**Adresse :** 33 route de Chevennes, 74960 Cran-Gevrier — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Annecy; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -30,6 +34,10 @@
 
 ## SCR_PASS_CITY_ANNEMASSE
 ### 📍 Annemasse (74)
+
+<!-- Adresse centre -->
+**Adresse :** 3 passage Jean Moulin, 74100 Annemasse
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Annemasse; {region}=Rhône-Alpes; {lien_forms} -->
 
@@ -58,6 +66,10 @@
 ## SCR_PASS_CITY_AUXERRE
 ### 📍 Auxerre (89)
 
+<!-- Adresse centre -->
+**Adresse :** 13 rue Jules Ferry, 89000 Auxerre — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Auxerre; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -85,6 +97,10 @@
 ## SCR_PASS_CITY_BESANCON
 ### 📍 Besançon (25)
 
+<!-- Adresse centre -->
+**Adresse :** 83 rue de Dole, 25000 Besançon
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Besançon; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -111,6 +127,10 @@
 
 ## SCR_PASS_CITY_BOURG_EN_BRESSE
 ### 📍 Bourg-en-Bresse (01)
+
+<!-- Adresse centre -->
+**Adresse :** 9 rue du Colonel Arnaud Beltrame, 01000 Bourg-en-Bresse
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Bourg-en-Bresse; {region}=Rhône-Alpes; {lien_forms} -->
 
@@ -146,7 +166,6 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 6 octobre 2026
 - 10 novembre 2026
 - 8 décembre 2026
 
@@ -165,6 +184,10 @@
 
 ## SCR_PASS_CITY_CHAUMONT
 ### 📍 Chaumont (52)
+
+<!-- Adresse centre -->
+**Adresse :** 49 rue Lévy Alphandéry, 52000 Chaumont
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Chaumont; {region}=Grand Est; {lien_forms} -->
 
@@ -190,6 +213,10 @@
 
 ## SCR_PASS_CITY_CLERMONT_FERRAND
 ### 📍 Clermont-Ferrand (63)
+
+<!-- Adresse centre -->
+**Adresse :** 8 rue Pablo Picasso, 63000 Clermont-Ferrand
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Clermont-Ferrand; {region}=Auvergne; {lien_forms} -->
 
@@ -218,6 +245,10 @@
 ## SCR_PASS_CITY_DIJON
 ### Dijon (21)
 
+<!-- Adresse centre -->
+**Adresse :** 17 rue des Corroyeurs, 21000 Dijon
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Dijon; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -243,6 +274,10 @@
 
 ## SCR_PASS_CITY_LE_PUY_EN_VELAY
 ### 📍 Le Puy-en-Velay (43)
+
+<!-- Adresse centre -->
+**Adresse :** 16 rue des Moulins (Résidence Alfred de Vigny), 43000 Le Puy-en-Velay
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Le Puy-en-Velay; {region}=Auvergne; {lien_forms} -->
 
@@ -271,6 +306,10 @@
 ## SCR_PASS_CITY_LONS_LE_SAUNIER
 ### 📍 Lons-le-Saunier (39)
 
+<!-- Adresse centre -->
+**Adresse :** 11 avenue Thurel, 39000 Lons-le-Saunier
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Lons-le-Saunier; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -296,6 +335,10 @@
 
 ## SCR_PASS_CITY_MONTBELIARD
 ### 📍 Montbéliard (25)
+
+<!-- Adresse centre -->
+**Adresse :** 37 avenue des Alliés, 25200 Montbéliard
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Montbéliard; {region}=Franche-Comté; {lien_forms} -->
 
@@ -323,6 +366,10 @@
 ## SCR_PASS_CITY_MONTCEAU_LES_MINES
 ### 📍 Montceau-les-Mines (71)
 
+<!-- Adresse centre -->
+**Adresse :** 16 rue du Docteur Jeannin, 71300 Montceau-les-Mines — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Montceau-les-Mines; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -348,6 +395,10 @@
 
 ## SCR_PASS_CITY_MULHOUSE
 ### 📍 Mulhouse (68)
+
+<!-- Adresse centre -->
+**Adresse :** 20 rue de Chemnitz, 68200 Mulhouse
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Mulhouse; {region}=Grand Est; {lien_forms} -->
 
@@ -376,6 +427,10 @@
 ## SCR_PASS_CITY_MACON
 ### 📍 Mâcon (71)
 
+<!-- Adresse centre -->
+**Adresse :** 19 place de la Baille, 71000 Mâcon — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Mâcon; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -401,6 +456,10 @@
 
 ## SCR_PASS_CITY_NEVERS
 ### 📍 Nevers (58)
+
+<!-- Adresse centre -->
+**Adresse :** 43 boulevard du Pré Plantin, 58000 Nevers — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Nevers; {region}=Bourgogne; {lien_forms} -->
 
@@ -429,6 +488,10 @@
 ## SCR_PASS_CITY_REIMS
 ### 📍 Reims (51)
 
+<!-- Adresse centre -->
+**Adresse :** 14 rue Édouard Mignot, 51100 Reims
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Reims; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -456,6 +519,10 @@
 ## SCR_PASS_CITY_SAINT_DIE_DES_VOSGES
 ### 📍 Saint-Dié-des-Vosges (88)
 
+<!-- Adresse centre -->
+**Adresse :** 7 rue Laurent Pillard, 88100 Saint-Dié-des-Vosges — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Saint-Dié-des-Vosges; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -481,6 +548,10 @@
 ## SCR_PASS_CITY_SAINT_FLOUR
 ### 📍 Saint-Flour (15)
 
+<!-- Adresse centre -->
+**Adresse :** 5 avenue de Besserette, 15100 Saint-Flour — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Saint-Flour; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -505,6 +576,10 @@
 
 ## SCR_PASS_CITY_SENS
 ### 📍 Sens (89)
+
+<!-- Adresse centre -->
+**Adresse :** 14 rue Auguste Morel, 89100 Sens — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Sens; {region}=Bourgogne; {lien_forms} -->
 
@@ -533,6 +608,10 @@
 ## SCR_PASS_CITY_STRASBOURG
 ### 📍 Strasbourg (67)
 
+<!-- Adresse centre -->
+**Adresse :** 31 rue du Maréchal Lefebvre, 67100 Strasbourg
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Strasbourg; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -559,6 +638,10 @@
 
 ## SCR_PASS_CITY_TROYES
 ### 📍 Troyes (10)
+
+<!-- Adresse centre -->
+**Adresse :** 28 rue Coulommières (3e étage), 10000 Troyes
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Troyes; {region}=Grand Est; {lien_forms} -->
 
@@ -587,6 +670,10 @@
 ## SCR_PASS_CITY_VALSERHONE
 ### 📍 Valserhône (01)
 
+<!-- Adresse centre -->
+**Adresse :** 26 rue Joseph Bertola, 01200 Valserhône — à confirmer sur votre convocation.
+<!-- Fin adresse centre -->
+
 <!-- Variables : {centre}=Valserhône; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
@@ -612,6 +699,10 @@
 
 ## SCR_PASS_CITY_VICHY
 ### 📍 Vichy (03)
+
+<!-- Adresse centre -->
+**Adresse :** 2-4 rue de Paris, Passage des Commerces, 03200 Vichy
+<!-- Fin adresse centre -->
 
 <!-- Variables : {centre}=Vichy; {region}=Auvergne; {lien_forms} -->
 
@@ -927,10 +1018,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 4 centres de la région -->
 
-1. [📍 Clermont-Ferrand (63)](SCR_PASS_CITY_CLERMONT_FERRAND)
-2. [📍 Le Puy-en-Velay (43)](SCR_PASS_CITY_LE_PUY_EN_VELAY)
-3. [🟡 Saint-Flour (15)](SCR_PASS_CITY_SAINT_FLOUR)
-4. [📍 Vichy (03)](SCR_PASS_CITY_VICHY)
+1. [📍 Clermont-Ferrand (63)<small class="civi-centre-address">8 rue Pablo Picasso, 63000 Clermont-Ferrand</small>](SCR_PASS_CITY_CLERMONT_FERRAND)
+2. [📍 Le Puy-en-Velay (43)<small class="civi-centre-address">16 rue des Moulins (Résidence Alfred de Vigny), 43000 Le Puy-en-Velay</small>](SCR_PASS_CITY_LE_PUY_EN_VELAY)
+3. [🟡 Saint-Flour (15)<small class="civi-centre-address">5 avenue de Besserette, 15100 Saint-Flour</small>](SCR_PASS_CITY_SAINT_FLOUR)
+4. [📍 Vichy (03)<small class="civi-centre-address">2-4 rue de Paris, Passage des Commerces, 03200 Vichy</small>](SCR_PASS_CITY_VICHY)
 5. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -944,12 +1035,12 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 6 centres de la région -->
 
-1. [📍 Auxerre (89)](SCR_PASS_CITY_AUXERRE)
-2. [📍 Dijon (21)](SCR_PASS_CITY_DIJON)
-3. [📍 Mâcon (71)](SCR_PASS_CITY_MACON)
-4. [📍 Montceau-les-Mines (71)](SCR_PASS_CITY_MONTCEAU_LES_MINES)
-5. [📍 Nevers (58)](SCR_PASS_CITY_NEVERS)
-6. [📍 Sens (89)](SCR_PASS_CITY_SENS)
+1. [📍 Auxerre (89)<small class="civi-centre-address">13 rue Jules Ferry, 89000 Auxerre</small>](SCR_PASS_CITY_AUXERRE)
+2. [📍 Dijon (21)<small class="civi-centre-address">17 rue des Corroyeurs, 21000 Dijon</small>](SCR_PASS_CITY_DIJON)
+3. [📍 Mâcon (71)<small class="civi-centre-address">19 place de la Baille, 71000 Mâcon</small>](SCR_PASS_CITY_MACON)
+4. [📍 Montceau-les-Mines (71)<small class="civi-centre-address">16 rue du Docteur Jeannin, 71300 Montceau-les-Mines</small>](SCR_PASS_CITY_MONTCEAU_LES_MINES)
+5. [📍 Nevers (58)<small class="civi-centre-address">43 boulevard du Pré Plantin, 58000 Nevers</small>](SCR_PASS_CITY_NEVERS)
+6. [📍 Sens (89)<small class="civi-centre-address">14 rue Auguste Morel, 89100 Sens</small>](SCR_PASS_CITY_SENS)
 7. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 8. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -977,9 +1068,9 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 3 centres de la région -->
 
-1. [📍 Besançon (25)](SCR_PASS_CITY_BESANCON)
-2. [📍 Lons-le-Saunier (39)](SCR_PASS_CITY_LONS_LE_SAUNIER)
-3. [📍 Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
+1. [📍 Besançon (25)<small class="civi-centre-address">83 rue de Dole, 25000 Besançon</small>](SCR_PASS_CITY_BESANCON)
+2. [📍 Lons-le-Saunier (39)<small class="civi-centre-address">11 avenue Thurel, 39000 Lons-le-Saunier</small>](SCR_PASS_CITY_LONS_LE_SAUNIER)
+3. [📍 Montbéliard (25)<small class="civi-centre-address">37 avenue des Alliés, 25200 Montbéliard</small>](SCR_PASS_CITY_MONTBELIARD)
 4. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 5. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -993,12 +1084,12 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 6 centres de la région -->
 
-1. [📍 Chaumont (52)](SCR_PASS_CITY_CHAUMONT)
-2. [📍 Mulhouse (68)](SCR_PASS_CITY_MULHOUSE)
-3. [📍 Reims (51)](SCR_PASS_CITY_REIMS)
-4. [🟡 Saint-Dié-des-Vosges (88)](SCR_PASS_CITY_SAINT_DIE_DES_VOSGES)
-5. [📍 Strasbourg (67)](SCR_PASS_CITY_STRASBOURG)
-6. [📚 Troyes (10)](SCR_PASS_CITY_TROYES)
+1. [📍 Chaumont (52)<small class="civi-centre-address">49 rue Lévy Alphandéry, 52000 Chaumont</small>](SCR_PASS_CITY_CHAUMONT)
+2. [📍 Mulhouse (68)<small class="civi-centre-address">20 rue de Chemnitz, 68200 Mulhouse</small>](SCR_PASS_CITY_MULHOUSE)
+3. [📍 Reims (51)<small class="civi-centre-address">14 rue Édouard Mignot, 51100 Reims</small>](SCR_PASS_CITY_REIMS)
+4. [🟡 Saint-Dié-des-Vosges (88)<small class="civi-centre-address">7 rue Laurent Pillard, 88100 Saint-Dié-des-Vosges</small>](SCR_PASS_CITY_SAINT_DIE_DES_VOSGES)
+5. [📍 Strasbourg (67)<small class="civi-centre-address">31 rue du Maréchal Lefebvre, 67100 Strasbourg</small>](SCR_PASS_CITY_STRASBOURG)
+6. [📚 Troyes (10)<small class="civi-centre-address">28 rue Coulommières (3e étage), 10000 Troyes</small>](SCR_PASS_CITY_TROYES)
 7. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 8. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -1010,14 +1101,36 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Variables : {region}=Rhône-Alpes -->
 
-<!-- Règle métier : Afficher les 4 centres de la région -->
+<!-- Règle métier : Afficher les 5 centres de la région -->
 
-1. [📍 Annemasse (74)](SCR_PASS_CITY_ANNEMASSE)
-2. [📍 Annecy (74)](SCR_PASS_CITY_ANNECY)
-3. [📍 Bourg-en-Bresse (01)](SCR_PASS_CITY_BOURG_EN_BRESSE)
-4. [📍 Valserhône (01)](SCR_PASS_CITY_VALSERHONE)
-5. [📍 Choisir une autre région](SCR_PASS_REGIONS)
-6. [↩️ Retour au module](SCR_PASS_MENU)
+1. [📍 Annemasse (74)<small class="civi-centre-address">3 passage Jean Moulin, 74100 Annemasse</small>](SCR_PASS_CITY_ANNEMASSE)
+2. [📍 Annecy (74)<small class="civi-centre-address">33 route de Chevennes, 74960 Cran-Gevrier</small>](SCR_PASS_CITY_ANNECY)
+3. [📍 Bourg-en-Bresse (01)<small class="civi-centre-address">9 rue du Colonel Arnaud Beltrame, 01000 Bourg-en-Bresse</small>](SCR_PASS_CITY_BOURG_EN_BRESSE)
+4. [📍 Montluel (01)<small class="civi-centre-address">630 rue des Valets, 01120 Montluel</small>](SCR_PASS_CITY_MONTLUEL)
+5. [📍 Valserhône (01)<small class="civi-centre-address">26 rue Joseph Bertola, 01200 Valserhône</small>](SCR_PASS_CITY_VALSERHONE)
+6. [📍 Choisir une autre région](SCR_PASS_REGIONS)
+7. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+## SCR_PASS_CITY_MONTLUEL
+### 📍 Montluel (01)
+
+<!-- Adresse centre -->
+**Adresse :** 630 rue des Valets, 01120 Montluel
+<!-- Fin adresse centre -->
+
+#### 📅 Prochaines sessions disponibles
+
+- 18 novembre 2026
+- 16 décembre 2026
+
+<ul class="messageOptions">
+<li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&amp;route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
+
+1. [📍 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+2. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏠 Menu principal](MENU_PRINCIPAL)

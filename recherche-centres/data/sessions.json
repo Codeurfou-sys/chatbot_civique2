@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:42:05+02:00",
+  "generated_at": "2026-10-09T15:09:42+02:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -312,6 +312,18 @@
       "requete_ban": "Valserhône 01",
       "actif": "Oui",
       "_row": 70
+    },
+    {
+      "code_region": "RHONE_ALPES",
+      "region": "Rhône-Alpes",
+      "code_centre": "MONTLUEL",
+      "ville": "Montluel",
+      "departement": "01",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
+      "sessions_futures": 2,
+      "ecran_centre": "SCR_PASS_CITY_MONTLUEL",
+      "requete_ban": "Montluel 01120",
+      "actif": "Oui"
     }
   ],
   "sessions": [
@@ -1034,6 +1046,28 @@
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
       "_row": 133
+    },
+    {
+      "id_session": "MONTLUEL_20261118",
+      "code_centre": "MONTLUEL",
+      "region": "Rhône-Alpes",
+      "ville": "Montluel",
+      "date_session": "2026-11-18",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui"
+    },
+    {
+      "id_session": "MONTLUEL_20261216",
+      "code_centre": "MONTLUEL",
+      "region": "Rhône-Alpes",
+      "ville": "Montluel",
+      "date_session": "2026-12-16",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui"
     }
   ],
   "max_sessions_per_centre": 3

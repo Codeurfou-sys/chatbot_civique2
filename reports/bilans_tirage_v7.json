@@ -4191,7 +4191,7 @@
     "screen": "BIL_ITEM_NAT_073",
     "theme": 2,
     "level": 1,
-    "question": "Qui représente l'Etat dans un département ?"
+    "question": "Qui représente l'État dans un département ?"
   },
   {
     "exam": "NAT",
@@ -4308,7 +4308,7 @@
     "screen": "BIL_ITEM_NAT_086",
     "theme": 2,
     "level": 2,
-    "question": "Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?"
+    "question": "Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?"
   },
   {
     "exam": "NAT",
