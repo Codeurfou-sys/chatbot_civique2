@@ -11,7 +11,7 @@ async function start(saved=null){
 }
 (async()=>{
 const {dom,w,errors}=await start();const d=w.document;
-assert(!d.getElementById('civi-help-anywhere'));assert(!d.getElementById('civi-help-panel'));assert(d.getElementById('civi-audio-dock').parentElement===d.body);assert.equal(d.querySelectorAll('#civi-audio-dock button').length,3);d.getElementById('audio-read').click();assert(w.spoken?.length);d.getElementById('audio-stop').click();
+assert(!d.getElementById('civi-help-anywhere'));assert(!d.getElementById('civi-help-panel'));assert(d.getElementById('civi-audio-dock').parentElement===d.body);assert.equal(d.querySelectorAll('#civi-audio-dock button').length,4);d.getElementById('audio-read').click();assert(w.spoken?.length);d.getElementById('audio-stop').click();
 assert(d.getElementById('chat').textContent.includes('🎯'));assert(!d.querySelector('#chat [data-civi-icon]'));
 assert.equal(w.NovaQuestions.resolve("Je veux passer l'examen de naturalisation par quoi commencer ?"),'INTENT_PREPARER_NAT');assert.equal(w.NovaQuestions.resolve('Je veux passer examen naturalisation'),'INTENT_PREPARER_NAT');assert.equal(w.NovaQuestions.resolve('Qu’est-ce que la naturalisation ?'),'SCR_QL_GLO0097');
 const original=JSON.stringify(w.NovaSave.exportData().variables);

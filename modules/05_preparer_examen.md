@@ -137,7 +137,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q01
-<span hidden data-civi-question="ad676662dfddce7d" data-kind="examen" data-screen="EXAM_CSP_V01_Q01"></span>
+<span hidden data-civi-question="682fcfdda1430755" data-kind="examen" data-screen="EXAM_CSP_V01_Q01"></span>
 `@exam_variant = 1`
 
 
@@ -199,7 +199,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q02
-<span hidden data-civi-question="e8c54f016162ecd4" data-kind="examen" data-screen="EXAM_CSP_V01_Q02"></span>
+<span hidden data-civi-question="658d642e3bff0c84" data-kind="examen" data-screen="EXAM_CSP_V01_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -258,7 +258,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q03
-<span hidden data-civi-question="d4444bc36c544187" data-kind="examen" data-screen="EXAM_CSP_V01_Q03"></span>
+<span hidden data-civi-question="7d82f91299bae2b5" data-kind="examen" data-screen="EXAM_CSP_V01_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -317,7 +317,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q04
-<span hidden data-civi-question="266dcb1f4635ef4a" data-kind="examen" data-screen="EXAM_CSP_V01_Q04"></span>
+<span hidden data-civi-question="ac68f805051cdc22" data-kind="examen" data-screen="EXAM_CSP_V01_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -376,7 +376,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q05
-<span hidden data-civi-question="6e8ba2156611b8ad" data-kind="examen" data-screen="EXAM_CSP_V01_Q05"></span>
+<span hidden data-civi-question="cb4ab5eebb39b574" data-kind="examen" data-screen="EXAM_CSP_V01_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -435,7 +435,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q06
-<span hidden data-civi-question="fa856938d1380a9b" data-kind="examen" data-screen="EXAM_CSP_V01_Q06"></span>
+<span hidden data-civi-question="46461ce82d73ea1f" data-kind="examen" data-screen="EXAM_CSP_V01_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -494,7 +494,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q07
-<span hidden data-civi-question="d3ab4345ce8965a1" data-kind="examen" data-screen="EXAM_CSP_V01_Q07"></span>
+<span hidden data-civi-question="268c97807888dd47" data-kind="examen" data-screen="EXAM_CSP_V01_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -553,7 +553,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q08
-<span hidden data-civi-question="931c75f17160eb5a" data-kind="examen" data-screen="EXAM_CSP_V01_Q08"></span>
+<span hidden data-civi-question="42a3c00bd162c5f2" data-kind="examen" data-screen="EXAM_CSP_V01_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -612,7 +612,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q09
-<span hidden data-civi-question="6730e6e5aeaf5b8f" data-kind="examen" data-screen="EXAM_CSP_V01_Q09"></span>
+<span hidden data-civi-question="d6688586c0d6249f" data-kind="examen" data-screen="EXAM_CSP_V01_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -671,7 +671,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q10
-<span hidden data-civi-question="e995da6b4d07334b" data-kind="examen" data-screen="EXAM_CSP_V01_Q10"></span>
+<span hidden data-civi-question="d07897015c5a9f66" data-kind="examen" data-screen="EXAM_CSP_V01_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -730,7 +730,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q11
-<span hidden data-civi-question="320471b2282aa732" data-kind="examen" data-screen="EXAM_CSP_V01_Q11"></span>
+<span hidden data-civi-question="6e959f7c41834bd5" data-kind="examen" data-screen="EXAM_CSP_V01_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -789,7 +789,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q12
-<span hidden data-civi-question="807b4ed342b8c9b2" data-kind="examen" data-screen="EXAM_CSP_V01_Q12"></span>
+<span hidden data-civi-question="2d891357143be01b" data-kind="examen" data-screen="EXAM_CSP_V01_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -848,7 +848,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q13
-<span hidden data-civi-question="627ea0b9c9e2018b" data-kind="examen" data-screen="EXAM_CSP_V01_Q13"></span>
+<span hidden data-civi-question="3d9d6a838b153f9e" data-kind="examen" data-screen="EXAM_CSP_V01_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -907,7 +907,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q14
-<span hidden data-civi-question="1af203899614a2ba" data-kind="examen" data-screen="EXAM_CSP_V01_Q14"></span>
+<span hidden data-civi-question="af0b803c9ddf183a" data-kind="examen" data-screen="EXAM_CSP_V01_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -966,7 +966,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q15
-<span hidden data-civi-question="6535e38c9d0679d7" data-kind="examen" data-screen="EXAM_CSP_V01_Q15"></span>
+<span hidden data-civi-question="84cdd4bc0cf6f651" data-kind="examen" data-screen="EXAM_CSP_V01_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1025,7 +1025,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q16
-<span hidden data-civi-question="89f5c9c3ea3acb63" data-kind="examen" data-screen="EXAM_CSP_V01_Q16"></span>
+<span hidden data-civi-question="98b4f8765d3bba07" data-kind="examen" data-screen="EXAM_CSP_V01_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1084,7 +1084,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q17
-<span hidden data-civi-question="010f221e0d317c52" data-kind="examen" data-screen="EXAM_CSP_V01_Q17"></span>
+<span hidden data-civi-question="94a8d299c37d9fe0" data-kind="examen" data-screen="EXAM_CSP_V01_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1143,7 +1143,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q18
-<span hidden data-civi-question="adde7515c5fc22e8" data-kind="examen" data-screen="EXAM_CSP_V01_Q18"></span>
+<span hidden data-civi-question="334c7abd4360f591" data-kind="examen" data-screen="EXAM_CSP_V01_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1202,7 +1202,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q19
-<span hidden data-civi-question="32791721be7fd73a" data-kind="examen" data-screen="EXAM_CSP_V01_Q19"></span>
+<span hidden data-civi-question="43bb05d64f96de57" data-kind="examen" data-screen="EXAM_CSP_V01_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1261,7 +1261,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q20
-<span hidden data-civi-question="33bb3b9d30d04d6c" data-kind="examen" data-screen="EXAM_CSP_V01_Q20"></span>
+<span hidden data-civi-question="0f57614f4701c1b0" data-kind="examen" data-screen="EXAM_CSP_V01_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1320,7 +1320,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q21
-<span hidden data-civi-question="d79b8d75305413da" data-kind="examen" data-screen="EXAM_CSP_V01_Q21"></span>
+<span hidden data-civi-question="2f93862de36376fc" data-kind="examen" data-screen="EXAM_CSP_V01_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1379,7 +1379,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q22
-<span hidden data-civi-question="6846dbc5da61f142" data-kind="examen" data-screen="EXAM_CSP_V01_Q22"></span>
+<span hidden data-civi-question="e6b22cb48c63be31" data-kind="examen" data-screen="EXAM_CSP_V01_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1438,7 +1438,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q23
-<span hidden data-civi-question="97c78b0ec051da51" data-kind="examen" data-screen="EXAM_CSP_V01_Q23"></span>
+<span hidden data-civi-question="a7f73dabd55bbd2d" data-kind="examen" data-screen="EXAM_CSP_V01_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1497,7 +1497,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q24
-<span hidden data-civi-question="fbc3258b618724b7" data-kind="examen" data-screen="EXAM_CSP_V01_Q24"></span>
+<span hidden data-civi-question="c0562069653d9401" data-kind="examen" data-screen="EXAM_CSP_V01_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1556,7 +1556,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q25
-<span hidden data-civi-question="9c1967af9b2677ec" data-kind="examen" data-screen="EXAM_CSP_V01_Q25"></span>
+<span hidden data-civi-question="22ffa935e950c389" data-kind="examen" data-screen="EXAM_CSP_V01_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1615,7 +1615,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q26
-<span hidden data-civi-question="d6580ee8e89811b8" data-kind="examen" data-screen="EXAM_CSP_V01_Q26"></span>
+<span hidden data-civi-question="861d2e503e6de2cb" data-kind="examen" data-screen="EXAM_CSP_V01_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1674,7 +1674,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q27
-<span hidden data-civi-question="4d01f1d8469c34cb" data-kind="examen" data-screen="EXAM_CSP_V01_Q27"></span>
+<span hidden data-civi-question="17dce515a634146e" data-kind="examen" data-screen="EXAM_CSP_V01_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1733,7 +1733,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q28
-<span hidden data-civi-question="c97fb45d7911f57b" data-kind="examen" data-screen="EXAM_CSP_V01_Q28"></span>
+<span hidden data-civi-question="1f710f6d8456ed50" data-kind="examen" data-screen="EXAM_CSP_V01_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1804,7 +1804,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q29
-<span hidden data-civi-question="8aca5d78e330d70f" data-kind="examen" data-screen="EXAM_CSP_V01_Q29"></span>
+<span hidden data-civi-question="0328e8d5c6490535" data-kind="examen" data-screen="EXAM_CSP_V01_Q29"></span>
 `@exam_variant = 1`
 
 
@@ -1866,7 +1866,7 @@ Lors d'un cours sur la construction européenne, on vous demande en quelle anné
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q30
-<span hidden data-civi-question="668b4cb716a43534" data-kind="examen" data-screen="EXAM_CSP_V01_Q30"></span>
+<span hidden data-civi-question="68b7d65c95bbb7b3" data-kind="examen" data-screen="EXAM_CSP_V01_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1925,7 +1925,7 @@ Un ami s'inquiète que le président de la République puisse décider seul de t
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q31
-<span hidden data-civi-question="8deab47d6513069d" data-kind="examen" data-screen="EXAM_CSP_V01_Q31"></span>
+<span hidden data-civi-question="48c9af36fdfcf085" data-kind="examen" data-screen="EXAM_CSP_V01_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -1984,7 +1984,7 @@ Lors d'une soirée jeu de société que vous organisez avec votre famille. Une q
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q32
-<span hidden data-civi-question="a49e7456862ed7ca" data-kind="examen" data-screen="EXAM_CSP_V01_Q32"></span>
+<span hidden data-civi-question="5883eafdbd9c587c" data-kind="examen" data-screen="EXAM_CSP_V01_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2043,7 +2043,7 @@ Un ami danois récemment arrivé en France s'interroge sur la monnaie utilisée 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q33
-<span hidden data-civi-question="855f20d8ba8d4512" data-kind="examen" data-screen="EXAM_CSP_V01_Q33"></span>
+<span hidden data-civi-question="6cfc3d133979ad2b" data-kind="examen" data-screen="EXAM_CSP_V01_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2102,7 +2102,7 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour trie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q34
-<span hidden data-civi-question="42ccdd9957baa8ed" data-kind="examen" data-screen="EXAM_CSP_V01_Q34"></span>
+<span hidden data-civi-question="4f79e0a22994b51a" data-kind="examen" data-screen="EXAM_CSP_V01_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2161,7 +2161,7 @@ Après une consultation médicale, un ami se demande auprès de quel organisme i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q35
-<span hidden data-civi-question="1e6608c616776710" data-kind="examen" data-screen="EXAM_CSP_V01_Q35"></span>
+<span hidden data-civi-question="921d4a8d1fbc0f8a" data-kind="examen" data-screen="EXAM_CSP_V01_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2220,7 +2220,7 @@ Dans la rue, Louise jette une bouteille vide par terre en affirmant que « ce n'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q36
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V01_Q36"></span>
+<span hidden data-civi-question="ec3d25896433df85" data-kind="examen" data-screen="EXAM_CSP_V01_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2279,7 +2279,7 @@ Un ami vous demande quelle mer borde le sud de la France métropolitaine.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q37
-<span hidden data-civi-question="187e34dce7656273" data-kind="examen" data-screen="EXAM_CSP_V01_Q37"></span>
+<span hidden data-civi-question="e136cb041d18a1ea" data-kind="examen" data-screen="EXAM_CSP_V01_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2338,7 +2338,7 @@ Un parent d'élève confond plusieurs diplômes et vous demande le nom de celui 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q38
-<span hidden data-civi-question="2004ca14efcc81bf" data-kind="examen" data-screen="EXAM_CSP_V01_Q38"></span>
+<span hidden data-civi-question="79e02324052c7143" data-kind="examen" data-screen="EXAM_CSP_V01_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2397,7 +2397,7 @@ Lors d'un cours de préparation civique, le formateur demande à quelle date rem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q39
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V01_Q39"></span>
+<span hidden data-civi-question="e05c1647d57e7e16" data-kind="examen" data-screen="EXAM_CSP_V01_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -2456,7 +2456,7 @@ Vous regardez à la télévision les célébrations du 14 juillet et un ami vous
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V01_Q40
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V01_Q40"></span>
+<span hidden data-civi-question="4a9d864b8341fe0a" data-kind="examen" data-screen="EXAM_CSP_V01_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3522,7 +3522,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q01
-<span hidden data-civi-question="5c70c44596892641" data-kind="examen" data-screen="EXAM_CSP_V02_Q01"></span>
+<span hidden data-civi-question="cd27793c0d85808d" data-kind="examen" data-screen="EXAM_CSP_V02_Q01"></span>
 `@exam_variant = 2`
 
 
@@ -3584,7 +3584,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q02
-<span hidden data-civi-question="34ea1692a355f612" data-kind="examen" data-screen="EXAM_CSP_V02_Q02"></span>
+<span hidden data-civi-question="0f987393f387365f" data-kind="examen" data-screen="EXAM_CSP_V02_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3643,7 +3643,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q03
-<span hidden data-civi-question="2d984a34e1bab562" data-kind="examen" data-screen="EXAM_CSP_V02_Q03"></span>
+<span hidden data-civi-question="df192170353275c4" data-kind="examen" data-screen="EXAM_CSP_V02_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3702,7 +3702,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q04
-<span hidden data-civi-question="96a767e361b212ce" data-kind="examen" data-screen="EXAM_CSP_V02_Q04"></span>
+<span hidden data-civi-question="69f4c20fe6be656e" data-kind="examen" data-screen="EXAM_CSP_V02_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3761,7 +3761,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q05
-<span hidden data-civi-question="77f77da916339eed" data-kind="examen" data-screen="EXAM_CSP_V02_Q05"></span>
+<span hidden data-civi-question="f474a934f6a80b36" data-kind="examen" data-screen="EXAM_CSP_V02_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3820,7 +3820,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q06
-<span hidden data-civi-question="d0de4a87cc845ed7" data-kind="examen" data-screen="EXAM_CSP_V02_Q06"></span>
+<span hidden data-civi-question="5679d4fcd8fb98bc" data-kind="examen" data-screen="EXAM_CSP_V02_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3879,7 +3879,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q07
-<span hidden data-civi-question="db713b9e6c3c55f0" data-kind="examen" data-screen="EXAM_CSP_V02_Q07"></span>
+<span hidden data-civi-question="7c05f2e2eef65324" data-kind="examen" data-screen="EXAM_CSP_V02_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3938,7 +3938,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q08
-<span hidden data-civi-question="8a8f51569d2764c9" data-kind="examen" data-screen="EXAM_CSP_V02_Q08"></span>
+<span hidden data-civi-question="8191a3c387ef0d65" data-kind="examen" data-screen="EXAM_CSP_V02_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -3997,7 +3997,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q09
-<span hidden data-civi-question="4a9006157dca145a" data-kind="examen" data-screen="EXAM_CSP_V02_Q09"></span>
+<span hidden data-civi-question="f73a7e038643e707" data-kind="examen" data-screen="EXAM_CSP_V02_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4056,7 +4056,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q10
-<span hidden data-civi-question="252e49f61c254a4e" data-kind="examen" data-screen="EXAM_CSP_V02_Q10"></span>
+<span hidden data-civi-question="baa4015a31c61a11" data-kind="examen" data-screen="EXAM_CSP_V02_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4115,7 +4115,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q11
-<span hidden data-civi-question="129bf0b2eabce77b" data-kind="examen" data-screen="EXAM_CSP_V02_Q11"></span>
+<span hidden data-civi-question="b350b417af444dd4" data-kind="examen" data-screen="EXAM_CSP_V02_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4174,7 +4174,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q12
-<span hidden data-civi-question="93c85ce0bcba970a" data-kind="examen" data-screen="EXAM_CSP_V02_Q12"></span>
+<span hidden data-civi-question="000e72921bbd78c9" data-kind="examen" data-screen="EXAM_CSP_V02_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4233,7 +4233,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q13
-<span hidden data-civi-question="29f4318eebcf9db4" data-kind="examen" data-screen="EXAM_CSP_V02_Q13"></span>
+<span hidden data-civi-question="02f6db57e0c0708e" data-kind="examen" data-screen="EXAM_CSP_V02_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4292,7 +4292,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q14
-<span hidden data-civi-question="3cd7c9071a966ade" data-kind="examen" data-screen="EXAM_CSP_V02_Q14"></span>
+<span hidden data-civi-question="4be36c0af83a36ca" data-kind="examen" data-screen="EXAM_CSP_V02_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4351,7 +4351,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q15
-<span hidden data-civi-question="6298e7092ef01ca6" data-kind="examen" data-screen="EXAM_CSP_V02_Q15"></span>
+<span hidden data-civi-question="6db2155cb702da8e" data-kind="examen" data-screen="EXAM_CSP_V02_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4410,7 +4410,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q16
-<span hidden data-civi-question="92d71bd41f2baeea" data-kind="examen" data-screen="EXAM_CSP_V02_Q16"></span>
+<span hidden data-civi-question="e91de112a15f5d55" data-kind="examen" data-screen="EXAM_CSP_V02_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4469,7 +4469,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q17
-<span hidden data-civi-question="4a06e20eac4722ad" data-kind="examen" data-screen="EXAM_CSP_V02_Q17"></span>
+<span hidden data-civi-question="8e9f75e5d8a83999" data-kind="examen" data-screen="EXAM_CSP_V02_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4528,7 +4528,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q18
-<span hidden data-civi-question="befe02b450995aeb" data-kind="examen" data-screen="EXAM_CSP_V02_Q18"></span>
+<span hidden data-civi-question="7f918fbdbb7c5a2c" data-kind="examen" data-screen="EXAM_CSP_V02_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4587,7 +4587,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q19
-<span hidden data-civi-question="c8149212a81c5ed3" data-kind="examen" data-screen="EXAM_CSP_V02_Q19"></span>
+<span hidden data-civi-question="e2877801bde6b16f" data-kind="examen" data-screen="EXAM_CSP_V02_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4646,7 +4646,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q20
-<span hidden data-civi-question="48cb3a1ed1c5e04b" data-kind="examen" data-screen="EXAM_CSP_V02_Q20"></span>
+<span hidden data-civi-question="201622568576ff67" data-kind="examen" data-screen="EXAM_CSP_V02_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4705,7 +4705,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q21
-<span hidden data-civi-question="27c95287d688b0a4" data-kind="examen" data-screen="EXAM_CSP_V02_Q21"></span>
+<span hidden data-civi-question="fc6ffa7f17eb9b14" data-kind="examen" data-screen="EXAM_CSP_V02_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4764,7 +4764,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q22
-<span hidden data-civi-question="338450eeaf4be9d7" data-kind="examen" data-screen="EXAM_CSP_V02_Q22"></span>
+<span hidden data-civi-question="a2aa4d377a1b55ac" data-kind="examen" data-screen="EXAM_CSP_V02_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4823,7 +4823,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q23
-<span hidden data-civi-question="36098d527c5af694" data-kind="examen" data-screen="EXAM_CSP_V02_Q23"></span>
+<span hidden data-civi-question="57cf42df5aecb366" data-kind="examen" data-screen="EXAM_CSP_V02_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4882,7 +4882,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q24
-<span hidden data-civi-question="d319db722effa9bf" data-kind="examen" data-screen="EXAM_CSP_V02_Q24"></span>
+<span hidden data-civi-question="629bf37cbceb8600" data-kind="examen" data-screen="EXAM_CSP_V02_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -4941,7 +4941,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q25
-<span hidden data-civi-question="70dbb24b590761c5" data-kind="examen" data-screen="EXAM_CSP_V02_Q25"></span>
+<span hidden data-civi-question="586558e0ddb994f2" data-kind="examen" data-screen="EXAM_CSP_V02_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5000,7 +5000,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q26
-<span hidden data-civi-question="17f9c11929df9843" data-kind="examen" data-screen="EXAM_CSP_V02_Q26"></span>
+<span hidden data-civi-question="d6f2429919b208fd" data-kind="examen" data-screen="EXAM_CSP_V02_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5059,7 +5059,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q27
-<span hidden data-civi-question="ab5f170d43701020" data-kind="examen" data-screen="EXAM_CSP_V02_Q27"></span>
+<span hidden data-civi-question="41daec0bd1814773" data-kind="examen" data-screen="EXAM_CSP_V02_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5118,7 +5118,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q28
-<span hidden data-civi-question="071fd75341ef4330" data-kind="examen" data-screen="EXAM_CSP_V02_Q28"></span>
+<span hidden data-civi-question="2840dc42860873c8" data-kind="examen" data-screen="EXAM_CSP_V02_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5189,7 +5189,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q29
-<span hidden data-civi-question="4ee9e145ced5503a" data-kind="examen" data-screen="EXAM_CSP_V02_Q29"></span>
+<span hidden data-civi-question="087f145de047fa7f" data-kind="examen" data-screen="EXAM_CSP_V02_Q29"></span>
 `@exam_variant = 2`
 
 
@@ -5251,7 +5251,7 @@ Votre enfant vous demande de l'aide pour un devoir de géographie. Il vous deman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q30
-<span hidden data-civi-question="a0adf86889bb7230" data-kind="examen" data-screen="EXAM_CSP_V02_Q30"></span>
+<span hidden data-civi-question="ba9ad01fb54661f6" data-kind="examen" data-screen="EXAM_CSP_V02_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5310,7 +5310,7 @@ Lors d'un débat citoyen, quelqu'un vous demande quel droit est concrètement ga
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q31
-<span hidden data-civi-question="11888040017a62db" data-kind="examen" data-screen="EXAM_CSP_V02_Q31"></span>
+<span hidden data-civi-question="0d7235f0ebc201d1" data-kind="examen" data-screen="EXAM_CSP_V02_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5369,7 +5369,7 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q32
-<span hidden data-civi-question="7add9b1c101a0e85" data-kind="examen" data-screen="EXAM_CSP_V02_Q32"></span>
+<span hidden data-civi-question="5e97823412c9f5a8" data-kind="examen" data-screen="EXAM_CSP_V02_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5428,7 +5428,7 @@ Marlone a un problème de santé léger et hésite à se rendre aux urgences.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q33
-<span hidden data-civi-question="d008068178909d72" data-kind="examen" data-screen="EXAM_CSP_V02_Q33"></span>
+<span hidden data-civi-question="1bb703ff3e9f2bd1" data-kind="examen" data-screen="EXAM_CSP_V02_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5487,7 +5487,7 @@ Mathilde est invitée sur un plateau TV pour un débat sur les droits et libert�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q34
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V02_Q34"></span>
+<span hidden data-civi-question="3ef7b3cc90337839" data-kind="examen" data-screen="EXAM_CSP_V02_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5546,7 +5546,7 @@ Une amie confond le pouvoir législatif avec le pouvoir exécutif et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q35
-<span hidden data-civi-question="1a8ba78fbf791f14" data-kind="examen" data-screen="EXAM_CSP_V02_Q35"></span>
+<span hidden data-civi-question="eb6df7ebe74b76de" data-kind="examen" data-screen="EXAM_CSP_V02_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5605,7 +5605,7 @@ Jackie pense qu'il ne risque rien s'il ne respecte pas une loi, tant que personn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q36
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V02_Q36"></span>
+<span hidden data-civi-question="53ab41685f20a43d" data-kind="examen" data-screen="EXAM_CSP_V02_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5664,7 +5664,7 @@ Votre fille découvre le nom de Simone de Beauvoir dans votre bibliothèque du s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q37
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V02_Q37"></span>
+<span hidden data-civi-question="3d2d6e2c097d661c" data-kind="examen" data-screen="EXAM_CSP_V02_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5723,7 +5723,7 @@ Un ami suit l'actualité politique et se demande qui a le pouvoir de nommer le P
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q38
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V02_Q38"></span>
+<span hidden data-civi-question="f52fd7a5e114bb63" data-kind="examen" data-screen="EXAM_CSP_V02_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5782,7 +5782,7 @@ Lors d'une visite du Mémorial de la Shoah, un ami vous demande ce que ce terme 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q39
-<span hidden data-civi-question="99189f817f3f7127" data-kind="examen" data-screen="EXAM_CSP_V02_Q39"></span>
+<span hidden data-civi-question="008b2a98cadbb7e3" data-kind="examen" data-screen="EXAM_CSP_V02_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -5841,7 +5841,7 @@ Une amie hésite à se lancer dans l'entrepreneuriat, pensant qu'elle a besoin d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V02_Q40
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V02_Q40"></span>
+<span hidden data-civi-question="c48a912fb409fbd0" data-kind="examen" data-screen="EXAM_CSP_V02_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -6923,7 +6923,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q01
-<span hidden data-civi-question="91588955fcb55446" data-kind="examen" data-screen="EXAM_CSP_V03_Q01"></span>
+<span hidden data-civi-question="cf015c537ee569aa" data-kind="examen" data-screen="EXAM_CSP_V03_Q01"></span>
 `@exam_variant = 3`
 
 
@@ -6985,7 +6985,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q02
-<span hidden data-civi-question="0f444396abf8ceae" data-kind="examen" data-screen="EXAM_CSP_V03_Q02"></span>
+<span hidden data-civi-question="f0683d00c44891c5" data-kind="examen" data-screen="EXAM_CSP_V03_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7044,7 +7044,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q03
-<span hidden data-civi-question="ecd0f094afdfc757" data-kind="examen" data-screen="EXAM_CSP_V03_Q03"></span>
+<span hidden data-civi-question="3f1f1f993132bcfc" data-kind="examen" data-screen="EXAM_CSP_V03_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7103,7 +7103,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q04
-<span hidden data-civi-question="2a2aa11b6c8559da" data-kind="examen" data-screen="EXAM_CSP_V03_Q04"></span>
+<span hidden data-civi-question="c54c107fdda6647d" data-kind="examen" data-screen="EXAM_CSP_V03_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7162,7 +7162,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q05
-<span hidden data-civi-question="89762121b9191ec8" data-kind="examen" data-screen="EXAM_CSP_V03_Q05"></span>
+<span hidden data-civi-question="5e9c6f6a9b215794" data-kind="examen" data-screen="EXAM_CSP_V03_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7221,7 +7221,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q06
-<span hidden data-civi-question="78630485bdbf8081" data-kind="examen" data-screen="EXAM_CSP_V03_Q06"></span>
+<span hidden data-civi-question="db82dad7b7f1cfb3" data-kind="examen" data-screen="EXAM_CSP_V03_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7280,7 +7280,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q07
-<span hidden data-civi-question="a44dfe7adbe9a44e" data-kind="examen" data-screen="EXAM_CSP_V03_Q07"></span>
+<span hidden data-civi-question="e127b751c3219948" data-kind="examen" data-screen="EXAM_CSP_V03_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7339,7 +7339,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q08
-<span hidden data-civi-question="0fff323add164c07" data-kind="examen" data-screen="EXAM_CSP_V03_Q08"></span>
+<span hidden data-civi-question="e6162754c4037a01" data-kind="examen" data-screen="EXAM_CSP_V03_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7398,7 +7398,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q09
-<span hidden data-civi-question="9c0b2d4d0e7cf849" data-kind="examen" data-screen="EXAM_CSP_V03_Q09"></span>
+<span hidden data-civi-question="7a3e473a06932d3b" data-kind="examen" data-screen="EXAM_CSP_V03_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7457,7 +7457,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q10
-<span hidden data-civi-question="8930ad11e60b2fe1" data-kind="examen" data-screen="EXAM_CSP_V03_Q10"></span>
+<span hidden data-civi-question="c62a0cd78d37aca9" data-kind="examen" data-screen="EXAM_CSP_V03_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7516,7 +7516,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q11
-<span hidden data-civi-question="f581a06d866a6533" data-kind="examen" data-screen="EXAM_CSP_V03_Q11"></span>
+<span hidden data-civi-question="c19227ca6f09b50b" data-kind="examen" data-screen="EXAM_CSP_V03_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7575,7 +7575,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q12
-<span hidden data-civi-question="99189f817f3f7127" data-kind="examen" data-screen="EXAM_CSP_V03_Q12"></span>
+<span hidden data-civi-question="1f6258ad09f668cf" data-kind="examen" data-screen="EXAM_CSP_V03_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7634,7 +7634,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q13
-<span hidden data-civi-question="408eb9e76c7b86b1" data-kind="examen" data-screen="EXAM_CSP_V03_Q13"></span>
+<span hidden data-civi-question="a3fde46f8266c179" data-kind="examen" data-screen="EXAM_CSP_V03_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7693,7 +7693,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q14
-<span hidden data-civi-question="a433b0b961e84a0b" data-kind="examen" data-screen="EXAM_CSP_V03_Q14"></span>
+<span hidden data-civi-question="a7c2308ffcfe773a" data-kind="examen" data-screen="EXAM_CSP_V03_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7752,7 +7752,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q15
-<span hidden data-civi-question="1dbb7e2367547d77" data-kind="examen" data-screen="EXAM_CSP_V03_Q15"></span>
+<span hidden data-civi-question="3818b3e3e9359ff8" data-kind="examen" data-screen="EXAM_CSP_V03_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7811,7 +7811,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q16
-<span hidden data-civi-question="2da085098c3f55b5" data-kind="examen" data-screen="EXAM_CSP_V03_Q16"></span>
+<span hidden data-civi-question="c1f7dca860355685" data-kind="examen" data-screen="EXAM_CSP_V03_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7870,7 +7870,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q17
-<span hidden data-civi-question="dab05773a567d1ef" data-kind="examen" data-screen="EXAM_CSP_V03_Q17"></span>
+<span hidden data-civi-question="49fe8c6ed9dc8e07" data-kind="examen" data-screen="EXAM_CSP_V03_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7929,7 +7929,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q18
-<span hidden data-civi-question="aa6b2fc16d9bd27a" data-kind="examen" data-screen="EXAM_CSP_V03_Q18"></span>
+<span hidden data-civi-question="c07fe642998c7ead" data-kind="examen" data-screen="EXAM_CSP_V03_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -7988,7 +7988,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q19
-<span hidden data-civi-question="dd004d4c65ffe305" data-kind="examen" data-screen="EXAM_CSP_V03_Q19"></span>
+<span hidden data-civi-question="7d4b570d2dcfcee8" data-kind="examen" data-screen="EXAM_CSP_V03_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8047,7 +8047,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q20
-<span hidden data-civi-question="600a6071169d5e92" data-kind="examen" data-screen="EXAM_CSP_V03_Q20"></span>
+<span hidden data-civi-question="00f63ea6e42bf3ec" data-kind="examen" data-screen="EXAM_CSP_V03_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8106,7 +8106,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q21
-<span hidden data-civi-question="9cd343278946918d" data-kind="examen" data-screen="EXAM_CSP_V03_Q21"></span>
+<span hidden data-civi-question="4e7f534d69534b96" data-kind="examen" data-screen="EXAM_CSP_V03_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8165,7 +8165,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q22
-<span hidden data-civi-question="7350d98ffd4ba592" data-kind="examen" data-screen="EXAM_CSP_V03_Q22"></span>
+<span hidden data-civi-question="9f3b2157d2f74b53" data-kind="examen" data-screen="EXAM_CSP_V03_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8224,7 +8224,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q23
-<span hidden data-civi-question="f2f1c782987c670d" data-kind="examen" data-screen="EXAM_CSP_V03_Q23"></span>
+<span hidden data-civi-question="f04b79c8e2c56bff" data-kind="examen" data-screen="EXAM_CSP_V03_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8283,7 +8283,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q24
-<span hidden data-civi-question="8700f6867a9fb0cc" data-kind="examen" data-screen="EXAM_CSP_V03_Q24"></span>
+<span hidden data-civi-question="23b6d85f3e6fa3a6" data-kind="examen" data-screen="EXAM_CSP_V03_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8342,7 +8342,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q25
-<span hidden data-civi-question="3716a47d417ccfc7" data-kind="examen" data-screen="EXAM_CSP_V03_Q25"></span>
+<span hidden data-civi-question="ddfcbf3587058c2d" data-kind="examen" data-screen="EXAM_CSP_V03_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8401,7 +8401,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q26
-<span hidden data-civi-question="8d810f4ac4012595" data-kind="examen" data-screen="EXAM_CSP_V03_Q26"></span>
+<span hidden data-civi-question="e3ec24c0f7e16a5a" data-kind="examen" data-screen="EXAM_CSP_V03_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8460,7 +8460,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q27
-<span hidden data-civi-question="6f65416f99d9e802" data-kind="examen" data-screen="EXAM_CSP_V03_Q27"></span>
+<span hidden data-civi-question="a1296b034a7a5c5f" data-kind="examen" data-screen="EXAM_CSP_V03_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8519,7 +8519,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q28
-<span hidden data-civi-question="312531f7f85a61fb" data-kind="examen" data-screen="EXAM_CSP_V03_Q28"></span>
+<span hidden data-civi-question="38d2bf102a9d1489" data-kind="examen" data-screen="EXAM_CSP_V03_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8590,7 +8590,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q29
-<span hidden data-civi-question="f2a12fee84fcb4e8" data-kind="examen" data-screen="EXAM_CSP_V03_Q29"></span>
+<span hidden data-civi-question="59425e1c21cf14b9" data-kind="examen" data-screen="EXAM_CSP_V03_Q29"></span>
 `@exam_variant = 3`
 
 
@@ -8652,7 +8652,7 @@ Un touriste souhaite visiter un grand musée parisien qui abrite notamment la Jo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q30
-<span hidden data-civi-question="25cabe6e2efb6009" data-kind="examen" data-screen="EXAM_CSP_V03_Q30"></span>
+<span hidden data-civi-question="95458b683337ca4d" data-kind="examen" data-screen="EXAM_CSP_V03_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8711,7 +8711,7 @@ Un policier arrête un jeune homme pour le vol de plusieurs vêtements dans une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q31
-<span hidden data-civi-question="bc770a38b5957b76" data-kind="examen" data-screen="EXAM_CSP_V03_Q31"></span>
+<span hidden data-civi-question="1983b1b22a43de79" data-kind="examen" data-screen="EXAM_CSP_V03_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8770,7 +8770,7 @@ Un ami ne comprend pas à quoi servent les partis politiques en France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q32
-<span hidden data-civi-question="9220e410580f54fb" data-kind="examen" data-screen="EXAM_CSP_V03_Q32"></span>
+<span hidden data-civi-question="df63f27706d68e39" data-kind="examen" data-screen="EXAM_CSP_V03_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8829,7 +8829,7 @@ Un couple vient d'avoir un enfant et se demande dans quel délai ils doivent le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q33
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V03_Q33"></span>
+<span hidden data-civi-question="6846d0ce000eff2b" data-kind="examen" data-screen="EXAM_CSP_V03_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8888,7 +8888,7 @@ Lors de votre formation civique, votre formatrice vous demande de citer, dans l'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q34
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V03_Q34"></span>
+<span hidden data-civi-question="8283b462e053ac2c" data-kind="examen" data-screen="EXAM_CSP_V03_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -8947,7 +8947,7 @@ Un ami pense que la Marseillaise est une chanson de variété récente.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q35
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V03_Q35"></span>
+<span hidden data-civi-question="cfced588c031034d" data-kind="examen" data-screen="EXAM_CSP_V03_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -9006,7 +9006,7 @@ Un ami vous demande qui était Marc Chagall car il a cru voir ce nom sur une aff
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q36
-<span hidden data-civi-question="93f44fb42cc9d798" data-kind="examen" data-screen="EXAM_CSP_V03_Q36"></span>
+<span hidden data-civi-question="00c1edb694b6eca3" data-kind="examen" data-screen="EXAM_CSP_V03_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -9065,7 +9065,7 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q37
-<span hidden data-civi-question="dbf18d131d60aa77" data-kind="examen" data-screen="EXAM_CSP_V03_Q37"></span>
+<span hidden data-civi-question="112a5f13e79f6815" data-kind="examen" data-screen="EXAM_CSP_V03_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -9124,7 +9124,7 @@ Dans votre commune, un habitant se demande qui a le pouvoir de décision au quot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q38
-<span hidden data-civi-question="0eece4f2fa7db362" data-kind="examen" data-screen="EXAM_CSP_V03_Q38"></span>
+<span hidden data-civi-question="6c550b3738f73860" data-kind="examen" data-screen="EXAM_CSP_V03_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -9183,7 +9183,7 @@ Lors d'une visite guidée du musée Carnavalet, le guide évoque le début de la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q39
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V03_Q39"></span>
+<span hidden data-civi-question="81be86f9fa225f90" data-kind="examen" data-screen="EXAM_CSP_V03_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -9242,7 +9242,7 @@ Une amie se demande à quelle condition elle pourra voter lors des prochaines é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V03_Q40
-<span hidden data-civi-question="f15a9426553c6728" data-kind="examen" data-screen="EXAM_CSP_V03_Q40"></span>
+<span hidden data-civi-question="0af658ebb877a923" data-kind="examen" data-screen="EXAM_CSP_V03_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10284,7 +10284,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q01
-<span hidden data-civi-question="9d61866a203b0b30" data-kind="examen" data-screen="EXAM_CSP_V04_Q01"></span>
+<span hidden data-civi-question="24f8fdf6b697dab9" data-kind="examen" data-screen="EXAM_CSP_V04_Q01"></span>
 `@exam_variant = 4`
 
 
@@ -10346,7 +10346,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q02
-<span hidden data-civi-question="b3128f744f1064a9" data-kind="examen" data-screen="EXAM_CSP_V04_Q02"></span>
+<span hidden data-civi-question="2178e03c76f9b71b" data-kind="examen" data-screen="EXAM_CSP_V04_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10405,7 +10405,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q03
-<span hidden data-civi-question="24e2c6b1aeed2a12" data-kind="examen" data-screen="EXAM_CSP_V04_Q03"></span>
+<span hidden data-civi-question="f760d031af648f10" data-kind="examen" data-screen="EXAM_CSP_V04_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10464,7 +10464,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q04
-<span hidden data-civi-question="f3dc9f38e25ea9ed" data-kind="examen" data-screen="EXAM_CSP_V04_Q04"></span>
+<span hidden data-civi-question="b95a4453dfc8f32d" data-kind="examen" data-screen="EXAM_CSP_V04_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10523,7 +10523,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q05
-<span hidden data-civi-question="89198e65f3299429" data-kind="examen" data-screen="EXAM_CSP_V04_Q05"></span>
+<span hidden data-civi-question="c40d44bd1efe2bef" data-kind="examen" data-screen="EXAM_CSP_V04_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10582,7 +10582,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q06
-<span hidden data-civi-question="29d5f3bcefd0a32d" data-kind="examen" data-screen="EXAM_CSP_V04_Q06"></span>
+<span hidden data-civi-question="d31e617c97ed680c" data-kind="examen" data-screen="EXAM_CSP_V04_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10641,7 +10641,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q07
-<span hidden data-civi-question="423db1e10715db86" data-kind="examen" data-screen="EXAM_CSP_V04_Q07"></span>
+<span hidden data-civi-question="6dfabb46e582e8ee" data-kind="examen" data-screen="EXAM_CSP_V04_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10700,7 +10700,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q08
-<span hidden data-civi-question="9f7fb125fa506102" data-kind="examen" data-screen="EXAM_CSP_V04_Q08"></span>
+<span hidden data-civi-question="f1969a094fbda327" data-kind="examen" data-screen="EXAM_CSP_V04_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10759,7 +10759,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q09
-<span hidden data-civi-question="a57dc7b22c408807" data-kind="examen" data-screen="EXAM_CSP_V04_Q09"></span>
+<span hidden data-civi-question="7c335f64e0d78c1f" data-kind="examen" data-screen="EXAM_CSP_V04_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10818,7 +10818,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q10
-<span hidden data-civi-question="b6513708b69b003a" data-kind="examen" data-screen="EXAM_CSP_V04_Q10"></span>
+<span hidden data-civi-question="9a173d1c4e3ead3d" data-kind="examen" data-screen="EXAM_CSP_V04_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10877,7 +10877,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q11
-<span hidden data-civi-question="11888040017a62db" data-kind="examen" data-screen="EXAM_CSP_V04_Q11"></span>
+<span hidden data-civi-question="21711a40b5ae039c" data-kind="examen" data-screen="EXAM_CSP_V04_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10936,7 +10936,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q12
-<span hidden data-civi-question="78a63899a0f9f31c" data-kind="examen" data-screen="EXAM_CSP_V04_Q12"></span>
+<span hidden data-civi-question="9096b641e9a56f4b" data-kind="examen" data-screen="EXAM_CSP_V04_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -10995,7 +10995,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q13
-<span hidden data-civi-question="106bfa1e34c63d0c" data-kind="examen" data-screen="EXAM_CSP_V04_Q13"></span>
+<span hidden data-civi-question="aca529c61522911e" data-kind="examen" data-screen="EXAM_CSP_V04_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11054,7 +11054,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q14
-<span hidden data-civi-question="f9ba41feca7b1362" data-kind="examen" data-screen="EXAM_CSP_V04_Q14"></span>
+<span hidden data-civi-question="ebb3c5d2b01649e3" data-kind="examen" data-screen="EXAM_CSP_V04_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11113,7 +11113,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q15
-<span hidden data-civi-question="3351a9886b8eae16" data-kind="examen" data-screen="EXAM_CSP_V04_Q15"></span>
+<span hidden data-civi-question="6fd15d414e7ea410" data-kind="examen" data-screen="EXAM_CSP_V04_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11172,7 +11172,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q16
-<span hidden data-civi-question="a9fb215d7347d19e" data-kind="examen" data-screen="EXAM_CSP_V04_Q16"></span>
+<span hidden data-civi-question="dac223f8bffe16cf" data-kind="examen" data-screen="EXAM_CSP_V04_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11231,7 +11231,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q17
-<span hidden data-civi-question="c012bda801ef45a3" data-kind="examen" data-screen="EXAM_CSP_V04_Q17"></span>
+<span hidden data-civi-question="9640e2f7b38d5654" data-kind="examen" data-screen="EXAM_CSP_V04_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11290,7 +11290,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q18
-<span hidden data-civi-question="a74e04d615690b2f" data-kind="examen" data-screen="EXAM_CSP_V04_Q18"></span>
+<span hidden data-civi-question="d7a477bc851b7b25" data-kind="examen" data-screen="EXAM_CSP_V04_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11349,7 +11349,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q19
-<span hidden data-civi-question="e32757b9749034cb" data-kind="examen" data-screen="EXAM_CSP_V04_Q19"></span>
+<span hidden data-civi-question="54bc1a3d23fa091c" data-kind="examen" data-screen="EXAM_CSP_V04_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11408,7 +11408,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q20
-<span hidden data-civi-question="7c3c45a753298df4" data-kind="examen" data-screen="EXAM_CSP_V04_Q20"></span>
+<span hidden data-civi-question="eba2b55d7c0d1f9b" data-kind="examen" data-screen="EXAM_CSP_V04_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11467,7 +11467,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q21
-<span hidden data-civi-question="4361cf75cb2cef13" data-kind="examen" data-screen="EXAM_CSP_V04_Q21"></span>
+<span hidden data-civi-question="7afd9ae6df4492b4" data-kind="examen" data-screen="EXAM_CSP_V04_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11526,7 +11526,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q22
-<span hidden data-civi-question="26459b0e3c963509" data-kind="examen" data-screen="EXAM_CSP_V04_Q22"></span>
+<span hidden data-civi-question="36756ca32b40d6f6" data-kind="examen" data-screen="EXAM_CSP_V04_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11585,7 +11585,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q23
-<span hidden data-civi-question="c1935f3f3a5e270a" data-kind="examen" data-screen="EXAM_CSP_V04_Q23"></span>
+<span hidden data-civi-question="7d1b6e055ee121fc" data-kind="examen" data-screen="EXAM_CSP_V04_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11644,7 +11644,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q24
-<span hidden data-civi-question="dfe23c0ad153f684" data-kind="examen" data-screen="EXAM_CSP_V04_Q24"></span>
+<span hidden data-civi-question="093d0d7278c8ac59" data-kind="examen" data-screen="EXAM_CSP_V04_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11703,7 +11703,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q25
-<span hidden data-civi-question="a039050b61ca7c52" data-kind="examen" data-screen="EXAM_CSP_V04_Q25"></span>
+<span hidden data-civi-question="48587ba47db22756" data-kind="examen" data-screen="EXAM_CSP_V04_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11762,7 +11762,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q26
-<span hidden data-civi-question="1c23c73bae493282" data-kind="examen" data-screen="EXAM_CSP_V04_Q26"></span>
+<span hidden data-civi-question="6eb753df90c265b0" data-kind="examen" data-screen="EXAM_CSP_V04_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11821,7 +11821,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q27
-<span hidden data-civi-question="abfc24bb34bff503" data-kind="examen" data-screen="EXAM_CSP_V04_Q27"></span>
+<span hidden data-civi-question="80361d2120a77f4a" data-kind="examen" data-screen="EXAM_CSP_V04_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11880,7 +11880,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q28
-<span hidden data-civi-question="9feb52d108a953c6" data-kind="examen" data-screen="EXAM_CSP_V04_Q28"></span>
+<span hidden data-civi-question="03cf9eb2c06cf93c" data-kind="examen" data-screen="EXAM_CSP_V04_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -11951,7 +11951,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q29
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V04_Q29"></span>
+<span hidden data-civi-question="bb5949c08d480564" data-kind="examen" data-screen="EXAM_CSP_V04_Q29"></span>
 `@exam_variant = 4`
 
 
@@ -12013,7 +12013,7 @@ Les élections législatives approchent. Un collègue de bureau vous demande si 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q30
-<span hidden data-civi-question="e5fbe745ff6859b8" data-kind="examen" data-screen="EXAM_CSP_V04_Q30"></span>
+<span hidden data-civi-question="b949bfb9d33827cc" data-kind="examen" data-screen="EXAM_CSP_V04_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12072,7 +12072,7 @@ Un ami vient de perdre son emploi et ne sait pas par où commencer pour en retro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q31
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V04_Q31"></span>
+<span hidden data-civi-question="7e2ceb1ce047cb23" data-kind="examen" data-screen="EXAM_CSP_V04_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12131,7 +12131,7 @@ Un ami envisage de changer de religion mais craint que cela ne soit interdit par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q32
-<span hidden data-civi-question="a4b31f8e4206830e" data-kind="examen" data-screen="EXAM_CSP_V04_Q32"></span>
+<span hidden data-civi-question="1b7dd34a6e88bd75" data-kind="examen" data-screen="EXAM_CSP_V04_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12190,7 +12190,7 @@ Un ami pense que c'est le président de la République qui vote personnellement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q33
-<span hidden data-civi-question="1dedb40af5b63580" data-kind="examen" data-screen="EXAM_CSP_V04_Q33"></span>
+<span hidden data-civi-question="f75ef7412c5d01d0" data-kind="examen" data-screen="EXAM_CSP_V04_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12249,7 +12249,7 @@ Un ami hésite à souscrire une mutuelle, pensant que l'Assurance Maladie rembou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q34
-<span hidden data-civi-question="bb0043f699142596" data-kind="examen" data-screen="EXAM_CSP_V04_Q34"></span>
+<span hidden data-civi-question="ff7da5a8ccc13e96" data-kind="examen" data-screen="EXAM_CSP_V04_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12308,7 +12308,7 @@ Un ami confond la durée du mandat présidentiel avec celle d'autres élections.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q35
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V04_Q35"></span>
+<span hidden data-civi-question="ca383cf3ec87d4ba" data-kind="examen" data-screen="EXAM_CSP_V04_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12367,7 +12367,7 @@ Un ami s'interroge sur la place réelle du français dans les administrations et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q36
-<span hidden data-civi-question="b72980d2da02582c" data-kind="examen" data-screen="EXAM_CSP_V04_Q36"></span>
+<span hidden data-civi-question="d87cafe4feacda21" data-kind="examen" data-screen="EXAM_CSP_V04_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12426,7 +12426,7 @@ Lors d'un cours d'histoire, on vous demande le nom de la guerre qui s'est dérou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q37
-<span hidden data-civi-question="c6e94d8939634d3b" data-kind="examen" data-screen="EXAM_CSP_V04_Q37"></span>
+<span hidden data-civi-question="7f7cd73281d3bd6f" data-kind="examen" data-screen="EXAM_CSP_V04_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12485,7 +12485,7 @@ Votre fils vous parle du cours d'histoire- géographie qu'il a suivi aujourd'hui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q38
-<span hidden data-civi-question="d85a740dd5145a48" data-kind="examen" data-screen="EXAM_CSP_V04_Q38"></span>
+<span hidden data-civi-question="2560a9a54fc971ce" data-kind="examen" data-screen="EXAM_CSP_V04_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12544,7 +12544,7 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q39
-<span hidden data-civi-question="5531b54c824993e1" data-kind="examen" data-screen="EXAM_CSP_V04_Q39"></span>
+<span hidden data-civi-question="0a5ade901bf4f0ce" data-kind="examen" data-screen="EXAM_CSP_V04_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -12603,7 +12603,7 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V04_Q40
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V04_Q40"></span>
+<span hidden data-civi-question="2e5665981243025a" data-kind="examen" data-screen="EXAM_CSP_V04_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -13645,7 +13645,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q01
-<span hidden data-civi-question="30fc347e432930e2" data-kind="examen" data-screen="EXAM_CSP_V05_Q01"></span>
+<span hidden data-civi-question="2d90014541d6575e" data-kind="examen" data-screen="EXAM_CSP_V05_Q01"></span>
 `@exam_variant = 5`
 
 
@@ -13707,7 +13707,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q02
-<span hidden data-civi-question="1f7e8119e12993e3" data-kind="examen" data-screen="EXAM_CSP_V05_Q02"></span>
+<span hidden data-civi-question="56072e7fabe135b7" data-kind="examen" data-screen="EXAM_CSP_V05_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -13766,7 +13766,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q03
-<span hidden data-civi-question="2c188be9902e533e" data-kind="examen" data-screen="EXAM_CSP_V05_Q03"></span>
+<span hidden data-civi-question="bc8dce3a474ae192" data-kind="examen" data-screen="EXAM_CSP_V05_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -13825,7 +13825,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q04
-<span hidden data-civi-question="527b50bb0ccf823d" data-kind="examen" data-screen="EXAM_CSP_V05_Q04"></span>
+<span hidden data-civi-question="aef1d1d0d4d2a012" data-kind="examen" data-screen="EXAM_CSP_V05_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -13884,7 +13884,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q05
-<span hidden data-civi-question="1fa990d41c91cd07" data-kind="examen" data-screen="EXAM_CSP_V05_Q05"></span>
+<span hidden data-civi-question="91cb8fcf42dde191" data-kind="examen" data-screen="EXAM_CSP_V05_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -13943,7 +13943,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q06
-<span hidden data-civi-question="c9d6b82d76fc939e" data-kind="examen" data-screen="EXAM_CSP_V05_Q06"></span>
+<span hidden data-civi-question="25e393d7db4b333e" data-kind="examen" data-screen="EXAM_CSP_V05_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14002,7 +14002,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q07
-<span hidden data-civi-question="e439f7410354c795" data-kind="examen" data-screen="EXAM_CSP_V05_Q07"></span>
+<span hidden data-civi-question="38c45e1cfce04aac" data-kind="examen" data-screen="EXAM_CSP_V05_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14061,7 +14061,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q08
-<span hidden data-civi-question="a79e44c8dbc5f265" data-kind="examen" data-screen="EXAM_CSP_V05_Q08"></span>
+<span hidden data-civi-question="a3fe19f6e4652dc3" data-kind="examen" data-screen="EXAM_CSP_V05_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14120,7 +14120,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q09
-<span hidden data-civi-question="3ef211ad34df0aa6" data-kind="examen" data-screen="EXAM_CSP_V05_Q09"></span>
+<span hidden data-civi-question="0c956aaedd7ab925" data-kind="examen" data-screen="EXAM_CSP_V05_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14179,7 +14179,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q10
-<span hidden data-civi-question="264efe9465f69377" data-kind="examen" data-screen="EXAM_CSP_V05_Q10"></span>
+<span hidden data-civi-question="3f6d5aee47bbed8c" data-kind="examen" data-screen="EXAM_CSP_V05_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14238,7 +14238,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q11
-<span hidden data-civi-question="d7b5c3514e181fb8" data-kind="examen" data-screen="EXAM_CSP_V05_Q11"></span>
+<span hidden data-civi-question="70313ba38541b4fd" data-kind="examen" data-screen="EXAM_CSP_V05_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14297,7 +14297,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q12
-<span hidden data-civi-question="d1dc32993288d152" data-kind="examen" data-screen="EXAM_CSP_V05_Q12"></span>
+<span hidden data-civi-question="7e772e8c615eb10a" data-kind="examen" data-screen="EXAM_CSP_V05_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14356,7 +14356,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q13
-<span hidden data-civi-question="542cada844153da1" data-kind="examen" data-screen="EXAM_CSP_V05_Q13"></span>
+<span hidden data-civi-question="b74b45c84d1cdb1a" data-kind="examen" data-screen="EXAM_CSP_V05_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14415,7 +14415,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q14
-<span hidden data-civi-question="c0af861784ae03fb" data-kind="examen" data-screen="EXAM_CSP_V05_Q14"></span>
+<span hidden data-civi-question="971ce7d92b1b3e05" data-kind="examen" data-screen="EXAM_CSP_V05_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14474,7 +14474,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q15
-<span hidden data-civi-question="e9d378789a18c13e" data-kind="examen" data-screen="EXAM_CSP_V05_Q15"></span>
+<span hidden data-civi-question="23d101c21fe9dd41" data-kind="examen" data-screen="EXAM_CSP_V05_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14533,7 +14533,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q16
-<span hidden data-civi-question="e841965422c8267c" data-kind="examen" data-screen="EXAM_CSP_V05_Q16"></span>
+<span hidden data-civi-question="ca31b08764de39e7" data-kind="examen" data-screen="EXAM_CSP_V05_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14592,7 +14592,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q17
-<span hidden data-civi-question="ebdec005e06056b2" data-kind="examen" data-screen="EXAM_CSP_V05_Q17"></span>
+<span hidden data-civi-question="a76a59dd83f24a9d" data-kind="examen" data-screen="EXAM_CSP_V05_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14651,7 +14651,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q18
-<span hidden data-civi-question="9bc1494bc57312e3" data-kind="examen" data-screen="EXAM_CSP_V05_Q18"></span>
+<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="examen" data-screen="EXAM_CSP_V05_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14710,7 +14710,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q19
-<span hidden data-civi-question="9d421bf474fdfc4c" data-kind="examen" data-screen="EXAM_CSP_V05_Q19"></span>
+<span hidden data-civi-question="6fdf98dd9d8bca62" data-kind="examen" data-screen="EXAM_CSP_V05_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14769,7 +14769,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q20
-<span hidden data-civi-question="2781b69b16940aa7" data-kind="examen" data-screen="EXAM_CSP_V05_Q20"></span>
+<span hidden data-civi-question="1dc11da4d185bd45" data-kind="examen" data-screen="EXAM_CSP_V05_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14828,7 +14828,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q21
-<span hidden data-civi-question="fbd554c632f6e5e7" data-kind="examen" data-screen="EXAM_CSP_V05_Q21"></span>
+<span hidden data-civi-question="b8b30cc623b60c90" data-kind="examen" data-screen="EXAM_CSP_V05_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14887,7 +14887,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q22
-<span hidden data-civi-question="93667fa7edfb818f" data-kind="examen" data-screen="EXAM_CSP_V05_Q22"></span>
+<span hidden data-civi-question="a527cae6f226bfd1" data-kind="examen" data-screen="EXAM_CSP_V05_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -14946,7 +14946,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q23
-<span hidden data-civi-question="cdcb04174adbf7ce" data-kind="examen" data-screen="EXAM_CSP_V05_Q23"></span>
+<span hidden data-civi-question="c639b2a65a5390dc" data-kind="examen" data-screen="EXAM_CSP_V05_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15005,7 +15005,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q24
-<span hidden data-civi-question="47fef756715e494e" data-kind="examen" data-screen="EXAM_CSP_V05_Q24"></span>
+<span hidden data-civi-question="6de4bcd18d8224c9" data-kind="examen" data-screen="EXAM_CSP_V05_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15064,7 +15064,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q25
-<span hidden data-civi-question="02f2d03698e8b62f" data-kind="examen" data-screen="EXAM_CSP_V05_Q25"></span>
+<span hidden data-civi-question="8e79327812ae5a39" data-kind="examen" data-screen="EXAM_CSP_V05_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15123,7 +15123,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q26
-<span hidden data-civi-question="1dedb40af5b63580" data-kind="examen" data-screen="EXAM_CSP_V05_Q26"></span>
+<span hidden data-civi-question="c840100018e14b7e" data-kind="examen" data-screen="EXAM_CSP_V05_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15182,7 +15182,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q27
-<span hidden data-civi-question="9f48f521e22858b4" data-kind="examen" data-screen="EXAM_CSP_V05_Q27"></span>
+<span hidden data-civi-question="e183bc0dcd232b27" data-kind="examen" data-screen="EXAM_CSP_V05_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15241,7 +15241,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q28
-<span hidden data-civi-question="9ca70e3be622e9ab" data-kind="examen" data-screen="EXAM_CSP_V05_Q28"></span>
+<span hidden data-civi-question="303080eab4ea36f3" data-kind="examen" data-screen="EXAM_CSP_V05_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15312,7 +15312,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q29
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V05_Q29"></span>
+<span hidden data-civi-question="be2fc560eddcbcae" data-kind="examen" data-screen="EXAM_CSP_V05_Q29"></span>
 `@exam_variant = 5`
 
 
@@ -15374,7 +15374,7 @@ Un parent d'élève se demande qui, dans l'histoire, a rendu l'école gratuite, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q30
-<span hidden data-civi-question="3aaca63333c49306" data-kind="examen" data-screen="EXAM_CSP_V05_Q30"></span>
+<span hidden data-civi-question="d26d0075e4d73e0f" data-kind="examen" data-screen="EXAM_CSP_V05_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15433,7 +15433,7 @@ Un touriste de passage pense qu'il n'est pas concerné par les lois françaises 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q31
-<span hidden data-civi-question="c8149212a81c5ed3" data-kind="examen" data-screen="EXAM_CSP_V05_Q31"></span>
+<span hidden data-civi-question="956eb6867e716b9a" data-kind="examen" data-screen="EXAM_CSP_V05_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15492,7 +15492,7 @@ Un jeune salarié entend parler du SMIC sans en connaître la signification exac
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q32
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V05_Q32"></span>
+<span hidden data-civi-question="1e3df2e0bd9a129b" data-kind="examen" data-screen="EXAM_CSP_V05_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15551,7 +15551,7 @@ Un ami se demande quel pouvoir détient exactement un juge.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q33
-<span hidden data-civi-question="927defe18a38f8df" data-kind="examen" data-screen="EXAM_CSP_V05_Q33"></span>
+<span hidden data-civi-question="9779bc66328ac339" data-kind="examen" data-screen="EXAM_CSP_V05_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15610,7 +15610,7 @@ Lors d'un cours de géographie, on vous demande de citer une ville française qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q34
-<span hidden data-civi-question="e35a3b34c41dd037" data-kind="examen" data-screen="EXAM_CSP_V05_Q34"></span>
+<span hidden data-civi-question="404fdd407eb50a40" data-kind="examen" data-screen="EXAM_CSP_V05_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15669,7 +15669,7 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q35
-<span hidden data-civi-question="1931bf806f1390bf" data-kind="examen" data-screen="EXAM_CSP_V05_Q35"></span>
+<span hidden data-civi-question="f608e4fb6d738a9d" data-kind="examen" data-screen="EXAM_CSP_V05_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15728,7 +15728,7 @@ Ryan vient de fêter son 17e anniversaire en février 2026 et se demande s'il po
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q36
-<span hidden data-civi-question="1ecaa2d6095f7c78" data-kind="examen" data-screen="EXAM_CSP_V05_Q36"></span>
+<span hidden data-civi-question="51773d637df1ec87" data-kind="examen" data-screen="EXAM_CSP_V05_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15787,7 +15787,7 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q37
-<span hidden data-civi-question="57b6016029278a86" data-kind="examen" data-screen="EXAM_CSP_V05_Q37"></span>
+<span hidden data-civi-question="3734ab274717b87d" data-kind="examen" data-screen="EXAM_CSP_V05_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15846,7 +15846,7 @@ Sarah, récemment arrivée en France, sans emploi, pense qu'elle ne pourra jamai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q38
-<span hidden data-civi-question="959efb856acb2012" data-kind="examen" data-screen="EXAM_CSP_V05_Q38"></span>
+<span hidden data-civi-question="2f3ba64b9d41ea9b" data-kind="examen" data-screen="EXAM_CSP_V05_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15905,7 +15905,7 @@ Lors d'une formation sur les droits humains, on vous demande de définir ce qu'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q39
-<span hidden data-civi-question="599888dbc8f7d067" data-kind="examen" data-screen="EXAM_CSP_V05_Q39"></span>
+<span hidden data-civi-question="6ea69dc37a7c6517" data-kind="examen" data-screen="EXAM_CSP_V05_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15964,7 +15964,7 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q40
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V05_Q40"></span>
+<span hidden data-civi-question="cfb2038c3a593596" data-kind="examen" data-screen="EXAM_CSP_V05_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17046,7 +17046,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q01
-<span hidden data-civi-question="668b4cb716a43534" data-kind="examen" data-screen="EXAM_CSP_V06_Q01"></span>
+<span hidden data-civi-question="9004f3ccb605ba0d" data-kind="examen" data-screen="EXAM_CSP_V06_Q01"></span>
 `@exam_variant = 6`
 
 
@@ -17108,7 +17108,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q02
-<span hidden data-civi-question="de9e3cea97037964" data-kind="examen" data-screen="EXAM_CSP_V06_Q02"></span>
+<span hidden data-civi-question="c0d39600de9b371f" data-kind="examen" data-screen="EXAM_CSP_V06_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17167,7 +17167,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q03
-<span hidden data-civi-question="2002e23b732633ef" data-kind="examen" data-screen="EXAM_CSP_V06_Q03"></span>
+<span hidden data-civi-question="e96ab2a050819dc3" data-kind="examen" data-screen="EXAM_CSP_V06_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17226,7 +17226,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q04
-<span hidden data-civi-question="cf397ba3c7275543" data-kind="examen" data-screen="EXAM_CSP_V06_Q04"></span>
+<span hidden data-civi-question="0a814561542ec6b1" data-kind="examen" data-screen="EXAM_CSP_V06_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17285,7 +17285,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q05
-<span hidden data-civi-question="c24ca53c4ea6a064" data-kind="examen" data-screen="EXAM_CSP_V06_Q05"></span>
+<span hidden data-civi-question="c91ec60cbc01b7d8" data-kind="examen" data-screen="EXAM_CSP_V06_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17344,7 +17344,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q06
-<span hidden data-civi-question="5b4a9c67aaad9397" data-kind="examen" data-screen="EXAM_CSP_V06_Q06"></span>
+<span hidden data-civi-question="5c7cf8d8d89ec036" data-kind="examen" data-screen="EXAM_CSP_V06_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17403,7 +17403,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q07
-<span hidden data-civi-question="1bc4bd16067384fd" data-kind="examen" data-screen="EXAM_CSP_V06_Q07"></span>
+<span hidden data-civi-question="5a59d736feb38c53" data-kind="examen" data-screen="EXAM_CSP_V06_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17462,7 +17462,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q08
-<span hidden data-civi-question="665252c4884c88b4" data-kind="examen" data-screen="EXAM_CSP_V06_Q08"></span>
+<span hidden data-civi-question="0385aa7616ba80a9" data-kind="examen" data-screen="EXAM_CSP_V06_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17521,7 +17521,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q09
-<span hidden data-civi-question="c033d4883c9c2931" data-kind="examen" data-screen="EXAM_CSP_V06_Q09"></span>
+<span hidden data-civi-question="149f487d9ef23f7e" data-kind="examen" data-screen="EXAM_CSP_V06_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17580,7 +17580,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q10
-<span hidden data-civi-question="6535e38c9d0679d7" data-kind="examen" data-screen="EXAM_CSP_V06_Q10"></span>
+<span hidden data-civi-question="84cdd4bc0cf6f651" data-kind="examen" data-screen="EXAM_CSP_V06_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17639,7 +17639,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q11
-<span hidden data-civi-question="89f5c9c3ea3acb63" data-kind="examen" data-screen="EXAM_CSP_V06_Q11"></span>
+<span hidden data-civi-question="98b4f8765d3bba07" data-kind="examen" data-screen="EXAM_CSP_V06_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17698,7 +17698,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q12
-<span hidden data-civi-question="010f221e0d317c52" data-kind="examen" data-screen="EXAM_CSP_V06_Q12"></span>
+<span hidden data-civi-question="94a8d299c37d9fe0" data-kind="examen" data-screen="EXAM_CSP_V06_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17757,7 +17757,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q13
-<span hidden data-civi-question="adde7515c5fc22e8" data-kind="examen" data-screen="EXAM_CSP_V06_Q13"></span>
+<span hidden data-civi-question="334c7abd4360f591" data-kind="examen" data-screen="EXAM_CSP_V06_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17816,7 +17816,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q14
-<span hidden data-civi-question="32791721be7fd73a" data-kind="examen" data-screen="EXAM_CSP_V06_Q14"></span>
+<span hidden data-civi-question="43bb05d64f96de57" data-kind="examen" data-screen="EXAM_CSP_V06_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17875,7 +17875,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q15
-<span hidden data-civi-question="33bb3b9d30d04d6c" data-kind="examen" data-screen="EXAM_CSP_V06_Q15"></span>
+<span hidden data-civi-question="0f57614f4701c1b0" data-kind="examen" data-screen="EXAM_CSP_V06_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17934,7 +17934,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q16
-<span hidden data-civi-question="d79b8d75305413da" data-kind="examen" data-screen="EXAM_CSP_V06_Q16"></span>
+<span hidden data-civi-question="2f93862de36376fc" data-kind="examen" data-screen="EXAM_CSP_V06_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -17993,7 +17993,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q17
-<span hidden data-civi-question="f655cf216d21200c" data-kind="examen" data-screen="EXAM_CSP_V06_Q17"></span>
+<span hidden data-civi-question="cb4ec9ce398f4951" data-kind="examen" data-screen="EXAM_CSP_V06_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18052,7 +18052,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q18
-<span hidden data-civi-question="7c4002901b57929b" data-kind="examen" data-screen="EXAM_CSP_V06_Q18"></span>
+<span hidden data-civi-question="d18def072542d994" data-kind="examen" data-screen="EXAM_CSP_V06_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18111,7 +18111,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q19
-<span hidden data-civi-question="4c075d1caf93a871" data-kind="examen" data-screen="EXAM_CSP_V06_Q19"></span>
+<span hidden data-civi-question="3b5413d93ca9403b" data-kind="examen" data-screen="EXAM_CSP_V06_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18170,7 +18170,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q20
-<span hidden data-civi-question="2d3685c84603e810" data-kind="examen" data-screen="EXAM_CSP_V06_Q20"></span>
+<span hidden data-civi-question="ed2d5bde35d19790" data-kind="examen" data-screen="EXAM_CSP_V06_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18229,7 +18229,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q21
-<span hidden data-civi-question="f8b438a5d02b254b" data-kind="examen" data-screen="EXAM_CSP_V06_Q21"></span>
+<span hidden data-civi-question="a8e9ced19a201ebd" data-kind="examen" data-screen="EXAM_CSP_V06_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18288,7 +18288,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q22
-<span hidden data-civi-question="499b1c80999bcf4a" data-kind="examen" data-screen="EXAM_CSP_V06_Q22"></span>
+<span hidden data-civi-question="86489d9c7a1716e8" data-kind="examen" data-screen="EXAM_CSP_V06_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18347,7 +18347,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q23
-<span hidden data-civi-question="6040ae2e8a5db95b" data-kind="examen" data-screen="EXAM_CSP_V06_Q23"></span>
+<span hidden data-civi-question="03c9a717c93bb5fe" data-kind="examen" data-screen="EXAM_CSP_V06_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18406,7 +18406,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q24
-<span hidden data-civi-question="6d0dad7fc095a160" data-kind="examen" data-screen="EXAM_CSP_V06_Q24"></span>
+<span hidden data-civi-question="b1f98870f801bbef" data-kind="examen" data-screen="EXAM_CSP_V06_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18465,7 +18465,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q25
-<span hidden data-civi-question="e2c75413283af467" data-kind="examen" data-screen="EXAM_CSP_V06_Q25"></span>
+<span hidden data-civi-question="bec3574720b71394" data-kind="examen" data-screen="EXAM_CSP_V06_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18524,7 +18524,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q26
-<span hidden data-civi-question="99fdbe3f50ba771f" data-kind="examen" data-screen="EXAM_CSP_V06_Q26"></span>
+<span hidden data-civi-question="d1f76d13e8cb2ab8" data-kind="examen" data-screen="EXAM_CSP_V06_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18583,7 +18583,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q27
-<span hidden data-civi-question="8f91f0e5d5de13bf" data-kind="examen" data-screen="EXAM_CSP_V06_Q27"></span>
+<span hidden data-civi-question="766c1d0857158f76" data-kind="examen" data-screen="EXAM_CSP_V06_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18642,7 +18642,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q28
-<span hidden data-civi-question="dbf18d131d60aa77" data-kind="examen" data-screen="EXAM_CSP_V06_Q28"></span>
+<span hidden data-civi-question="81a58c8ea9bb921d" data-kind="examen" data-screen="EXAM_CSP_V06_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18713,7 +18713,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q29
-<span hidden data-civi-question="de6869970021fd72" data-kind="examen" data-screen="EXAM_CSP_V06_Q29"></span>
+<span hidden data-civi-question="2e87774d1610b194" data-kind="examen" data-screen="EXAM_CSP_V06_Q29"></span>
 `@exam_variant = 6`
 
 
@@ -18775,7 +18775,7 @@ Lors d'une révision de l'examen civique en classe, le formateur vous interroge 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q30
-<span hidden data-civi-question="135ebe1b3d35650d" data-kind="examen" data-screen="EXAM_CSP_V06_Q30"></span>
+<span hidden data-civi-question="b60a2fc74dbd1e38" data-kind="examen" data-screen="EXAM_CSP_V06_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18834,7 +18834,7 @@ Un employeur envisage de proposer un salaire très bas à un nouveau salarié, e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q31
-<span hidden data-civi-question="aa7066c55acb4c89" data-kind="examen" data-screen="EXAM_CSP_V06_Q31"></span>
+<span hidden data-civi-question="7bd1db97829d56e5" data-kind="examen" data-screen="EXAM_CSP_V06_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18893,7 +18893,7 @@ Un voisin vous interpelle, il souhaite être plus responsable concernant la gest
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q32
-<span hidden data-civi-question="6d7e13242aafa493" data-kind="examen" data-screen="EXAM_CSP_V06_Q32"></span>
+<span hidden data-civi-question="5cb02f87d88703af" data-kind="examen" data-screen="EXAM_CSP_V06_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -18952,7 +18952,7 @@ Un début d'incendie se déclare dans votre immeuble et vous devez alerter rapid
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q33
-<span hidden data-civi-question="927defe18a38f8df" data-kind="examen" data-screen="EXAM_CSP_V06_Q33"></span>
+<span hidden data-civi-question="4b0a0740dc880246" data-kind="examen" data-screen="EXAM_CSP_V06_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19011,7 +19011,7 @@ Lors d'un quiz musical, on vous demande de citer une chanteuse française célè
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q34
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V06_Q34"></span>
+<span hidden data-civi-question="6796a6f9477fb73c" data-kind="examen" data-screen="EXAM_CSP_V06_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19070,7 +19070,7 @@ Un ami s'apprête à voter pour la première fois En France à des élections mu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q35
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V06_Q35"></span>
+<span hidden data-civi-question="14d7c9a768bfb06b" data-kind="examen" data-screen="EXAM_CSP_V06_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19129,7 +19129,7 @@ Il vous interroge enfin sur la durée du mandat des sénateurs, qu'il pense iden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q36
-<span hidden data-civi-question="0f845613bb879cb1" data-kind="examen" data-screen="EXAM_CSP_V06_Q36"></span>
+<span hidden data-civi-question="cff3d58bdd7d7967" data-kind="examen" data-screen="EXAM_CSP_V06_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19188,7 +19188,7 @@ Les élections législatives approchent. Vous allez élire les députés qui com
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q37
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V06_Q37"></span>
+<span hidden data-civi-question="97504fef5a0ebc5d" data-kind="examen" data-screen="EXAM_CSP_V06_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19247,7 +19247,7 @@ Sur le bâtiment de la mairie, un ami lit « Liberté, Égalité, Fraternité »
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q38
-<span hidden data-civi-question="685ebb52dfccffe4" data-kind="examen" data-screen="EXAM_CSP_V06_Q38"></span>
+<span hidden data-civi-question="ac665d16b4c14f3a" data-kind="examen" data-screen="EXAM_CSP_V06_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19306,7 +19306,7 @@ Lors d'une compétition sportive, un ami remarque un animal cousu sur le maillot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q39
-<span hidden data-civi-question="927defe18a38f8df" data-kind="examen" data-screen="EXAM_CSP_V06_Q39"></span>
+<span hidden data-civi-question="078a754a0dd6e961" data-kind="examen" data-screen="EXAM_CSP_V06_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -19365,7 +19365,7 @@ Un ami a lu un article dans le journal avec les villes les plus attractives pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V06_Q40
-<span hidden data-civi-question="f55d89081a8cd232" data-kind="examen" data-screen="EXAM_CSP_V06_Q40"></span>
+<span hidden data-civi-question="a5284d9469692a9f" data-kind="examen" data-screen="EXAM_CSP_V06_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20415,7 +20415,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q01
-<span hidden data-civi-question="6846dbc5da61f142" data-kind="examen" data-screen="EXAM_CSP_V07_Q01"></span>
+<span hidden data-civi-question="e6b22cb48c63be31" data-kind="examen" data-screen="EXAM_CSP_V07_Q01"></span>
 `@exam_variant = 7`
 
 
@@ -20477,7 +20477,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q02
-<span hidden data-civi-question="97c78b0ec051da51" data-kind="examen" data-screen="EXAM_CSP_V07_Q02"></span>
+<span hidden data-civi-question="a7f73dabd55bbd2d" data-kind="examen" data-screen="EXAM_CSP_V07_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20536,7 +20536,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q03
-<span hidden data-civi-question="8a8f51569d2764c9" data-kind="examen" data-screen="EXAM_CSP_V07_Q03"></span>
+<span hidden data-civi-question="8191a3c387ef0d65" data-kind="examen" data-screen="EXAM_CSP_V07_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20595,7 +20595,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q04
-<span hidden data-civi-question="4a9006157dca145a" data-kind="examen" data-screen="EXAM_CSP_V07_Q04"></span>
+<span hidden data-civi-question="f73a7e038643e707" data-kind="examen" data-screen="EXAM_CSP_V07_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20654,7 +20654,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q05
-<span hidden data-civi-question="252e49f61c254a4e" data-kind="examen" data-screen="EXAM_CSP_V07_Q05"></span>
+<span hidden data-civi-question="baa4015a31c61a11" data-kind="examen" data-screen="EXAM_CSP_V07_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20713,7 +20713,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q06
-<span hidden data-civi-question="129bf0b2eabce77b" data-kind="examen" data-screen="EXAM_CSP_V07_Q06"></span>
+<span hidden data-civi-question="b350b417af444dd4" data-kind="examen" data-screen="EXAM_CSP_V07_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20772,7 +20772,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q07
-<span hidden data-civi-question="93c85ce0bcba970a" data-kind="examen" data-screen="EXAM_CSP_V07_Q07"></span>
+<span hidden data-civi-question="000e72921bbd78c9" data-kind="examen" data-screen="EXAM_CSP_V07_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20831,7 +20831,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q08
-<span hidden data-civi-question="29f4318eebcf9db4" data-kind="examen" data-screen="EXAM_CSP_V07_Q08"></span>
+<span hidden data-civi-question="02f6db57e0c0708e" data-kind="examen" data-screen="EXAM_CSP_V07_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20890,7 +20890,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q09
-<span hidden data-civi-question="3cd7c9071a966ade" data-kind="examen" data-screen="EXAM_CSP_V07_Q09"></span>
+<span hidden data-civi-question="4be36c0af83a36ca" data-kind="examen" data-screen="EXAM_CSP_V07_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -20949,7 +20949,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q10
-<span hidden data-civi-question="fbc3258b618724b7" data-kind="examen" data-screen="EXAM_CSP_V07_Q10"></span>
+<span hidden data-civi-question="c0562069653d9401" data-kind="examen" data-screen="EXAM_CSP_V07_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21008,7 +21008,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q11
-<span hidden data-civi-question="9c1967af9b2677ec" data-kind="examen" data-screen="EXAM_CSP_V07_Q11"></span>
+<span hidden data-civi-question="22ffa935e950c389" data-kind="examen" data-screen="EXAM_CSP_V07_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21067,7 +21067,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q12
-<span hidden data-civi-question="d6580ee8e89811b8" data-kind="examen" data-screen="EXAM_CSP_V07_Q12"></span>
+<span hidden data-civi-question="861d2e503e6de2cb" data-kind="examen" data-screen="EXAM_CSP_V07_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21126,7 +21126,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q13
-<span hidden data-civi-question="4d01f1d8469c34cb" data-kind="examen" data-screen="EXAM_CSP_V07_Q13"></span>
+<span hidden data-civi-question="17dce515a634146e" data-kind="examen" data-screen="EXAM_CSP_V07_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21185,7 +21185,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q14
-<span hidden data-civi-question="c97fb45d7911f57b" data-kind="examen" data-screen="EXAM_CSP_V07_Q14"></span>
+<span hidden data-civi-question="1f710f6d8456ed50" data-kind="examen" data-screen="EXAM_CSP_V07_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21244,7 +21244,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q15
-<span hidden data-civi-question="8d0fc8c351006fa0" data-kind="examen" data-screen="EXAM_CSP_V07_Q15"></span>
+<span hidden data-civi-question="c3ea8f0d2c35e291" data-kind="examen" data-screen="EXAM_CSP_V07_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21303,7 +21303,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q16
-<span hidden data-civi-question="3aef9bc38555d0ac" data-kind="examen" data-screen="EXAM_CSP_V07_Q16"></span>
+<span hidden data-civi-question="e86bbd29a381abea" data-kind="examen" data-screen="EXAM_CSP_V07_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21362,7 +21362,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q17
-<span hidden data-civi-question="fa4f2702e6b5290c" data-kind="examen" data-screen="EXAM_CSP_V07_Q17"></span>
+<span hidden data-civi-question="e6a40b70fce3b000" data-kind="examen" data-screen="EXAM_CSP_V07_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21421,7 +21421,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q18
-<span hidden data-civi-question="f9b8c2f5f53e5d8f" data-kind="examen" data-screen="EXAM_CSP_V07_Q18"></span>
+<span hidden data-civi-question="01dfef9e653ab966" data-kind="examen" data-screen="EXAM_CSP_V07_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21480,7 +21480,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q19
-<span hidden data-civi-question="94e57bd94f9585c4" data-kind="examen" data-screen="EXAM_CSP_V07_Q19"></span>
+<span hidden data-civi-question="086866f1243d6c32" data-kind="examen" data-screen="EXAM_CSP_V07_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21539,7 +21539,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q20
-<span hidden data-civi-question="26890691c9b73359" data-kind="examen" data-screen="EXAM_CSP_V07_Q20"></span>
+<span hidden data-civi-question="ecc42cee740747c8" data-kind="examen" data-screen="EXAM_CSP_V07_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21598,7 +21598,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q21
-<span hidden data-civi-question="3246183ca10caa8d" data-kind="examen" data-screen="EXAM_CSP_V07_Q21"></span>
+<span hidden data-civi-question="e4d3b2065ea3bab6" data-kind="examen" data-screen="EXAM_CSP_V07_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21657,7 +21657,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q22
-<span hidden data-civi-question="9822a336067ae719" data-kind="examen" data-screen="EXAM_CSP_V07_Q22"></span>
+<span hidden data-civi-question="518320512841572e" data-kind="examen" data-screen="EXAM_CSP_V07_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21716,7 +21716,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q23
-<span hidden data-civi-question="3b996a774bc550ad" data-kind="examen" data-screen="EXAM_CSP_V07_Q23"></span>
+<span hidden data-civi-question="c230d7433b838579" data-kind="examen" data-screen="EXAM_CSP_V07_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21775,7 +21775,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q24
-<span hidden data-civi-question="c8969baf1f3f14e4" data-kind="examen" data-screen="EXAM_CSP_V07_Q24"></span>
+<span hidden data-civi-question="1a71134cda9b7eca" data-kind="examen" data-screen="EXAM_CSP_V07_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21834,7 +21834,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q25
-<span hidden data-civi-question="00142dbb2492157b" data-kind="examen" data-screen="EXAM_CSP_V07_Q25"></span>
+<span hidden data-civi-question="f5c784c422a5c7c9" data-kind="examen" data-screen="EXAM_CSP_V07_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21893,7 +21893,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q26
-<span hidden data-civi-question="3986f2fc9dcaa331" data-kind="examen" data-screen="EXAM_CSP_V07_Q26"></span>
+<span hidden data-civi-question="2bd59f34be01b2f1" data-kind="examen" data-screen="EXAM_CSP_V07_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -21952,7 +21952,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q27
-<span hidden data-civi-question="994f48e5d512896b" data-kind="examen" data-screen="EXAM_CSP_V07_Q27"></span>
+<span hidden data-civi-question="915ae5cc16f6cd04" data-kind="examen" data-screen="EXAM_CSP_V07_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22011,7 +22011,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q28
-<span hidden data-civi-question="5ebbd9206512d0b5" data-kind="examen" data-screen="EXAM_CSP_V07_Q28"></span>
+<span hidden data-civi-question="5b42860fc8124bfd" data-kind="examen" data-screen="EXAM_CSP_V07_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22082,7 +22082,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q29
-<span hidden data-civi-question="2175a8f8c0525b8c" data-kind="examen" data-screen="EXAM_CSP_V07_Q29"></span>
+<span hidden data-civi-question="b2ca0524f21f90d4" data-kind="examen" data-screen="EXAM_CSP_V07_Q29"></span>
 `@exam_variant = 7`
 
 
@@ -22144,7 +22144,7 @@ Lors d'une randonnée à la frontière franco-italienne, on vous demande le nom 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q30
-<span hidden data-civi-question="cab8f3c9dd1bdb0e" data-kind="examen" data-screen="EXAM_CSP_V07_Q30"></span>
+<span hidden data-civi-question="ca4552b5bda448c4" data-kind="examen" data-screen="EXAM_CSP_V07_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22203,7 +22203,7 @@ Lors d'un club de lecture, on vous demande qui était George Sand.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q31
-<span hidden data-civi-question="7884d3316c48b6a5" data-kind="examen" data-screen="EXAM_CSP_V07_Q31"></span>
+<span hidden data-civi-question="ac7a84d7be4bb4e1" data-kind="examen" data-screen="EXAM_CSP_V07_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22262,7 +22262,7 @@ Une amie victime d'un vol pense que c'est la police qui décidera de la sanction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q32
-<span hidden data-civi-question="1d17233789345760" data-kind="examen" data-screen="EXAM_CSP_V07_Q32"></span>
+<span hidden data-civi-question="5d69dd225aef01b0" data-kind="examen" data-screen="EXAM_CSP_V07_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22321,7 +22321,7 @@ Une famille envisage de retirer son enfant de l'école certains jours pour des m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q33
-<span hidden data-civi-question="f15ee63491281427" data-kind="examen" data-screen="EXAM_CSP_V07_Q33"></span>
+<span hidden data-civi-question="e134b0afa1baba89" data-kind="examen" data-screen="EXAM_CSP_V07_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22380,7 +22380,7 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q34
-<span hidden data-civi-question="0465c21182144b07" data-kind="examen" data-screen="EXAM_CSP_V07_Q34"></span>
+<span hidden data-civi-question="ba48d64c01f72ff7" data-kind="examen" data-screen="EXAM_CSP_V07_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22439,7 +22439,7 @@ Un parent s'interroge sur l'utilité réelle des vaccinations obligatoires pour 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q35
-<span hidden data-civi-question="1c8e64bd13b9a387" data-kind="examen" data-screen="EXAM_CSP_V07_Q35"></span>
+<span hidden data-civi-question="9e5c0e511a71362e" data-kind="examen" data-screen="EXAM_CSP_V07_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22498,7 +22498,7 @@ Votre fille vous demande, en regardant la télévision, combien de députés si�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q36
-<span hidden data-civi-question="8930ad11e60b2fe1" data-kind="examen" data-screen="EXAM_CSP_V07_Q36"></span>
+<span hidden data-civi-question="70c190d7064b475e" data-kind="examen" data-screen="EXAM_CSP_V07_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22557,7 +22557,7 @@ Un ami confond France Travail avec une administration délivrant des papiers d'i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q37
-<span hidden data-civi-question="cab8f3c9dd1bdb0e" data-kind="examen" data-screen="EXAM_CSP_V07_Q37"></span>
+<span hidden data-civi-question="9c882d7cb4ae37ab" data-kind="examen" data-screen="EXAM_CSP_V07_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22616,7 +22616,7 @@ Lors d'un examen blanc, on vous demande pourquoi l'année 1958 est particulière
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q38
-<span hidden data-civi-question="7729f8743f8b57d0" data-kind="examen" data-screen="EXAM_CSP_V07_Q38"></span>
+<span hidden data-civi-question="95ede3946799a521" data-kind="examen" data-screen="EXAM_CSP_V07_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22675,7 +22675,7 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q39
-<span hidden data-civi-question="22b52098b04a1e75" data-kind="examen" data-screen="EXAM_CSP_V07_Q39"></span>
+<span hidden data-civi-question="bdc72736fcefb1d4" data-kind="examen" data-screen="EXAM_CSP_V07_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -22734,7 +22734,7 @@ Un ami pense qu'un ministre qui ne respecte pas la loi ne risque rien, protégé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V07_Q40
-<span hidden data-civi-question="0976d7a0f9af5134" data-kind="examen" data-screen="EXAM_CSP_V07_Q40"></span>
+<span hidden data-civi-question="bebaea3ad5ad0e7c" data-kind="examen" data-screen="EXAM_CSP_V07_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -23784,7 +23784,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q01
-<span hidden data-civi-question="78630485bdbf8081" data-kind="examen" data-screen="EXAM_CSP_V08_Q01"></span>
+<span hidden data-civi-question="db82dad7b7f1cfb3" data-kind="examen" data-screen="EXAM_CSP_V08_Q01"></span>
 `@exam_variant = 8`
 
 
@@ -23846,7 +23846,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q02
-<span hidden data-civi-question="a44dfe7adbe9a44e" data-kind="examen" data-screen="EXAM_CSP_V08_Q02"></span>
+<span hidden data-civi-question="e127b751c3219948" data-kind="examen" data-screen="EXAM_CSP_V08_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -23905,7 +23905,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q03
-<span hidden data-civi-question="4a06e20eac4722ad" data-kind="examen" data-screen="EXAM_CSP_V08_Q03"></span>
+<span hidden data-civi-question="8e9f75e5d8a83999" data-kind="examen" data-screen="EXAM_CSP_V08_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -23964,7 +23964,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q04
-<span hidden data-civi-question="befe02b450995aeb" data-kind="examen" data-screen="EXAM_CSP_V08_Q04"></span>
+<span hidden data-civi-question="7f918fbdbb7c5a2c" data-kind="examen" data-screen="EXAM_CSP_V08_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24023,7 +24023,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q05
-<span hidden data-civi-question="c8149212a81c5ed3" data-kind="examen" data-screen="EXAM_CSP_V08_Q05"></span>
+<span hidden data-civi-question="e2877801bde6b16f" data-kind="examen" data-screen="EXAM_CSP_V08_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24082,7 +24082,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q06
-<span hidden data-civi-question="48cb3a1ed1c5e04b" data-kind="examen" data-screen="EXAM_CSP_V08_Q06"></span>
+<span hidden data-civi-question="201622568576ff67" data-kind="examen" data-screen="EXAM_CSP_V08_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24141,7 +24141,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q07
-<span hidden data-civi-question="27c95287d688b0a4" data-kind="examen" data-screen="EXAM_CSP_V08_Q07"></span>
+<span hidden data-civi-question="fc6ffa7f17eb9b14" data-kind="examen" data-screen="EXAM_CSP_V08_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24200,7 +24200,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q08
-<span hidden data-civi-question="94afc8da46353c2e" data-kind="examen" data-screen="EXAM_CSP_V08_Q08"></span>
+<span hidden data-civi-question="7edf6e005d264296" data-kind="examen" data-screen="EXAM_CSP_V08_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24259,7 +24259,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q09
-<span hidden data-civi-question="3db49d2b3f136217" data-kind="examen" data-screen="EXAM_CSP_V08_Q09"></span>
+<span hidden data-civi-question="c0b0dfae3a56f5d5" data-kind="examen" data-screen="EXAM_CSP_V08_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24318,7 +24318,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q10
-<span hidden data-civi-question="9f129763c0c00228" data-kind="examen" data-screen="EXAM_CSP_V08_Q10"></span>
+<span hidden data-civi-question="e5274ca1174c6fc4" data-kind="examen" data-screen="EXAM_CSP_V08_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24377,7 +24377,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q11
-<span hidden data-civi-question="f5e1288007b6b719" data-kind="examen" data-screen="EXAM_CSP_V08_Q11"></span>
+<span hidden data-civi-question="a4c8951edfe4e25b" data-kind="examen" data-screen="EXAM_CSP_V08_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24436,7 +24436,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q12
-<span hidden data-civi-question="42a890652b6ec3b4" data-kind="examen" data-screen="EXAM_CSP_V08_Q12"></span>
+<span hidden data-civi-question="7543bf4ba59d4e73" data-kind="examen" data-screen="EXAM_CSP_V08_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24495,7 +24495,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q13
-<span hidden data-civi-question="95647889c7720b40" data-kind="examen" data-screen="EXAM_CSP_V08_Q13"></span>
+<span hidden data-civi-question="edfbf0a9bc9369e5" data-kind="examen" data-screen="EXAM_CSP_V08_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24554,7 +24554,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q14
-<span hidden data-civi-question="2678869af3396df2" data-kind="examen" data-screen="EXAM_CSP_V08_Q14"></span>
+<span hidden data-civi-question="47fc5128b9f3be05" data-kind="examen" data-screen="EXAM_CSP_V08_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24613,7 +24613,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q15
-<span hidden data-civi-question="6e8ba2156611b8ad" data-kind="examen" data-screen="EXAM_CSP_V08_Q15"></span>
+<span hidden data-civi-question="cb4ab5eebb39b574" data-kind="examen" data-screen="EXAM_CSP_V08_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24672,7 +24672,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q16
-<span hidden data-civi-question="fa856938d1380a9b" data-kind="examen" data-screen="EXAM_CSP_V08_Q16"></span>
+<span hidden data-civi-question="46461ce82d73ea1f" data-kind="examen" data-screen="EXAM_CSP_V08_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24731,7 +24731,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q17
-<span hidden data-civi-question="d3ab4345ce8965a1" data-kind="examen" data-screen="EXAM_CSP_V08_Q17"></span>
+<span hidden data-civi-question="268c97807888dd47" data-kind="examen" data-screen="EXAM_CSP_V08_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24790,7 +24790,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q18
-<span hidden data-civi-question="4455dec10b883cbb" data-kind="examen" data-screen="EXAM_CSP_V08_Q18"></span>
+<span hidden data-civi-question="bbfa148847f44f9f" data-kind="examen" data-screen="EXAM_CSP_V08_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24849,7 +24849,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q19
-<span hidden data-civi-question="f53c221d3dca3d2e" data-kind="examen" data-screen="EXAM_CSP_V08_Q19"></span>
+<span hidden data-civi-question="e3ab57e84975b0d3" data-kind="examen" data-screen="EXAM_CSP_V08_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24908,7 +24908,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q20
-<span hidden data-civi-question="320471b2282aa732" data-kind="examen" data-screen="EXAM_CSP_V08_Q20"></span>
+<span hidden data-civi-question="6e959f7c41834bd5" data-kind="examen" data-screen="EXAM_CSP_V08_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -24967,7 +24967,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q21
-<span hidden data-civi-question="807b4ed342b8c9b2" data-kind="examen" data-screen="EXAM_CSP_V08_Q21"></span>
+<span hidden data-civi-question="2d891357143be01b" data-kind="examen" data-screen="EXAM_CSP_V08_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25026,7 +25026,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q22
-<span hidden data-civi-question="6298e7092ef01ca6" data-kind="examen" data-screen="EXAM_CSP_V08_Q22"></span>
+<span hidden data-civi-question="6db2155cb702da8e" data-kind="examen" data-screen="EXAM_CSP_V08_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25085,7 +25085,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q23
-<span hidden data-civi-question="92d71bd41f2baeea" data-kind="examen" data-screen="EXAM_CSP_V08_Q23"></span>
+<span hidden data-civi-question="e91de112a15f5d55" data-kind="examen" data-screen="EXAM_CSP_V08_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25144,7 +25144,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q24
-<span hidden data-civi-question="91588955fcb55446" data-kind="examen" data-screen="EXAM_CSP_V08_Q24"></span>
+<span hidden data-civi-question="cf015c537ee569aa" data-kind="examen" data-screen="EXAM_CSP_V08_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25203,7 +25203,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q25
-<span hidden data-civi-question="0f444396abf8ceae" data-kind="examen" data-screen="EXAM_CSP_V08_Q25"></span>
+<span hidden data-civi-question="f0683d00c44891c5" data-kind="examen" data-screen="EXAM_CSP_V08_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25262,7 +25262,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q26
-<span hidden data-civi-question="ecd0f094afdfc757" data-kind="examen" data-screen="EXAM_CSP_V08_Q26"></span>
+<span hidden data-civi-question="3f1f1f993132bcfc" data-kind="examen" data-screen="EXAM_CSP_V08_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25321,7 +25321,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q27
-<span hidden data-civi-question="2a2aa11b6c8559da" data-kind="examen" data-screen="EXAM_CSP_V08_Q27"></span>
+<span hidden data-civi-question="c54c107fdda6647d" data-kind="examen" data-screen="EXAM_CSP_V08_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25380,7 +25380,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q28
-<span hidden data-civi-question="89762121b9191ec8" data-kind="examen" data-screen="EXAM_CSP_V08_Q28"></span>
+<span hidden data-civi-question="5e9c6f6a9b215794" data-kind="examen" data-screen="EXAM_CSP_V08_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25451,7 +25451,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q29
-<span hidden data-civi-question="ff5714b6db53dc8c" data-kind="examen" data-screen="EXAM_CSP_V08_Q29"></span>
+<span hidden data-civi-question="95b71855a1c74bb5" data-kind="examen" data-screen="EXAM_CSP_V08_Q29"></span>
 `@exam_variant = 8`
 
 
@@ -25513,7 +25513,7 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q30
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V08_Q30"></span>
+<span hidden data-civi-question="3680840c8f937c20" data-kind="examen" data-screen="EXAM_CSP_V08_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25572,7 +25572,7 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q31
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V08_Q31"></span>
+<span hidden data-civi-question="2db905bff264df99" data-kind="examen" data-screen="EXAM_CSP_V08_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25631,7 +25631,7 @@ Lors d'une partie d'échecs avec une amie. Elle vous demande qui était Albert C
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q32
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V08_Q32"></span>
+<span hidden data-civi-question="1ffd2d75337c9377" data-kind="examen" data-screen="EXAM_CSP_V08_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25690,7 +25690,7 @@ Un ami affirme qu'il peut ignorer une loi qu'il juge injuste, sans risquer aucun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q33
-<span hidden data-civi-question="559a9f7d7e20fb96" data-kind="examen" data-screen="EXAM_CSP_V08_Q33"></span>
+<span hidden data-civi-question="30de5bf2eff3d3bd" data-kind="examen" data-screen="EXAM_CSP_V08_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25749,7 +25749,7 @@ Un proche fait un malaise chez vous et vous devez rapidement appeler les secours
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q34
-<span hidden data-civi-question="8624088583579207" data-kind="examen" data-screen="EXAM_CSP_V08_Q34"></span>
+<span hidden data-civi-question="9ec45457c11e0e5e" data-kind="examen" data-screen="EXAM_CSP_V08_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25808,7 +25808,7 @@ Sandrine, récemment naturalisée française vous demande ce que lui permet conc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q35
-<span hidden data-civi-question="a96b2222e043f7a8" data-kind="examen" data-screen="EXAM_CSP_V08_Q35"></span>
+<span hidden data-civi-question="c87eeb3205e413a0" data-kind="examen" data-screen="EXAM_CSP_V08_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25867,7 +25867,7 @@ Michel et Sandrine se séparent et s'interrogent sur ce que recouvre concrèteme
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q36
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V08_Q36"></span>
+<span hidden data-civi-question="c38bce2c15157f72" data-kind="examen" data-screen="EXAM_CSP_V08_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25926,7 +25926,7 @@ Un ami vous demande qui a fondé la Ve République actuellement en vigueur.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q37
-<span hidden data-civi-question="5e5c013388463d8c" data-kind="examen" data-screen="EXAM_CSP_V08_Q37"></span>
+<span hidden data-civi-question="c1061ac770ed366a" data-kind="examen" data-screen="EXAM_CSP_V08_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -25985,7 +25985,7 @@ Lors d'un cours de formation civique, votre formateur vous demande qui possède 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q38
-<span hidden data-civi-question="93437e1bad32f4d8" data-kind="examen" data-screen="EXAM_CSP_V08_Q38"></span>
+<span hidden data-civi-question="0ed187908e8ff5f5" data-kind="examen" data-screen="EXAM_CSP_V08_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -26044,7 +26044,7 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q39
-<span hidden data-civi-question="0f12f6c3c5f75782" data-kind="examen" data-screen="EXAM_CSP_V08_Q39"></span>
+<span hidden data-civi-question="c005e4dd95f453e5" data-kind="examen" data-screen="EXAM_CSP_V08_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -26103,7 +26103,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V08_Q40
-<span hidden data-civi-question="a8c383f954468c5d" data-kind="examen" data-screen="EXAM_CSP_V08_Q40"></span>
+<span hidden data-civi-question="6fd78a946c5f31b9" data-kind="examen" data-screen="EXAM_CSP_V08_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27177,7 +27177,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q01
-<span hidden data-civi-question="135f977699625a7b" data-kind="examen" data-screen="EXAM_CSP_V09_Q01"></span>
+<span hidden data-civi-question="0dab2da01832b7f9" data-kind="examen" data-screen="EXAM_CSP_V09_Q01"></span>
 `@exam_variant = 9`
 
 
@@ -27239,7 +27239,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q02
-<span hidden data-civi-question="b4a833ba9b715a63" data-kind="examen" data-screen="EXAM_CSP_V09_Q02"></span>
+<span hidden data-civi-question="7a5ec8d280a90f71" data-kind="examen" data-screen="EXAM_CSP_V09_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27298,7 +27298,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q03
-<span hidden data-civi-question="542d0ac9a96aa8bf" data-kind="examen" data-screen="EXAM_CSP_V09_Q03"></span>
+<span hidden data-civi-question="d8b07395a8d678ce" data-kind="examen" data-screen="EXAM_CSP_V09_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27357,7 +27357,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q04
-<span hidden data-civi-question="f0d3d882258d0c0d" data-kind="examen" data-screen="EXAM_CSP_V09_Q04"></span>
+<span hidden data-civi-question="4de09ec1568a044f" data-kind="examen" data-screen="EXAM_CSP_V09_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27416,7 +27416,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q05
-<span hidden data-civi-question="931c75f17160eb5a" data-kind="examen" data-screen="EXAM_CSP_V09_Q05"></span>
+<span hidden data-civi-question="42a3c00bd162c5f2" data-kind="examen" data-screen="EXAM_CSP_V09_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27475,7 +27475,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q06
-<span hidden data-civi-question="6730e6e5aeaf5b8f" data-kind="examen" data-screen="EXAM_CSP_V09_Q06"></span>
+<span hidden data-civi-question="d6688586c0d6249f" data-kind="examen" data-screen="EXAM_CSP_V09_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27534,7 +27534,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q07
-<span hidden data-civi-question="e995da6b4d07334b" data-kind="examen" data-screen="EXAM_CSP_V09_Q07"></span>
+<span hidden data-civi-question="d07897015c5a9f66" data-kind="examen" data-screen="EXAM_CSP_V09_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27593,7 +27593,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q08
-<span hidden data-civi-question="17f9c11929df9843" data-kind="examen" data-screen="EXAM_CSP_V09_Q08"></span>
+<span hidden data-civi-question="d6f2429919b208fd" data-kind="examen" data-screen="EXAM_CSP_V09_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27652,7 +27652,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q09
-<span hidden data-civi-question="ab5f170d43701020" data-kind="examen" data-screen="EXAM_CSP_V09_Q09"></span>
+<span hidden data-civi-question="41daec0bd1814773" data-kind="examen" data-screen="EXAM_CSP_V09_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27711,7 +27711,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q10
-<span hidden data-civi-question="071fd75341ef4330" data-kind="examen" data-screen="EXAM_CSP_V09_Q10"></span>
+<span hidden data-civi-question="2840dc42860873c8" data-kind="examen" data-screen="EXAM_CSP_V09_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27770,7 +27770,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q11
-<span hidden data-civi-question="627ea0b9c9e2018b" data-kind="examen" data-screen="EXAM_CSP_V09_Q11"></span>
+<span hidden data-civi-question="3d9d6a838b153f9e" data-kind="examen" data-screen="EXAM_CSP_V09_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27829,7 +27829,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q12
-<span hidden data-civi-question="1af203899614a2ba" data-kind="examen" data-screen="EXAM_CSP_V09_Q12"></span>
+<span hidden data-civi-question="af0b803c9ddf183a" data-kind="examen" data-screen="EXAM_CSP_V09_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27888,7 +27888,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q13
-<span hidden data-civi-question="96a767e361b212ce" data-kind="examen" data-screen="EXAM_CSP_V09_Q13"></span>
+<span hidden data-civi-question="69f4c20fe6be656e" data-kind="examen" data-screen="EXAM_CSP_V09_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -27947,7 +27947,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q14
-<span hidden data-civi-question="77f77da916339eed" data-kind="examen" data-screen="EXAM_CSP_V09_Q14"></span>
+<span hidden data-civi-question="f474a934f6a80b36" data-kind="examen" data-screen="EXAM_CSP_V09_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28006,7 +28006,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q15
-<span hidden data-civi-question="0fff323add164c07" data-kind="examen" data-screen="EXAM_CSP_V09_Q15"></span>
+<span hidden data-civi-question="e6162754c4037a01" data-kind="examen" data-screen="EXAM_CSP_V09_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28065,7 +28065,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q16
-<span hidden data-civi-question="9c0b2d4d0e7cf849" data-kind="examen" data-screen="EXAM_CSP_V09_Q16"></span>
+<span hidden data-civi-question="7a3e473a06932d3b" data-kind="examen" data-screen="EXAM_CSP_V09_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28124,7 +28124,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q17
-<span hidden data-civi-question="26459b0e3c963509" data-kind="examen" data-screen="EXAM_CSP_V09_Q17"></span>
+<span hidden data-civi-question="36756ca32b40d6f6" data-kind="examen" data-screen="EXAM_CSP_V09_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28183,7 +28183,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q18
-<span hidden data-civi-question="c1935f3f3a5e270a" data-kind="examen" data-screen="EXAM_CSP_V09_Q18"></span>
+<span hidden data-civi-question="7d1b6e055ee121fc" data-kind="examen" data-screen="EXAM_CSP_V09_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28242,7 +28242,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q19
-<span hidden data-civi-question="dfe23c0ad153f684" data-kind="examen" data-screen="EXAM_CSP_V09_Q19"></span>
+<span hidden data-civi-question="093d0d7278c8ac59" data-kind="examen" data-screen="EXAM_CSP_V09_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28301,7 +28301,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q20
-<span hidden data-civi-question="a039050b61ca7c52" data-kind="examen" data-screen="EXAM_CSP_V09_Q20"></span>
+<span hidden data-civi-question="48587ba47db22756" data-kind="examen" data-screen="EXAM_CSP_V09_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28360,7 +28360,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q21
-<span hidden data-civi-question="1c23c73bae493282" data-kind="examen" data-screen="EXAM_CSP_V09_Q21"></span>
+<span hidden data-civi-question="6eb753df90c265b0" data-kind="examen" data-screen="EXAM_CSP_V09_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28419,7 +28419,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q22
-<span hidden data-civi-question="abfc24bb34bff503" data-kind="examen" data-screen="EXAM_CSP_V09_Q22"></span>
+<span hidden data-civi-question="80361d2120a77f4a" data-kind="examen" data-screen="EXAM_CSP_V09_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28478,7 +28478,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q23
-<span hidden data-civi-question="9feb52d108a953c6" data-kind="examen" data-screen="EXAM_CSP_V09_Q23"></span>
+<span hidden data-civi-question="03cf9eb2c06cf93c" data-kind="examen" data-screen="EXAM_CSP_V09_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28537,7 +28537,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q24
-<span hidden data-civi-question="8930ad11e60b2fe1" data-kind="examen" data-screen="EXAM_CSP_V09_Q24"></span>
+<span hidden data-civi-question="c62a0cd78d37aca9" data-kind="examen" data-screen="EXAM_CSP_V09_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28596,7 +28596,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q25
-<span hidden data-civi-question="f581a06d866a6533" data-kind="examen" data-screen="EXAM_CSP_V09_Q25"></span>
+<span hidden data-civi-question="c19227ca6f09b50b" data-kind="examen" data-screen="EXAM_CSP_V09_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28655,7 +28655,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q26
-<span hidden data-civi-question="99189f817f3f7127" data-kind="examen" data-screen="EXAM_CSP_V09_Q26"></span>
+<span hidden data-civi-question="1f6258ad09f668cf" data-kind="examen" data-screen="EXAM_CSP_V09_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28714,7 +28714,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q27
-<span hidden data-civi-question="408eb9e76c7b86b1" data-kind="examen" data-screen="EXAM_CSP_V09_Q27"></span>
+<span hidden data-civi-question="a3fde46f8266c179" data-kind="examen" data-screen="EXAM_CSP_V09_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28773,7 +28773,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q28
-<span hidden data-civi-question="a433b0b961e84a0b" data-kind="examen" data-screen="EXAM_CSP_V09_Q28"></span>
+<span hidden data-civi-question="a7c2308ffcfe773a" data-kind="examen" data-screen="EXAM_CSP_V09_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28844,7 +28844,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q29
-<span hidden data-civi-question="aefb7a773aed7fef" data-kind="examen" data-screen="EXAM_CSP_V09_Q29"></span>
+<span hidden data-civi-question="fb0e7563535cb419" data-kind="examen" data-screen="EXAM_CSP_V09_Q29"></span>
 `@exam_variant = 9`
 
 
@@ -28906,7 +28906,7 @@ Un enfant récite une fable célèbre en classe nommée "le Corbeau et le Renard
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q30
-<span hidden data-civi-question="6d815e853e9083e3" data-kind="examen" data-screen="EXAM_CSP_V09_Q30"></span>
+<span hidden data-civi-question="eed8a0fbef1bc38d" data-kind="examen" data-screen="EXAM_CSP_V09_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -28965,7 +28965,7 @@ Un enfant inscrit à l'école manque régulièrement les cours sans motif, et se
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q31
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V09_Q31"></span>
+<span hidden data-civi-question="72745f4976183311" data-kind="examen" data-screen="EXAM_CSP_V09_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29024,7 +29024,7 @@ Un ami organise une sortie le 14 juillet et vous demande ce que l'on célèbre c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q32
-<span hidden data-civi-question="87a4442e9f116e76" data-kind="examen" data-screen="EXAM_CSP_V09_Q32"></span>
+<span hidden data-civi-question="ff151d994575b5a4" data-kind="examen" data-screen="EXAM_CSP_V09_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29083,7 +29083,7 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q33
-<span hidden data-civi-question="216321014bcd6b43" data-kind="examen" data-screen="EXAM_CSP_V09_Q33"></span>
+<span hidden data-civi-question="549977c9be097cdc" data-kind="examen" data-screen="EXAM_CSP_V09_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29142,7 +29142,7 @@ Un couple envisage de se marier uniquement à l'église, pensant que cela suffit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q34
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V09_Q34"></span>
+<span hidden data-civi-question="c23cc628c4669ae4" data-kind="examen" data-screen="EXAM_CSP_V09_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29201,7 +29201,7 @@ Un ami vous demande à quelle fréquence sont organisées les élections europé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q35
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CSP_V09_Q35"></span>
+<span hidden data-civi-question="520ac109a89a6187" data-kind="examen" data-screen="EXAM_CSP_V09_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29260,7 +29260,7 @@ Une amie vous demande qui, précisément, élit les députés en France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q36
-<span hidden data-civi-question="d12a1e0f86c9e4dc" data-kind="examen" data-screen="EXAM_CSP_V09_Q36"></span>
+<span hidden data-civi-question="eb24edae32e6296b" data-kind="examen" data-screen="EXAM_CSP_V09_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29319,7 +29319,7 @@ Lors d'une commémoration, on vous demande de préciser les dates de la Seconde 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q37
-<span hidden data-civi-question="8624088583579207" data-kind="examen" data-screen="EXAM_CSP_V09_Q37"></span>
+<span hidden data-civi-question="d68b5ed1122f8d33" data-kind="examen" data-screen="EXAM_CSP_V09_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29378,7 +29378,7 @@ Tania vous demande de l'aider à comprendre le rôle de la Police car elle le co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q38
-<span hidden data-civi-question="8b513219611ffdac" data-kind="examen" data-screen="EXAM_CSP_V09_Q38"></span>
+<span hidden data-civi-question="b48cb4c140c2f176" data-kind="examen" data-screen="EXAM_CSP_V09_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29437,7 +29437,7 @@ Jérémy est athée, il ne croit pas en Dieu ou en l'existence d'une divinité.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q39
-<span hidden data-civi-question="9a2fbfb1ae789303" data-kind="examen" data-screen="EXAM_CSP_V09_Q39"></span>
+<span hidden data-civi-question="2af7753ba170a50a" data-kind="examen" data-screen="EXAM_CSP_V09_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29496,7 +29496,7 @@ Lors d'une sortie cinéma, un ami vous demande qui était Paul Cézanne car ce n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q40
-<span hidden data-civi-question="7bda367ace76b83e" data-kind="examen" data-screen="EXAM_CSP_V09_Q40"></span>
+<span hidden data-civi-question="1da60af9c2002b03" data-kind="examen" data-screen="EXAM_CSP_V09_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30530,7 +30530,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q01
-<span hidden data-civi-question="dd004d4c65ffe305" data-kind="examen" data-screen="EXAM_CSP_V10_Q01"></span>
+<span hidden data-civi-question="7d4b570d2dcfcee8" data-kind="examen" data-screen="EXAM_CSP_V10_Q01"></span>
 `@exam_variant = 10`
 
 
@@ -30592,7 +30592,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q02
-<span hidden data-civi-question="600a6071169d5e92" data-kind="examen" data-screen="EXAM_CSP_V10_Q02"></span>
+<span hidden data-civi-question="00f63ea6e42bf3ec" data-kind="examen" data-screen="EXAM_CSP_V10_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30651,7 +30651,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q03
-<span hidden data-civi-question="9cd343278946918d" data-kind="examen" data-screen="EXAM_CSP_V10_Q03"></span>
+<span hidden data-civi-question="4e7f534d69534b96" data-kind="examen" data-screen="EXAM_CSP_V10_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30710,7 +30710,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q04
-<span hidden data-civi-question="d0de4a87cc845ed7" data-kind="examen" data-screen="EXAM_CSP_V10_Q04"></span>
+<span hidden data-civi-question="5679d4fcd8fb98bc" data-kind="examen" data-screen="EXAM_CSP_V10_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30769,7 +30769,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q05
-<span hidden data-civi-question="db713b9e6c3c55f0" data-kind="examen" data-screen="EXAM_CSP_V10_Q05"></span>
+<span hidden data-civi-question="7c05f2e2eef65324" data-kind="examen" data-screen="EXAM_CSP_V10_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30828,7 +30828,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q06
-<span hidden data-civi-question="3716a47d417ccfc7" data-kind="examen" data-screen="EXAM_CSP_V10_Q06"></span>
+<span hidden data-civi-question="ddfcbf3587058c2d" data-kind="examen" data-screen="EXAM_CSP_V10_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30887,7 +30887,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q07
-<span hidden data-civi-question="8d810f4ac4012595" data-kind="examen" data-screen="EXAM_CSP_V10_Q07"></span>
+<span hidden data-civi-question="e3ec24c0f7e16a5a" data-kind="examen" data-screen="EXAM_CSP_V10_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -30946,7 +30946,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q08
-<span hidden data-civi-question="9d61866a203b0b30" data-kind="examen" data-screen="EXAM_CSP_V10_Q08"></span>
+<span hidden data-civi-question="24f8fdf6b697dab9" data-kind="examen" data-screen="EXAM_CSP_V10_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31005,7 +31005,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q09
-<span hidden data-civi-question="b3128f744f1064a9" data-kind="examen" data-screen="EXAM_CSP_V10_Q09"></span>
+<span hidden data-civi-question="2178e03c76f9b71b" data-kind="examen" data-screen="EXAM_CSP_V10_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31064,7 +31064,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q10
-<span hidden data-civi-question="e9d378789a18c13e" data-kind="examen" data-screen="EXAM_CSP_V10_Q10"></span>
+<span hidden data-civi-question="23d101c21fe9dd41" data-kind="examen" data-screen="EXAM_CSP_V10_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31123,7 +31123,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q11
-<span hidden data-civi-question="e841965422c8267c" data-kind="examen" data-screen="EXAM_CSP_V10_Q11"></span>
+<span hidden data-civi-question="ca31b08764de39e7" data-kind="examen" data-screen="EXAM_CSP_V10_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31182,7 +31182,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q12
-<span hidden data-civi-question="ebdec005e06056b2" data-kind="examen" data-screen="EXAM_CSP_V10_Q12"></span>
+<span hidden data-civi-question="a76a59dd83f24a9d" data-kind="examen" data-screen="EXAM_CSP_V10_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31241,7 +31241,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q13
-<span hidden data-civi-question="9bc1494bc57312e3" data-kind="examen" data-screen="EXAM_CSP_V10_Q13"></span>
+<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="examen" data-screen="EXAM_CSP_V10_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31300,7 +31300,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q14
-<span hidden data-civi-question="9d421bf474fdfc4c" data-kind="examen" data-screen="EXAM_CSP_V10_Q14"></span>
+<span hidden data-civi-question="6fdf98dd9d8bca62" data-kind="examen" data-screen="EXAM_CSP_V10_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31359,7 +31359,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q15
-<span hidden data-civi-question="2781b69b16940aa7" data-kind="examen" data-screen="EXAM_CSP_V10_Q15"></span>
+<span hidden data-civi-question="1dc11da4d185bd45" data-kind="examen" data-screen="EXAM_CSP_V10_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31418,7 +31418,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q16
-<span hidden data-civi-question="fbd554c632f6e5e7" data-kind="examen" data-screen="EXAM_CSP_V10_Q16"></span>
+<span hidden data-civi-question="b8b30cc623b60c90" data-kind="examen" data-screen="EXAM_CSP_V10_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31477,7 +31477,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q17
-<span hidden data-civi-question="24e2c6b1aeed2a12" data-kind="examen" data-screen="EXAM_CSP_V10_Q17"></span>
+<span hidden data-civi-question="f760d031af648f10" data-kind="examen" data-screen="EXAM_CSP_V10_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31536,7 +31536,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q18
-<span hidden data-civi-question="f3dc9f38e25ea9ed" data-kind="examen" data-screen="EXAM_CSP_V10_Q18"></span>
+<span hidden data-civi-question="b95a4453dfc8f32d" data-kind="examen" data-screen="EXAM_CSP_V10_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31595,7 +31595,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q19
-<span hidden data-civi-question="89198e65f3299429" data-kind="examen" data-screen="EXAM_CSP_V10_Q19"></span>
+<span hidden data-civi-question="c40d44bd1efe2bef" data-kind="examen" data-screen="EXAM_CSP_V10_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31654,7 +31654,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q20
-<span hidden data-civi-question="29d5f3bcefd0a32d" data-kind="examen" data-screen="EXAM_CSP_V10_Q20"></span>
+<span hidden data-civi-question="d31e617c97ed680c" data-kind="examen" data-screen="EXAM_CSP_V10_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31713,7 +31713,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q21
-<span hidden data-civi-question="423db1e10715db86" data-kind="examen" data-screen="EXAM_CSP_V10_Q21"></span>
+<span hidden data-civi-question="6dfabb46e582e8ee" data-kind="examen" data-screen="EXAM_CSP_V10_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31772,7 +31772,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q22
-<span hidden data-civi-question="87741faf8ad6622b" data-kind="examen" data-screen="EXAM_CSP_V10_Q22"></span>
+<span hidden data-civi-question="836924955e34ad0b" data-kind="examen" data-screen="EXAM_CSP_V10_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31831,7 +31831,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q23
-<span hidden data-civi-question="ad676662dfddce7d" data-kind="examen" data-screen="EXAM_CSP_V10_Q23"></span>
+<span hidden data-civi-question="682fcfdda1430755" data-kind="examen" data-screen="EXAM_CSP_V10_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31890,7 +31890,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q24
-<span hidden data-civi-question="e8c54f016162ecd4" data-kind="examen" data-screen="EXAM_CSP_V10_Q24"></span>
+<span hidden data-civi-question="658d642e3bff0c84" data-kind="examen" data-screen="EXAM_CSP_V10_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -31949,7 +31949,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q25
-<span hidden data-civi-question="d4444bc36c544187" data-kind="examen" data-screen="EXAM_CSP_V10_Q25"></span>
+<span hidden data-civi-question="7d82f91299bae2b5" data-kind="examen" data-screen="EXAM_CSP_V10_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32008,7 +32008,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q26
-<span hidden data-civi-question="5c70c44596892641" data-kind="examen" data-screen="EXAM_CSP_V10_Q26"></span>
+<span hidden data-civi-question="cd27793c0d85808d" data-kind="examen" data-screen="EXAM_CSP_V10_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32067,7 +32067,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q27
-<span hidden data-civi-question="34ea1692a355f612" data-kind="examen" data-screen="EXAM_CSP_V10_Q27"></span>
+<span hidden data-civi-question="0f987393f387365f" data-kind="examen" data-screen="EXAM_CSP_V10_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32126,7 +32126,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q28
-<span hidden data-civi-question="2d984a34e1bab562" data-kind="examen" data-screen="EXAM_CSP_V10_Q28"></span>
+<span hidden data-civi-question="df192170353275c4" data-kind="examen" data-screen="EXAM_CSP_V10_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32197,7 +32197,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q29
-<span hidden data-civi-question="927defe18a38f8df" data-kind="examen" data-screen="EXAM_CSP_V10_Q29"></span>
+<span hidden data-civi-question="c9a762bc87723a0a" data-kind="examen" data-screen="EXAM_CSP_V10_Q29"></span>
 `@exam_variant = 10`
 
 
@@ -32259,7 +32259,7 @@ Axel n'a pas le sens de l'orientation et confond plusieurs villes françaises. I
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q30
-<span hidden data-civi-question="da5458577cc0f40d" data-kind="examen" data-screen="EXAM_CSP_V10_Q30"></span>
+<span hidden data-civi-question="acbf69f14343a7b1" data-kind="examen" data-screen="EXAM_CSP_V10_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32318,7 +32318,7 @@ Un salarié se demande quelle est la durée légale hebdomadaire de travail en F
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q31
-<span hidden data-civi-question="4377a8164866ca29" data-kind="examen" data-screen="EXAM_CSP_V10_Q31"></span>
+<span hidden data-civi-question="2fcae077d4829859" data-kind="examen" data-screen="EXAM_CSP_V10_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32377,7 +32377,7 @@ Un ami pense qu'il suffit d'avoir suivi la formation civique pour pouvoir voter,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q32
-<span hidden data-civi-question="43cd8900525aa490" data-kind="examen" data-screen="EXAM_CSP_V10_Q32"></span>
+<span hidden data-civi-question="6af0485da183256f" data-kind="examen" data-screen="EXAM_CSP_V10_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32436,7 +32436,7 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q33
-<span hidden data-civi-question="f55d89081a8cd232" data-kind="examen" data-screen="EXAM_CSP_V10_Q33"></span>
+<span hidden data-civi-question="9805f722adf8fbad" data-kind="examen" data-screen="EXAM_CSP_V10_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32495,7 +32495,7 @@ Lors d'un quiz d'histoire, on vous présente plusieurs personnages et vous devez
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q34
-<span hidden data-civi-question="3fa376ebdf1de7d3" data-kind="examen" data-screen="EXAM_CSP_V10_Q34"></span>
+<span hidden data-civi-question="7addaa47b31003fa" data-kind="examen" data-screen="EXAM_CSP_V10_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32554,7 +32554,7 @@ Lors d'un repas de famille, votre cousine confond le rôle du Parlement et celui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q35
-<span hidden data-civi-question="f7f17e71c41a64e6" data-kind="examen" data-screen="EXAM_CSP_V10_Q35"></span>
+<span hidden data-civi-question="7645e8f174dae122" data-kind="examen" data-screen="EXAM_CSP_V10_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32613,7 +32613,7 @@ Lors d'une commémoration, on évoque l'abolition définitive de l'esclavage en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q36
-<span hidden data-civi-question="73ca1a2c549e0142" data-kind="examen" data-screen="EXAM_CSP_V10_Q36"></span>
+<span hidden data-civi-question="462b1b366a5ef15b" data-kind="examen" data-screen="EXAM_CSP_V10_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32672,7 +32672,7 @@ Lors d'une cérémonie officielle, on vous demande de donner le nom de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q37
-<span hidden data-civi-question="44e5c708ec89c786" data-kind="examen" data-screen="EXAM_CSP_V10_Q37"></span>
+<span hidden data-civi-question="927a4df15b1560a6" data-kind="examen" data-screen="EXAM_CSP_V10_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32731,7 +32731,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q38
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CSP_V10_Q38"></span>
+<span hidden data-civi-question="921bd0c7e61aa2c8" data-kind="examen" data-screen="EXAM_CSP_V10_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32790,7 +32790,7 @@ Lors d'un débat politique à la télévision, un participant expose longuement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q39
-<span hidden data-civi-question="1a1039c9d4dd4614" data-kind="examen" data-screen="EXAM_CSP_V10_Q39"></span>
+<span hidden data-civi-question="1e00b458761fd07a" data-kind="examen" data-screen="EXAM_CSP_V10_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32849,7 +32849,7 @@ Lors d'un cours de préparation civique, le formateur vous demande de citer les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q40
-<span hidden data-civi-question="408eb9e76c7b86b1" data-kind="examen" data-screen="EXAM_CSP_V10_Q40"></span>
+<span hidden data-civi-question="7c91ef528a88f398" data-kind="examen" data-screen="EXAM_CSP_V10_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -33923,7 +33923,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q01
-<span hidden data-civi-question="8ec94326bc84ad21" data-kind="examen" data-screen="EXAM_CR_V01_Q01"></span>
+<span hidden data-civi-question="434e78573251e1c0" data-kind="examen" data-screen="EXAM_CR_V01_Q01"></span>
 `@exam_variant = 1`
 
 
@@ -33985,7 +33985,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q02
-<span hidden data-civi-question="7127b1cfafebee4d" data-kind="examen" data-screen="EXAM_CR_V01_Q02"></span>
+<span hidden data-civi-question="51d82f808d908d32" data-kind="examen" data-screen="EXAM_CR_V01_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34044,7 +34044,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q03
-<span hidden data-civi-question="ea3a45c0ff812f73" data-kind="examen" data-screen="EXAM_CR_V01_Q03"></span>
+<span hidden data-civi-question="eb680c803b4c8405" data-kind="examen" data-screen="EXAM_CR_V01_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34103,7 +34103,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q04
-<span hidden data-civi-question="b168cfa6244519df" data-kind="examen" data-screen="EXAM_CR_V01_Q04"></span>
+<span hidden data-civi-question="1d41b310d4676e64" data-kind="examen" data-screen="EXAM_CR_V01_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34162,7 +34162,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q05
-<span hidden data-civi-question="89afbdfb468a86b1" data-kind="examen" data-screen="EXAM_CR_V01_Q05"></span>
+<span hidden data-civi-question="654c58a63508d34d" data-kind="examen" data-screen="EXAM_CR_V01_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34221,7 +34221,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q06
-<span hidden data-civi-question="732a529b9015bebb" data-kind="examen" data-screen="EXAM_CR_V01_Q06"></span>
+<span hidden data-civi-question="dc6383618c8a42b6" data-kind="examen" data-screen="EXAM_CR_V01_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34280,7 +34280,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q07
-<span hidden data-civi-question="f29a2cef1112d77a" data-kind="examen" data-screen="EXAM_CR_V01_Q07"></span>
+<span hidden data-civi-question="6285feea7e76d8ca" data-kind="examen" data-screen="EXAM_CR_V01_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34339,7 +34339,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q08
-<span hidden data-civi-question="bdd6b7fb7e06ef03" data-kind="examen" data-screen="EXAM_CR_V01_Q08"></span>
+<span hidden data-civi-question="7237af16d53890e4" data-kind="examen" data-screen="EXAM_CR_V01_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34398,7 +34398,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q09
-<span hidden data-civi-question="3c67949679022396" data-kind="examen" data-screen="EXAM_CR_V01_Q09"></span>
+<span hidden data-civi-question="f203ada1e02c5eb7" data-kind="examen" data-screen="EXAM_CR_V01_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34457,7 +34457,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q10
-<span hidden data-civi-question="1b86ca64e7e77f46" data-kind="examen" data-screen="EXAM_CR_V01_Q10"></span>
+<span hidden data-civi-question="93999a2b4df6c13e" data-kind="examen" data-screen="EXAM_CR_V01_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34516,7 +34516,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q11
-<span hidden data-civi-question="e525660f18bb7ba7" data-kind="examen" data-screen="EXAM_CR_V01_Q11"></span>
+<span hidden data-civi-question="79de142664a95d87" data-kind="examen" data-screen="EXAM_CR_V01_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34575,7 +34575,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q12
-<span hidden data-civi-question="f9e8016b9a5f8613" data-kind="examen" data-screen="EXAM_CR_V01_Q12"></span>
+<span hidden data-civi-question="dfefc0aca441e794" data-kind="examen" data-screen="EXAM_CR_V01_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34634,7 +34634,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q13
-<span hidden data-civi-question="dc0d707b6c985db9" data-kind="examen" data-screen="EXAM_CR_V01_Q13"></span>
+<span hidden data-civi-question="7df77a4009e2fb54" data-kind="examen" data-screen="EXAM_CR_V01_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34693,7 +34693,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q14
-<span hidden data-civi-question="a74e04d615690b2f" data-kind="examen" data-screen="EXAM_CR_V01_Q14"></span>
+<span hidden data-civi-question="d7a477bc851b7b25" data-kind="examen" data-screen="EXAM_CR_V01_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34752,7 +34752,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q15
-<span hidden data-civi-question="109c32dbf8c6d54d" data-kind="examen" data-screen="EXAM_CR_V01_Q15"></span>
+<span hidden data-civi-question="50b26c4d9737f17e" data-kind="examen" data-screen="EXAM_CR_V01_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34811,7 +34811,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q16
-<span hidden data-civi-question="bd73d0985eaa5f79" data-kind="examen" data-screen="EXAM_CR_V01_Q16"></span>
+<span hidden data-civi-question="338e341cebfa3621" data-kind="examen" data-screen="EXAM_CR_V01_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34870,7 +34870,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q17
-<span hidden data-civi-question="a20a66cb8436cee1" data-kind="examen" data-screen="EXAM_CR_V01_Q17"></span>
+<span hidden data-civi-question="3a1839612a11e2f4" data-kind="examen" data-screen="EXAM_CR_V01_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34929,7 +34929,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q18
-<span hidden data-civi-question="28db0210506c4648" data-kind="examen" data-screen="EXAM_CR_V01_Q18"></span>
+<span hidden data-civi-question="b4f162c2140174c7" data-kind="examen" data-screen="EXAM_CR_V01_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -34988,7 +34988,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q19
-<span hidden data-civi-question="cf71b7004adad7bf" data-kind="examen" data-screen="EXAM_CR_V01_Q19"></span>
+<span hidden data-civi-question="5d1ac59112cef84e" data-kind="examen" data-screen="EXAM_CR_V01_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35047,7 +35047,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q20
-<span hidden data-civi-question="4c90849e2ca56fd7" data-kind="examen" data-screen="EXAM_CR_V01_Q20"></span>
+<span hidden data-civi-question="a48cb5878a66fc1b" data-kind="examen" data-screen="EXAM_CR_V01_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35106,7 +35106,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q21
-<span hidden data-civi-question="9dd83dc52de19f7f" data-kind="examen" data-screen="EXAM_CR_V01_Q21"></span>
+<span hidden data-civi-question="4ce405c557b588f6" data-kind="examen" data-screen="EXAM_CR_V01_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35165,7 +35165,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q22
-<span hidden data-civi-question="c6fb3e90a58e6050" data-kind="examen" data-screen="EXAM_CR_V01_Q22"></span>
+<span hidden data-civi-question="3596ad46c6bef361" data-kind="examen" data-screen="EXAM_CR_V01_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35224,7 +35224,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q23
-<span hidden data-civi-question="349f415085434a7e" data-kind="examen" data-screen="EXAM_CR_V01_Q23"></span>
+<span hidden data-civi-question="721d5a5fefd19635" data-kind="examen" data-screen="EXAM_CR_V01_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35283,7 +35283,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q24
-<span hidden data-civi-question="d951ae1efef3a6c6" data-kind="examen" data-screen="EXAM_CR_V01_Q24"></span>
+<span hidden data-civi-question="81cf1a1df37aad00" data-kind="examen" data-screen="EXAM_CR_V01_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35342,7 +35342,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q25
-<span hidden data-civi-question="af5e75a7c496c5a0" data-kind="examen" data-screen="EXAM_CR_V01_Q25"></span>
+<span hidden data-civi-question="1449d55eacbe19d5" data-kind="examen" data-screen="EXAM_CR_V01_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35401,7 +35401,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q26
-<span hidden data-civi-question="ec6a2a02f8c377c5" data-kind="examen" data-screen="EXAM_CR_V01_Q26"></span>
+<span hidden data-civi-question="589c337e82c41548" data-kind="examen" data-screen="EXAM_CR_V01_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35460,7 +35460,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q27
-<span hidden data-civi-question="b256df1b8845b8e8" data-kind="examen" data-screen="EXAM_CR_V01_Q27"></span>
+<span hidden data-civi-question="8ad6791712b8da8b" data-kind="examen" data-screen="EXAM_CR_V01_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35519,7 +35519,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q28
-<span hidden data-civi-question="4b40bf07728a46bb" data-kind="examen" data-screen="EXAM_CR_V01_Q28"></span>
+<span hidden data-civi-question="d1e0a071ee992eb4" data-kind="examen" data-screen="EXAM_CR_V01_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35590,7 +35590,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q29
-<span hidden data-civi-question="39fa009ba99c166b" data-kind="examen" data-screen="EXAM_CR_V01_Q29"></span>
+<span hidden data-civi-question="a7f1570f9e4650ba" data-kind="examen" data-screen="EXAM_CR_V01_Q29"></span>
 `@exam_variant = 1`
 
 
@@ -35652,7 +35652,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q30
-<span hidden data-civi-question="ef84e1f0a01909e0" data-kind="examen" data-screen="EXAM_CR_V01_Q30"></span>
+<span hidden data-civi-question="388eb0e6098ad205" data-kind="examen" data-screen="EXAM_CR_V01_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35711,7 +35711,7 @@ Ethan est en classe de première. Son professeur de d'histoire lui demande quels
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q31
-<span hidden data-civi-question="77c3fd30e3b3ea8c" data-kind="examen" data-screen="EXAM_CR_V01_Q31"></span>
+<span hidden data-civi-question="64ea9af273cf6b34" data-kind="examen" data-screen="EXAM_CR_V01_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35770,7 +35770,7 @@ Une mère d'un enfant en situation de handicap pense qu'il doit obligatoirement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q32
-<span hidden data-civi-question="5143e669a4ceab12" data-kind="examen" data-screen="EXAM_CR_V01_Q32"></span>
+<span hidden data-civi-question="65dd6c7eb21328db" data-kind="examen" data-screen="EXAM_CR_V01_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35829,7 +35829,7 @@ Un ami hésite entre plusieurs dates pour savoir depuis quand l'euro est devenu 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q33
-<span hidden data-civi-question="684ffe8aec9a7d77" data-kind="examen" data-screen="EXAM_CR_V01_Q33"></span>
+<span hidden data-civi-question="08063f9b0dc186b1" data-kind="examen" data-screen="EXAM_CR_V01_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35888,7 +35888,7 @@ Lors d'un débat sur la francophonie, on vous demande quel est le classement de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q34
-<span hidden data-civi-question="67f77ea41bd8c67d" data-kind="examen" data-screen="EXAM_CR_V01_Q34"></span>
+<span hidden data-civi-question="f42aa0836e39cd37" data-kind="examen" data-screen="EXAM_CR_V01_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -35947,7 +35947,7 @@ Un ami confond la devise de la France avec celle de l'Union européenne lors d'u
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q35
-<span hidden data-civi-question="390770bbd3270726" data-kind="examen" data-screen="EXAM_CR_V01_Q35"></span>
+<span hidden data-civi-question="11db5c1c22ee00e4" data-kind="examen" data-screen="EXAM_CR_V01_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -36006,7 +36006,7 @@ Lors d'une révision, on vous demande de préciser l'année exacte de signature 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q36
-<span hidden data-civi-question="5f1273b983d954c8" data-kind="examen" data-screen="EXAM_CR_V01_Q36"></span>
+<span hidden data-civi-question="1109b0113fc60ccc" data-kind="examen" data-screen="EXAM_CR_V01_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -36065,7 +36065,7 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q37
-<span hidden data-civi-question="84a84bc9bdcc62db" data-kind="examen" data-screen="EXAM_CR_V01_Q37"></span>
+<span hidden data-civi-question="ea46f9e4fce98d43" data-kind="examen" data-screen="EXAM_CR_V01_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -36124,7 +36124,7 @@ Un collègue hésite à adhérer à un syndicat de son entreprise, pensant que c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q38
-<span hidden data-civi-question="5027e589a6b8059d" data-kind="examen" data-screen="EXAM_CR_V01_Q38"></span>
+<span hidden data-civi-question="479c1c030b681c09" data-kind="examen" data-screen="EXAM_CR_V01_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -36183,7 +36183,7 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q39
-<span hidden data-civi-question="c7159af73d4736ca" data-kind="examen" data-screen="EXAM_CR_V01_Q39"></span>
+<span hidden data-civi-question="2e895f9dc01e1d31" data-kind="examen" data-screen="EXAM_CR_V01_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -36242,7 +36242,7 @@ Lors d'un concert de musique classique, on vous demande de citer un compositeur 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V01_Q40
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CR_V01_Q40"></span>
+<span hidden data-civi-question="df68b9d9b32506ac" data-kind="examen" data-screen="EXAM_CR_V01_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37332,7 +37332,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q01
-<span hidden data-civi-question="6e8ba2156611b8ad" data-kind="examen" data-screen="EXAM_CR_V02_Q01"></span>
+<span hidden data-civi-question="cb4ab5eebb39b574" data-kind="examen" data-screen="EXAM_CR_V02_Q01"></span>
 `@exam_variant = 2`
 
 
@@ -37394,7 +37394,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q02
-<span hidden data-civi-question="66789435f403277b" data-kind="examen" data-screen="EXAM_CR_V02_Q02"></span>
+<span hidden data-civi-question="cde99159b233d89d" data-kind="examen" data-screen="EXAM_CR_V02_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37453,7 +37453,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q03
-<span hidden data-civi-question="572117ddeb0a7ab8" data-kind="examen" data-screen="EXAM_CR_V02_Q03"></span>
+<span hidden data-civi-question="d555b10ffa7eb79e" data-kind="examen" data-screen="EXAM_CR_V02_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37512,7 +37512,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q04
-<span hidden data-civi-question="e32757b9749034cb" data-kind="examen" data-screen="EXAM_CR_V02_Q04"></span>
+<span hidden data-civi-question="4e34e824f81588a0" data-kind="examen" data-screen="EXAM_CR_V02_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37571,7 +37571,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q05
-<span hidden data-civi-question="a84d438e98c5dbeb" data-kind="examen" data-screen="EXAM_CR_V02_Q05"></span>
+<span hidden data-civi-question="31c827eeebdcad38" data-kind="examen" data-screen="EXAM_CR_V02_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37630,7 +37630,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q06
-<span hidden data-civi-question="d1c667fec882eff1" data-kind="examen" data-screen="EXAM_CR_V02_Q06"></span>
+<span hidden data-civi-question="dccf39d9b3e219b9" data-kind="examen" data-screen="EXAM_CR_V02_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37689,7 +37689,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q07
-<span hidden data-civi-question="b047ee8ee94cd5cc" data-kind="examen" data-screen="EXAM_CR_V02_Q07"></span>
+<span hidden data-civi-question="e47425fe358ad967" data-kind="examen" data-screen="EXAM_CR_V02_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37748,7 +37748,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q08
-<span hidden data-civi-question="9cc80902b0b3329c" data-kind="examen" data-screen="EXAM_CR_V02_Q08"></span>
+<span hidden data-civi-question="3dd8b7b54eb9600a" data-kind="examen" data-screen="EXAM_CR_V02_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37807,7 +37807,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q09
-<span hidden data-civi-question="adf357c1e1f7efa8" data-kind="examen" data-screen="EXAM_CR_V02_Q09"></span>
+<span hidden data-civi-question="fda8976608ffd6e5" data-kind="examen" data-screen="EXAM_CR_V02_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37866,7 +37866,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q10
-<span hidden data-civi-question="d3174e545b51d5d8" data-kind="examen" data-screen="EXAM_CR_V02_Q10"></span>
+<span hidden data-civi-question="6547ad4adc66ec29" data-kind="examen" data-screen="EXAM_CR_V02_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37925,7 +37925,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q11
-<span hidden data-civi-question="ea98be4022fc82c4" data-kind="examen" data-screen="EXAM_CR_V02_Q11"></span>
+<span hidden data-civi-question="1c042450421b2c1f" data-kind="examen" data-screen="EXAM_CR_V02_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -37984,7 +37984,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q12
-<span hidden data-civi-question="5e19bec0a3de5426" data-kind="examen" data-screen="EXAM_CR_V02_Q12"></span>
+<span hidden data-civi-question="50b0df01d6ba1a84" data-kind="examen" data-screen="EXAM_CR_V02_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38043,7 +38043,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q13
-<span hidden data-civi-question="142682e5e6df6f15" data-kind="examen" data-screen="EXAM_CR_V02_Q13"></span>
+<span hidden data-civi-question="73b2fe818d4d2cda" data-kind="examen" data-screen="EXAM_CR_V02_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38102,7 +38102,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q14
-<span hidden data-civi-question="111c4757ce184bbe" data-kind="examen" data-screen="EXAM_CR_V02_Q14"></span>
+<span hidden data-civi-question="790e3b4a22d8a6fc" data-kind="examen" data-screen="EXAM_CR_V02_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38161,7 +38161,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q15
-<span hidden data-civi-question="96b8bd5b5dfd8af4" data-kind="examen" data-screen="EXAM_CR_V02_Q15"></span>
+<span hidden data-civi-question="aba8d1cf837aa323" data-kind="examen" data-screen="EXAM_CR_V02_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38220,7 +38220,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q16
-<span hidden data-civi-question="3b5dfad04625b03a" data-kind="examen" data-screen="EXAM_CR_V02_Q16"></span>
+<span hidden data-civi-question="7911c0d206b0b751" data-kind="examen" data-screen="EXAM_CR_V02_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38279,7 +38279,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q17
-<span hidden data-civi-question="314c06200bede412" data-kind="examen" data-screen="EXAM_CR_V02_Q17"></span>
+<span hidden data-civi-question="af61af79bf729caf" data-kind="examen" data-screen="EXAM_CR_V02_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38338,7 +38338,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q18
-<span hidden data-civi-question="71d27a263abc5033" data-kind="examen" data-screen="EXAM_CR_V02_Q18"></span>
+<span hidden data-civi-question="fdd272691078a38b" data-kind="examen" data-screen="EXAM_CR_V02_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38397,7 +38397,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q19
-<span hidden data-civi-question="6de4747d70fffeed" data-kind="examen" data-screen="EXAM_CR_V02_Q19"></span>
+<span hidden data-civi-question="71b34f8290a64546" data-kind="examen" data-screen="EXAM_CR_V02_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38456,7 +38456,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q20
-<span hidden data-civi-question="b62f3e3e8d74656b" data-kind="examen" data-screen="EXAM_CR_V02_Q20"></span>
+<span hidden data-civi-question="7508600cffcfb87f" data-kind="examen" data-screen="EXAM_CR_V02_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38515,7 +38515,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q21
-<span hidden data-civi-question="f3dc9f38e25ea9ed" data-kind="examen" data-screen="EXAM_CR_V02_Q21"></span>
+<span hidden data-civi-question="b8c97ecd264a03a6" data-kind="examen" data-screen="EXAM_CR_V02_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38574,7 +38574,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q22
-<span hidden data-civi-question="551f9efef4a6efd1" data-kind="examen" data-screen="EXAM_CR_V02_Q22"></span>
+<span hidden data-civi-question="7da93e0a18a9169f" data-kind="examen" data-screen="EXAM_CR_V02_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38633,7 +38633,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q23
-<span hidden data-civi-question="02b0e3c0bd79c582" data-kind="examen" data-screen="EXAM_CR_V02_Q23"></span>
+<span hidden data-civi-question="c93fc6990c1c3449" data-kind="examen" data-screen="EXAM_CR_V02_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38692,7 +38692,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q24
-<span hidden data-civi-question="a51f4d7b2c3db00d" data-kind="examen" data-screen="EXAM_CR_V02_Q24"></span>
+<span hidden data-civi-question="c34b6ee909c263bc" data-kind="examen" data-screen="EXAM_CR_V02_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38751,7 +38751,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q25
-<span hidden data-civi-question="3dadf86f7e4ffbfd" data-kind="examen" data-screen="EXAM_CR_V02_Q25"></span>
+<span hidden data-civi-question="3b20728303ac2ae6" data-kind="examen" data-screen="EXAM_CR_V02_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38810,7 +38810,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q26
-<span hidden data-civi-question="0bc88f22083cf343" data-kind="examen" data-screen="EXAM_CR_V02_Q26"></span>
+<span hidden data-civi-question="df49bd27b20f5de5" data-kind="examen" data-screen="EXAM_CR_V02_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38869,7 +38869,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q27
-<span hidden data-civi-question="425568421e933034" data-kind="examen" data-screen="EXAM_CR_V02_Q27"></span>
+<span hidden data-civi-question="e1bee54a996802fd" data-kind="examen" data-screen="EXAM_CR_V02_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38928,7 +38928,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q28
-<span hidden data-civi-question="721bb101f378adfe" data-kind="examen" data-screen="EXAM_CR_V02_Q28"></span>
+<span hidden data-civi-question="7d5236d03b9c47bc" data-kind="examen" data-screen="EXAM_CR_V02_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -38999,7 +38999,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q29
-<span hidden data-civi-question="5659ff3c5e3b7290" data-kind="examen" data-screen="EXAM_CR_V02_Q29"></span>
+<span hidden data-civi-question="61fc259a9e833dc5" data-kind="examen" data-screen="EXAM_CR_V02_Q29"></span>
 `@exam_variant = 2`
 
 
@@ -39061,7 +39061,7 @@ Un parent souhaite dispenser son enfant de certains cours obligatoires, pour des
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q30
-<span hidden data-civi-question="a75a8697eec594a6" data-kind="examen" data-screen="EXAM_CR_V02_Q30"></span>
+<span hidden data-civi-question="8cb24c5ea2c4ca23" data-kind="examen" data-screen="EXAM_CR_V02_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39120,7 +39120,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q31
-<span hidden data-civi-question="3c644d2dc631021c" data-kind="examen" data-screen="EXAM_CR_V02_Q31"></span>
+<span hidden data-civi-question="93a2989bb518c07b" data-kind="examen" data-screen="EXAM_CR_V02_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39179,7 +39179,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q32
-<span hidden data-civi-question="0c2d8d03f21ae35c" data-kind="examen" data-screen="EXAM_CR_V02_Q32"></span>
+<span hidden data-civi-question="c8df41078cb08f2b" data-kind="examen" data-screen="EXAM_CR_V02_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39238,7 +39238,7 @@ Un collègue confond les dates et pense que le Royaume-Uni a quitté l'Union eur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q33
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CR_V02_Q33"></span>
+<span hidden data-civi-question="dfff308d142be79d" data-kind="examen" data-screen="EXAM_CR_V02_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39297,7 +39297,7 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q34
-<span hidden data-civi-question="c6e94d8939634d3b" data-kind="examen" data-screen="EXAM_CR_V02_Q34"></span>
+<span hidden data-civi-question="a74268984d4061da" data-kind="examen" data-screen="EXAM_CR_V02_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39356,7 +39356,7 @@ Lors d'une visite de la Conciergerie à Paris, le guide évoque le roi de France
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q35
-<span hidden data-civi-question="0f0289c42be23e48" data-kind="examen" data-screen="EXAM_CR_V02_Q35"></span>
+<span hidden data-civi-question="26441c8f6997132a" data-kind="examen" data-screen="EXAM_CR_V02_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39415,7 +39415,7 @@ Un ami pense qu'il suffit d'avoir un passeport français pour pouvoir voter, san
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q36
-<span hidden data-civi-question="2b41570d745bad78" data-kind="examen" data-screen="EXAM_CR_V02_Q36"></span>
+<span hidden data-civi-question="0b2c841094e2f227" data-kind="examen" data-screen="EXAM_CR_V02_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39474,7 +39474,7 @@ Lors d'une visite du musée Rodin à Paris, un ami vous demande qui était Augus
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q37
-<span hidden data-civi-question="6e28f1b08f8c76c3" data-kind="examen" data-screen="EXAM_CR_V02_Q37"></span>
+<span hidden data-civi-question="3fd135935961c62e" data-kind="examen" data-screen="EXAM_CR_V02_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39533,7 +39533,7 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q38
-<span hidden data-civi-question="c43966953be90552" data-kind="examen" data-screen="EXAM_CR_V02_Q38"></span>
+<span hidden data-civi-question="0fe2d8c83bbb214d" data-kind="examen" data-screen="EXAM_CR_V02_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39592,7 +39592,7 @@ Un ami hésite sur la couleur de fond du drapeau européen lors d'un quiz de pr�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q39
-<span hidden data-civi-question="05412d717442e85e" data-kind="examen" data-screen="EXAM_CR_V02_Q39"></span>
+<span hidden data-civi-question="849f3fb5700370d8" data-kind="examen" data-screen="EXAM_CR_V02_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -39651,7 +39651,7 @@ Un jeune se demande à partir de quel âge il pourra exercer pleinement ses droi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V02_Q40
-<span hidden data-civi-question="8472a4a97925f5fd" data-kind="examen" data-screen="EXAM_CR_V02_Q40"></span>
+<span hidden data-civi-question="3988e3f50aeb61d2" data-kind="examen" data-screen="EXAM_CR_V02_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -40701,7 +40701,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q01
-<span hidden data-civi-question="c89ae69dfda20967" data-kind="examen" data-screen="EXAM_CR_V03_Q01"></span>
+<span hidden data-civi-question="c1c5823b778672b8" data-kind="examen" data-screen="EXAM_CR_V03_Q01"></span>
 `@exam_variant = 3`
 
 
@@ -40763,7 +40763,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q02
-<span hidden data-civi-question="c5ef27e62bda0d8b" data-kind="examen" data-screen="EXAM_CR_V03_Q02"></span>
+<span hidden data-civi-question="12541f4e4eb9ef29" data-kind="examen" data-screen="EXAM_CR_V03_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -40822,7 +40822,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q03
-<span hidden data-civi-question="1d7e0c2f8ef7aba3" data-kind="examen" data-screen="EXAM_CR_V03_Q03"></span>
+<span hidden data-civi-question="3d0b74ad47c749fc" data-kind="examen" data-screen="EXAM_CR_V03_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -40881,7 +40881,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q04
-<span hidden data-civi-question="4f273a4e760f80a0" data-kind="examen" data-screen="EXAM_CR_V03_Q04"></span>
+<span hidden data-civi-question="40001a519ef9a9a0" data-kind="examen" data-screen="EXAM_CR_V03_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -40940,7 +40940,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q05
-<span hidden data-civi-question="065bebeb62ef6c67" data-kind="examen" data-screen="EXAM_CR_V03_Q05"></span>
+<span hidden data-civi-question="d87cf339a953b6bd" data-kind="examen" data-screen="EXAM_CR_V03_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -40999,7 +40999,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q06
-<span hidden data-civi-question="da3319e83b50cf7b" data-kind="examen" data-screen="EXAM_CR_V03_Q06"></span>
+<span hidden data-civi-question="03ed3a9f481bf9dd" data-kind="examen" data-screen="EXAM_CR_V03_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41058,7 +41058,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q07
-<span hidden data-civi-question="8472a4a97925f5fd" data-kind="examen" data-screen="EXAM_CR_V03_Q07"></span>
+<span hidden data-civi-question="628778163996af16" data-kind="examen" data-screen="EXAM_CR_V03_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41117,7 +41117,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q08
-<span hidden data-civi-question="5380adca93a40149" data-kind="examen" data-screen="EXAM_CR_V03_Q08"></span>
+<span hidden data-civi-question="70523c0630c073ef" data-kind="examen" data-screen="EXAM_CR_V03_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41176,7 +41176,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q09
-<span hidden data-civi-question="574f5f1dc7d976c7" data-kind="examen" data-screen="EXAM_CR_V03_Q09"></span>
+<span hidden data-civi-question="e20f8306448a2ff5" data-kind="examen" data-screen="EXAM_CR_V03_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41235,7 +41235,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q10
-<span hidden data-civi-question="b10feab57d525d93" data-kind="examen" data-screen="EXAM_CR_V03_Q10"></span>
+<span hidden data-civi-question="a7be757965b07c7c" data-kind="examen" data-screen="EXAM_CR_V03_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41294,7 +41294,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q11
-<span hidden data-civi-question="63a7f8858a5bede0" data-kind="examen" data-screen="EXAM_CR_V03_Q11"></span>
+<span hidden data-civi-question="244507b9c162122c" data-kind="examen" data-screen="EXAM_CR_V03_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41353,7 +41353,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q12
-<span hidden data-civi-question="864575f2cfe4d91c" data-kind="examen" data-screen="EXAM_CR_V03_Q12"></span>
+<span hidden data-civi-question="9175870730cb8279" data-kind="examen" data-screen="EXAM_CR_V03_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41412,7 +41412,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q13
-<span hidden data-civi-question="c1d2b56077218f49" data-kind="examen" data-screen="EXAM_CR_V03_Q13"></span>
+<span hidden data-civi-question="9e4f2a61bf3f499b" data-kind="examen" data-screen="EXAM_CR_V03_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41471,7 +41471,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q14
-<span hidden data-civi-question="c4621ede3bc76460" data-kind="examen" data-screen="EXAM_CR_V03_Q14"></span>
+<span hidden data-civi-question="26a5420e2d0cbd5d" data-kind="examen" data-screen="EXAM_CR_V03_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41530,7 +41530,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q15
-<span hidden data-civi-question="026ab5da154c46c1" data-kind="examen" data-screen="EXAM_CR_V03_Q15"></span>
+<span hidden data-civi-question="6a08499d0bb8b704" data-kind="examen" data-screen="EXAM_CR_V03_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41589,7 +41589,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q16
-<span hidden data-civi-question="92e351fc692077db" data-kind="examen" data-screen="EXAM_CR_V03_Q16"></span>
+<span hidden data-civi-question="cee7e279c0d1dbbf" data-kind="examen" data-screen="EXAM_CR_V03_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41648,7 +41648,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q17
-<span hidden data-civi-question="07a4ba74dd0f42e1" data-kind="examen" data-screen="EXAM_CR_V03_Q17"></span>
+<span hidden data-civi-question="160658a2f50e454a" data-kind="examen" data-screen="EXAM_CR_V03_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41707,7 +41707,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q18
-<span hidden data-civi-question="34f9efed585aeb22" data-kind="examen" data-screen="EXAM_CR_V03_Q18"></span>
+<span hidden data-civi-question="ef7c3677d1ec07f5" data-kind="examen" data-screen="EXAM_CR_V03_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41766,7 +41766,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q19
-<span hidden data-civi-question="0501207626140b02" data-kind="examen" data-screen="EXAM_CR_V03_Q19"></span>
+<span hidden data-civi-question="ec671e800e55ed04" data-kind="examen" data-screen="EXAM_CR_V03_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41825,7 +41825,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q20
-<span hidden data-civi-question="e439f7410354c795" data-kind="examen" data-screen="EXAM_CR_V03_Q20"></span>
+<span hidden data-civi-question="c7a0ab93632f013b" data-kind="examen" data-screen="EXAM_CR_V03_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41884,7 +41884,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q21
-<span hidden data-civi-question="013f9aedbc854550" data-kind="examen" data-screen="EXAM_CR_V03_Q21"></span>
+<span hidden data-civi-question="aac82d7cef20dcd5" data-kind="examen" data-screen="EXAM_CR_V03_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -41943,7 +41943,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q22
-<span hidden data-civi-question="5c70c44596892641" data-kind="examen" data-screen="EXAM_CR_V03_Q22"></span>
+<span hidden data-civi-question="cd27793c0d85808d" data-kind="examen" data-screen="EXAM_CR_V03_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42002,7 +42002,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q23
-<span hidden data-civi-question="34ea1692a355f612" data-kind="examen" data-screen="EXAM_CR_V03_Q23"></span>
+<span hidden data-civi-question="0f987393f387365f" data-kind="examen" data-screen="EXAM_CR_V03_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42061,7 +42061,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q24
-<span hidden data-civi-question="f9ba41feca7b1362" data-kind="examen" data-screen="EXAM_CR_V03_Q24"></span>
+<span hidden data-civi-question="33e2f97237f3f9ad" data-kind="examen" data-screen="EXAM_CR_V03_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42120,7 +42120,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q25
-<span hidden data-civi-question="cebc3da7a4a76bb6" data-kind="examen" data-screen="EXAM_CR_V03_Q25"></span>
+<span hidden data-civi-question="0c68fe4bb54419a6" data-kind="examen" data-screen="EXAM_CR_V03_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42179,7 +42179,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q26
-<span hidden data-civi-question="954f49695ca99086" data-kind="examen" data-screen="EXAM_CR_V03_Q26"></span>
+<span hidden data-civi-question="89140d8ab6373fa0" data-kind="examen" data-screen="EXAM_CR_V03_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42238,7 +42238,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q27
-<span hidden data-civi-question="7e4c4bd1f91edc4d" data-kind="examen" data-screen="EXAM_CR_V03_Q27"></span>
+<span hidden data-civi-question="254af41589f8fa9e" data-kind="examen" data-screen="EXAM_CR_V03_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42297,7 +42297,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q28
-<span hidden data-civi-question="c878c620a579d965" data-kind="examen" data-screen="EXAM_CR_V03_Q28"></span>
+<span hidden data-civi-question="7f99b0beb235518b" data-kind="examen" data-screen="EXAM_CR_V03_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42368,7 +42368,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q29
-<span hidden data-civi-question="8aca5d78e330d70f" data-kind="examen" data-screen="EXAM_CR_V03_Q29"></span>
+<span hidden data-civi-question="c2f371ffb44f4c00" data-kind="examen" data-screen="EXAM_CR_V03_Q29"></span>
 `@exam_variant = 3`
 
 
@@ -42430,7 +42430,7 @@ Lors d'une commémoration au monument aux morts de votre commune, on vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q30
-<span hidden data-civi-question="59be48f0fde22706" data-kind="examen" data-screen="EXAM_CR_V03_Q30"></span>
+<span hidden data-civi-question="1fb4b88758e9e3d0" data-kind="examen" data-screen="EXAM_CR_V03_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42489,7 +42489,7 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q31
-<span hidden data-civi-question="8624088583579207" data-kind="examen" data-screen="EXAM_CR_V03_Q31"></span>
+<span hidden data-civi-question="9b13b7254b3669bf" data-kind="examen" data-screen="EXAM_CR_V03_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42548,7 +42548,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q32
-<span hidden data-civi-question="16412f57c21cc8ed" data-kind="examen" data-screen="EXAM_CR_V03_Q32"></span>
+<span hidden data-civi-question="5a460e3eb026829c" data-kind="examen" data-screen="EXAM_CR_V03_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42607,7 +42607,7 @@ Un couple souhaite organiser uniquement une cérémonie religieuse pour leur mar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q33
-<span hidden data-civi-question="60bdfd0fcae6fed9" data-kind="examen" data-screen="EXAM_CR_V03_Q33"></span>
+<span hidden data-civi-question="5e239840e13b150d" data-kind="examen" data-screen="EXAM_CR_V03_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42666,7 +42666,7 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q34
-<span hidden data-civi-question="3e753d2f91099855" data-kind="examen" data-screen="EXAM_CR_V03_Q34"></span>
+<span hidden data-civi-question="f311c21c0732cc53" data-kind="examen" data-screen="EXAM_CR_V03_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42725,7 +42725,7 @@ Lors d'un cours d'histoire sur l'après-guerre, on vous demande de citer l'organ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q35
-<span hidden data-civi-question="c707f5fc989b638b" data-kind="examen" data-screen="EXAM_CR_V03_Q35"></span>
+<span hidden data-civi-question="2e3c185e6da71542" data-kind="examen" data-screen="EXAM_CR_V03_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42784,7 +42784,7 @@ Vous montrez à un ami une enveloppe affranchie et lui faites remarquer le visag
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q36
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V03_Q36"></span>
+<span hidden data-civi-question="a6983ed46822fdf3" data-kind="examen" data-screen="EXAM_CR_V03_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42843,7 +42843,7 @@ Un ami pense que l'euro circule en France sous forme de pièces et de billets de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q37
-<span hidden data-civi-question="4a37b7f0afa13055" data-kind="examen" data-screen="EXAM_CR_V03_Q37"></span>
+<span hidden data-civi-question="a7d47e9e42954a59" data-kind="examen" data-screen="EXAM_CR_V03_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42902,7 +42902,7 @@ Lors d'une visite au musée d'Orsay, un ami confond plusieurs peintres impressio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q38
-<span hidden data-civi-question="ffa11938da7d8fcd" data-kind="examen" data-screen="EXAM_CR_V03_Q38"></span>
+<span hidden data-civi-question="8f3b26a477bc3a52" data-kind="examen" data-screen="EXAM_CR_V03_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -42961,7 +42961,7 @@ Un ami pense que le Parlement français désigne uniquement le président de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q39
-<span hidden data-civi-question="1a1039c9d4dd4614" data-kind="examen" data-screen="EXAM_CR_V03_Q39"></span>
+<span hidden data-civi-question="1e00b458761fd07a" data-kind="examen" data-screen="EXAM_CR_V03_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -43020,7 +43020,7 @@ Lors d'un cours de préparation civique, le formateur vous demande de citer les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V03_Q40
-<span hidden data-civi-question="4a0644e84330c12e" data-kind="examen" data-screen="EXAM_CR_V03_Q40"></span>
+<span hidden data-civi-question="6124efd3780f18fd" data-kind="examen" data-screen="EXAM_CR_V03_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44086,7 +44086,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q01
-<span hidden data-civi-question="0daabd9dd1f1b6ac" data-kind="examen" data-screen="EXAM_CR_V04_Q01"></span>
+<span hidden data-civi-question="f91d95b0096f3f6b" data-kind="examen" data-screen="EXAM_CR_V04_Q01"></span>
 `@exam_variant = 4`
 
 
@@ -44148,7 +44148,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q02
-<span hidden data-civi-question="06544d6b810038ad" data-kind="examen" data-screen="EXAM_CR_V04_Q02"></span>
+<span hidden data-civi-question="71e96a0d34d31b28" data-kind="examen" data-screen="EXAM_CR_V04_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44207,7 +44207,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q03
-<span hidden data-civi-question="5e32503bf37d8527" data-kind="examen" data-screen="EXAM_CR_V04_Q03"></span>
+<span hidden data-civi-question="bbef12f7259be2dd" data-kind="examen" data-screen="EXAM_CR_V04_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44266,7 +44266,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q04
-<span hidden data-civi-question="a984863e7e4057bb" data-kind="examen" data-screen="EXAM_CR_V04_Q04"></span>
+<span hidden data-civi-question="109490e724b88af0" data-kind="examen" data-screen="EXAM_CR_V04_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44325,7 +44325,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q05
-<span hidden data-civi-question="c8e0b081b24a1c33" data-kind="examen" data-screen="EXAM_CR_V04_Q05"></span>
+<span hidden data-civi-question="af08278fddfa7574" data-kind="examen" data-screen="EXAM_CR_V04_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44384,7 +44384,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q06
-<span hidden data-civi-question="fcf4d74bf871c2c0" data-kind="examen" data-screen="EXAM_CR_V04_Q06"></span>
+<span hidden data-civi-question="66a7d0214108b61f" data-kind="examen" data-screen="EXAM_CR_V04_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44443,7 +44443,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q07
-<span hidden data-civi-question="38d48a542e23413a" data-kind="examen" data-screen="EXAM_CR_V04_Q07"></span>
+<span hidden data-civi-question="dc1ee7e024123b86" data-kind="examen" data-screen="EXAM_CR_V04_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44502,7 +44502,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q08
-<span hidden data-civi-question="ddecaa7a326293a9" data-kind="examen" data-screen="EXAM_CR_V04_Q08"></span>
+<span hidden data-civi-question="7271ef42e83d50ca" data-kind="examen" data-screen="EXAM_CR_V04_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44561,7 +44561,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q09
-<span hidden data-civi-question="4ca6cd0ae93d06b8" data-kind="examen" data-screen="EXAM_CR_V04_Q09"></span>
+<span hidden data-civi-question="682690df69cf510d" data-kind="examen" data-screen="EXAM_CR_V04_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44620,7 +44620,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q10
-<span hidden data-civi-question="3cd83fab7fbadead" data-kind="examen" data-screen="EXAM_CR_V04_Q10"></span>
+<span hidden data-civi-question="d9f99e2ee967b5eb" data-kind="examen" data-screen="EXAM_CR_V04_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44679,7 +44679,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q11
-<span hidden data-civi-question="2fe4524a7ec9419c" data-kind="examen" data-screen="EXAM_CR_V04_Q11"></span>
+<span hidden data-civi-question="638b5ad8c7282845" data-kind="examen" data-screen="EXAM_CR_V04_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44738,7 +44738,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q12
-<span hidden data-civi-question="ef84f1aafcf6a388" data-kind="examen" data-screen="EXAM_CR_V04_Q12"></span>
+<span hidden data-civi-question="98438d8225784c41" data-kind="examen" data-screen="EXAM_CR_V04_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44797,7 +44797,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q13
-<span hidden data-civi-question="1fa990d41c91cd07" data-kind="examen" data-screen="EXAM_CR_V04_Q13"></span>
+<span hidden data-civi-question="91cb8fcf42dde191" data-kind="examen" data-screen="EXAM_CR_V04_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44856,7 +44856,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q14
-<span hidden data-civi-question="668b4cb716a43534" data-kind="examen" data-screen="EXAM_CR_V04_Q14"></span>
+<span hidden data-civi-question="ac0ae4884ee4b6a5" data-kind="examen" data-screen="EXAM_CR_V04_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44915,7 +44915,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q15
-<span hidden data-civi-question="de9e3cea97037964" data-kind="examen" data-screen="EXAM_CR_V04_Q15"></span>
+<span hidden data-civi-question="a365dd245842b18d" data-kind="examen" data-screen="EXAM_CR_V04_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -44974,7 +44974,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q16
-<span hidden data-civi-question="106bfa1e34c63d0c" data-kind="examen" data-screen="EXAM_CR_V04_Q16"></span>
+<span hidden data-civi-question="aca529c61522911e" data-kind="examen" data-screen="EXAM_CR_V04_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45033,7 +45033,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q17
-<span hidden data-civi-question="dbf18d131d60aa77" data-kind="examen" data-screen="EXAM_CR_V04_Q17"></span>
+<span hidden data-civi-question="81a58c8ea9bb921d" data-kind="examen" data-screen="EXAM_CR_V04_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45092,7 +45092,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q18
-<span hidden data-civi-question="358c055b7f8cad4e" data-kind="examen" data-screen="EXAM_CR_V04_Q18"></span>
+<span hidden data-civi-question="12beafafebe7ef42" data-kind="examen" data-screen="EXAM_CR_V04_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45151,7 +45151,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q19
-<span hidden data-civi-question="d1e117f9699af34a" data-kind="examen" data-screen="EXAM_CR_V04_Q19"></span>
+<span hidden data-civi-question="a2d3a57c0257a5e9" data-kind="examen" data-screen="EXAM_CR_V04_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45210,7 +45210,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q20
-<span hidden data-civi-question="82688c5cd7a369e3" data-kind="examen" data-screen="EXAM_CR_V04_Q20"></span>
+<span hidden data-civi-question="49bfd4efe31c2563" data-kind="examen" data-screen="EXAM_CR_V04_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45269,7 +45269,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q21
-<span hidden data-civi-question="6669895e34e2eeb3" data-kind="examen" data-screen="EXAM_CR_V04_Q21"></span>
+<span hidden data-civi-question="e1ac2643c0cc16fb" data-kind="examen" data-screen="EXAM_CR_V04_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45328,7 +45328,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q22
-<span hidden data-civi-question="e57974ad4ba38f04" data-kind="examen" data-screen="EXAM_CR_V04_Q22"></span>
+<span hidden data-civi-question="54edd113e9ea35bd" data-kind="examen" data-screen="EXAM_CR_V04_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45387,7 +45387,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q23
-<span hidden data-civi-question="437827ef5a46c497" data-kind="examen" data-screen="EXAM_CR_V04_Q23"></span>
+<span hidden data-civi-question="c9bbc1a6b4e300f9" data-kind="examen" data-screen="EXAM_CR_V04_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45446,7 +45446,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q24
-<span hidden data-civi-question="766614edc9319984" data-kind="examen" data-screen="EXAM_CR_V04_Q24"></span>
+<span hidden data-civi-question="c987ac5a20048679" data-kind="examen" data-screen="EXAM_CR_V04_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45505,7 +45505,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q25
-<span hidden data-civi-question="40093c6a3130ce36" data-kind="examen" data-screen="EXAM_CR_V04_Q25"></span>
+<span hidden data-civi-question="0276cb4fd16d8df2" data-kind="examen" data-screen="EXAM_CR_V04_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45564,7 +45564,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q26
-<span hidden data-civi-question="c107f8374deeda05" data-kind="examen" data-screen="EXAM_CR_V04_Q26"></span>
+<span hidden data-civi-question="451853c6e8179c98" data-kind="examen" data-screen="EXAM_CR_V04_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45623,7 +45623,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q27
-<span hidden data-civi-question="57227ab0216835f9" data-kind="examen" data-screen="EXAM_CR_V04_Q27"></span>
+<span hidden data-civi-question="f99a193f927699d8" data-kind="examen" data-screen="EXAM_CR_V04_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45682,7 +45682,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q28
-<span hidden data-civi-question="6fa218a089296a4e" data-kind="examen" data-screen="EXAM_CR_V04_Q28"></span>
+<span hidden data-civi-question="88618d25d2ffb264" data-kind="examen" data-screen="EXAM_CR_V04_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45753,7 +45753,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q29
-<span hidden data-civi-question="f28010db2801349b" data-kind="examen" data-screen="EXAM_CR_V04_Q29"></span>
+<span hidden data-civi-question="461cf6223cd5d2bc" data-kind="examen" data-screen="EXAM_CR_V04_Q29"></span>
 `@exam_variant = 4`
 
 
@@ -45815,7 +45815,7 @@ Un ami planifie un déplacement en famille et vous demande à quel moment de l'a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q30
-<span hidden data-civi-question="2004ca14efcc81bf" data-kind="examen" data-screen="EXAM_CR_V04_Q30"></span>
+<span hidden data-civi-question="2479c37006857492" data-kind="examen" data-screen="EXAM_CR_V04_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45874,7 +45874,7 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q31
-<span hidden data-civi-question="553a9956da8d2402" data-kind="examen" data-screen="EXAM_CR_V04_Q31"></span>
+<span hidden data-civi-question="b210493f42c80230" data-kind="examen" data-screen="EXAM_CR_V04_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45933,7 +45933,7 @@ Un ami pense que les femmes ont obtenu le droit de travailler en 1944, sans conn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q32
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V04_Q32"></span>
+<span hidden data-civi-question="e5fff9ef6cbdf157" data-kind="examen" data-screen="EXAM_CR_V04_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -45992,7 +45992,7 @@ Votre grand-mère, hospitalisée le jour d'une élection, vous demande si elle p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q33
-<span hidden data-civi-question="8624088583579207" data-kind="examen" data-screen="EXAM_CR_V04_Q33"></span>
+<span hidden data-civi-question="52866017bb901ab9" data-kind="examen" data-screen="EXAM_CR_V04_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46051,7 +46051,7 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q34
-<span hidden data-civi-question="c0449313ace55d8a" data-kind="examen" data-screen="EXAM_CR_V04_Q34"></span>
+<span hidden data-civi-question="32215efcba5504f4" data-kind="examen" data-screen="EXAM_CR_V04_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46110,7 +46110,7 @@ Un salarié craint que son employeur puisse consulter les informations transmise
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q35
-<span hidden data-civi-question="00a2ac11f0f97688" data-kind="examen" data-screen="EXAM_CR_V04_Q35"></span>
+<span hidden data-civi-question="1dd84115913facfa" data-kind="examen" data-screen="EXAM_CR_V04_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46169,7 +46169,7 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q36
-<span hidden data-civi-question="1d482a9375971faa" data-kind="examen" data-screen="EXAM_CR_V04_Q36"></span>
+<span hidden data-civi-question="925b90a651c1cec9" data-kind="examen" data-screen="EXAM_CR_V04_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46228,7 +46228,7 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q37
-<span hidden data-civi-question="f2a12fee84fcb4e8" data-kind="examen" data-screen="EXAM_CR_V04_Q37"></span>
+<span hidden data-civi-question="bfd71074204d140b" data-kind="examen" data-screen="EXAM_CR_V04_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46287,7 +46287,7 @@ Un touriste souhaite visiter un grand musée parisien qui abrite notamment la Jo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q38
-<span hidden data-civi-question="13f127c314086ea3" data-kind="examen" data-screen="EXAM_CR_V04_Q38"></span>
+<span hidden data-civi-question="24070028bcbd87b8" data-kind="examen" data-screen="EXAM_CR_V04_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46346,7 +46346,7 @@ Lors d'un débat, quelqu'un affirme que le président de la République ne pourr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q39
-<span hidden data-civi-question="4025c8055494b60d" data-kind="examen" data-screen="EXAM_CR_V04_Q39"></span>
+<span hidden data-civi-question="56b39ea13ccb8389" data-kind="examen" data-screen="EXAM_CR_V04_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -46405,7 +46405,7 @@ Lors d'une visite du Panthéon, le guide évoque une figure majeure de la Résis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V04_Q40
-<span hidden data-civi-question="4fa7cd21d97c3cb2" data-kind="examen" data-screen="EXAM_CR_V04_Q40"></span>
+<span hidden data-civi-question="e40697504f9b8267" data-kind="examen" data-screen="EXAM_CR_V04_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47471,7 +47471,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q01
-<span hidden data-civi-question="0a79dbfd38d22880" data-kind="examen" data-screen="EXAM_CR_V05_Q01"></span>
+<span hidden data-civi-question="0f13764f980ed6bf" data-kind="examen" data-screen="EXAM_CR_V05_Q01"></span>
 `@exam_variant = 5`
 
 
@@ -47533,7 +47533,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q02
-<span hidden data-civi-question="3aa51ff36f778ebd" data-kind="examen" data-screen="EXAM_CR_V05_Q02"></span>
+<span hidden data-civi-question="171081a879c39475" data-kind="examen" data-screen="EXAM_CR_V05_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47592,7 +47592,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q03
-<span hidden data-civi-question="3aef9bc38555d0ac" data-kind="examen" data-screen="EXAM_CR_V05_Q03"></span>
+<span hidden data-civi-question="e86bbd29a381abea" data-kind="examen" data-screen="EXAM_CR_V05_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47651,7 +47651,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q04
-<span hidden data-civi-question="0dfaf7b46b9d3c6e" data-kind="examen" data-screen="EXAM_CR_V05_Q04"></span>
+<span hidden data-civi-question="96c6bb205f1926cf" data-kind="examen" data-screen="EXAM_CR_V05_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47710,7 +47710,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q05
-<span hidden data-civi-question="94e57bd94f9585c4" data-kind="examen" data-screen="EXAM_CR_V05_Q05"></span>
+<span hidden data-civi-question="086866f1243d6c32" data-kind="examen" data-screen="EXAM_CR_V05_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47769,7 +47769,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q06
-<span hidden data-civi-question="3ff03f96b18ec5ff" data-kind="examen" data-screen="EXAM_CR_V05_Q06"></span>
+<span hidden data-civi-question="7fd6a2d5be355d0b" data-kind="examen" data-screen="EXAM_CR_V05_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47828,7 +47828,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q07
-<span hidden data-civi-question="fa856938d1380a9b" data-kind="examen" data-screen="EXAM_CR_V05_Q07"></span>
+<span hidden data-civi-question="46461ce82d73ea1f" data-kind="examen" data-screen="EXAM_CR_V05_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47887,7 +47887,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q08
-<span hidden data-civi-question="c661b854fe720f39" data-kind="examen" data-screen="EXAM_CR_V05_Q08"></span>
+<span hidden data-civi-question="2181c74fb9ba5e2d" data-kind="examen" data-screen="EXAM_CR_V05_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -47946,7 +47946,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q09
-<span hidden data-civi-question="2932d37c9d5c6a89" data-kind="examen" data-screen="EXAM_CR_V05_Q09"></span>
+<span hidden data-civi-question="cc6db72b114b9af2" data-kind="examen" data-screen="EXAM_CR_V05_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48005,7 +48005,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q10
-<span hidden data-civi-question="1d82d560d6eff6a5" data-kind="examen" data-screen="EXAM_CR_V05_Q10"></span>
+<span hidden data-civi-question="f803348dcfa05c63" data-kind="examen" data-screen="EXAM_CR_V05_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48064,7 +48064,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q11
-<span hidden data-civi-question="5364579fec48edbf" data-kind="examen" data-screen="EXAM_CR_V05_Q11"></span>
+<span hidden data-civi-question="c7f2134028a8aa5b" data-kind="examen" data-screen="EXAM_CR_V05_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48123,7 +48123,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q12
-<span hidden data-civi-question="c82f8d39b9f0e284" data-kind="examen" data-screen="EXAM_CR_V05_Q12"></span>
+<span hidden data-civi-question="336cc0da49385c56" data-kind="examen" data-screen="EXAM_CR_V05_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48182,7 +48182,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q13
-<span hidden data-civi-question="0030fade9edd3212" data-kind="examen" data-screen="EXAM_CR_V05_Q13"></span>
+<span hidden data-civi-question="6bf412874473b181" data-kind="examen" data-screen="EXAM_CR_V05_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48241,7 +48241,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q14
-<span hidden data-civi-question="567478d7619e22ba" data-kind="examen" data-screen="EXAM_CR_V05_Q14"></span>
+<span hidden data-civi-question="21a559937dc73cf9" data-kind="examen" data-screen="EXAM_CR_V05_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48300,7 +48300,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q15
-<span hidden data-civi-question="5ff4b10345bfbee1" data-kind="examen" data-screen="EXAM_CR_V05_Q15"></span>
+<span hidden data-civi-question="e3e2b301f86041a7" data-kind="examen" data-screen="EXAM_CR_V05_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48359,7 +48359,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q16
-<span hidden data-civi-question="86956ca57623c653" data-kind="examen" data-screen="EXAM_CR_V05_Q16"></span>
+<span hidden data-civi-question="3466a9639437bdce" data-kind="examen" data-screen="EXAM_CR_V05_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48418,7 +48418,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q17
-<span hidden data-civi-question="c26958bd0932009a" data-kind="examen" data-screen="EXAM_CR_V05_Q17"></span>
+<span hidden data-civi-question="2929dd69f7731bee" data-kind="examen" data-screen="EXAM_CR_V05_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48477,7 +48477,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q18
-<span hidden data-civi-question="ada6f48ecb330fa5" data-kind="examen" data-screen="EXAM_CR_V05_Q18"></span>
+<span hidden data-civi-question="3a33b7e963e53068" data-kind="examen" data-screen="EXAM_CR_V05_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48536,7 +48536,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q19
-<span hidden data-civi-question="dcfaa3a014164e5d" data-kind="examen" data-screen="EXAM_CR_V05_Q19"></span>
+<span hidden data-civi-question="a5340b320af3ab56" data-kind="examen" data-screen="EXAM_CR_V05_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48595,7 +48595,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q20
-<span hidden data-civi-question="ffdcb14d324ffda7" data-kind="examen" data-screen="EXAM_CR_V05_Q20"></span>
+<span hidden data-civi-question="c61aee994c68ec08" data-kind="examen" data-screen="EXAM_CR_V05_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48654,7 +48654,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q21
-<span hidden data-civi-question="0a7e673bba2742c6" data-kind="examen" data-screen="EXAM_CR_V05_Q21"></span>
+<span hidden data-civi-question="1b2f8c0028c42ac1" data-kind="examen" data-screen="EXAM_CR_V05_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48713,7 +48713,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q22
-<span hidden data-civi-question="57e0873e7b4fa2d4" data-kind="examen" data-screen="EXAM_CR_V05_Q22"></span>
+<span hidden data-civi-question="bb95feaf18d40541" data-kind="examen" data-screen="EXAM_CR_V05_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48772,7 +48772,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q23
-<span hidden data-civi-question="17856679f6882e54" data-kind="examen" data-screen="EXAM_CR_V05_Q23"></span>
+<span hidden data-civi-question="220a82d990eec120" data-kind="examen" data-screen="EXAM_CR_V05_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48831,7 +48831,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q24
-<span hidden data-civi-question="216b0c513d5a80bd" data-kind="examen" data-screen="EXAM_CR_V05_Q24"></span>
+<span hidden data-civi-question="2409b807bcd15091" data-kind="examen" data-screen="EXAM_CR_V05_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48890,7 +48890,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q25
-<span hidden data-civi-question="b21135f4902a011e" data-kind="examen" data-screen="EXAM_CR_V05_Q25"></span>
+<span hidden data-civi-question="934191f9ac07315b" data-kind="examen" data-screen="EXAM_CR_V05_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -48949,7 +48949,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q26
-<span hidden data-civi-question="9bac609c6c1c7eb4" data-kind="examen" data-screen="EXAM_CR_V05_Q26"></span>
+<span hidden data-civi-question="93e21fca7f260b98" data-kind="examen" data-screen="EXAM_CR_V05_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49008,7 +49008,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q27
-<span hidden data-civi-question="4ff8c313a23c0949" data-kind="examen" data-screen="EXAM_CR_V05_Q27"></span>
+<span hidden data-civi-question="fa6bc5de226d34d0" data-kind="examen" data-screen="EXAM_CR_V05_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49067,7 +49067,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q28
-<span hidden data-civi-question="d075f70e94259e5d" data-kind="examen" data-screen="EXAM_CR_V05_Q28"></span>
+<span hidden data-civi-question="511bcf9b8aacad2e" data-kind="examen" data-screen="EXAM_CR_V05_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49138,7 +49138,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q29
-<span hidden data-civi-question="9f079f7cab2e16c0" data-kind="examen" data-screen="EXAM_CR_V05_Q29"></span>
+<span hidden data-civi-question="6d7d53f80f932c67" data-kind="examen" data-screen="EXAM_CR_V05_Q29"></span>
 `@exam_variant = 5`
 
 
@@ -49200,7 +49200,7 @@ Un couple en instance de divorce se demande lequel des deux parents conservera l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q30
-<span hidden data-civi-question="ecdb6da526f6b838" data-kind="examen" data-screen="EXAM_CR_V05_Q30"></span>
+<span hidden data-civi-question="62774f3196d38abe" data-kind="examen" data-screen="EXAM_CR_V05_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49259,7 +49259,7 @@ Un ami confond plusieurs présidents français et vous demande sous le mandat de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q31
-<span hidden data-civi-question="3402f34dfe5048b3" data-kind="examen" data-screen="EXAM_CR_V05_Q31"></span>
+<span hidden data-civi-question="3b6852ed1d5ec9c4" data-kind="examen" data-screen="EXAM_CR_V05_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49318,7 +49318,7 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q32
-<span hidden data-civi-question="2f1000bd7e4b856d" data-kind="examen" data-screen="EXAM_CR_V05_Q32"></span>
+<span hidden data-civi-question="4b264f6f01ecb41e" data-kind="examen" data-screen="EXAM_CR_V05_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49377,7 +49377,7 @@ Lors d'un débat sur la francophonie, on vous demande environ combien de personn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q33
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V05_Q33"></span>
+<span hidden data-civi-question="76d1961709a48850" data-kind="examen" data-screen="EXAM_CR_V05_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49436,7 +49436,7 @@ Un ami, citoyen d'un autre pays de l'Union européenne résidant en France, vous
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q34
-<span hidden data-civi-question="c8e0b081b24a1c33" data-kind="examen" data-screen="EXAM_CR_V05_Q34"></span>
+<span hidden data-civi-question="0ff9b2acef67728c" data-kind="examen" data-screen="EXAM_CR_V05_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49495,7 +49495,7 @@ Un ami récemment au chômage ne sait pas exactement à quoi sert l'organisme Fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q35
-<span hidden data-civi-question="1c8e64bd13b9a387" data-kind="examen" data-screen="EXAM_CR_V05_Q35"></span>
+<span hidden data-civi-question="96125b72aa57d48d" data-kind="examen" data-screen="EXAM_CR_V05_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49554,7 +49554,7 @@ Lors d'un quiz de préparation, on vous demande combien de députés siègent à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q36
-<span hidden data-civi-question="8624088583579207" data-kind="examen" data-screen="EXAM_CR_V05_Q36"></span>
+<span hidden data-civi-question="2169839bbdc5a74e" data-kind="examen" data-screen="EXAM_CR_V05_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49613,7 +49613,7 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q37
-<span hidden data-civi-question="3f08520c6c92a183" data-kind="examen" data-screen="EXAM_CR_V05_Q37"></span>
+<span hidden data-civi-question="691eeaa9d86e55a4" data-kind="examen" data-screen="EXAM_CR_V05_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49672,7 +49672,7 @@ Un ami pense que le nombre d'étoiles sur le drapeau européen correspond au nom
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q38
-<span hidden data-civi-question="25d1c8bd0314a1aa" data-kind="examen" data-screen="EXAM_CR_V05_Q38"></span>
+<span hidden data-civi-question="19d33fb24da54a62" data-kind="examen" data-screen="EXAM_CR_V05_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49731,7 +49731,7 @@ Un chef d'entreprise vous confie qu'il préfère ne pas embaucher de femmes dans
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q39
-<span hidden data-civi-question="592990995bbbc9f7" data-kind="examen" data-screen="EXAM_CR_V05_Q39"></span>
+<span hidden data-civi-question="d5623b919aee6948" data-kind="examen" data-screen="EXAM_CR_V05_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -49790,7 +49790,7 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V05_Q40
-<span hidden data-civi-question="927defe18a38f8df" data-kind="examen" data-screen="EXAM_CR_V05_Q40"></span>
+<span hidden data-civi-question="e094db72bba1e1fe" data-kind="examen" data-screen="EXAM_CR_V05_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -50848,7 +50848,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q01
-<span hidden data-civi-question="4310073263298dc4" data-kind="examen" data-screen="EXAM_CR_V06_Q01"></span>
+<span hidden data-civi-question="75212d4fb7ade4ae" data-kind="examen" data-screen="EXAM_CR_V06_Q01"></span>
 `@exam_variant = 6`
 
 
@@ -50910,7 +50910,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q02
-<span hidden data-civi-question="e1a95c5b949eda5e" data-kind="examen" data-screen="EXAM_CR_V06_Q02"></span>
+<span hidden data-civi-question="51b0f7c84739fbf1" data-kind="examen" data-screen="EXAM_CR_V06_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -50969,7 +50969,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q03
-<span hidden data-civi-question="279858d40857f48a" data-kind="examen" data-screen="EXAM_CR_V06_Q03"></span>
+<span hidden data-civi-question="b273c705d95c0d78" data-kind="examen" data-screen="EXAM_CR_V06_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51028,7 +51028,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q04
-<span hidden data-civi-question="fea3cfa2157e279c" data-kind="examen" data-screen="EXAM_CR_V06_Q04"></span>
+<span hidden data-civi-question="1bbb540587d083ea" data-kind="examen" data-screen="EXAM_CR_V06_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51087,7 +51087,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q05
-<span hidden data-civi-question="3b257abcc8f04253" data-kind="examen" data-screen="EXAM_CR_V06_Q05"></span>
+<span hidden data-civi-question="71ab8fa510a7cd33" data-kind="examen" data-screen="EXAM_CR_V06_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51146,7 +51146,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q06
-<span hidden data-civi-question="2dcbbdba2ae1d230" data-kind="examen" data-screen="EXAM_CR_V06_Q06"></span>
+<span hidden data-civi-question="33a2bac7b7773428" data-kind="examen" data-screen="EXAM_CR_V06_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51205,7 +51205,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q07
-<span hidden data-civi-question="1197102a7368fbfe" data-kind="examen" data-screen="EXAM_CR_V06_Q07"></span>
+<span hidden data-civi-question="552895c2a60f1e6b" data-kind="examen" data-screen="EXAM_CR_V06_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51264,7 +51264,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q08
-<span hidden data-civi-question="109c32dbf8c6d54d" data-kind="examen" data-screen="EXAM_CR_V06_Q08"></span>
+<span hidden data-civi-question="50b26c4d9737f17e" data-kind="examen" data-screen="EXAM_CR_V06_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51323,7 +51323,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q09
-<span hidden data-civi-question="bd73d0985eaa5f79" data-kind="examen" data-screen="EXAM_CR_V06_Q09"></span>
+<span hidden data-civi-question="338e341cebfa3621" data-kind="examen" data-screen="EXAM_CR_V06_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51382,7 +51382,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q10
-<span hidden data-civi-question="a20a66cb8436cee1" data-kind="examen" data-screen="EXAM_CR_V06_Q10"></span>
+<span hidden data-civi-question="3a1839612a11e2f4" data-kind="examen" data-screen="EXAM_CR_V06_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51441,7 +51441,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q11
-<span hidden data-civi-question="28db0210506c4648" data-kind="examen" data-screen="EXAM_CR_V06_Q11"></span>
+<span hidden data-civi-question="b4f162c2140174c7" data-kind="examen" data-screen="EXAM_CR_V06_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51500,7 +51500,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q12
-<span hidden data-civi-question="cf71b7004adad7bf" data-kind="examen" data-screen="EXAM_CR_V06_Q12"></span>
+<span hidden data-civi-question="5d1ac59112cef84e" data-kind="examen" data-screen="EXAM_CR_V06_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51559,7 +51559,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q13
-<span hidden data-civi-question="4c90849e2ca56fd7" data-kind="examen" data-screen="EXAM_CR_V06_Q13"></span>
+<span hidden data-civi-question="a48cb5878a66fc1b" data-kind="examen" data-screen="EXAM_CR_V06_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51618,7 +51618,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q14
-<span hidden data-civi-question="9dd83dc52de19f7f" data-kind="examen" data-screen="EXAM_CR_V06_Q14"></span>
+<span hidden data-civi-question="4ce405c557b588f6" data-kind="examen" data-screen="EXAM_CR_V06_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51677,7 +51677,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q15
-<span hidden data-civi-question="c6fb3e90a58e6050" data-kind="examen" data-screen="EXAM_CR_V06_Q15"></span>
+<span hidden data-civi-question="3596ad46c6bef361" data-kind="examen" data-screen="EXAM_CR_V06_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51736,7 +51736,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q16
-<span hidden data-civi-question="349f415085434a7e" data-kind="examen" data-screen="EXAM_CR_V06_Q16"></span>
+<span hidden data-civi-question="721d5a5fefd19635" data-kind="examen" data-screen="EXAM_CR_V06_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51795,7 +51795,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q17
-<span hidden data-civi-question="34b3be250183f14c" data-kind="examen" data-screen="EXAM_CR_V06_Q17"></span>
+<span hidden data-civi-question="0d366a7f28bf9b2f" data-kind="examen" data-screen="EXAM_CR_V06_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51854,7 +51854,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q18
-<span hidden data-civi-question="82a50a2e75e1ab90" data-kind="examen" data-screen="EXAM_CR_V06_Q18"></span>
+<span hidden data-civi-question="b00f3eba96838447" data-kind="examen" data-screen="EXAM_CR_V06_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51913,7 +51913,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q19
-<span hidden data-civi-question="d9eed5c7815f53b1" data-kind="examen" data-screen="EXAM_CR_V06_Q19"></span>
+<span hidden data-civi-question="a8f5dee907045eba" data-kind="examen" data-screen="EXAM_CR_V06_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -51972,7 +51972,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q20
-<span hidden data-civi-question="c3f81835928f37ee" data-kind="examen" data-screen="EXAM_CR_V06_Q20"></span>
+<span hidden data-civi-question="cfdbd6b9998de7e5" data-kind="examen" data-screen="EXAM_CR_V06_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52031,7 +52031,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q21
-<span hidden data-civi-question="d8979c1d13bbb6a6" data-kind="examen" data-screen="EXAM_CR_V06_Q21"></span>
+<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="examen" data-screen="EXAM_CR_V06_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52090,7 +52090,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q22
-<span hidden data-civi-question="f0e5bc1d216c30c8" data-kind="examen" data-screen="EXAM_CR_V06_Q22"></span>
+<span hidden data-civi-question="2255e517e6178f45" data-kind="examen" data-screen="EXAM_CR_V06_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52149,7 +52149,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q23
-<span hidden data-civi-question="6ed6a69868054df4" data-kind="examen" data-screen="EXAM_CR_V06_Q23"></span>
+<span hidden data-civi-question="710f01fc97ebec98" data-kind="examen" data-screen="EXAM_CR_V06_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52208,7 +52208,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q24
-<span hidden data-civi-question="6040ae2e8a5db95b" data-kind="examen" data-screen="EXAM_CR_V06_Q24"></span>
+<span hidden data-civi-question="9f2355c134e25aba" data-kind="examen" data-screen="EXAM_CR_V06_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52267,7 +52267,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q25
-<span hidden data-civi-question="787688213b8e05f7" data-kind="examen" data-screen="EXAM_CR_V06_Q25"></span>
+<span hidden data-civi-question="1c3929e224286daa" data-kind="examen" data-screen="EXAM_CR_V06_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52326,7 +52326,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q26
-<span hidden data-civi-question="97e529cf513b4d30" data-kind="examen" data-screen="EXAM_CR_V06_Q26"></span>
+<span hidden data-civi-question="d97c17dbcd4317ef" data-kind="examen" data-screen="EXAM_CR_V06_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52385,7 +52385,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q27
-<span hidden data-civi-question="2629f09d44362005" data-kind="examen" data-screen="EXAM_CR_V06_Q27"></span>
+<span hidden data-civi-question="90cf278f9c248584" data-kind="examen" data-screen="EXAM_CR_V06_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52444,7 +52444,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q28
-<span hidden data-civi-question="e5f85d296a9c7155" data-kind="examen" data-screen="EXAM_CR_V06_Q28"></span>
+<span hidden data-civi-question="ad6b1f129c835809" data-kind="examen" data-screen="EXAM_CR_V06_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52515,7 +52515,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q29
-<span hidden data-civi-question="ef35c821a29c67c1" data-kind="examen" data-screen="EXAM_CR_V06_Q29"></span>
+<span hidden data-civi-question="040a43ff66094627" data-kind="examen" data-screen="EXAM_CR_V06_Q29"></span>
 `@exam_variant = 6`
 
 
@@ -52577,7 +52577,7 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q30
-<span hidden data-civi-question="44ccc8608497b4bd" data-kind="examen" data-screen="EXAM_CR_V06_Q30"></span>
+<span hidden data-civi-question="2c9400fd030687a2" data-kind="examen" data-screen="EXAM_CR_V06_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52636,7 +52636,7 @@ Lors d'un rassemblement public, un ami se demande quelles autorités sont charg�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q31
-<span hidden data-civi-question="a7359f18af7e32d8" data-kind="examen" data-screen="EXAM_CR_V06_Q31"></span>
+<span hidden data-civi-question="da14a2e72fa89dd9" data-kind="examen" data-screen="EXAM_CR_V06_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52695,7 +52695,7 @@ Lors d'un quiz de préparation, on vous demande la population approximative de l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q32
-<span hidden data-civi-question="f21e124193f34ff2" data-kind="examen" data-screen="EXAM_CR_V06_Q32"></span>
+<span hidden data-civi-question="5c2f57b2f74ab356" data-kind="examen" data-screen="EXAM_CR_V06_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52754,7 +52754,7 @@ Un salarié est en conflit avec son employeur au sujet de son licenciement et se
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q33
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V06_Q33"></span>
+<span hidden data-civi-question="06b2f6367650be58" data-kind="examen" data-screen="EXAM_CR_V06_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52813,7 +52813,7 @@ Un ami vous demande à quelle fréquence il pourra voter pour désigner les dép
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q34
-<span hidden data-civi-question="2106dfcc75a61adf" data-kind="examen" data-screen="EXAM_CR_V06_Q34"></span>
+<span hidden data-civi-question="8adfa61f9440b6c8" data-kind="examen" data-screen="EXAM_CR_V06_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52872,7 +52872,7 @@ Un usager demande à être reçu avant tout le monde au guichet de la mairie, en
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q35
-<span hidden data-civi-question="a6ff8e33d99b6ec3" data-kind="examen" data-screen="EXAM_CR_V06_Q35"></span>
+<span hidden data-civi-question="99541a845f1a1999" data-kind="examen" data-screen="EXAM_CR_V06_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52931,7 +52931,7 @@ Lors d'un jeu de géographie, on vous demande de citer une ville française qui 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q36
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V06_Q36"></span>
+<span hidden data-civi-question="78cfa7482c7e2cd8" data-kind="examen" data-screen="EXAM_CR_V06_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -52990,7 +52990,7 @@ Un candidat à l'examen civique confond les rôles du président et du Premier m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q37
-<span hidden data-civi-question="46f3a673f6fec077" data-kind="examen" data-screen="EXAM_CR_V06_Q37"></span>
+<span hidden data-civi-question="5b7314a5960dea04" data-kind="examen" data-screen="EXAM_CR_V06_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -53049,7 +53049,7 @@ Un ami pense qu'il peut choisir librement de ne jamais s'inscrire à l'Assurance
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q38
-<span hidden data-civi-question="927defe18a38f8df" data-kind="examen" data-screen="EXAM_CR_V06_Q38"></span>
+<span hidden data-civi-question="5f00b02eafeea516" data-kind="examen" data-screen="EXAM_CR_V06_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -53108,7 +53108,7 @@ Un ami confond plusieurs fêtes internationales et vous demande laquelle de ces 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q39
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V06_Q39"></span>
+<span hidden data-civi-question="59460cae93f5d8d2" data-kind="examen" data-screen="EXAM_CR_V06_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -53167,7 +53167,7 @@ Un collègue pense que les lois françaises sont avant tout la volonté personne
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q40
-<span hidden data-civi-question="970282d6f78ce92e" data-kind="examen" data-screen="EXAM_CR_V06_Q40"></span>
+<span hidden data-civi-question="e7ce2d8bd872417f" data-kind="examen" data-screen="EXAM_CR_V06_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54241,7 +54241,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q01
-<span hidden data-civi-question="9cc80902b0b3329c" data-kind="examen" data-screen="EXAM_CR_V07_Q01"></span>
+<span hidden data-civi-question="3dd8b7b54eb9600a" data-kind="examen" data-screen="EXAM_CR_V07_Q01"></span>
 `@exam_variant = 7`
 
 
@@ -54303,7 +54303,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q02
-<span hidden data-civi-question="adf357c1e1f7efa8" data-kind="examen" data-screen="EXAM_CR_V07_Q02"></span>
+<span hidden data-civi-question="fda8976608ffd6e5" data-kind="examen" data-screen="EXAM_CR_V07_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54362,7 +54362,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q03
-<span hidden data-civi-question="d3174e545b51d5d8" data-kind="examen" data-screen="EXAM_CR_V07_Q03"></span>
+<span hidden data-civi-question="6547ad4adc66ec29" data-kind="examen" data-screen="EXAM_CR_V07_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54421,7 +54421,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q04
-<span hidden data-civi-question="ea98be4022fc82c4" data-kind="examen" data-screen="EXAM_CR_V07_Q04"></span>
+<span hidden data-civi-question="1c042450421b2c1f" data-kind="examen" data-screen="EXAM_CR_V07_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54480,7 +54480,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q05
-<span hidden data-civi-question="5e19bec0a3de5426" data-kind="examen" data-screen="EXAM_CR_V07_Q05"></span>
+<span hidden data-civi-question="50b0df01d6ba1a84" data-kind="examen" data-screen="EXAM_CR_V07_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54539,7 +54539,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q06
-<span hidden data-civi-question="142682e5e6df6f15" data-kind="examen" data-screen="EXAM_CR_V07_Q06"></span>
+<span hidden data-civi-question="73b2fe818d4d2cda" data-kind="examen" data-screen="EXAM_CR_V07_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54598,7 +54598,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q07
-<span hidden data-civi-question="111c4757ce184bbe" data-kind="examen" data-screen="EXAM_CR_V07_Q07"></span>
+<span hidden data-civi-question="790e3b4a22d8a6fc" data-kind="examen" data-screen="EXAM_CR_V07_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54657,7 +54657,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q08
-<span hidden data-civi-question="96b8bd5b5dfd8af4" data-kind="examen" data-screen="EXAM_CR_V07_Q08"></span>
+<span hidden data-civi-question="aba8d1cf837aa323" data-kind="examen" data-screen="EXAM_CR_V07_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54716,7 +54716,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q09
-<span hidden data-civi-question="3b5dfad04625b03a" data-kind="examen" data-screen="EXAM_CR_V07_Q09"></span>
+<span hidden data-civi-question="7911c0d206b0b751" data-kind="examen" data-screen="EXAM_CR_V07_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54775,7 +54775,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q10
-<span hidden data-civi-question="2e1e4c6f6527b14a" data-kind="examen" data-screen="EXAM_CR_V07_Q10"></span>
+<span hidden data-civi-question="9b94640ec4486eaa" data-kind="examen" data-screen="EXAM_CR_V07_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54834,7 +54834,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q11
-<span hidden data-civi-question="4ba30f9cea7a0fa6" data-kind="examen" data-screen="EXAM_CR_V07_Q11"></span>
+<span hidden data-civi-question="334fe0f5d4cdd80a" data-kind="examen" data-screen="EXAM_CR_V07_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54893,7 +54893,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q12
-<span hidden data-civi-question="d951ae1efef3a6c6" data-kind="examen" data-screen="EXAM_CR_V07_Q12"></span>
+<span hidden data-civi-question="81cf1a1df37aad00" data-kind="examen" data-screen="EXAM_CR_V07_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -54952,7 +54952,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q13
-<span hidden data-civi-question="af5e75a7c496c5a0" data-kind="examen" data-screen="EXAM_CR_V07_Q13"></span>
+<span hidden data-civi-question="1449d55eacbe19d5" data-kind="examen" data-screen="EXAM_CR_V07_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55011,7 +55011,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q14
-<span hidden data-civi-question="ec6a2a02f8c377c5" data-kind="examen" data-screen="EXAM_CR_V07_Q14"></span>
+<span hidden data-civi-question="589c337e82c41548" data-kind="examen" data-screen="EXAM_CR_V07_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55070,7 +55070,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q15
-<span hidden data-civi-question="27cbd357c91b8c39" data-kind="examen" data-screen="EXAM_CR_V07_Q15"></span>
+<span hidden data-civi-question="ce94ca916fb160c8" data-kind="examen" data-screen="EXAM_CR_V07_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55129,7 +55129,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q16
-<span hidden data-civi-question="b4a833ba9b715a63" data-kind="examen" data-screen="EXAM_CR_V07_Q16"></span>
+<span hidden data-civi-question="6899829899e41cd6" data-kind="examen" data-screen="EXAM_CR_V07_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55188,7 +55188,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q17
-<span hidden data-civi-question="9f129763c0c00228" data-kind="examen" data-screen="EXAM_CR_V07_Q17"></span>
+<span hidden data-civi-question="e5274ca1174c6fc4" data-kind="examen" data-screen="EXAM_CR_V07_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55247,7 +55247,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q18
-<span hidden data-civi-question="87741faf8ad6622b" data-kind="examen" data-screen="EXAM_CR_V07_Q18"></span>
+<span hidden data-civi-question="40ea366b8da3ab2c" data-kind="examen" data-screen="EXAM_CR_V07_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55306,7 +55306,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q19
-<span hidden data-civi-question="76d79f4541910860" data-kind="examen" data-screen="EXAM_CR_V07_Q19"></span>
+<span hidden data-civi-question="d48e5254566248b2" data-kind="examen" data-screen="EXAM_CR_V07_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55365,7 +55365,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q20
-<span hidden data-civi-question="0c2d8d03f21ae35c" data-kind="examen" data-screen="EXAM_CR_V07_Q20"></span>
+<span hidden data-civi-question="bfe069ab2dc9d5a7" data-kind="examen" data-screen="EXAM_CR_V07_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55424,7 +55424,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q21
-<span hidden data-civi-question="67f77ea41bd8c67d" data-kind="examen" data-screen="EXAM_CR_V07_Q21"></span>
+<span hidden data-civi-question="60a54ecda4b0b993" data-kind="examen" data-screen="EXAM_CR_V07_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55483,7 +55483,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q22
-<span hidden data-civi-question="7af22c7b1197f5f8" data-kind="examen" data-screen="EXAM_CR_V07_Q22"></span>
+<span hidden data-civi-question="f77884e1db992aa3" data-kind="examen" data-screen="EXAM_CR_V07_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55542,7 +55542,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q23
-<span hidden data-civi-question="72332b0ca484ea38" data-kind="examen" data-screen="EXAM_CR_V07_Q23"></span>
+<span hidden data-civi-question="0c94937d7a940e98" data-kind="examen" data-screen="EXAM_CR_V07_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55601,7 +55601,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q24
-<span hidden data-civi-question="c43966953be90552" data-kind="examen" data-screen="EXAM_CR_V07_Q24"></span>
+<span hidden data-civi-question="ce79ce4c68d5f3b6" data-kind="examen" data-screen="EXAM_CR_V07_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55660,7 +55660,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q25
-<span hidden data-civi-question="4e31c3940c9f19a2" data-kind="examen" data-screen="EXAM_CR_V07_Q25"></span>
+<span hidden data-civi-question="9280e90e3a84c1e5" data-kind="examen" data-screen="EXAM_CR_V07_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55719,7 +55719,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q26
-<span hidden data-civi-question="74cbc1d81b417bd1" data-kind="examen" data-screen="EXAM_CR_V07_Q26"></span>
+<span hidden data-civi-question="e8c7a1fc641522b0" data-kind="examen" data-screen="EXAM_CR_V07_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55778,7 +55778,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q27
-<span hidden data-civi-question="4455dec10b883cbb" data-kind="examen" data-screen="EXAM_CR_V07_Q27"></span>
+<span hidden data-civi-question="782aa0fe98f8c08c" data-kind="examen" data-screen="EXAM_CR_V07_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55837,7 +55837,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q28
-<span hidden data-civi-question="5359313f787c068d" data-kind="examen" data-screen="EXAM_CR_V07_Q28"></span>
+<span hidden data-civi-question="fb14886c7a08711a" data-kind="examen" data-screen="EXAM_CR_V07_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -55908,7 +55908,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q29
-<span hidden data-civi-question="a04e77dcf5d0e801" data-kind="examen" data-screen="EXAM_CR_V07_Q29"></span>
+<span hidden data-civi-question="2806fbe382f707dd" data-kind="examen" data-screen="EXAM_CR_V07_Q29"></span>
 `@exam_variant = 7`
 
 
@@ -55970,7 +55970,7 @@ Un ami vous demande quel continent a été le plus concerné par la décolonisat
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q30
-<span hidden data-civi-question="c9b405656bde7816" data-kind="examen" data-screen="EXAM_CR_V07_Q30"></span>
+<span hidden data-civi-question="bb817d282ed975fa" data-kind="examen" data-screen="EXAM_CR_V07_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56029,7 +56029,7 @@ Un couple avec un jeune enfant se demande lequel des deux parents peut demander 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q31
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V07_Q31"></span>
+<span hidden data-civi-question="df48b3568af13a98" data-kind="examen" data-screen="EXAM_CR_V07_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56088,7 +56088,7 @@ Un ami, victime d'un vol, pense que c'est la police qui décidera de la sanction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q32
-<span hidden data-civi-question="de0fad380b4c4fb0" data-kind="examen" data-screen="EXAM_CR_V07_Q32"></span>
+<span hidden data-civi-question="8235aedfa7e15e10" data-kind="examen" data-screen="EXAM_CR_V07_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56147,7 +56147,7 @@ Lors d'une visite du château de Versailles, le guide évoque le roi qui a fait 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q33
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V07_Q33"></span>
+<span hidden data-civi-question="7a62dfa1d3c7531e" data-kind="examen" data-screen="EXAM_CR_V07_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56206,7 +56206,7 @@ Un ami pense que le président de la République peut modifier les lois seul, sa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q34
-<span hidden data-civi-question="f9592f9788680e1e" data-kind="examen" data-screen="EXAM_CR_V07_Q34"></span>
+<span hidden data-civi-question="d58feda7d47c9b8d" data-kind="examen" data-screen="EXAM_CR_V07_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56265,7 +56265,7 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q35
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CR_V07_Q35"></span>
+<span hidden data-civi-question="c5f9147a8a97aec9" data-kind="examen" data-screen="EXAM_CR_V07_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56324,7 +56324,7 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q36
-<span hidden data-civi-question="bd3c098035c3952e" data-kind="examen" data-screen="EXAM_CR_V07_Q36"></span>
+<span hidden data-civi-question="1adf90b6b3b7489d" data-kind="examen" data-screen="EXAM_CR_V07_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56383,7 +56383,7 @@ Lors d'une cérémonie citoyenne, vous devez entonner le tout premier vers de l'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q37
-<span hidden data-civi-question="d16fcd14a0e3a126" data-kind="examen" data-screen="EXAM_CR_V07_Q37"></span>
+<span hidden data-civi-question="db405f6e0abd7f70" data-kind="examen" data-screen="EXAM_CR_V07_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56442,7 +56442,7 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q38
-<span hidden data-civi-question="46187c0eb7aae756" data-kind="examen" data-screen="EXAM_CR_V07_Q38"></span>
+<span hidden data-civi-question="e59f432eec39033c" data-kind="examen" data-screen="EXAM_CR_V07_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56501,7 +56501,7 @@ Un ami envisage de prendre le tunnel sous la mer qui sépare la France de l'Angl
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q39
-<span hidden data-civi-question="e55df8aa2157afd8" data-kind="examen" data-screen="EXAM_CR_V07_Q39"></span>
+<span hidden data-civi-question="8c4c70d092bbd3cc" data-kind="examen" data-screen="EXAM_CR_V07_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -56560,7 +56560,7 @@ Lors d'une visite à Paris, un ami confond l'Hôtel de Matignon avec la résiden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V07_Q40
-<span hidden data-civi-question="22b4e40f73180bb4" data-kind="examen" data-screen="EXAM_CR_V07_Q40"></span>
+<span hidden data-civi-question="e6733d8ee37e4e72" data-kind="examen" data-screen="EXAM_CR_V07_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -57586,7 +57586,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q01
-<span hidden data-civi-question="5380adca93a40149" data-kind="examen" data-screen="EXAM_CR_V08_Q01"></span>
+<span hidden data-civi-question="70523c0630c073ef" data-kind="examen" data-screen="EXAM_CR_V08_Q01"></span>
 `@exam_variant = 8`
 
 
@@ -57648,7 +57648,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q02
-<span hidden data-civi-question="574f5f1dc7d976c7" data-kind="examen" data-screen="EXAM_CR_V08_Q02"></span>
+<span hidden data-civi-question="e20f8306448a2ff5" data-kind="examen" data-screen="EXAM_CR_V08_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -57707,7 +57707,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q03
-<span hidden data-civi-question="b256df1b8845b8e8" data-kind="examen" data-screen="EXAM_CR_V08_Q03"></span>
+<span hidden data-civi-question="8ad6791712b8da8b" data-kind="examen" data-screen="EXAM_CR_V08_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -57766,7 +57766,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q04
-<span hidden data-civi-question="4b40bf07728a46bb" data-kind="examen" data-screen="EXAM_CR_V08_Q04"></span>
+<span hidden data-civi-question="d1e0a071ee992eb4" data-kind="examen" data-screen="EXAM_CR_V08_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -57825,7 +57825,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q05
-<span hidden data-civi-question="314c06200bede412" data-kind="examen" data-screen="EXAM_CR_V08_Q05"></span>
+<span hidden data-civi-question="af61af79bf729caf" data-kind="examen" data-screen="EXAM_CR_V08_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -57884,7 +57884,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q06
-<span hidden data-civi-question="71d27a263abc5033" data-kind="examen" data-screen="EXAM_CR_V08_Q06"></span>
+<span hidden data-civi-question="fdd272691078a38b" data-kind="examen" data-screen="EXAM_CR_V08_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -57943,7 +57943,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q07
-<span hidden data-civi-question="6de4747d70fffeed" data-kind="examen" data-screen="EXAM_CR_V08_Q07"></span>
+<span hidden data-civi-question="71b34f8290a64546" data-kind="examen" data-screen="EXAM_CR_V08_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58002,7 +58002,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q08
-<span hidden data-civi-question="135f977699625a7b" data-kind="examen" data-screen="EXAM_CR_V08_Q08"></span>
+<span hidden data-civi-question="41c7c912e8e9377f" data-kind="examen" data-screen="EXAM_CR_V08_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58061,7 +58061,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q09
-<span hidden data-civi-question="2e07465fbc752192" data-kind="examen" data-screen="EXAM_CR_V08_Q09"></span>
+<span hidden data-civi-question="9f7a349406419086" data-kind="examen" data-screen="EXAM_CR_V08_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58120,7 +58120,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q10
-<span hidden data-civi-question="fa5e8f2fc776938e" data-kind="examen" data-screen="EXAM_CR_V08_Q10"></span>
+<span hidden data-civi-question="198a606469aca58d" data-kind="examen" data-screen="EXAM_CR_V08_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58179,7 +58179,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q11
-<span hidden data-civi-question="dc4dff9e095010fa" data-kind="examen" data-screen="EXAM_CR_V08_Q11"></span>
+<span hidden data-civi-question="b2d8975891c398f0" data-kind="examen" data-screen="EXAM_CR_V08_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58238,7 +58238,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q12
-<span hidden data-civi-question="a970f59b1e4217dd" data-kind="examen" data-screen="EXAM_CR_V08_Q12"></span>
+<span hidden data-civi-question="f004a94ab24b832c" data-kind="examen" data-screen="EXAM_CR_V08_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58297,7 +58297,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q13
-<span hidden data-civi-question="4b06a7438dfc64d5" data-kind="examen" data-screen="EXAM_CR_V08_Q13"></span>
+<span hidden data-civi-question="d1191234bc427d7b" data-kind="examen" data-screen="EXAM_CR_V08_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58356,7 +58356,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q14
-<span hidden data-civi-question="d3d80e6cd22f7e26" data-kind="examen" data-screen="EXAM_CR_V08_Q14"></span>
+<span hidden data-civi-question="0eda60e9d0a3ca6a" data-kind="examen" data-screen="EXAM_CR_V08_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58415,7 +58415,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q15
-<span hidden data-civi-question="3246183ca10caa8d" data-kind="examen" data-screen="EXAM_CR_V08_Q15"></span>
+<span hidden data-civi-question="d76b50f21c0bc836" data-kind="examen" data-screen="EXAM_CR_V08_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58474,7 +58474,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q16
-<span hidden data-civi-question="19320836cc452b9f" data-kind="examen" data-screen="EXAM_CR_V08_Q16"></span>
+<span hidden data-civi-question="555269e0063d511c" data-kind="examen" data-screen="EXAM_CR_V08_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58533,7 +58533,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q17
-<span hidden data-civi-question="3b996a774bc550ad" data-kind="examen" data-screen="EXAM_CR_V08_Q17"></span>
+<span hidden data-civi-question="e24ee26d26296c2e" data-kind="examen" data-screen="EXAM_CR_V08_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58592,7 +58592,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q18
-<span hidden data-civi-question="1bc4bd16067384fd" data-kind="examen" data-screen="EXAM_CR_V08_Q18"></span>
+<span hidden data-civi-question="7ce3036054a636b3" data-kind="examen" data-screen="EXAM_CR_V08_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58651,7 +58651,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q19
-<span hidden data-civi-question="9ffd75d381eb9359" data-kind="examen" data-screen="EXAM_CR_V08_Q19"></span>
+<span hidden data-civi-question="f207445fd6931098" data-kind="examen" data-screen="EXAM_CR_V08_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58710,7 +58710,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q20
-<span hidden data-civi-question="717c8f4b44e9ec02" data-kind="examen" data-screen="EXAM_CR_V08_Q20"></span>
+<span hidden data-civi-question="ed88361a42437032" data-kind="examen" data-screen="EXAM_CR_V08_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58769,7 +58769,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q21
-<span hidden data-civi-question="46313866767b5c84" data-kind="examen" data-screen="EXAM_CR_V08_Q21"></span>
+<span hidden data-civi-question="c58e39c604473c61" data-kind="examen" data-screen="EXAM_CR_V08_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58828,7 +58828,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q22
-<span hidden data-civi-question="c89ae69dfda20967" data-kind="examen" data-screen="EXAM_CR_V08_Q22"></span>
+<span hidden data-civi-question="c1c5823b778672b8" data-kind="examen" data-screen="EXAM_CR_V08_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58887,7 +58887,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q23
-<span hidden data-civi-question="c5ef27e62bda0d8b" data-kind="examen" data-screen="EXAM_CR_V08_Q23"></span>
+<span hidden data-civi-question="12541f4e4eb9ef29" data-kind="examen" data-screen="EXAM_CR_V08_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -58946,7 +58946,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q24
-<span hidden data-civi-question="1d7e0c2f8ef7aba3" data-kind="examen" data-screen="EXAM_CR_V08_Q24"></span>
+<span hidden data-civi-question="3d0b74ad47c749fc" data-kind="examen" data-screen="EXAM_CR_V08_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59005,7 +59005,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q25
-<span hidden data-civi-question="4f273a4e760f80a0" data-kind="examen" data-screen="EXAM_CR_V08_Q25"></span>
+<span hidden data-civi-question="40001a519ef9a9a0" data-kind="examen" data-screen="EXAM_CR_V08_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59064,7 +59064,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q26
-<span hidden data-civi-question="065bebeb62ef6c67" data-kind="examen" data-screen="EXAM_CR_V08_Q26"></span>
+<span hidden data-civi-question="d87cf339a953b6bd" data-kind="examen" data-screen="EXAM_CR_V08_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59123,7 +59123,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q27
-<span hidden data-civi-question="da3319e83b50cf7b" data-kind="examen" data-screen="EXAM_CR_V08_Q27"></span>
+<span hidden data-civi-question="03ed3a9f481bf9dd" data-kind="examen" data-screen="EXAM_CR_V08_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59182,7 +59182,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q28
-<span hidden data-civi-question="8472a4a97925f5fd" data-kind="examen" data-screen="EXAM_CR_V08_Q28"></span>
+<span hidden data-civi-question="628778163996af16" data-kind="examen" data-screen="EXAM_CR_V08_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59253,7 +59253,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q29
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CR_V08_Q29"></span>
+<span hidden data-civi-question="ef2467f673223e77" data-kind="examen" data-screen="EXAM_CR_V08_Q29"></span>
 `@exam_variant = 8`
 
 
@@ -59315,7 +59315,7 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q30
-<span hidden data-civi-question="5c5475e34dbe7860" data-kind="examen" data-screen="EXAM_CR_V08_Q30"></span>
+<span hidden data-civi-question="2be0bf3be82e4a26" data-kind="examen" data-screen="EXAM_CR_V08_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59374,7 +59374,7 @@ Lors d'un cours d'histoire, on vous demande de citer un pays qui a été colonis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q31
-<span hidden data-civi-question="ebcc8ca5190eee88" data-kind="examen" data-screen="EXAM_CR_V08_Q31"></span>
+<span hidden data-civi-question="aba545a3e8de7bd1" data-kind="examen" data-screen="EXAM_CR_V08_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59433,7 +59433,7 @@ Lors d'une formation, on vous demande de définir ce qu'est le pouvoir législat
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q32
-<span hidden data-civi-question="7f27af07a19a5fc3" data-kind="examen" data-screen="EXAM_CR_V08_Q32"></span>
+<span hidden data-civi-question="49a623eb2cdd9eb7" data-kind="examen" data-screen="EXAM_CR_V08_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59492,7 +59492,7 @@ Lors d'un cours sur la construction européenne, on vous demande de citer la tou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q33
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V08_Q33"></span>
+<span hidden data-civi-question="4cd350a618da862b" data-kind="examen" data-screen="EXAM_CR_V08_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59551,7 +59551,7 @@ Une amie originaire d'un pays fédéral pense que la France est organisée en «
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q34
-<span hidden data-civi-question="ab05ee79edc0e9ae" data-kind="examen" data-screen="EXAM_CR_V08_Q34"></span>
+<span hidden data-civi-question="98026f591dc649bc" data-kind="examen" data-screen="EXAM_CR_V08_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59610,7 +59610,7 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q35
-<span hidden data-civi-question="fbf517f4297a025c" data-kind="examen" data-screen="EXAM_CR_V08_Q35"></span>
+<span hidden data-civi-question="2cafc9b9220ad51a" data-kind="examen" data-screen="EXAM_CR_V08_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59669,7 +59669,7 @@ Une jeune femme célibataire et sans enfant se demande si elle peut avoir accès
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q36
-<span hidden data-civi-question="3e143eecb6e9af1f" data-kind="examen" data-screen="EXAM_CR_V08_Q36"></span>
+<span hidden data-civi-question="bc53368e1f4f16e0" data-kind="examen" data-screen="EXAM_CR_V08_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59728,7 +59728,7 @@ Vous êtes témoin d'un cambriolage en cours dans votre immeuble et devez appele
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q37
-<span hidden data-civi-question="8624088583579207" data-kind="examen" data-screen="EXAM_CR_V08_Q37"></span>
+<span hidden data-civi-question="b9dd133666b7b6db" data-kind="examen" data-screen="EXAM_CR_V08_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59787,7 +59787,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q38
-<span hidden data-civi-question="17ebefb23c28f385" data-kind="examen" data-screen="EXAM_CR_V08_Q38"></span>
+<span hidden data-civi-question="596477e93b73c765" data-kind="examen" data-screen="EXAM_CR_V08_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59846,7 +59846,7 @@ Un touriste étranger vous demande quel monument parisien, construit pour l'Expo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q39
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V08_Q39"></span>
+<span hidden data-civi-question="1c330924e65ae6bd" data-kind="examen" data-screen="EXAM_CR_V08_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -59905,7 +59905,7 @@ Un touriste étranger vous demande quel est le régime politique actuel de la Fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V08_Q40
-<span hidden data-civi-question="7729f8743f8b57d0" data-kind="examen" data-screen="EXAM_CR_V08_Q40"></span>
+<span hidden data-civi-question="4e596ea62bba8fbd" data-kind="examen" data-screen="EXAM_CR_V08_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -60963,7 +60963,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q01
-<span hidden data-civi-question="af0668cc9fef9f49" data-kind="examen" data-screen="EXAM_CR_V09_Q01"></span>
+<span hidden data-civi-question="3681a4717cec3ff3" data-kind="examen" data-screen="EXAM_CR_V09_Q01"></span>
 `@exam_variant = 9`
 
 
@@ -61025,7 +61025,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q02
-<span hidden data-civi-question="1ceba8bb54a04743" data-kind="examen" data-screen="EXAM_CR_V09_Q02"></span>
+<span hidden data-civi-question="ea80c56eeb35b498" data-kind="examen" data-screen="EXAM_CR_V09_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61084,7 +61084,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q03
-<span hidden data-civi-question="f886ed3d8fc36f1f" data-kind="examen" data-screen="EXAM_CR_V09_Q03"></span>
+<span hidden data-civi-question="f97d096968411698" data-kind="examen" data-screen="EXAM_CR_V09_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61143,7 +61143,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q04
-<span hidden data-civi-question="28ec153e53da343f" data-kind="examen" data-screen="EXAM_CR_V09_Q04"></span>
+<span hidden data-civi-question="85799d7305cae7db" data-kind="examen" data-screen="EXAM_CR_V09_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61202,7 +61202,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q05
-<span hidden data-civi-question="9822a336067ae719" data-kind="examen" data-screen="EXAM_CR_V09_Q05"></span>
+<span hidden data-civi-question="518320512841572e" data-kind="examen" data-screen="EXAM_CR_V09_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61261,7 +61261,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q06
-<span hidden data-civi-question="386e92bed75b6407" data-kind="examen" data-screen="EXAM_CR_V09_Q06"></span>
+<span hidden data-civi-question="a2dfd1b60660a712" data-kind="examen" data-screen="EXAM_CR_V09_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61320,7 +61320,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q07
-<span hidden data-civi-question="89afbdfb468a86b1" data-kind="examen" data-screen="EXAM_CR_V09_Q07"></span>
+<span hidden data-civi-question="654c58a63508d34d" data-kind="examen" data-screen="EXAM_CR_V09_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61379,7 +61379,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q08
-<span hidden data-civi-question="732a529b9015bebb" data-kind="examen" data-screen="EXAM_CR_V09_Q08"></span>
+<span hidden data-civi-question="dc6383618c8a42b6" data-kind="examen" data-screen="EXAM_CR_V09_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61438,7 +61438,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q09
-<span hidden data-civi-question="f29a2cef1112d77a" data-kind="examen" data-screen="EXAM_CR_V09_Q09"></span>
+<span hidden data-civi-question="6285feea7e76d8ca" data-kind="examen" data-screen="EXAM_CR_V09_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61497,7 +61497,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q10
-<span hidden data-civi-question="bdd6b7fb7e06ef03" data-kind="examen" data-screen="EXAM_CR_V09_Q10"></span>
+<span hidden data-civi-question="7237af16d53890e4" data-kind="examen" data-screen="EXAM_CR_V09_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61556,7 +61556,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q11
-<span hidden data-civi-question="f53c221d3dca3d2e" data-kind="examen" data-screen="EXAM_CR_V09_Q11"></span>
+<span hidden data-civi-question="e3ab57e84975b0d3" data-kind="examen" data-screen="EXAM_CR_V09_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61615,7 +61615,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q12
-<span hidden data-civi-question="0d361e42a898d372" data-kind="examen" data-screen="EXAM_CR_V09_Q12"></span>
+<span hidden data-civi-question="a45ecd0f2b1ccf25" data-kind="examen" data-screen="EXAM_CR_V09_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61674,7 +61674,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q13
-<span hidden data-civi-question="a807de2d39fb1ffd" data-kind="examen" data-screen="EXAM_CR_V09_Q13"></span>
+<span hidden data-civi-question="daa93db05ce06aa3" data-kind="examen" data-screen="EXAM_CR_V09_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61733,7 +61733,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q14
-<span hidden data-civi-question="c0128d3846a6c6c2" data-kind="examen" data-screen="EXAM_CR_V09_Q14"></span>
+<span hidden data-civi-question="c97ba5920f014221" data-kind="examen" data-screen="EXAM_CR_V09_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61792,7 +61792,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q15
-<span hidden data-civi-question="e57974ad4ba38f04" data-kind="examen" data-screen="EXAM_CR_V09_Q15"></span>
+<span hidden data-civi-question="54edd113e9ea35bd" data-kind="examen" data-screen="EXAM_CR_V09_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61851,7 +61851,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q16
-<span hidden data-civi-question="437827ef5a46c497" data-kind="examen" data-screen="EXAM_CR_V09_Q16"></span>
+<span hidden data-civi-question="c9bbc1a6b4e300f9" data-kind="examen" data-screen="EXAM_CR_V09_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61910,7 +61910,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q17
-<span hidden data-civi-question="766614edc9319984" data-kind="examen" data-screen="EXAM_CR_V09_Q17"></span>
+<span hidden data-civi-question="c987ac5a20048679" data-kind="examen" data-screen="EXAM_CR_V09_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -61969,7 +61969,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q18
-<span hidden data-civi-question="40093c6a3130ce36" data-kind="examen" data-screen="EXAM_CR_V09_Q18"></span>
+<span hidden data-civi-question="0276cb4fd16d8df2" data-kind="examen" data-screen="EXAM_CR_V09_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62028,7 +62028,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q19
-<span hidden data-civi-question="c107f8374deeda05" data-kind="examen" data-screen="EXAM_CR_V09_Q19"></span>
+<span hidden data-civi-question="451853c6e8179c98" data-kind="examen" data-screen="EXAM_CR_V09_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62087,7 +62087,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q20
-<span hidden data-civi-question="57227ab0216835f9" data-kind="examen" data-screen="EXAM_CR_V09_Q20"></span>
+<span hidden data-civi-question="f99a193f927699d8" data-kind="examen" data-screen="EXAM_CR_V09_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62146,7 +62146,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q21
-<span hidden data-civi-question="6fa218a089296a4e" data-kind="examen" data-screen="EXAM_CR_V09_Q21"></span>
+<span hidden data-civi-question="88618d25d2ffb264" data-kind="examen" data-screen="EXAM_CR_V09_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62205,7 +62205,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q22
-<span hidden data-civi-question="0daabd9dd1f1b6ac" data-kind="examen" data-screen="EXAM_CR_V09_Q22"></span>
+<span hidden data-civi-question="f91d95b0096f3f6b" data-kind="examen" data-screen="EXAM_CR_V09_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62264,7 +62264,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q23
-<span hidden data-civi-question="06544d6b810038ad" data-kind="examen" data-screen="EXAM_CR_V09_Q23"></span>
+<span hidden data-civi-question="71e96a0d34d31b28" data-kind="examen" data-screen="EXAM_CR_V09_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62323,7 +62323,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q24
-<span hidden data-civi-question="b62f3e3e8d74656b" data-kind="examen" data-screen="EXAM_CR_V09_Q24"></span>
+<span hidden data-civi-question="7508600cffcfb87f" data-kind="examen" data-screen="EXAM_CR_V09_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62382,7 +62382,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q25
-<span hidden data-civi-question="f3dc9f38e25ea9ed" data-kind="examen" data-screen="EXAM_CR_V09_Q25"></span>
+<span hidden data-civi-question="b8c97ecd264a03a6" data-kind="examen" data-screen="EXAM_CR_V09_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62441,7 +62441,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q26
-<span hidden data-civi-question="b10feab57d525d93" data-kind="examen" data-screen="EXAM_CR_V09_Q26"></span>
+<span hidden data-civi-question="a7be757965b07c7c" data-kind="examen" data-screen="EXAM_CR_V09_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62500,7 +62500,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q27
-<span hidden data-civi-question="63a7f8858a5bede0" data-kind="examen" data-screen="EXAM_CR_V09_Q27"></span>
+<span hidden data-civi-question="244507b9c162122c" data-kind="examen" data-screen="EXAM_CR_V09_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62559,7 +62559,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q28
-<span hidden data-civi-question="864575f2cfe4d91c" data-kind="examen" data-screen="EXAM_CR_V09_Q28"></span>
+<span hidden data-civi-question="9175870730cb8279" data-kind="examen" data-screen="EXAM_CR_V09_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62630,7 +62630,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q29
-<span hidden data-civi-question="7bda367ace76b83e" data-kind="examen" data-screen="EXAM_CR_V09_Q29"></span>
+<span hidden data-civi-question="1d07e0b6bfbc64c3" data-kind="examen" data-screen="EXAM_CR_V09_Q29"></span>
 `@exam_variant = 9`
 
 
@@ -62692,7 +62692,7 @@ Lors d'un quiz sur l'organisation territoriale, on vous demande combien de régi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q30
-<span hidden data-civi-question="c6fb3e90a58e6050" data-kind="examen" data-screen="EXAM_CR_V09_Q30"></span>
+<span hidden data-civi-question="eba9a380faf66fc7" data-kind="examen" data-screen="EXAM_CR_V09_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62751,7 +62751,7 @@ Un ami pense que le président de la République a toujours été élu directeme
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q31
-<span hidden data-civi-question="75f20e07a533a085" data-kind="examen" data-screen="EXAM_CR_V09_Q31"></span>
+<span hidden data-civi-question="56c9079039609227" data-kind="examen" data-screen="EXAM_CR_V09_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62810,7 +62810,7 @@ Votre lave-vaisselle est définitivement cassé et vous vous demandez où le dé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q32
-<span hidden data-civi-question="187e34dce7656273" data-kind="examen" data-screen="EXAM_CR_V09_Q32"></span>
+<span hidden data-civi-question="747823043250495f" data-kind="examen" data-screen="EXAM_CR_V09_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62869,7 +62869,7 @@ Un parent d'élève confond plusieurs diplômes et vous demande comment s'appell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q33
-<span hidden data-civi-question="c1fde3761c11e407" data-kind="examen" data-screen="EXAM_CR_V09_Q33"></span>
+<span hidden data-civi-question="0e14850be5d1c0e9" data-kind="examen" data-screen="EXAM_CR_V09_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62928,7 +62928,7 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q34
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V09_Q34"></span>
+<span hidden data-civi-question="29350c67b99c547b" data-kind="examen" data-screen="EXAM_CR_V09_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -62987,7 +62987,7 @@ Un ami refuse de s'inscrire sur les listes électorales, pensant qu'il sera sanc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q35
-<span hidden data-civi-question="0dac589f244db1df" data-kind="examen" data-screen="EXAM_CR_V09_Q35"></span>
+<span hidden data-civi-question="9b3703daa72272ed" data-kind="examen" data-screen="EXAM_CR_V09_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -63046,7 +63046,7 @@ Un ami confond plusieurs traités européens et vous demande lequel a officielle
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q36
-<span hidden data-civi-question="043fd1f24baf4aed" data-kind="examen" data-screen="EXAM_CR_V09_Q36"></span>
+<span hidden data-civi-question="e27a20da89a6b310" data-kind="examen" data-screen="EXAM_CR_V09_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -63105,7 +63105,7 @@ Lors d'un club de lecture, on vous demande de citer une écrivaine française c�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q37
-<span hidden data-civi-question="694245a5f5390933" data-kind="examen" data-screen="EXAM_CR_V09_Q37"></span>
+<span hidden data-civi-question="f1c0e5db57bbbe5e" data-kind="examen" data-screen="EXAM_CR_V09_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -63164,7 +63164,7 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q38
-<span hidden data-civi-question="d5b316e6e39f46cb" data-kind="examen" data-screen="EXAM_CR_V09_Q38"></span>
+<span hidden data-civi-question="9b86f2ba7e458054" data-kind="examen" data-screen="EXAM_CR_V09_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -63223,7 +63223,7 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q39
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CR_V09_Q39"></span>
+<span hidden data-civi-question="62c42ca828621df0" data-kind="examen" data-screen="EXAM_CR_V09_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -63282,7 +63282,7 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V09_Q40
-<span hidden data-civi-question="4c90849e2ca56fd7" data-kind="examen" data-screen="EXAM_CR_V09_Q40"></span>
+<span hidden data-civi-question="ef568904f23a5bea" data-kind="examen" data-screen="EXAM_CR_V09_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64364,7 +64364,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q01
-<span hidden data-civi-question="425568421e933034" data-kind="examen" data-screen="EXAM_CR_V10_Q01"></span>
+<span hidden data-civi-question="e1bee54a996802fd" data-kind="examen" data-screen="EXAM_CR_V10_Q01"></span>
 `@exam_variant = 10`
 
 
@@ -64426,7 +64426,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q02
-<span hidden data-civi-question="721bb101f378adfe" data-kind="examen" data-screen="EXAM_CR_V10_Q02"></span>
+<span hidden data-civi-question="7d5236d03b9c47bc" data-kind="examen" data-screen="EXAM_CR_V10_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64485,7 +64485,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q03
-<span hidden data-civi-question="6e8ba2156611b8ad" data-kind="examen" data-screen="EXAM_CR_V10_Q03"></span>
+<span hidden data-civi-question="cb4ab5eebb39b574" data-kind="examen" data-screen="EXAM_CR_V10_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64544,7 +64544,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q04
-<span hidden data-civi-question="44ccc8608497b4bd" data-kind="examen" data-screen="EXAM_CR_V10_Q04"></span>
+<span hidden data-civi-question="32a7b823faef4311" data-kind="examen" data-screen="EXAM_CR_V10_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64603,7 +64603,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q05
-<span hidden data-civi-question="33999d14c175a6f5" data-kind="examen" data-screen="EXAM_CR_V10_Q05"></span>
+<span hidden data-civi-question="ee19a694df8917f5" data-kind="examen" data-screen="EXAM_CR_V10_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64662,7 +64662,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q06
-<span hidden data-civi-question="e525660f18bb7ba7" data-kind="examen" data-screen="EXAM_CR_V10_Q06"></span>
+<span hidden data-civi-question="79de142664a95d87" data-kind="examen" data-screen="EXAM_CR_V10_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64721,7 +64721,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q07
-<span hidden data-civi-question="f9e8016b9a5f8613" data-kind="examen" data-screen="EXAM_CR_V10_Q07"></span>
+<span hidden data-civi-question="dfefc0aca441e794" data-kind="examen" data-screen="EXAM_CR_V10_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64780,7 +64780,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q08
-<span hidden data-civi-question="5ff4b10345bfbee1" data-kind="examen" data-screen="EXAM_CR_V10_Q08"></span>
+<span hidden data-civi-question="e3e2b301f86041a7" data-kind="examen" data-screen="EXAM_CR_V10_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64839,7 +64839,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q09
-<span hidden data-civi-question="86956ca57623c653" data-kind="examen" data-screen="EXAM_CR_V10_Q09"></span>
+<span hidden data-civi-question="3466a9639437bdce" data-kind="examen" data-screen="EXAM_CR_V10_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64898,7 +64898,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q10
-<span hidden data-civi-question="c26958bd0932009a" data-kind="examen" data-screen="EXAM_CR_V10_Q10"></span>
+<span hidden data-civi-question="2929dd69f7731bee" data-kind="examen" data-screen="EXAM_CR_V10_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -64957,7 +64957,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q11
-<span hidden data-civi-question="ada6f48ecb330fa5" data-kind="examen" data-screen="EXAM_CR_V10_Q11"></span>
+<span hidden data-civi-question="3a33b7e963e53068" data-kind="examen" data-screen="EXAM_CR_V10_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65016,7 +65016,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q12
-<span hidden data-civi-question="dcfaa3a014164e5d" data-kind="examen" data-screen="EXAM_CR_V10_Q12"></span>
+<span hidden data-civi-question="a5340b320af3ab56" data-kind="examen" data-screen="EXAM_CR_V10_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65075,7 +65075,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q13
-<span hidden data-civi-question="ffdcb14d324ffda7" data-kind="examen" data-screen="EXAM_CR_V10_Q13"></span>
+<span hidden data-civi-question="c61aee994c68ec08" data-kind="examen" data-screen="EXAM_CR_V10_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65134,7 +65134,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q14
-<span hidden data-civi-question="0a7e673bba2742c6" data-kind="examen" data-screen="EXAM_CR_V10_Q14"></span>
+<span hidden data-civi-question="1b2f8c0028c42ac1" data-kind="examen" data-screen="EXAM_CR_V10_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65193,7 +65193,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q15
-<span hidden data-civi-question="57e0873e7b4fa2d4" data-kind="examen" data-screen="EXAM_CR_V10_Q15"></span>
+<span hidden data-civi-question="bb95feaf18d40541" data-kind="examen" data-screen="EXAM_CR_V10_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65252,7 +65252,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q16
-<span hidden data-civi-question="17856679f6882e54" data-kind="examen" data-screen="EXAM_CR_V10_Q16"></span>
+<span hidden data-civi-question="220a82d990eec120" data-kind="examen" data-screen="EXAM_CR_V10_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65311,7 +65311,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q17
-<span hidden data-civi-question="c1d2b56077218f49" data-kind="examen" data-screen="EXAM_CR_V10_Q17"></span>
+<span hidden data-civi-question="9e4f2a61bf3f499b" data-kind="examen" data-screen="EXAM_CR_V10_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65370,7 +65370,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q18
-<span hidden data-civi-question="c4621ede3bc76460" data-kind="examen" data-screen="EXAM_CR_V10_Q18"></span>
+<span hidden data-civi-question="26a5420e2d0cbd5d" data-kind="examen" data-screen="EXAM_CR_V10_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65429,7 +65429,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q19
-<span hidden data-civi-question="5e32503bf37d8527" data-kind="examen" data-screen="EXAM_CR_V10_Q19"></span>
+<span hidden data-civi-question="bbef12f7259be2dd" data-kind="examen" data-screen="EXAM_CR_V10_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65488,7 +65488,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q20
-<span hidden data-civi-question="a984863e7e4057bb" data-kind="examen" data-screen="EXAM_CR_V10_Q20"></span>
+<span hidden data-civi-question="109490e724b88af0" data-kind="examen" data-screen="EXAM_CR_V10_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65547,7 +65547,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q21
-<span hidden data-civi-question="c8e0b081b24a1c33" data-kind="examen" data-screen="EXAM_CR_V10_Q21"></span>
+<span hidden data-civi-question="af08278fddfa7574" data-kind="examen" data-screen="EXAM_CR_V10_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65606,7 +65606,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q22
-<span hidden data-civi-question="faffb387d07f4533" data-kind="examen" data-screen="EXAM_CR_V10_Q22"></span>
+<span hidden data-civi-question="4774de3eef78130c" data-kind="examen" data-screen="EXAM_CR_V10_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65665,7 +65665,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q23
-<span hidden data-civi-question="da71c9d077439cea" data-kind="examen" data-screen="EXAM_CR_V10_Q23"></span>
+<span hidden data-civi-question="4865ef3aed65b01d" data-kind="examen" data-screen="EXAM_CR_V10_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65724,7 +65724,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q24
-<span hidden data-civi-question="56c8b038c74625ca" data-kind="examen" data-screen="EXAM_CR_V10_Q24"></span>
+<span hidden data-civi-question="ab35a7b945efc8b3" data-kind="examen" data-screen="EXAM_CR_V10_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65783,7 +65783,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q25
-<span hidden data-civi-question="8ec94326bc84ad21" data-kind="examen" data-screen="EXAM_CR_V10_Q25"></span>
+<span hidden data-civi-question="434e78573251e1c0" data-kind="examen" data-screen="EXAM_CR_V10_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65842,7 +65842,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q26
-<span hidden data-civi-question="3c67949679022396" data-kind="examen" data-screen="EXAM_CR_V10_Q26"></span>
+<span hidden data-civi-question="f203ada1e02c5eb7" data-kind="examen" data-screen="EXAM_CR_V10_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65901,7 +65901,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q27
-<span hidden data-civi-question="1b86ca64e7e77f46" data-kind="examen" data-screen="EXAM_CR_V10_Q27"></span>
+<span hidden data-civi-question="93999a2b4df6c13e" data-kind="examen" data-screen="EXAM_CR_V10_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -65960,7 +65960,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q28
-<span hidden data-civi-question="0bc88f22083cf343" data-kind="examen" data-screen="EXAM_CR_V10_Q28"></span>
+<span hidden data-civi-question="df49bd27b20f5de5" data-kind="examen" data-screen="EXAM_CR_V10_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66031,7 +66031,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q29
-<span hidden data-civi-question="dd56834efd8332d2" data-kind="examen" data-screen="EXAM_CR_V10_Q29"></span>
+<span hidden data-civi-question="dc09e93004952138" data-kind="examen" data-screen="EXAM_CR_V10_Q29"></span>
 `@exam_variant = 10`
 
 
@@ -66093,7 +66093,7 @@ Lors d'un cours de géographie, on vous demande de citer une mer ou un océan qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q30
-<span hidden data-civi-question="97280ee2f82ebd5c" data-kind="examen" data-screen="EXAM_CR_V10_Q30"></span>
+<span hidden data-civi-question="bf36430c3fdfc4ea" data-kind="examen" data-screen="EXAM_CR_V10_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66152,7 +66152,7 @@ Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q31
-<span hidden data-civi-question="2175a8f8c0525b8c" data-kind="examen" data-screen="EXAM_CR_V10_Q31"></span>
+<span hidden data-civi-question="968bf2188068f96d" data-kind="examen" data-screen="EXAM_CR_V10_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66211,7 +66211,7 @@ Lors d'une randonnée à la frontière franco-espagnole, on vous demande le nom 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q32
-<span hidden data-civi-question="252a39450ab9aa91" data-kind="examen" data-screen="EXAM_CR_V10_Q32"></span>
+<span hidden data-civi-question="fc5fafa20057146e" data-kind="examen" data-screen="EXAM_CR_V10_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66270,7 +66270,7 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q33
-<span hidden data-civi-question="8ffdbbf94db11fb3" data-kind="examen" data-screen="EXAM_CR_V10_Q33"></span>
+<span hidden data-civi-question="09953068d05b12ea" data-kind="examen" data-screen="EXAM_CR_V10_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66329,7 +66329,7 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q34
-<span hidden data-civi-question="bd6d7b5b9651f2be" data-kind="examen" data-screen="EXAM_CR_V10_Q34"></span>
+<span hidden data-civi-question="c6d1b108a42b29e8" data-kind="examen" data-screen="EXAM_CR_V10_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66388,7 +66388,7 @@ Un jeune, sans emploi ni voiture personnelle, souhaite passer l'examen du permis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q35
-<span hidden data-civi-question="8aca5d78e330d70f" data-kind="examen" data-screen="EXAM_CR_V10_Q35"></span>
+<span hidden data-civi-question="9325f076342203d3" data-kind="examen" data-screen="EXAM_CR_V10_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66447,7 +66447,7 @@ Lors d'une exposition sur le Premier Empire, on vous demande en quelle année Na
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q36
-<span hidden data-civi-question="9ce74fceb1a1e873" data-kind="examen" data-screen="EXAM_CR_V10_Q36"></span>
+<span hidden data-civi-question="742f393665e814ef" data-kind="examen" data-screen="EXAM_CR_V10_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66506,7 +66506,7 @@ Des salariés de votre entreprise cessent le travail collectivement pour protest
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q37
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V10_Q37"></span>
+<span hidden data-civi-question="cfac0b4d86934ce5" data-kind="examen" data-screen="EXAM_CR_V10_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66565,7 +66565,7 @@ Vous accompagnez un voisin qui vient d'être élu conseiller municipal ; il vous
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q38
-<span hidden data-civi-question="837ee9ac76b6e280" data-kind="examen" data-screen="EXAM_CR_V10_Q38"></span>
+<span hidden data-civi-question="19f80ba57a26e5a4" data-kind="examen" data-screen="EXAM_CR_V10_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66624,7 +66624,7 @@ Un ami titulaire d'un titre de séjour pense qu'il peut voter aux élections nat
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q39
-<span hidden data-civi-question="2d9e78af75cd994a" data-kind="examen" data-screen="EXAM_CR_V10_Q39"></span>
+<span hidden data-civi-question="5de108349cbe99c1" data-kind="examen" data-screen="EXAM_CR_V10_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -66683,7 +66683,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q40
-<span hidden data-civi-question="5a679f4802f38f28" data-kind="examen" data-screen="EXAM_CR_V10_Q40"></span>
+<span hidden data-civi-question="896dd55df6879786" data-kind="examen" data-screen="EXAM_CR_V10_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -67741,7 +67741,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q01
-<span hidden data-civi-question="6f4929accb1f900f" data-kind="examen" data-screen="EXAM_NAT_V01_Q01"></span>
+<span hidden data-civi-question="30789fd41740fa55" data-kind="examen" data-screen="EXAM_NAT_V01_Q01"></span>
 `@exam_variant = 1`
 
 
@@ -67803,7 +67803,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q02
-<span hidden data-civi-question="dd7ed9ff5d8bc5d1" data-kind="examen" data-screen="EXAM_NAT_V01_Q02"></span>
+<span hidden data-civi-question="3a7693f22074e6cd" data-kind="examen" data-screen="EXAM_NAT_V01_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -67862,7 +67862,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q03
-<span hidden data-civi-question="1ae5b5dea3f15374" data-kind="examen" data-screen="EXAM_NAT_V01_Q03"></span>
+<span hidden data-civi-question="ec5146467c0d49e9" data-kind="examen" data-screen="EXAM_NAT_V01_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -67921,7 +67921,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q04
-<span hidden data-civi-question="435985eff3236cf0" data-kind="examen" data-screen="EXAM_NAT_V01_Q04"></span>
+<span hidden data-civi-question="7c9925f428083007" data-kind="examen" data-screen="EXAM_NAT_V01_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -67980,7 +67980,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q05
-<span hidden data-civi-question="42cd3636d632fe65" data-kind="examen" data-screen="EXAM_NAT_V01_Q05"></span>
+<span hidden data-civi-question="814ade3d583b78ed" data-kind="examen" data-screen="EXAM_NAT_V01_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68039,7 +68039,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q06
-<span hidden data-civi-question="cfd9231c1ffc1d4a" data-kind="examen" data-screen="EXAM_NAT_V01_Q06"></span>
+<span hidden data-civi-question="51058f41d3209294" data-kind="examen" data-screen="EXAM_NAT_V01_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68098,7 +68098,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q07
-<span hidden data-civi-question="dd004d4c65ffe305" data-kind="examen" data-screen="EXAM_NAT_V01_Q07"></span>
+<span hidden data-civi-question="7d4b570d2dcfcee8" data-kind="examen" data-screen="EXAM_NAT_V01_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68157,7 +68157,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q08
-<span hidden data-civi-question="42fec0a82b47d647" data-kind="examen" data-screen="EXAM_NAT_V01_Q08"></span>
+<span hidden data-civi-question="e8faf5fac1f161b5" data-kind="examen" data-screen="EXAM_NAT_V01_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68216,7 +68216,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q09
-<span hidden data-civi-question="2242aa8e17201757" data-kind="examen" data-screen="EXAM_NAT_V01_Q09"></span>
+<span hidden data-civi-question="2591973a5797c860" data-kind="examen" data-screen="EXAM_NAT_V01_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68275,7 +68275,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q10
-<span hidden data-civi-question="ea0b075542b42ece" data-kind="examen" data-screen="EXAM_NAT_V01_Q10"></span>
+<span hidden data-civi-question="72802431b1239da4" data-kind="examen" data-screen="EXAM_NAT_V01_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68334,7 +68334,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q11
-<span hidden data-civi-question="594b925a45e5af98" data-kind="examen" data-screen="EXAM_NAT_V01_Q11"></span>
+<span hidden data-civi-question="de6d3d944eab128a" data-kind="examen" data-screen="EXAM_NAT_V01_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68393,7 +68393,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q12
-<span hidden data-civi-question="b99d87e9a9ea0c60" data-kind="examen" data-screen="EXAM_NAT_V01_Q12"></span>
+<span hidden data-civi-question="cb7b66fc1b03caae" data-kind="examen" data-screen="EXAM_NAT_V01_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68452,7 +68452,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q13
-<span hidden data-civi-question="63754d74d110107d" data-kind="examen" data-screen="EXAM_NAT_V01_Q13"></span>
+<span hidden data-civi-question="d2921cf242dbe17b" data-kind="examen" data-screen="EXAM_NAT_V01_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68511,7 +68511,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q14
-<span hidden data-civi-question="0f06a4fd60f4c6f3" data-kind="examen" data-screen="EXAM_NAT_V01_Q14"></span>
+<span hidden data-civi-question="9bdadea2a0c0fcee" data-kind="examen" data-screen="EXAM_NAT_V01_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68570,7 +68570,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q15
-<span hidden data-civi-question="f3ddd4479019e28d" data-kind="examen" data-screen="EXAM_NAT_V01_Q15"></span>
+<span hidden data-civi-question="69d31d514ed6a3cb" data-kind="examen" data-screen="EXAM_NAT_V01_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68629,7 +68629,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q16
-<span hidden data-civi-question="71e86c97b8002063" data-kind="examen" data-screen="EXAM_NAT_V01_Q16"></span>
+<span hidden data-civi-question="5e3ffe9871aac5a6" data-kind="examen" data-screen="EXAM_NAT_V01_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68688,7 +68688,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q17
-<span hidden data-civi-question="60fd1473ad558e7a" data-kind="examen" data-screen="EXAM_NAT_V01_Q17"></span>
+<span hidden data-civi-question="103c3208ec6f729c" data-kind="examen" data-screen="EXAM_NAT_V01_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68747,7 +68747,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q18
-<span hidden data-civi-question="7a40ad7eda756c4f" data-kind="examen" data-screen="EXAM_NAT_V01_Q18"></span>
+<span hidden data-civi-question="e494d9f058bce0fb" data-kind="examen" data-screen="EXAM_NAT_V01_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68806,7 +68806,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q19
-<span hidden data-civi-question="0f444396abf8ceae" data-kind="examen" data-screen="EXAM_NAT_V01_Q19"></span>
+<span hidden data-civi-question="ff01dba3a736c14c" data-kind="examen" data-screen="EXAM_NAT_V01_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68865,7 +68865,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q20
-<span hidden data-civi-question="52e3089dbf53c6b0" data-kind="examen" data-screen="EXAM_NAT_V01_Q20"></span>
+<span hidden data-civi-question="4c5c84ff7297c93e" data-kind="examen" data-screen="EXAM_NAT_V01_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68924,7 +68924,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q21
-<span hidden data-civi-question="527f3e3cdd874e81" data-kind="examen" data-screen="EXAM_NAT_V01_Q21"></span>
+<span hidden data-civi-question="58acdbb6c49b464a" data-kind="examen" data-screen="EXAM_NAT_V01_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68983,7 +68983,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q22
-<span hidden data-civi-question="649638493ed0b634" data-kind="examen" data-screen="EXAM_NAT_V01_Q22"></span>
+<span hidden data-civi-question="2a80626f687ae150" data-kind="examen" data-screen="EXAM_NAT_V01_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69042,7 +69042,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q23
-<span hidden data-civi-question="cf7846432fa0b60d" data-kind="examen" data-screen="EXAM_NAT_V01_Q23"></span>
+<span hidden data-civi-question="b449a073f93f749d" data-kind="examen" data-screen="EXAM_NAT_V01_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69101,7 +69101,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q24
-<span hidden data-civi-question="69c8a701f3fe7785" data-kind="examen" data-screen="EXAM_NAT_V01_Q24"></span>
+<span hidden data-civi-question="34145f40c6451932" data-kind="examen" data-screen="EXAM_NAT_V01_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69160,7 +69160,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q25
-<span hidden data-civi-question="0df99d34ee4e3879" data-kind="examen" data-screen="EXAM_NAT_V01_Q25"></span>
+<span hidden data-civi-question="fe0918a0d62fcded" data-kind="examen" data-screen="EXAM_NAT_V01_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69219,7 +69219,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q26
-<span hidden data-civi-question="34fb237fa2697c7e" data-kind="examen" data-screen="EXAM_NAT_V01_Q26"></span>
+<span hidden data-civi-question="ccc117dc6e45cfab" data-kind="examen" data-screen="EXAM_NAT_V01_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69278,7 +69278,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q27
-<span hidden data-civi-question="f7b07deb32115fe7" data-kind="examen" data-screen="EXAM_NAT_V01_Q27"></span>
+<span hidden data-civi-question="cc9aee9489b1a404" data-kind="examen" data-screen="EXAM_NAT_V01_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69337,7 +69337,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q28
-<span hidden data-civi-question="0910572325e1e2f0" data-kind="examen" data-screen="EXAM_NAT_V01_Q28"></span>
+<span hidden data-civi-question="4d798061d23efdb7" data-kind="examen" data-screen="EXAM_NAT_V01_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69408,7 +69408,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q29
-<span hidden data-civi-question="e56157d5a6b278aa" data-kind="examen" data-screen="EXAM_NAT_V01_Q29"></span>
+<span hidden data-civi-question="d7aad05ada40dbce" data-kind="examen" data-screen="EXAM_NAT_V01_Q29"></span>
 `@exam_variant = 1`
 
 
@@ -69470,7 +69470,7 @@ Votre grand-mère vous raconte souvent des récits sur la Seconde Guerre mondial
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q30
-<span hidden data-civi-question="528d0c44d5099a92" data-kind="examen" data-screen="EXAM_NAT_V01_Q30"></span>
+<span hidden data-civi-question="c2ce5b65f1e49559" data-kind="examen" data-screen="EXAM_NAT_V01_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69529,7 +69529,7 @@ Lors de la coupe du monde de football, vous avez vu que les audiences pour la de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q31
-<span hidden data-civi-question="8608af3fdb7cb1d8" data-kind="examen" data-screen="EXAM_NAT_V01_Q31"></span>
+<span hidden data-civi-question="bf548ab9f8ff6002" data-kind="examen" data-screen="EXAM_NAT_V01_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69588,7 +69588,7 @@ En attendant votre tour dans une agence de la CAF, vous discutez avec Farida de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q32
-<span hidden data-civi-question="09be79f9922d4679" data-kind="examen" data-screen="EXAM_NAT_V01_Q32"></span>
+<span hidden data-civi-question="c55a9b143ca8bd99" data-kind="examen" data-screen="EXAM_NAT_V01_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69647,7 +69647,7 @@ Après une réunion à l'école sur les droits des parents, une maman vous deman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q33
-<span hidden data-civi-question="1650fa7e05b76c7e" data-kind="examen" data-screen="EXAM_NAT_V01_Q33"></span>
+<span hidden data-civi-question="2f64276fde3cb37f" data-kind="examen" data-screen="EXAM_NAT_V01_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69706,7 +69706,7 @@ Pendant un trajet en covoiturage, vous discutez avec votre passagère qui vous f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q34
-<span hidden data-civi-question="ac24e93e31751696" data-kind="examen" data-screen="EXAM_NAT_V01_Q34"></span>
+<span hidden data-civi-question="fad43a08dfc0a55d" data-kind="examen" data-screen="EXAM_NAT_V01_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69765,7 +69765,7 @@ Un reportage sur une arrestation contestée à l'étranger suscite une discussio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q35
-<span hidden data-civi-question="bd241f94ba01929b" data-kind="examen" data-screen="EXAM_NAT_V01_Q35"></span>
+<span hidden data-civi-question="493be889b24942da" data-kind="examen" data-screen="EXAM_NAT_V01_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69824,7 +69824,7 @@ Un ami travaillant dans l'import et l'export de marchandises par voie maritime, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q36
-<span hidden data-civi-question="b0702328a4db5029" data-kind="examen" data-screen="EXAM_NAT_V01_Q36"></span>
+<span hidden data-civi-question="e78a8be0d7f94d4d" data-kind="examen" data-screen="EXAM_NAT_V01_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69883,7 +69883,7 @@ En vous rendant à la mairie pour faire une déclaration de naissance. Vous rema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q37
-<span hidden data-civi-question="497abea3ccf2a617" data-kind="examen" data-screen="EXAM_NAT_V01_Q37"></span>
+<span hidden data-civi-question="0153a2ef4782fe01" data-kind="examen" data-screen="EXAM_NAT_V01_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -69942,7 +69942,7 @@ Lors d'un jeu de culture générale organisé en famille, une carte demande comb
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q38
-<span hidden data-civi-question="a819306d68bdd948" data-kind="examen" data-screen="EXAM_NAT_V01_Q38"></span>
+<span hidden data-civi-question="e89c5b23291eb103" data-kind="examen" data-screen="EXAM_NAT_V01_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -70001,7 +70001,7 @@ Un ami hésite à s'engager dans un parti politique local, craignant que ce ne s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q39
-<span hidden data-civi-question="c7f830b22150f714" data-kind="examen" data-screen="EXAM_NAT_V01_Q39"></span>
+<span hidden data-civi-question="dbf800f2c3f12416" data-kind="examen" data-screen="EXAM_NAT_V01_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -70060,7 +70060,7 @@ En attendant votre train régional en retard sur le quai, vous discutez avec un 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V01_Q40
-<span hidden data-civi-question="818e04763ad40302" data-kind="examen" data-screen="EXAM_NAT_V01_Q40"></span>
+<span hidden data-civi-question="4336366c6fb1d12c" data-kind="examen" data-screen="EXAM_NAT_V01_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71102,7 +71102,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q01
-<span hidden data-civi-question="2a35797d2af10539" data-kind="examen" data-screen="EXAM_NAT_V02_Q01"></span>
+<span hidden data-civi-question="6bca263c3e0e6281" data-kind="examen" data-screen="EXAM_NAT_V02_Q01"></span>
 `@exam_variant = 2`
 
 
@@ -71164,7 +71164,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q02
-<span hidden data-civi-question="c7d38ab8edb9d201" data-kind="examen" data-screen="EXAM_NAT_V02_Q02"></span>
+<span hidden data-civi-question="4fb3fc0d1172ec1c" data-kind="examen" data-screen="EXAM_NAT_V02_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71223,7 +71223,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q03
-<span hidden data-civi-question="d5b782799b0d3b27" data-kind="examen" data-screen="EXAM_NAT_V02_Q03"></span>
+<span hidden data-civi-question="f009ee6fa96fe309" data-kind="examen" data-screen="EXAM_NAT_V02_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71282,7 +71282,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q04
-<span hidden data-civi-question="fd3fb88ec06c8395" data-kind="examen" data-screen="EXAM_NAT_V02_Q04"></span>
+<span hidden data-civi-question="f12e3f66ead37732" data-kind="examen" data-screen="EXAM_NAT_V02_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71341,7 +71341,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q05
-<span hidden data-civi-question="c3a173c1a10aa540" data-kind="examen" data-screen="EXAM_NAT_V02_Q05"></span>
+<span hidden data-civi-question="f7c5562ad1acf3d9" data-kind="examen" data-screen="EXAM_NAT_V02_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71400,7 +71400,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q06
-<span hidden data-civi-question="cebc3da7a4a76bb6" data-kind="examen" data-screen="EXAM_NAT_V02_Q06"></span>
+<span hidden data-civi-question="2251f69f7d6bd1a0" data-kind="examen" data-screen="EXAM_NAT_V02_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71459,7 +71459,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q07
-<span hidden data-civi-question="1650fa7e05b76c7e" data-kind="examen" data-screen="EXAM_NAT_V02_Q07"></span>
+<span hidden data-civi-question="ab70a765fdcd94b0" data-kind="examen" data-screen="EXAM_NAT_V02_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71518,7 +71518,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q08
-<span hidden data-civi-question="e16ac5b3654060ed" data-kind="examen" data-screen="EXAM_NAT_V02_Q08"></span>
+<span hidden data-civi-question="a0f637038380f261" data-kind="examen" data-screen="EXAM_NAT_V02_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71577,7 +71577,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q09
-<span hidden data-civi-question="85b95e0536176b7b" data-kind="examen" data-screen="EXAM_NAT_V02_Q09"></span>
+<span hidden data-civi-question="baa197a764e78d27" data-kind="examen" data-screen="EXAM_NAT_V02_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71636,7 +71636,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q10
-<span hidden data-civi-question="6535e38c9d0679d7" data-kind="examen" data-screen="EXAM_NAT_V02_Q10"></span>
+<span hidden data-civi-question="84cdd4bc0cf6f651" data-kind="examen" data-screen="EXAM_NAT_V02_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71695,7 +71695,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q11
-<span hidden data-civi-question="0264a8bfff03838b" data-kind="examen" data-screen="EXAM_NAT_V02_Q11"></span>
+<span hidden data-civi-question="b286e655e3c42179" data-kind="examen" data-screen="EXAM_NAT_V02_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71754,7 +71754,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q12
-<span hidden data-civi-question="8c0542766d674e23" data-kind="examen" data-screen="EXAM_NAT_V02_Q12"></span>
+<span hidden data-civi-question="bddf87ed147adbcd" data-kind="examen" data-screen="EXAM_NAT_V02_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71813,7 +71813,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q13
-<span hidden data-civi-question="32791721be7fd73a" data-kind="examen" data-screen="EXAM_NAT_V02_Q13"></span>
+<span hidden data-civi-question="7d2706e320913c26" data-kind="examen" data-screen="EXAM_NAT_V02_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71872,7 +71872,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q14
-<span hidden data-civi-question="2c8a6acca281f57e" data-kind="examen" data-screen="EXAM_NAT_V02_Q14"></span>
+<span hidden data-civi-question="d8539e8705307262" data-kind="examen" data-screen="EXAM_NAT_V02_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71931,7 +71931,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q15
-<span hidden data-civi-question="6e0e17a0a1baa561" data-kind="examen" data-screen="EXAM_NAT_V02_Q15"></span>
+<span hidden data-civi-question="e9f5e98efa969ee0" data-kind="examen" data-screen="EXAM_NAT_V02_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -71990,7 +71990,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q16
-<span hidden data-civi-question="6ab34a29e961a1ba" data-kind="examen" data-screen="EXAM_NAT_V02_Q16"></span>
+<span hidden data-civi-question="50d8c135db6dae7d" data-kind="examen" data-screen="EXAM_NAT_V02_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72049,7 +72049,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q17
-<span hidden data-civi-question="818e04763ad40302" data-kind="examen" data-screen="EXAM_NAT_V02_Q17"></span>
+<span hidden data-civi-question="68df9d87d7f0d2b4" data-kind="examen" data-screen="EXAM_NAT_V02_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72108,7 +72108,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q18
-<span hidden data-civi-question="ea9c56adc7661fd2" data-kind="examen" data-screen="EXAM_NAT_V02_Q18"></span>
+<span hidden data-civi-question="f3d0a21a028db510" data-kind="examen" data-screen="EXAM_NAT_V02_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72167,7 +72167,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q19
-<span hidden data-civi-question="2d6566a6a435701e" data-kind="examen" data-screen="EXAM_NAT_V02_Q19"></span>
+<span hidden data-civi-question="11e4eec4f3107228" data-kind="examen" data-screen="EXAM_NAT_V02_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72226,7 +72226,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q20
-<span hidden data-civi-question="29f16d2eff24323c" data-kind="examen" data-screen="EXAM_NAT_V02_Q20"></span>
+<span hidden data-civi-question="6859aca9d02a0a68" data-kind="examen" data-screen="EXAM_NAT_V02_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72285,7 +72285,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q21
-<span hidden data-civi-question="0108261b387a021e" data-kind="examen" data-screen="EXAM_NAT_V02_Q21"></span>
+<span hidden data-civi-question="fddcf51828d51010" data-kind="examen" data-screen="EXAM_NAT_V02_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72344,7 +72344,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q22
-<span hidden data-civi-question="0da5ab3c044597ac" data-kind="examen" data-screen="EXAM_NAT_V02_Q22"></span>
+<span hidden data-civi-question="a268661228c3de15" data-kind="examen" data-screen="EXAM_NAT_V02_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72403,7 +72403,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q23
-<span hidden data-civi-question="02ab95020faa613f" data-kind="examen" data-screen="EXAM_NAT_V02_Q23"></span>
+<span hidden data-civi-question="65062ebf98e6be0b" data-kind="examen" data-screen="EXAM_NAT_V02_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72462,7 +72462,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q24
-<span hidden data-civi-question="572325931ae44a49" data-kind="examen" data-screen="EXAM_NAT_V02_Q24"></span>
+<span hidden data-civi-question="d3496c4e267ef935" data-kind="examen" data-screen="EXAM_NAT_V02_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72521,7 +72521,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q25
-<span hidden data-civi-question="3a61cca84cbc8c35" data-kind="examen" data-screen="EXAM_NAT_V02_Q25"></span>
+<span hidden data-civi-question="aed7c857381aa3b7" data-kind="examen" data-screen="EXAM_NAT_V02_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72580,7 +72580,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q26
-<span hidden data-civi-question="4a9cbb5b6a22fbc7" data-kind="examen" data-screen="EXAM_NAT_V02_Q26"></span>
+<span hidden data-civi-question="6ae67c1228bc2767" data-kind="examen" data-screen="EXAM_NAT_V02_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72639,7 +72639,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q27
-<span hidden data-civi-question="c5f7d4b194fcf386" data-kind="examen" data-screen="EXAM_NAT_V02_Q27"></span>
+<span hidden data-civi-question="05689d20c8638442" data-kind="examen" data-screen="EXAM_NAT_V02_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72698,7 +72698,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q28
-<span hidden data-civi-question="64a4075110bc8d97" data-kind="examen" data-screen="EXAM_NAT_V02_Q28"></span>
+<span hidden data-civi-question="36240d834c91800c" data-kind="examen" data-screen="EXAM_NAT_V02_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72769,7 +72769,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q29
-<span hidden data-civi-question="445619043671b045" data-kind="examen" data-screen="EXAM_NAT_V02_Q29"></span>
+<span hidden data-civi-question="79f503a9c4ce7774" data-kind="examen" data-screen="EXAM_NAT_V02_Q29"></span>
 `@exam_variant = 2`
 
 
@@ -72831,7 +72831,7 @@ Votre fille prépare un devoir d'histoire sur la Révolution française. Elle a 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q30
-<span hidden data-civi-question="69a2564c2eccf475" data-kind="examen" data-screen="EXAM_NAT_V02_Q30"></span>
+<span hidden data-civi-question="21b44243d9e2fe0b" data-kind="examen" data-screen="EXAM_NAT_V02_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72890,7 +72890,7 @@ Lors d'un jeu de culture générale entre amis, une question porte sur le nombre
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q31
-<span hidden data-civi-question="29301321cf986ea1" data-kind="examen" data-screen="EXAM_NAT_V02_Q31"></span>
+<span hidden data-civi-question="029bf0d39a0a0610" data-kind="examen" data-screen="EXAM_NAT_V02_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -72949,7 +72949,7 @@ Préparant un road-trip le long des côtes françaises, un ami argentin vous dem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q32
-<span hidden data-civi-question="95647889c7720b40" data-kind="examen" data-screen="EXAM_NAT_V02_Q32"></span>
+<span hidden data-civi-question="8aebba1a39646222" data-kind="examen" data-screen="EXAM_NAT_V02_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73008,7 +73008,7 @@ Pendant les élections européennes, votre voisine vous demande qui, exactement,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q33
-<span hidden data-civi-question="415cb1ec6cc022c3" data-kind="examen" data-screen="EXAM_NAT_V02_Q33"></span>
+<span hidden data-civi-question="a6b28e92c33bc3db" data-kind="examen" data-screen="EXAM_NAT_V02_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73067,7 +73067,7 @@ Un documentaire historique que vous regardez avec votre neveu évoque des pratiq
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q34
-<span hidden data-civi-question="f7b07deb32115fe7" data-kind="examen" data-screen="EXAM_NAT_V02_Q34"></span>
+<span hidden data-civi-question="eb0dfc2e8fffa9cc" data-kind="examen" data-screen="EXAM_NAT_V02_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73126,7 +73126,7 @@ Un ami s'est garé rapidement sur une place réservée aux personnes handicapée
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q35
-<span hidden data-civi-question="7dfe80289f73b3b6" data-kind="examen" data-screen="EXAM_NAT_V02_Q35"></span>
+<span hidden data-civi-question="b1a4d9bd6cffaa2f" data-kind="examen" data-screen="EXAM_NAT_V02_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73185,7 +73185,7 @@ Vous visitez un musée consacré à l'histoire des colonisations et de l'esclava
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q36
-<span hidden data-civi-question="58414d4390759dfb" data-kind="examen" data-screen="EXAM_NAT_V02_Q36"></span>
+<span hidden data-civi-question="82d872286a330031" data-kind="examen" data-screen="EXAM_NAT_V02_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73244,7 +73244,7 @@ Pendant un débat sur l'actualité européenne au café, un habitué confond sou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q37
-<span hidden data-civi-question="a533ee6a858f900f" data-kind="examen" data-screen="EXAM_NAT_V02_Q37"></span>
+<span hidden data-civi-question="4f233aced0aca875" data-kind="examen" data-screen="EXAM_NAT_V02_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73303,7 +73303,7 @@ Votre collègue belge souhaite réserver un voyage en Méditerranée. Il a cru v
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q38
-<span hidden data-civi-question="3c90d4db66bbfaec" data-kind="examen" data-screen="EXAM_NAT_V02_Q38"></span>
+<span hidden data-civi-question="566ec4d4b0be71b6" data-kind="examen" data-screen="EXAM_NAT_V02_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73362,7 +73362,7 @@ Une affiche vue dans une association de défense des droits humains évoque les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q39
-<span hidden data-civi-question="b711042ba28c7269" data-kind="examen" data-screen="EXAM_NAT_V02_Q39"></span>
+<span hidden data-civi-question="ab4c05d6a33dde31" data-kind="examen" data-screen="EXAM_NAT_V02_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -73421,7 +73421,7 @@ Un couple parle de laïcité au sein de l'école. Les deux sont en désaccord co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V02_Q40
-<span hidden data-civi-question="179dc6042df1dd51" data-kind="examen" data-screen="EXAM_NAT_V02_Q40"></span>
+<span hidden data-civi-question="860522416876f710" data-kind="examen" data-screen="EXAM_NAT_V02_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74495,7 +74495,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q01
-<span hidden data-civi-question="1e8712e7053938bd" data-kind="examen" data-screen="EXAM_NAT_V03_Q01"></span>
+<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="examen" data-screen="EXAM_NAT_V03_Q01"></span>
 `@exam_variant = 3`
 
 
@@ -74557,7 +74557,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q02
-<span hidden data-civi-question="6846dbc5da61f142" data-kind="examen" data-screen="EXAM_NAT_V03_Q02"></span>
+<span hidden data-civi-question="8b79967f21cc8554" data-kind="examen" data-screen="EXAM_NAT_V03_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74616,7 +74616,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q03
-<span hidden data-civi-question="97c78b0ec051da51" data-kind="examen" data-screen="EXAM_NAT_V03_Q03"></span>
+<span hidden data-civi-question="a7f73dabd55bbd2d" data-kind="examen" data-screen="EXAM_NAT_V03_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74675,7 +74675,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q04
-<span hidden data-civi-question="11238b04066740d1" data-kind="examen" data-screen="EXAM_NAT_V03_Q04"></span>
+<span hidden data-civi-question="605ae742114ed389" data-kind="examen" data-screen="EXAM_NAT_V03_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74734,7 +74734,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q05
-<span hidden data-civi-question="b8869667112d0fbd" data-kind="examen" data-screen="EXAM_NAT_V03_Q05"></span>
+<span hidden data-civi-question="f34a495f1741cda3" data-kind="examen" data-screen="EXAM_NAT_V03_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74793,7 +74793,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q06
-<span hidden data-civi-question="40ba02e4d324522d" data-kind="examen" data-screen="EXAM_NAT_V03_Q06"></span>
+<span hidden data-civi-question="968f5249183cce3a" data-kind="examen" data-screen="EXAM_NAT_V03_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74852,7 +74852,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q07
-<span hidden data-civi-question="d3174e545b51d5d8" data-kind="examen" data-screen="EXAM_NAT_V03_Q07"></span>
+<span hidden data-civi-question="6547ad4adc66ec29" data-kind="examen" data-screen="EXAM_NAT_V03_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74911,7 +74911,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q08
-<span hidden data-civi-question="699542a46d0168bd" data-kind="examen" data-screen="EXAM_NAT_V03_Q08"></span>
+<span hidden data-civi-question="6a74ed10d0636a14" data-kind="examen" data-screen="EXAM_NAT_V03_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -74970,7 +74970,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q09
-<span hidden data-civi-question="7dfe80289f73b3b6" data-kind="examen" data-screen="EXAM_NAT_V03_Q09"></span>
+<span hidden data-civi-question="a94f17a5d3a4f889" data-kind="examen" data-screen="EXAM_NAT_V03_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75029,7 +75029,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q10
-<span hidden data-civi-question="fc4995a4c279c8b6" data-kind="examen" data-screen="EXAM_NAT_V03_Q10"></span>
+<span hidden data-civi-question="9f7b7246497facd8" data-kind="examen" data-screen="EXAM_NAT_V03_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75088,7 +75088,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q11
-<span hidden data-civi-question="a805a7787f88266d" data-kind="examen" data-screen="EXAM_NAT_V03_Q11"></span>
+<span hidden data-civi-question="4531daa9c5947b33" data-kind="examen" data-screen="EXAM_NAT_V03_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75147,7 +75147,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q12
-<span hidden data-civi-question="8b7dbf8c0f906d6d" data-kind="examen" data-screen="EXAM_NAT_V03_Q12"></span>
+<span hidden data-civi-question="13944c4adae341b1" data-kind="examen" data-screen="EXAM_NAT_V03_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75206,7 +75206,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q13
-<span hidden data-civi-question="757af93a3549fb57" data-kind="examen" data-screen="EXAM_NAT_V03_Q13"></span>
+<span hidden data-civi-question="8ca7548849bcdf79" data-kind="examen" data-screen="EXAM_NAT_V03_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75265,7 +75265,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q14
-<span hidden data-civi-question="179dc6042df1dd51" data-kind="examen" data-screen="EXAM_NAT_V03_Q14"></span>
+<span hidden data-civi-question="9d9a65ac39d90685" data-kind="examen" data-screen="EXAM_NAT_V03_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75324,7 +75324,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q15
-<span hidden data-civi-question="2da085098c3f55b5" data-kind="examen" data-screen="EXAM_NAT_V03_Q15"></span>
+<span hidden data-civi-question="c1f7dca860355685" data-kind="examen" data-screen="EXAM_NAT_V03_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75383,7 +75383,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q16
-<span hidden data-civi-question="69cfaef010d6eaa3" data-kind="examen" data-screen="EXAM_NAT_V03_Q16"></span>
+<span hidden data-civi-question="f65ac19a243b637d" data-kind="examen" data-screen="EXAM_NAT_V03_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75442,7 +75442,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q17
-<span hidden data-civi-question="4ca6cd0ae93d06b8" data-kind="examen" data-screen="EXAM_NAT_V03_Q17"></span>
+<span hidden data-civi-question="034625d25389e84f" data-kind="examen" data-screen="EXAM_NAT_V03_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75501,7 +75501,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q18
-<span hidden data-civi-question="0cd272dddcd01580" data-kind="examen" data-screen="EXAM_NAT_V03_Q18"></span>
+<span hidden data-civi-question="8de8978588077500" data-kind="examen" data-screen="EXAM_NAT_V03_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75560,7 +75560,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q19
-<span hidden data-civi-question="cf63667c7ca1c7cd" data-kind="examen" data-screen="EXAM_NAT_V03_Q19"></span>
+<span hidden data-civi-question="76b01efcb37893c7" data-kind="examen" data-screen="EXAM_NAT_V03_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75619,7 +75619,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q20
-<span hidden data-civi-question="4f0e7d7b75915525" data-kind="examen" data-screen="EXAM_NAT_V03_Q20"></span>
+<span hidden data-civi-question="eadc84563269e22a" data-kind="examen" data-screen="EXAM_NAT_V03_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75678,7 +75678,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q21
-<span hidden data-civi-question="527817ba3b2092b3" data-kind="examen" data-screen="EXAM_NAT_V03_Q21"></span>
+<span hidden data-civi-question="f1eb560039f8de17" data-kind="examen" data-screen="EXAM_NAT_V03_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75737,7 +75737,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q22
-<span hidden data-civi-question="61662c74f05b8ab6" data-kind="examen" data-screen="EXAM_NAT_V03_Q22"></span>
+<span hidden data-civi-question="b2facc1a469fd94f" data-kind="examen" data-screen="EXAM_NAT_V03_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75796,7 +75796,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q23
-<span hidden data-civi-question="1ca605c9d10ce58a" data-kind="examen" data-screen="EXAM_NAT_V03_Q23"></span>
+<span hidden data-civi-question="b5d2f66fdb641c25" data-kind="examen" data-screen="EXAM_NAT_V03_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75855,7 +75855,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q24
-<span hidden data-civi-question="0f66d2e849c86f56" data-kind="examen" data-screen="EXAM_NAT_V03_Q24"></span>
+<span hidden data-civi-question="e28cd9ee4835b60b" data-kind="examen" data-screen="EXAM_NAT_V03_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75914,7 +75914,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q25
-<span hidden data-civi-question="ad47145aa7b5c61d" data-kind="examen" data-screen="EXAM_NAT_V03_Q25"></span>
+<span hidden data-civi-question="885dd96f111f8d39" data-kind="examen" data-screen="EXAM_NAT_V03_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -75973,7 +75973,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q26
-<span hidden data-civi-question="7403d6b5f77e03dc" data-kind="examen" data-screen="EXAM_NAT_V03_Q26"></span>
+<span hidden data-civi-question="164eeccf04fca99f" data-kind="examen" data-screen="EXAM_NAT_V03_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76032,7 +76032,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q27
-<span hidden data-civi-question="ac24e93e31751696" data-kind="examen" data-screen="EXAM_NAT_V03_Q27"></span>
+<span hidden data-civi-question="6feba2ace6ada9c0" data-kind="examen" data-screen="EXAM_NAT_V03_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76091,7 +76091,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q28
-<span hidden data-civi-question="77903b1274c63205" data-kind="examen" data-screen="EXAM_NAT_V03_Q28"></span>
+<span hidden data-civi-question="b135b6b23c40ad4a" data-kind="examen" data-screen="EXAM_NAT_V03_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76162,7 +76162,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q29
-<span hidden data-civi-question="006e40fc8313dbcf" data-kind="examen" data-screen="EXAM_NAT_V03_Q29"></span>
+<span hidden data-civi-question="e41182724599c8e9" data-kind="examen" data-screen="EXAM_NAT_V03_Q29"></span>
 `@exam_variant = 3`
 
 
@@ -76224,7 +76224,7 @@ L'école de votre fils lui a demandé un justificatif pour une absence. Une autr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q30
-<span hidden data-civi-question="e5ef0def34a51aaa" data-kind="examen" data-screen="EXAM_NAT_V03_Q30"></span>
+<span hidden data-civi-question="ccc998d8adfe0700" data-kind="examen" data-screen="EXAM_NAT_V03_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76283,7 +76283,7 @@ Un procès médiatisé évoque une peine de privation de droits civiques. Un ami
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q31
-<span hidden data-civi-question="53af6c4c864acc7b" data-kind="examen" data-screen="EXAM_NAT_V03_Q31"></span>
+<span hidden data-civi-question="9c1c54b1c5248bb1" data-kind="examen" data-screen="EXAM_NAT_V03_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76342,7 +76342,7 @@ Un ami étranger, invité à dîner chez vous, vous demande de lui indiquer, par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q32
-<span hidden data-civi-question="2242aa8e17201757" data-kind="examen" data-screen="EXAM_NAT_V03_Q32"></span>
+<span hidden data-civi-question="53fe447491992c2d" data-kind="examen" data-screen="EXAM_NAT_V03_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76401,7 +76401,7 @@ Un collègue récemment naturalisé vous demande quelles conditions il doit remp
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q33
-<span hidden data-civi-question="1ae5b5dea3f15374" data-kind="examen" data-screen="EXAM_NAT_V03_Q33"></span>
+<span hidden data-civi-question="aea594e20a492700" data-kind="examen" data-screen="EXAM_NAT_V03_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76460,7 +76460,7 @@ Un proche à vous a reçu un mail pour la déclaration des impôts. Il se demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q34
-<span hidden data-civi-question="e2c23ab89a62c306" data-kind="examen" data-screen="EXAM_NAT_V03_Q34"></span>
+<span hidden data-civi-question="e38ef5f5f9b53083" data-kind="examen" data-screen="EXAM_NAT_V03_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76519,7 +76519,7 @@ Une exposition sur les droits des femmes visitée avec votre grand-mère évoque
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q35
-<span hidden data-civi-question="64a4075110bc8d97" data-kind="examen" data-screen="EXAM_NAT_V03_Q35"></span>
+<span hidden data-civi-question="6278349e9d5c656c" data-kind="examen" data-screen="EXAM_NAT_V03_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76578,7 +76578,7 @@ Votre grand-père, peu à l'aise avec Internet, vous demande où il peut se rend
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q36
-<span hidden data-civi-question="c5f7d4b194fcf386" data-kind="examen" data-screen="EXAM_NAT_V03_Q36"></span>
+<span hidden data-civi-question="41e782f21aa91980" data-kind="examen" data-screen="EXAM_NAT_V03_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76637,7 +76637,7 @@ Votre fils doit rencontrer le maire de votre commune dans le cadre d'un projet s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q37
-<span hidden data-civi-question="fd290c98257d1ee5" data-kind="examen" data-screen="EXAM_NAT_V03_Q37"></span>
+<span hidden data-civi-question="58fc603c5ad1e7be" data-kind="examen" data-screen="EXAM_NAT_V03_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76696,7 +76696,7 @@ Lors d'une réunion parents-profs, le principal du collège de votre fils évoqu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q38
-<span hidden data-civi-question="efd2227653be3a0c" data-kind="examen" data-screen="EXAM_NAT_V03_Q38"></span>
+<span hidden data-civi-question="505b65b1eb615f75" data-kind="examen" data-screen="EXAM_NAT_V03_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76755,7 +76755,7 @@ Votre fils, passionné par les fusées, l'espace et les planètes, vous demande 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q39
-<span hidden data-civi-question="ef6e206332c0b2c4" data-kind="examen" data-screen="EXAM_NAT_V03_Q39"></span>
+<span hidden data-civi-question="1b93f1c82fd766df" data-kind="examen" data-screen="EXAM_NAT_V03_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -76814,7 +76814,7 @@ Votre fils compte les jours avant son anniversaire car il a hâte d'atteindre la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q40
-<span hidden data-civi-question="88cdf09412ef7212" data-kind="examen" data-screen="EXAM_NAT_V03_Q40"></span>
+<span hidden data-civi-question="28f1927343722200" data-kind="examen" data-screen="EXAM_NAT_V03_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -77864,7 +77864,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q01
-<span hidden data-civi-question="496fd17bffe8919f" data-kind="examen" data-screen="EXAM_NAT_V04_Q01"></span>
+<span hidden data-civi-question="4ba7ba07ad594c9b" data-kind="examen" data-screen="EXAM_NAT_V04_Q01"></span>
 `@exam_variant = 4`
 
 
@@ -77926,7 +77926,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q02
-<span hidden data-civi-question="4a37b7f0afa13055" data-kind="examen" data-screen="EXAM_NAT_V04_Q02"></span>
+<span hidden data-civi-question="bae3bf8c311d0fd2" data-kind="examen" data-screen="EXAM_NAT_V04_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -77985,7 +77985,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q03
-<span hidden data-civi-question="63a7f8858a5bede0" data-kind="examen" data-screen="EXAM_NAT_V04_Q03"></span>
+<span hidden data-civi-question="18b14b6f564a45d6" data-kind="examen" data-screen="EXAM_NAT_V04_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78044,7 +78044,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q04
-<span hidden data-civi-question="02f2d03698e8b62f" data-kind="examen" data-screen="EXAM_NAT_V04_Q04"></span>
+<span hidden data-civi-question="8e79327812ae5a39" data-kind="examen" data-screen="EXAM_NAT_V04_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78103,7 +78103,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q05
-<span hidden data-civi-question="44c9818e7471ea9c" data-kind="examen" data-screen="EXAM_NAT_V04_Q05"></span>
+<span hidden data-civi-question="ae1406a8e39d0fab" data-kind="examen" data-screen="EXAM_NAT_V04_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78162,7 +78162,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q06
-<span hidden data-civi-question="79a145a105a2f7a4" data-kind="examen" data-screen="EXAM_NAT_V04_Q06"></span>
+<span hidden data-civi-question="6486779540ff03e1" data-kind="examen" data-screen="EXAM_NAT_V04_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78221,7 +78221,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q07
-<span hidden data-civi-question="ce76325943b4b0c5" data-kind="examen" data-screen="EXAM_NAT_V04_Q07"></span>
+<span hidden data-civi-question="f3a02b28fbf299d4" data-kind="examen" data-screen="EXAM_NAT_V04_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78280,7 +78280,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q08
-<span hidden data-civi-question="38018b78e3d76ff2" data-kind="examen" data-screen="EXAM_NAT_V04_Q08"></span>
+<span hidden data-civi-question="5d9f04b0d57715f5" data-kind="examen" data-screen="EXAM_NAT_V04_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78339,7 +78339,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q09
-<span hidden data-civi-question="b0702328a4db5029" data-kind="examen" data-screen="EXAM_NAT_V04_Q09"></span>
+<span hidden data-civi-question="0a5329962c830122" data-kind="examen" data-screen="EXAM_NAT_V04_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78398,7 +78398,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q10
-<span hidden data-civi-question="a57dc7b22c408807" data-kind="examen" data-screen="EXAM_NAT_V04_Q10"></span>
+<span hidden data-civi-question="31f6cc653297fe15" data-kind="examen" data-screen="EXAM_NAT_V04_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78457,7 +78457,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q11
-<span hidden data-civi-question="ed10767cc153a9d6" data-kind="examen" data-screen="EXAM_NAT_V04_Q11"></span>
+<span hidden data-civi-question="75924719f77f1f76" data-kind="examen" data-screen="EXAM_NAT_V04_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78516,7 +78516,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q12
-<span hidden data-civi-question="031297b0e482728f" data-kind="examen" data-screen="EXAM_NAT_V04_Q12"></span>
+<span hidden data-civi-question="62ef5ad7e65ac24e" data-kind="examen" data-screen="EXAM_NAT_V04_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78575,7 +78575,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q13
-<span hidden data-civi-question="2eb892d0b0181a3b" data-kind="examen" data-screen="EXAM_NAT_V04_Q13"></span>
+<span hidden data-civi-question="898313364d55412d" data-kind="examen" data-screen="EXAM_NAT_V04_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78634,7 +78634,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q14
-<span hidden data-civi-question="497abea3ccf2a617" data-kind="examen" data-screen="EXAM_NAT_V04_Q14"></span>
+<span hidden data-civi-question="cc8621279ff18a8e" data-kind="examen" data-screen="EXAM_NAT_V04_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78693,7 +78693,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q15
-<span hidden data-civi-question="bb38bd443ab69a6d" data-kind="examen" data-screen="EXAM_NAT_V04_Q15"></span>
+<span hidden data-civi-question="facb4ae25545b324" data-kind="examen" data-screen="EXAM_NAT_V04_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78752,7 +78752,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q16
-<span hidden data-civi-question="a819306d68bdd948" data-kind="examen" data-screen="EXAM_NAT_V04_Q16"></span>
+<span hidden data-civi-question="06446795f9e0acc5" data-kind="examen" data-screen="EXAM_NAT_V04_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78811,7 +78811,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q17
-<span hidden data-civi-question="94c45c34fa8a4fba" data-kind="examen" data-screen="EXAM_NAT_V04_Q17"></span>
+<span hidden data-civi-question="47e46ed785b637c4" data-kind="examen" data-screen="EXAM_NAT_V04_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78870,7 +78870,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q18
-<span hidden data-civi-question="b37cdf60ce306786" data-kind="examen" data-screen="EXAM_NAT_V04_Q18"></span>
+<span hidden data-civi-question="ec4a914ee321cb16" data-kind="examen" data-screen="EXAM_NAT_V04_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78929,7 +78929,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q19
-<span hidden data-civi-question="415cb1ec6cc022c3" data-kind="examen" data-screen="EXAM_NAT_V04_Q19"></span>
+<span hidden data-civi-question="64b37a7bd5d99e5c" data-kind="examen" data-screen="EXAM_NAT_V04_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -78988,7 +78988,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q20
-<span hidden data-civi-question="6f54ae458941f645" data-kind="examen" data-screen="EXAM_NAT_V04_Q20"></span>
+<span hidden data-civi-question="b99c8868811fcfbf" data-kind="examen" data-screen="EXAM_NAT_V04_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79047,7 +79047,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q21
-<span hidden data-civi-question="ff9bcb9f6477b579" data-kind="examen" data-screen="EXAM_NAT_V04_Q21"></span>
+<span hidden data-civi-question="f80057616d111e54" data-kind="examen" data-screen="EXAM_NAT_V04_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79106,7 +79106,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q22
-<span hidden data-civi-question="c3bd6966f2b24ae8" data-kind="examen" data-screen="EXAM_NAT_V04_Q22"></span>
+<span hidden data-civi-question="900ac9e8fd870761" data-kind="examen" data-screen="EXAM_NAT_V04_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79165,7 +79165,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q23
-<span hidden data-civi-question="0a7e1848a1875bad" data-kind="examen" data-screen="EXAM_NAT_V04_Q23"></span>
+<span hidden data-civi-question="bff779cd32d4eaff" data-kind="examen" data-screen="EXAM_NAT_V04_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79224,7 +79224,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q24
-<span hidden data-civi-question="e2c23ab89a62c306" data-kind="examen" data-screen="EXAM_NAT_V04_Q24"></span>
+<span hidden data-civi-question="1fe63b6aba23f45b" data-kind="examen" data-screen="EXAM_NAT_V04_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79283,7 +79283,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q25
-<span hidden data-civi-question="c3e51b73ca284af2" data-kind="examen" data-screen="EXAM_NAT_V04_Q25"></span>
+<span hidden data-civi-question="0c25dfa7ae60f80a" data-kind="examen" data-screen="EXAM_NAT_V04_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79342,7 +79342,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q26
-<span hidden data-civi-question="a801909c0c1c6773" data-kind="examen" data-screen="EXAM_NAT_V04_Q26"></span>
+<span hidden data-civi-question="d62d3b315add2b5f" data-kind="examen" data-screen="EXAM_NAT_V04_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79401,7 +79401,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q27
-<span hidden data-civi-question="a12287fb3bd7beb7" data-kind="examen" data-screen="EXAM_NAT_V04_Q27"></span>
+<span hidden data-civi-question="79cab16c3b7ce00b" data-kind="examen" data-screen="EXAM_NAT_V04_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79460,7 +79460,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q28
-<span hidden data-civi-question="0d3bede2ce77bc89" data-kind="examen" data-screen="EXAM_NAT_V04_Q28"></span>
+<span hidden data-civi-question="dff40a723a053ee4" data-kind="examen" data-screen="EXAM_NAT_V04_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79531,7 +79531,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q29
-<span hidden data-civi-question="835c26b5c23eebfa" data-kind="examen" data-screen="EXAM_NAT_V04_Q29"></span>
+<span hidden data-civi-question="f852968b568e0c4f" data-kind="examen" data-screen="EXAM_NAT_V04_Q29"></span>
 `@exam_variant = 4`
 
 
@@ -79593,7 +79593,7 @@ Lors d'une révision pour son entretien de naturalisation, un ami confond souven
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q30
-<span hidden data-civi-question="4f0e7d7b75915525" data-kind="examen" data-screen="EXAM_NAT_V04_Q30"></span>
+<span hidden data-civi-question="8ee7dbb644acba2b" data-kind="examen" data-screen="EXAM_NAT_V04_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79652,7 +79652,7 @@ Lors d'un cours d'instruction civique pour adultes, le formateur pose une questi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q31
-<span hidden data-civi-question="dd7ed9ff5d8bc5d1" data-kind="examen" data-screen="EXAM_NAT_V04_Q31"></span>
+<span hidden data-civi-question="2ff6a4663d695971" data-kind="examen" data-screen="EXAM_NAT_V04_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79711,7 +79711,7 @@ Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques j
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q32
-<span hidden data-civi-question="cb054cc760a5927a" data-kind="examen" data-screen="EXAM_NAT_V04_Q32"></span>
+<span hidden data-civi-question="d62910934470584f" data-kind="examen" data-screen="EXAM_NAT_V04_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79770,7 +79770,7 @@ Un ami vous montre sur son téléphone, une nouvelle importante. Les députés e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q33
-<span hidden data-civi-question="2a35797d2af10539" data-kind="examen" data-screen="EXAM_NAT_V04_Q33"></span>
+<span hidden data-civi-question="347e5b837aa0e7b0" data-kind="examen" data-screen="EXAM_NAT_V04_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79829,7 +79829,7 @@ Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q34
-<span hidden data-civi-question="4c9b3097a7d7221c" data-kind="examen" data-screen="EXAM_NAT_V04_Q34"></span>
+<span hidden data-civi-question="baa8cc1dffaf4ba1" data-kind="examen" data-screen="EXAM_NAT_V04_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79888,7 +79888,7 @@ Catherine, votre amie d'enfance vous demande ce que l'Etat français peut financ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q35
-<span hidden data-civi-question="f4b2527360c199cf" data-kind="examen" data-screen="EXAM_NAT_V04_Q35"></span>
+<span hidden data-civi-question="9d089fb3556bf140" data-kind="examen" data-screen="EXAM_NAT_V04_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -79947,7 +79947,7 @@ Une discussion devenue virale sur les réseaux sociaux a été censurée. Vous v
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q36
-<span hidden data-civi-question="736b7f667b53ca77" data-kind="examen" data-screen="EXAM_NAT_V04_Q36"></span>
+<span hidden data-civi-question="8283bb9ce11a64cf" data-kind="examen" data-screen="EXAM_NAT_V04_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -80006,7 +80006,7 @@ Vous regardez la météo à la télé. La présentatrice évoque des températur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q37
-<span hidden data-civi-question="c1d2b56077218f49" data-kind="examen" data-screen="EXAM_NAT_V04_Q37"></span>
+<span hidden data-civi-question="4d8ca1ea2f39c800" data-kind="examen" data-screen="EXAM_NAT_V04_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -80065,7 +80065,7 @@ Un couple d'amis qui attend un enfant se demande lequel des deux parents peut de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q38
-<span hidden data-civi-question="8c16b71af2d81a83" data-kind="examen" data-screen="EXAM_NAT_V04_Q38"></span>
+<span hidden data-civi-question="3d9a763d165d7cb5" data-kind="examen" data-screen="EXAM_NAT_V04_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -80124,7 +80124,7 @@ Un documentaire sur Robert Badinter que vous regardez avec votre conjoint évoqu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q39
-<span hidden data-civi-question="6c2a34431eefbaed" data-kind="examen" data-screen="EXAM_NAT_V04_Q39"></span>
+<span hidden data-civi-question="37c76ac5b0469792" data-kind="examen" data-screen="EXAM_NAT_V04_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -80183,7 +80183,7 @@ Après avoir reçu sa convocation, votre voisin exerçant le métier de policier
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q40
-<span hidden data-civi-question="e8fbcf5c21f8f12a" data-kind="examen" data-screen="EXAM_NAT_V04_Q40"></span>
+<span hidden data-civi-question="1a3b60908085ebfb" data-kind="examen" data-screen="EXAM_NAT_V04_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81257,7 +81257,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q01
-<span hidden data-civi-question="527b50bb0ccf823d" data-kind="examen" data-screen="EXAM_NAT_V05_Q01"></span>
+<span hidden data-civi-question="aef1d1d0d4d2a012" data-kind="examen" data-screen="EXAM_NAT_V05_Q01"></span>
 `@exam_variant = 5`
 
 
@@ -81319,7 +81319,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q02
-<span hidden data-civi-question="0a79dbfd38d22880" data-kind="examen" data-screen="EXAM_NAT_V05_Q02"></span>
+<span hidden data-civi-question="4823428d3c49a29d" data-kind="examen" data-screen="EXAM_NAT_V05_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81378,7 +81378,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q03
-<span hidden data-civi-question="445619043671b045" data-kind="examen" data-screen="EXAM_NAT_V05_Q03"></span>
+<span hidden data-civi-question="892c180a6255c005" data-kind="examen" data-screen="EXAM_NAT_V05_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81437,7 +81437,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q04
-<span hidden data-civi-question="fb6d7a0b2ec9be0c" data-kind="examen" data-screen="EXAM_NAT_V05_Q04"></span>
+<span hidden data-civi-question="5dc8a45ec250e401" data-kind="examen" data-screen="EXAM_NAT_V05_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81496,7 +81496,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q05
-<span hidden data-civi-question="69545e8a7d46c68f" data-kind="examen" data-screen="EXAM_NAT_V05_Q05"></span>
+<span hidden data-civi-question="25a5e4cf351973eb" data-kind="examen" data-screen="EXAM_NAT_V05_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81555,7 +81555,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q06
-<span hidden data-civi-question="1315f8be8310bff4" data-kind="examen" data-screen="EXAM_NAT_V05_Q06"></span>
+<span hidden data-civi-question="51999569bc669883" data-kind="examen" data-screen="EXAM_NAT_V05_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81614,7 +81614,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q07
-<span hidden data-civi-question="d637274228100df9" data-kind="examen" data-screen="EXAM_NAT_V05_Q07"></span>
+<span hidden data-civi-question="3a252de350090bae" data-kind="examen" data-screen="EXAM_NAT_V05_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81673,7 +81673,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q08
-<span hidden data-civi-question="c7f830b22150f714" data-kind="examen" data-screen="EXAM_NAT_V05_Q08"></span>
+<span hidden data-civi-question="b190fddd0687abf6" data-kind="examen" data-screen="EXAM_NAT_V05_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81732,7 +81732,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q09
-<span hidden data-civi-question="4a40a4f98908047d" data-kind="examen" data-screen="EXAM_NAT_V05_Q09"></span>
+<span hidden data-civi-question="5d5f354f1d6a96d2" data-kind="examen" data-screen="EXAM_NAT_V05_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81791,7 +81791,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q10
-<span hidden data-civi-question="75d4d693818512b5" data-kind="examen" data-screen="EXAM_NAT_V05_Q10"></span>
+<span hidden data-civi-question="4750bfe158dfe6c6" data-kind="examen" data-screen="EXAM_NAT_V05_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81850,7 +81850,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q11
-<span hidden data-civi-question="961aacd9c20ac35b" data-kind="examen" data-screen="EXAM_NAT_V05_Q11"></span>
+<span hidden data-civi-question="25316f17fe2ad2dc" data-kind="examen" data-screen="EXAM_NAT_V05_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81909,7 +81909,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q12
-<span hidden data-civi-question="40f686ec631e02ad" data-kind="examen" data-screen="EXAM_NAT_V05_Q12"></span>
+<span hidden data-civi-question="30e73bceb4d91f70" data-kind="examen" data-screen="EXAM_NAT_V05_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -81968,7 +81968,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q13
-<span hidden data-civi-question="eae4e74df3597de0" data-kind="examen" data-screen="EXAM_NAT_V05_Q13"></span>
+<span hidden data-civi-question="0fd62b885cf719b5" data-kind="examen" data-screen="EXAM_NAT_V05_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82027,7 +82027,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q14
-<span hidden data-civi-question="f054b99316cbc9fd" data-kind="examen" data-screen="EXAM_NAT_V05_Q14"></span>
+<span hidden data-civi-question="551003cbd1fc4e2c" data-kind="examen" data-screen="EXAM_NAT_V05_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82086,7 +82086,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q15
-<span hidden data-civi-question="53af6c4c864acc7b" data-kind="examen" data-screen="EXAM_NAT_V05_Q15"></span>
+<span hidden data-civi-question="4757072846fdd329" data-kind="examen" data-screen="EXAM_NAT_V05_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82145,7 +82145,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q16
-<span hidden data-civi-question="4fe2fe0ccc1e2d86" data-kind="examen" data-screen="EXAM_NAT_V05_Q16"></span>
+<span hidden data-civi-question="b903a5233913cf23" data-kind="examen" data-screen="EXAM_NAT_V05_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82204,7 +82204,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q17
-<span hidden data-civi-question="8d2acc5e8448f6ac" data-kind="examen" data-screen="EXAM_NAT_V05_Q17"></span>
+<span hidden data-civi-question="6d75c866f1a27dbf" data-kind="examen" data-screen="EXAM_NAT_V05_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82263,7 +82263,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q18
-<span hidden data-civi-question="429360a6b7b2705a" data-kind="examen" data-screen="EXAM_NAT_V05_Q18"></span>
+<span hidden data-civi-question="84810791c521ac1a" data-kind="examen" data-screen="EXAM_NAT_V05_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82322,7 +82322,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q19
-<span hidden data-civi-question="81cce1bd8f57bb7c" data-kind="examen" data-screen="EXAM_NAT_V05_Q19"></span>
+<span hidden data-civi-question="c04908943f9cad3c" data-kind="examen" data-screen="EXAM_NAT_V05_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82381,7 +82381,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q20
-<span hidden data-civi-question="4e79ddf4083ce1a7" data-kind="examen" data-screen="EXAM_NAT_V05_Q20"></span>
+<span hidden data-civi-question="eaca828c43212bb5" data-kind="examen" data-screen="EXAM_NAT_V05_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82440,7 +82440,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q21
-<span hidden data-civi-question="f17a5688c51fc644" data-kind="examen" data-screen="EXAM_NAT_V05_Q21"></span>
+<span hidden data-civi-question="4037752a9ef9fd14" data-kind="examen" data-screen="EXAM_NAT_V05_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82499,7 +82499,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q22
-<span hidden data-civi-question="eaccf4d2ac46e269" data-kind="examen" data-screen="EXAM_NAT_V05_Q22"></span>
+<span hidden data-civi-question="5f53bcd88eb219ab" data-kind="examen" data-screen="EXAM_NAT_V05_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82558,7 +82558,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q23
-<span hidden data-civi-question="00a5fb35c0b8a9bd" data-kind="examen" data-screen="EXAM_NAT_V05_Q23"></span>
+<span hidden data-civi-question="18ba659d440c8d70" data-kind="examen" data-screen="EXAM_NAT_V05_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82617,7 +82617,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q24
-<span hidden data-civi-question="d240fb554514ce36" data-kind="examen" data-screen="EXAM_NAT_V05_Q24"></span>
+<span hidden data-civi-question="7ea8707b7ea0edda" data-kind="examen" data-screen="EXAM_NAT_V05_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82676,7 +82676,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q25
-<span hidden data-civi-question="4a06e20eac4722ad" data-kind="examen" data-screen="EXAM_NAT_V05_Q25"></span>
+<span hidden data-civi-question="fd28c40b549d94d5" data-kind="examen" data-screen="EXAM_NAT_V05_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82735,7 +82735,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q26
-<span hidden data-civi-question="c8149212a81c5ed3" data-kind="examen" data-screen="EXAM_NAT_V05_Q26"></span>
+<span hidden data-civi-question="e2877801bde6b16f" data-kind="examen" data-screen="EXAM_NAT_V05_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82794,7 +82794,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q27
-<span hidden data-civi-question="9614b15b6de273f3" data-kind="examen" data-screen="EXAM_NAT_V05_Q27"></span>
+<span hidden data-civi-question="9d713773c9b3b100" data-kind="examen" data-screen="EXAM_NAT_V05_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82853,7 +82853,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q28
-<span hidden data-civi-question="63252551f36a104d" data-kind="examen" data-screen="EXAM_NAT_V05_Q28"></span>
+<span hidden data-civi-question="11d05ef309060656" data-kind="examen" data-screen="EXAM_NAT_V05_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -82924,7 +82924,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q29
-<span hidden data-civi-question="527817ba3b2092b3" data-kind="examen" data-screen="EXAM_NAT_V05_Q29"></span>
+<span hidden data-civi-question="8b5e180b5a202730" data-kind="examen" data-screen="EXAM_NAT_V05_Q29"></span>
 `@exam_variant = 5`
 
 
@@ -82986,7 +82986,7 @@ Votre fille prépare un exposé sur la République et vous demande de l'aider à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q30
-<span hidden data-civi-question="90f9885198fd6d4b" data-kind="examen" data-screen="EXAM_NAT_V05_Q30"></span>
+<span hidden data-civi-question="a7f0520cc9e5bccd" data-kind="examen" data-screen="EXAM_NAT_V05_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83045,7 +83045,7 @@ Votre oncle a reçu une convocation pour être juré à la cour d'assises et se 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q31
-<span hidden data-civi-question="6f4929accb1f900f" data-kind="examen" data-screen="EXAM_NAT_V05_Q31"></span>
+<span hidden data-civi-question="6179370263001e1b" data-kind="examen" data-screen="EXAM_NAT_V05_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83104,7 +83104,7 @@ Lors d’un échange Erasmus dans un pays européen, un lycéen allemand vous de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q32
-<span hidden data-civi-question="9483b83ebcd1905c" data-kind="examen" data-screen="EXAM_NAT_V05_Q32"></span>
+<span hidden data-civi-question="9e54e16d73cf37eb" data-kind="examen" data-screen="EXAM_NAT_V05_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83163,7 +83163,7 @@ Un ami de nationalité étrangère, en situation régulière, envisage de créer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q33
-<span hidden data-civi-question="51947b9c66b50869" data-kind="examen" data-screen="EXAM_NAT_V05_Q33"></span>
+<span hidden data-civi-question="2f1992f608792172" data-kind="examen" data-screen="EXAM_NAT_V05_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83222,7 +83222,7 @@ Cynthia, votre fille révise ses cours d'enseignement moral et civique car elle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q34
-<span hidden data-civi-question="bb38bd443ab69a6d" data-kind="examen" data-screen="EXAM_NAT_V05_Q34"></span>
+<span hidden data-civi-question="afe9cc557cdb1806" data-kind="examen" data-screen="EXAM_NAT_V05_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83281,7 +83281,7 @@ Regardant les infos avec votre père, il confond souvent les rôles du présiden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q35
-<span hidden data-civi-question="6ab34a29e961a1ba" data-kind="examen" data-screen="EXAM_NAT_V05_Q35"></span>
+<span hidden data-civi-question="b0f23699363bb258" data-kind="examen" data-screen="EXAM_NAT_V05_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83340,7 +83340,7 @@ Vous regardez une émission sur la chaîne TF1.L'animateur pose une question. Vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q36
-<span hidden data-civi-question="71e86c97b8002063" data-kind="examen" data-screen="EXAM_NAT_V05_Q36"></span>
+<span hidden data-civi-question="cbb132e80b0b4e1a" data-kind="examen" data-screen="EXAM_NAT_V05_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83399,7 +83399,7 @@ Lors d'un quiz de culture générale entre amis, la question suivante vous est p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q37
-<span hidden data-civi-question="6d63d77ccd883a3f" data-kind="examen" data-screen="EXAM_NAT_V05_Q37"></span>
+<span hidden data-civi-question="05170aecf1aede87" data-kind="examen" data-screen="EXAM_NAT_V05_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83458,7 +83458,7 @@ Pendant un débat organisé à la médiathèque sur la place des religions dans 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q38
-<span hidden data-civi-question="20dc780a508d0df3" data-kind="examen" data-screen="EXAM_NAT_V05_Q38"></span>
+<span hidden data-civi-question="a0d633094a8bb9df" data-kind="examen" data-screen="EXAM_NAT_V05_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83517,7 +83517,7 @@ Lors d'une réunion de rentrée, le directeur invite les parents à s'investir d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q39
-<span hidden data-civi-question="bddc02ece6b65d94" data-kind="examen" data-screen="EXAM_NAT_V05_Q39"></span>
+<span hidden data-civi-question="15741089bc593d16" data-kind="examen" data-screen="EXAM_NAT_V05_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -83576,7 +83576,7 @@ Un vieux journal retrouvé dans les affaires de votre grand-père évoque le tra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V05_Q40
-<span hidden data-civi-question="e841965422c8267c" data-kind="examen" data-screen="EXAM_NAT_V05_Q40"></span>
+<span hidden data-civi-question="d4249fd72efe1d77" data-kind="examen" data-screen="EXAM_NAT_V05_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -84658,7 +84658,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q01
-<span hidden data-civi-question="fdc7e9780b597909" data-kind="examen" data-screen="EXAM_NAT_V06_Q01"></span>
+<span hidden data-civi-question="cd7ad50a2acdc36f" data-kind="examen" data-screen="EXAM_NAT_V06_Q01"></span>
 `@exam_variant = 6`
 
 
@@ -84720,7 +84720,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q02
-<span hidden data-civi-question="8a86ab2e354058f2" data-kind="examen" data-screen="EXAM_NAT_V06_Q02"></span>
+<span hidden data-civi-question="382f63fabf959435" data-kind="examen" data-screen="EXAM_NAT_V06_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -84779,7 +84779,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q03
-<span hidden data-civi-question="c661b854fe720f39" data-kind="examen" data-screen="EXAM_NAT_V06_Q03"></span>
+<span hidden data-civi-question="adddddb896dda282" data-kind="examen" data-screen="EXAM_NAT_V06_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -84838,7 +84838,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q04
-<span hidden data-civi-question="ab49a6402f63e72f" data-kind="examen" data-screen="EXAM_NAT_V06_Q04"></span>
+<span hidden data-civi-question="8cb9a5f4bae1c875" data-kind="examen" data-screen="EXAM_NAT_V06_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -84897,7 +84897,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q05
-<span hidden data-civi-question="4f24405a4f8102b3" data-kind="examen" data-screen="EXAM_NAT_V06_Q05"></span>
+<span hidden data-civi-question="3db462bf396dde43" data-kind="examen" data-screen="EXAM_NAT_V06_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -84956,7 +84956,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q06
-<span hidden data-civi-question="013a716b03a5de28" data-kind="examen" data-screen="EXAM_NAT_V06_Q06"></span>
+<span hidden data-civi-question="f91d2af6405cbcd3" data-kind="examen" data-screen="EXAM_NAT_V06_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85015,7 +85015,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q07
-<span hidden data-civi-question="b35cf7ee6f6dbb69" data-kind="examen" data-screen="EXAM_NAT_V06_Q07"></span>
+<span hidden data-civi-question="afb936f3103c25b0" data-kind="examen" data-screen="EXAM_NAT_V06_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85074,7 +85074,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q08
-<span hidden data-civi-question="86c0ef6a061d8bc7" data-kind="examen" data-screen="EXAM_NAT_V06_Q08"></span>
+<span hidden data-civi-question="0bb6ecad4b11e07b" data-kind="examen" data-screen="EXAM_NAT_V06_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85133,7 +85133,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q09
-<span hidden data-civi-question="a236b6ec2e01e52f" data-kind="examen" data-screen="EXAM_NAT_V06_Q09"></span>
+<span hidden data-civi-question="0ca811981d6627fb" data-kind="examen" data-screen="EXAM_NAT_V06_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85192,7 +85192,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q10
-<span hidden data-civi-question="8c6f679f03b36007" data-kind="examen" data-screen="EXAM_NAT_V06_Q10"></span>
+<span hidden data-civi-question="99726261268dcda9" data-kind="examen" data-screen="EXAM_NAT_V06_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85251,7 +85251,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q11
-<span hidden data-civi-question="9feb52d108a953c6" data-kind="examen" data-screen="EXAM_NAT_V06_Q11"></span>
+<span hidden data-civi-question="3475494ec061e64a" data-kind="examen" data-screen="EXAM_NAT_V06_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85310,7 +85310,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q12
-<span hidden data-civi-question="9d61866a203b0b30" data-kind="examen" data-screen="EXAM_NAT_V06_Q12"></span>
+<span hidden data-civi-question="24f8fdf6b697dab9" data-kind="examen" data-screen="EXAM_NAT_V06_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85369,7 +85369,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q13
-<span hidden data-civi-question="b3128f744f1064a9" data-kind="examen" data-screen="EXAM_NAT_V06_Q13"></span>
+<span hidden data-civi-question="2178e03c76f9b71b" data-kind="examen" data-screen="EXAM_NAT_V06_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85428,7 +85428,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q14
-<span hidden data-civi-question="e9d378789a18c13e" data-kind="examen" data-screen="EXAM_NAT_V06_Q14"></span>
+<span hidden data-civi-question="24b340bf2888e491" data-kind="examen" data-screen="EXAM_NAT_V06_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85487,7 +85487,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q15
-<span hidden data-civi-question="e841965422c8267c" data-kind="examen" data-screen="EXAM_NAT_V06_Q15"></span>
+<span hidden data-civi-question="2115b4e625f7f540" data-kind="examen" data-screen="EXAM_NAT_V06_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85546,7 +85546,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q16
-<span hidden data-civi-question="0daabd9dd1f1b6ac" data-kind="examen" data-screen="EXAM_NAT_V06_Q16"></span>
+<span hidden data-civi-question="62bfe43f5f3b75c6" data-kind="examen" data-screen="EXAM_NAT_V06_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85605,7 +85605,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q17
-<span hidden data-civi-question="c1d2b56077218f49" data-kind="examen" data-screen="EXAM_NAT_V06_Q17"></span>
+<span hidden data-civi-question="47cd861bf960e04d" data-kind="examen" data-screen="EXAM_NAT_V06_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85664,7 +85664,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q18
-<span hidden data-civi-question="9483b83ebcd1905c" data-kind="examen" data-screen="EXAM_NAT_V06_Q18"></span>
+<span hidden data-civi-question="79071d6905a6d7b1" data-kind="examen" data-screen="EXAM_NAT_V06_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85723,7 +85723,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q19
-<span hidden data-civi-question="bed4622af4f4cd42" data-kind="examen" data-screen="EXAM_NAT_V06_Q19"></span>
+<span hidden data-civi-question="fa622437cd8f39ed" data-kind="examen" data-screen="EXAM_NAT_V06_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85782,7 +85782,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q20
-<span hidden data-civi-question="b799e5129226416b" data-kind="examen" data-screen="EXAM_NAT_V06_Q20"></span>
+<span hidden data-civi-question="0e92945dfe80a575" data-kind="examen" data-screen="EXAM_NAT_V06_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85841,7 +85841,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q21
-<span hidden data-civi-question="5ade733f4262570b" data-kind="examen" data-screen="EXAM_NAT_V06_Q21"></span>
+<span hidden data-civi-question="c4a5e5b4cd3b082e" data-kind="examen" data-screen="EXAM_NAT_V06_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85900,7 +85900,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q22
-<span hidden data-civi-question="0dfaf7b46b9d3c6e" data-kind="examen" data-screen="EXAM_NAT_V06_Q22"></span>
+<span hidden data-civi-question="1148de191529dc31" data-kind="examen" data-screen="EXAM_NAT_V06_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -85959,7 +85959,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q23
-<span hidden data-civi-question="6b19ad5011b94d88" data-kind="examen" data-screen="EXAM_NAT_V06_Q23"></span>
+<span hidden data-civi-question="439956480f75de2e" data-kind="examen" data-screen="EXAM_NAT_V06_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86018,7 +86018,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q24
-<span hidden data-civi-question="4f27eb55e9473bf3" data-kind="examen" data-screen="EXAM_NAT_V06_Q24"></span>
+<span hidden data-civi-question="57ccb5d12458eed0" data-kind="examen" data-screen="EXAM_NAT_V06_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86077,7 +86077,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q25
-<span hidden data-civi-question="fa5e8f2fc776938e" data-kind="examen" data-screen="EXAM_NAT_V06_Q25"></span>
+<span hidden data-civi-question="15e782ebc1321e5e" data-kind="examen" data-screen="EXAM_NAT_V06_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86136,7 +86136,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q26
-<span hidden data-civi-question="9310ae4fc56ac7f0" data-kind="examen" data-screen="EXAM_NAT_V06_Q26"></span>
+<span hidden data-civi-question="3cf23e042083ffad" data-kind="examen" data-screen="EXAM_NAT_V06_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86195,7 +86195,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q27
-<span hidden data-civi-question="df71905a107dd1f8" data-kind="examen" data-screen="EXAM_NAT_V06_Q27"></span>
+<span hidden data-civi-question="245e5fcd607d5e48" data-kind="examen" data-screen="EXAM_NAT_V06_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86254,7 +86254,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q28
-<span hidden data-civi-question="1ca6298a34582885" data-kind="examen" data-screen="EXAM_NAT_V06_Q28"></span>
+<span hidden data-civi-question="9bd3e40a8d501b5b" data-kind="examen" data-screen="EXAM_NAT_V06_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86325,7 +86325,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q29
-<span hidden data-civi-question="d352066e3e6b118a" data-kind="examen" data-screen="EXAM_NAT_V06_Q29"></span>
+<span hidden data-civi-question="31e62696f97f0c8b" data-kind="examen" data-screen="EXAM_NAT_V06_Q29"></span>
 `@exam_variant = 6`
 
 
@@ -86387,7 +86387,7 @@ Lors d'une cérémonie officielle à la mairie, l'hymne européen est diffusé. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q30
-<span hidden data-civi-question="86414eee2cbf6b43" data-kind="examen" data-screen="EXAM_NAT_V06_Q30"></span>
+<span hidden data-civi-question="2899f6f5985bd453" data-kind="examen" data-screen="EXAM_NAT_V06_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86446,7 +86446,7 @@ Pendant un quiz de culture générale entre amis, une question porte sur le dern
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q31
-<span hidden data-civi-question="a57dc7b22c408807" data-kind="examen" data-screen="EXAM_NAT_V06_Q31"></span>
+<span hidden data-civi-question="bf97e8a37022adf8" data-kind="examen" data-screen="EXAM_NAT_V06_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86505,7 +86505,7 @@ Pendant un quiz de culture générale entre amis, une question porte sur le dern
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q32
-<span hidden data-civi-question="0910572325e1e2f0" data-kind="examen" data-screen="EXAM_NAT_V06_Q32"></span>
+<span hidden data-civi-question="04c6d57f47bbbf86" data-kind="examen" data-screen="EXAM_NAT_V06_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86564,7 +86564,7 @@ Le lave-linge de votre voisine, acheté un an plus tôt, tombe en panne. Elle vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q33
-<span hidden data-civi-question="3a61cca84cbc8c35" data-kind="examen" data-screen="EXAM_NAT_V06_Q33"></span>
+<span hidden data-civi-question="9151d331d5cdfced" data-kind="examen" data-screen="EXAM_NAT_V06_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86623,7 +86623,7 @@ Lors d'une soirée "jeux de société" avec vos amis, Alfred vous pose une quest
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q34
-<span hidden data-civi-question="8d2acc5e8448f6ac" data-kind="examen" data-screen="EXAM_NAT_V06_Q34"></span>
+<span hidden data-civi-question="0932e0ff3ac05ebe" data-kind="examen" data-screen="EXAM_NAT_V06_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86682,7 +86682,7 @@ Vous vous émerveillez devant le tableau intitulé "La Liberté guidant le peupl
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q35
-<span hidden data-civi-question="8d5aeca0cf6a8e66" data-kind="examen" data-screen="EXAM_NAT_V06_Q35"></span>
+<span hidden data-civi-question="db4973be7c011025" data-kind="examen" data-screen="EXAM_NAT_V06_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86741,7 +86741,7 @@ Lors d'un jeu-quiz organisé pendant une soirée entre amis, une question porte 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q36
-<span hidden data-civi-question="ab675e1e16663315" data-kind="examen" data-screen="EXAM_NAT_V06_Q36"></span>
+<span hidden data-civi-question="32c77c8b9f734c07" data-kind="examen" data-screen="EXAM_NAT_V06_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86800,7 +86800,7 @@ Une amie enceinte s'inquiète que son employeur puisse la licencier à cause de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q37
-<span hidden data-civi-question="aa644ac96c6c8ed6" data-kind="examen" data-screen="EXAM_NAT_V06_Q37"></span>
+<span hidden data-civi-question="075b6a3dc99cc94e" data-kind="examen" data-screen="EXAM_NAT_V06_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86859,7 +86859,7 @@ Un reportage judiciaire évoque plusieurs types d'infractions. Votre nièce vous
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q38
-<span hidden data-civi-question="0264a8bfff03838b" data-kind="examen" data-screen="EXAM_NAT_V06_Q38"></span>
+<span hidden data-civi-question="a3d3333877cd4b4f" data-kind="examen" data-screen="EXAM_NAT_V06_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86918,7 +86918,7 @@ En visitant les Invalides avec un ami, celui-ci vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q39
-<span hidden data-civi-question="91eb319c89978060" data-kind="examen" data-screen="EXAM_NAT_V06_Q39"></span>
+<span hidden data-civi-question="74ef61f04a9f15d9" data-kind="examen" data-screen="EXAM_NAT_V06_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -86977,7 +86977,7 @@ En réservant un séjour au ski avec des amis allemands, l'un d'eux vous demande
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V06_Q40
-<span hidden data-civi-question="b99d87e9a9ea0c60" data-kind="examen" data-screen="EXAM_NAT_V06_Q40"></span>
+<span hidden data-civi-question="9f5059344b4b9f96" data-kind="examen" data-screen="EXAM_NAT_V06_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88027,7 +88027,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q01
-<span hidden data-civi-question="ebdec005e06056b2" data-kind="examen" data-screen="EXAM_NAT_V07_Q01"></span>
+<span hidden data-civi-question="a76a59dd83f24a9d" data-kind="examen" data-screen="EXAM_NAT_V07_Q01"></span>
 `@exam_variant = 7`
 
 
@@ -88089,7 +88089,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q02
-<span hidden data-civi-question="86956ca57623c653" data-kind="examen" data-screen="EXAM_NAT_V07_Q02"></span>
+<span hidden data-civi-question="42fcfca44d597f61" data-kind="examen" data-screen="EXAM_NAT_V07_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88148,7 +88148,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q03
-<span hidden data-civi-question="0a7e673bba2742c6" data-kind="examen" data-screen="EXAM_NAT_V07_Q03"></span>
+<span hidden data-civi-question="0987dd72cf5fa239" data-kind="examen" data-screen="EXAM_NAT_V07_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88207,7 +88207,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q04
-<span hidden data-civi-question="c980eb1fb2bc23b5" data-kind="examen" data-screen="EXAM_NAT_V07_Q04"></span>
+<span hidden data-civi-question="2143251d9f57add1" data-kind="examen" data-screen="EXAM_NAT_V07_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88266,7 +88266,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q05
-<span hidden data-civi-question="5ff4b10345bfbee1" data-kind="examen" data-screen="EXAM_NAT_V07_Q05"></span>
+<span hidden data-civi-question="e3e2b301f86041a7" data-kind="examen" data-screen="EXAM_NAT_V07_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88325,7 +88325,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q06
-<span hidden data-civi-question="5fd9812d742be4e7" data-kind="examen" data-screen="EXAM_NAT_V07_Q06"></span>
+<span hidden data-civi-question="2b0e060cc690291a" data-kind="examen" data-screen="EXAM_NAT_V07_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88384,7 +88384,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q07
-<span hidden data-civi-question="40093c6a3130ce36" data-kind="examen" data-screen="EXAM_NAT_V07_Q07"></span>
+<span hidden data-civi-question="deaeb0ce0caa974f" data-kind="examen" data-screen="EXAM_NAT_V07_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88443,7 +88443,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q08
-<span hidden data-civi-question="5dbb38ec14776f35" data-kind="examen" data-screen="EXAM_NAT_V07_Q08"></span>
+<span hidden data-civi-question="82e475c7576bdb00" data-kind="examen" data-screen="EXAM_NAT_V07_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88502,7 +88502,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q09
-<span hidden data-civi-question="f9988aa678cb3a04" data-kind="examen" data-screen="EXAM_NAT_V07_Q09"></span>
+<span hidden data-civi-question="ed7ac9570522a144" data-kind="examen" data-screen="EXAM_NAT_V07_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88561,7 +88561,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q10
-<span hidden data-civi-question="f6513a282642237a" data-kind="examen" data-screen="EXAM_NAT_V07_Q10"></span>
+<span hidden data-civi-question="c99074a45b732372" data-kind="examen" data-screen="EXAM_NAT_V07_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88620,7 +88620,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q11
-<span hidden data-civi-question="ab675e1e16663315" data-kind="examen" data-screen="EXAM_NAT_V07_Q11"></span>
+<span hidden data-civi-question="234ec5aa7e04253a" data-kind="examen" data-screen="EXAM_NAT_V07_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88679,7 +88679,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q12
-<span hidden data-civi-question="52196796eb646082" data-kind="examen" data-screen="EXAM_NAT_V07_Q12"></span>
+<span hidden data-civi-question="219644c8306bb82e" data-kind="examen" data-screen="EXAM_NAT_V07_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88738,7 +88738,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q13
-<span hidden data-civi-question="17b4838d6030a4ae" data-kind="examen" data-screen="EXAM_NAT_V07_Q13"></span>
+<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="examen" data-screen="EXAM_NAT_V07_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88797,7 +88797,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q14
-<span hidden data-civi-question="09be79f9922d4679" data-kind="examen" data-screen="EXAM_NAT_V07_Q14"></span>
+<span hidden data-civi-question="0c2da00dfcc9e085" data-kind="examen" data-screen="EXAM_NAT_V07_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88856,7 +88856,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q15
-<span hidden data-civi-question="dc4dff9e095010fa" data-kind="examen" data-screen="EXAM_NAT_V07_Q15"></span>
+<span hidden data-civi-question="be6a1bcd34eb0fe0" data-kind="examen" data-screen="EXAM_NAT_V07_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88915,7 +88915,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q16
-<span hidden data-civi-question="4c9b3097a7d7221c" data-kind="examen" data-screen="EXAM_NAT_V07_Q16"></span>
+<span hidden data-civi-question="0d9f8ccbf80201c1" data-kind="examen" data-screen="EXAM_NAT_V07_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -88974,7 +88974,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q17
-<span hidden data-civi-question="9f129763c0c00228" data-kind="examen" data-screen="EXAM_NAT_V07_Q17"></span>
+<span hidden data-civi-question="e5274ca1174c6fc4" data-kind="examen" data-screen="EXAM_NAT_V07_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89033,7 +89033,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q18
-<span hidden data-civi-question="3dca61aa6821f37a" data-kind="examen" data-screen="EXAM_NAT_V07_Q18"></span>
+<span hidden data-civi-question="63d9c71d3b371b8a" data-kind="examen" data-screen="EXAM_NAT_V07_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89092,7 +89092,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q19
-<span hidden data-civi-question="2932d37c9d5c6a89" data-kind="examen" data-screen="EXAM_NAT_V07_Q19"></span>
+<span hidden data-civi-question="f992632a076865ff" data-kind="examen" data-screen="EXAM_NAT_V07_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89151,7 +89151,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q20
-<span hidden data-civi-question="2629f09d44362005" data-kind="examen" data-screen="EXAM_NAT_V07_Q20"></span>
+<span hidden data-civi-question="499b915b2d6c29cb" data-kind="examen" data-screen="EXAM_NAT_V07_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89210,7 +89210,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q21
-<span hidden data-civi-question="393ae1a0f3695083" data-kind="examen" data-screen="EXAM_NAT_V07_Q21"></span>
+<span hidden data-civi-question="edffde870167932d" data-kind="examen" data-screen="EXAM_NAT_V07_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89269,7 +89269,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q22
-<span hidden data-civi-question="b0a5c4a616631566" data-kind="examen" data-screen="EXAM_NAT_V07_Q22"></span>
+<span hidden data-civi-question="b7201500a5b2dde8" data-kind="examen" data-screen="EXAM_NAT_V07_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89328,7 +89328,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q23
-<span hidden data-civi-question="67f77ea41bd8c67d" data-kind="examen" data-screen="EXAM_NAT_V07_Q23"></span>
+<span hidden data-civi-question="7648dc4dd639bd1b" data-kind="examen" data-screen="EXAM_NAT_V07_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89387,7 +89387,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q24
-<span hidden data-civi-question="b624272f62c0ace3" data-kind="examen" data-screen="EXAM_NAT_V07_Q24"></span>
+<span hidden data-civi-question="12df1296c8befdb0" data-kind="examen" data-screen="EXAM_NAT_V07_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89446,7 +89446,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q25
-<span hidden data-civi-question="90f9885198fd6d4b" data-kind="examen" data-screen="EXAM_NAT_V07_Q25"></span>
+<span hidden data-civi-question="4bfa3409b1066dea" data-kind="examen" data-screen="EXAM_NAT_V07_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89505,7 +89505,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q26
-<span hidden data-civi-question="aa69c10fb539b9b5" data-kind="examen" data-screen="EXAM_NAT_V07_Q26"></span>
+<span hidden data-civi-question="afe7ae593b6228eb" data-kind="examen" data-screen="EXAM_NAT_V07_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89564,7 +89564,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q27
-<span hidden data-civi-question="8eda539227710a9d" data-kind="examen" data-screen="EXAM_NAT_V07_Q27"></span>
+<span hidden data-civi-question="c30e1d574dc76c9b" data-kind="examen" data-screen="EXAM_NAT_V07_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89623,7 +89623,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q28
-<span hidden data-civi-question="8ef60572953ce093" data-kind="examen" data-screen="EXAM_NAT_V07_Q28"></span>
+<span hidden data-civi-question="628b22ee30419747" data-kind="examen" data-screen="EXAM_NAT_V07_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89694,7 +89694,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q29
-<span hidden data-civi-question="f886ed3d8fc36f1f" data-kind="examen" data-screen="EXAM_NAT_V07_Q29"></span>
+<span hidden data-civi-question="e6ddb69f900669f1" data-kind="examen" data-screen="EXAM_NAT_V07_Q29"></span>
 `@exam_variant = 7`
 
 
@@ -89756,7 +89756,7 @@ Vous invitez deux amis chez vous. Vous débattez de plusieurs sujets dont la rel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q30
-<span hidden data-civi-question="40ba02e4d324522d" data-kind="examen" data-screen="EXAM_NAT_V07_Q30"></span>
+<span hidden data-civi-question="43a0ada12e6189a6" data-kind="examen" data-screen="EXAM_NAT_V07_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89815,7 +89815,7 @@ Pendant un cours sur l'histoire de l'Europe, le formateur pose la question suiva
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q31
-<span hidden data-civi-question="c661b854fe720f39" data-kind="examen" data-screen="EXAM_NAT_V07_Q31"></span>
+<span hidden data-civi-question="966ddb604545c76a" data-kind="examen" data-screen="EXAM_NAT_V07_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89874,7 +89874,7 @@ Un cousin venu d'Angleterre vous demande d'expliquer, simplement, quel est le r�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q32
-<span hidden data-civi-question="9614b15b6de273f3" data-kind="examen" data-screen="EXAM_NAT_V07_Q32"></span>
+<span hidden data-civi-question="4f784b0d8ec59c5e" data-kind="examen" data-screen="EXAM_NAT_V07_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89933,7 +89933,7 @@ Un ami tout juste arrivé en France et en recherche d'emploi vous demande par o�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q33
-<span hidden data-civi-question="35f5bcb92fb3f3df" data-kind="examen" data-screen="EXAM_NAT_V07_Q33"></span>
+<span hidden data-civi-question="54b13297210c8b1f" data-kind="examen" data-screen="EXAM_NAT_V07_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -89992,7 +89992,7 @@ Pendant un cours sur l'Union européenne, le formateur demande de reconnaître :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q34
-<span hidden data-civi-question="d5b782799b0d3b27" data-kind="examen" data-screen="EXAM_NAT_V07_Q34"></span>
+<span hidden data-civi-question="d88d5bfc2e1cf8ff" data-kind="examen" data-screen="EXAM_NAT_V07_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -90051,7 +90051,7 @@ Pendant un débat animé au café du coin, un habitué affirme qu'on peut ignore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q35
-<span hidden data-civi-question="7612baf7448c1f98" data-kind="examen" data-screen="EXAM_NAT_V07_Q35"></span>
+<span hidden data-civi-question="b4059c4c288ba9dd" data-kind="examen" data-screen="EXAM_NAT_V07_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -90110,7 +90110,7 @@ Vous rendez visite à votre grand-mère dans sa maison de retraite. Vous aimez v
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q36
-<span hidden data-civi-question="4f24405a4f8102b3" data-kind="examen" data-screen="EXAM_NAT_V07_Q36"></span>
+<span hidden data-civi-question="e4d60cfbbd6d8ea8" data-kind="examen" data-screen="EXAM_NAT_V07_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -90169,7 +90169,7 @@ Un ami originaire d'un pays où la polygamie est autorisée vous demande si elle
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q37
-<span hidden data-civi-question="71e1ac1daa9ccf89" data-kind="examen" data-screen="EXAM_NAT_V07_Q37"></span>
+<span hidden data-civi-question="7705a229a9c2cb93" data-kind="examen" data-screen="EXAM_NAT_V07_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -90228,7 +90228,7 @@ Votre fille étudie l'histoire de l'école en France et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q38
-<span hidden data-civi-question="fb6d7a0b2ec9be0c" data-kind="examen" data-screen="EXAM_NAT_V07_Q38"></span>
+<span hidden data-civi-question="161867cef4836a95" data-kind="examen" data-screen="EXAM_NAT_V07_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -90287,7 +90287,7 @@ Un ami suit actuellement les cours d'une formation civique. Il a compris que la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q39
-<span hidden data-civi-question="ff66280c0d0822c6" data-kind="examen" data-screen="EXAM_NAT_V07_Q39"></span>
+<span hidden data-civi-question="8bce6b6ac446424f" data-kind="examen" data-screen="EXAM_NAT_V07_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -90346,7 +90346,7 @@ Un couple d'amis dont l'enfant est en situation de handicap s'inquiète de savoi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q40
-<span hidden data-civi-question="cf63667c7ca1c7cd" data-kind="examen" data-screen="EXAM_NAT_V07_Q40"></span>
+<span hidden data-civi-question="da2f6eab0ef2c4b1" data-kind="examen" data-screen="EXAM_NAT_V07_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91420,7 +91420,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q01
-<span hidden data-civi-question="6f5b992c2365540a" data-kind="examen" data-screen="EXAM_NAT_V08_Q01"></span>
+<span hidden data-civi-question="3955084467602790" data-kind="examen" data-screen="EXAM_NAT_V08_Q01"></span>
 `@exam_variant = 8`
 
 
@@ -91482,7 +91482,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q02
-<span hidden data-civi-question="528d0c44d5099a92" data-kind="examen" data-screen="EXAM_NAT_V08_Q02"></span>
+<span hidden data-civi-question="b6dcd470cfe2e8bf" data-kind="examen" data-screen="EXAM_NAT_V08_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91541,7 +91541,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q03
-<span hidden data-civi-question="006e40fc8313dbcf" data-kind="examen" data-screen="EXAM_NAT_V08_Q03"></span>
+<span hidden data-civi-question="5f850b013e22f923" data-kind="examen" data-screen="EXAM_NAT_V08_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91600,7 +91600,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q04
-<span hidden data-civi-question="ec919d56664930ef" data-kind="examen" data-screen="EXAM_NAT_V08_Q04"></span>
+<span hidden data-civi-question="7581dc261616e337" data-kind="examen" data-screen="EXAM_NAT_V08_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91659,7 +91659,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q05
-<span hidden data-civi-question="8fb30a6992582371" data-kind="examen" data-screen="EXAM_NAT_V08_Q05"></span>
+<span hidden data-civi-question="b2e8d46dd857b8e3" data-kind="examen" data-screen="EXAM_NAT_V08_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91718,7 +91718,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q06
-<span hidden data-civi-question="1fd51296e3a19289" data-kind="examen" data-screen="EXAM_NAT_V08_Q06"></span>
+<span hidden data-civi-question="b459eea9e51f0ec9" data-kind="examen" data-screen="EXAM_NAT_V08_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91777,7 +91777,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q07
-<span hidden data-civi-question="20dc780a508d0df3" data-kind="examen" data-screen="EXAM_NAT_V08_Q07"></span>
+<span hidden data-civi-question="7b489bf0dbec3d42" data-kind="examen" data-screen="EXAM_NAT_V08_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91836,7 +91836,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q08
-<span hidden data-civi-question="f886ed3d8fc36f1f" data-kind="examen" data-screen="EXAM_NAT_V08_Q08"></span>
+<span hidden data-civi-question="5067a14a20761e6f" data-kind="examen" data-screen="EXAM_NAT_V08_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91895,7 +91895,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q09
-<span hidden data-civi-question="fea91c8e958a083c" data-kind="examen" data-screen="EXAM_NAT_V08_Q09"></span>
+<span hidden data-civi-question="fb28af334314e3cc" data-kind="examen" data-screen="EXAM_NAT_V08_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91954,7 +91954,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q10
-<span hidden data-civi-question="b711042ba28c7269" data-kind="examen" data-screen="EXAM_NAT_V08_Q10"></span>
+<span hidden data-civi-question="d37dd06c8765efe1" data-kind="examen" data-screen="EXAM_NAT_V08_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92013,7 +92013,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q11
-<span hidden data-civi-question="9913b824be046ed1" data-kind="examen" data-screen="EXAM_NAT_V08_Q11"></span>
+<span hidden data-civi-question="2e5fa6563f043fc2" data-kind="examen" data-screen="EXAM_NAT_V08_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92072,7 +92072,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q12
-<span hidden data-civi-question="19320836cc452b9f" data-kind="examen" data-screen="EXAM_NAT_V08_Q12"></span>
+<span hidden data-civi-question="555269e0063d511c" data-kind="examen" data-screen="EXAM_NAT_V08_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92131,7 +92131,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q13
-<span hidden data-civi-question="2a4326918e500623" data-kind="examen" data-screen="EXAM_NAT_V08_Q13"></span>
+<span hidden data-civi-question="7a4e63ebe39b6eb7" data-kind="examen" data-screen="EXAM_NAT_V08_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92190,7 +92190,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q14
-<span hidden data-civi-question="58414d4390759dfb" data-kind="examen" data-screen="EXAM_NAT_V08_Q14"></span>
+<span hidden data-civi-question="111e6313849023dc" data-kind="examen" data-screen="EXAM_NAT_V08_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92249,7 +92249,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q15
-<span hidden data-civi-question="337d3e27d1161c61" data-kind="examen" data-screen="EXAM_NAT_V08_Q15"></span>
+<span hidden data-civi-question="cd28a056f6719b1c" data-kind="examen" data-screen="EXAM_NAT_V08_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92308,7 +92308,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q16
-<span hidden data-civi-question="69a2564c2eccf475" data-kind="examen" data-screen="EXAM_NAT_V08_Q16"></span>
+<span hidden data-civi-question="dcdaad2e82f67449" data-kind="examen" data-screen="EXAM_NAT_V08_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92367,7 +92367,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q17
-<span hidden data-civi-question="2c261c7a183e8abd" data-kind="examen" data-screen="EXAM_NAT_V08_Q17"></span>
+<span hidden data-civi-question="14d2866b7018e2fc" data-kind="examen" data-screen="EXAM_NAT_V08_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92426,7 +92426,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q18
-<span hidden data-civi-question="1b9fa5286a1ac160" data-kind="examen" data-screen="EXAM_NAT_V08_Q18"></span>
+<span hidden data-civi-question="aded452a4ed38dde" data-kind="examen" data-screen="EXAM_NAT_V08_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92485,7 +92485,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q19
-<span hidden data-civi-question="43a2a2959f34d9c7" data-kind="examen" data-screen="EXAM_NAT_V08_Q19"></span>
+<span hidden data-civi-question="837756b0656a9423" data-kind="examen" data-screen="EXAM_NAT_V08_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92544,7 +92544,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q20
-<span hidden data-civi-question="b202122e2b06da55" data-kind="examen" data-screen="EXAM_NAT_V08_Q20"></span>
+<span hidden data-civi-question="83bf05b7ec40cc33" data-kind="examen" data-screen="EXAM_NAT_V08_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92603,7 +92603,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q21
-<span hidden data-civi-question="ef6e206332c0b2c4" data-kind="examen" data-screen="EXAM_NAT_V08_Q21"></span>
+<span hidden data-civi-question="797a207bf1f22c2b" data-kind="examen" data-screen="EXAM_NAT_V08_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92662,7 +92662,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q22
-<span hidden data-civi-question="8d219f7233858116" data-kind="examen" data-screen="EXAM_NAT_V08_Q22"></span>
+<span hidden data-civi-question="0599addc29d349a0" data-kind="examen" data-screen="EXAM_NAT_V08_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92721,7 +92721,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q23
-<span hidden data-civi-question="7c527a2b5269e4d0" data-kind="examen" data-screen="EXAM_NAT_V08_Q23"></span>
+<span hidden data-civi-question="fc55be8522ae1a4e" data-kind="examen" data-screen="EXAM_NAT_V08_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92780,7 +92780,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q24
-<span hidden data-civi-question="3e5a8adb549f523d" data-kind="examen" data-screen="EXAM_NAT_V08_Q24"></span>
+<span hidden data-civi-question="f1de3585ffae1970" data-kind="examen" data-screen="EXAM_NAT_V08_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92839,7 +92839,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q25
-<span hidden data-civi-question="42181a0fba4c8f37" data-kind="examen" data-screen="EXAM_NAT_V08_Q25"></span>
+<span hidden data-civi-question="ffed07938e905898" data-kind="examen" data-screen="EXAM_NAT_V08_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92898,7 +92898,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q26
-<span hidden data-civi-question="ba053b9ad2fc1da4" data-kind="examen" data-screen="EXAM_NAT_V08_Q26"></span>
+<span hidden data-civi-question="48b9b1dcf375ed98" data-kind="examen" data-screen="EXAM_NAT_V08_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -92957,7 +92957,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q27
-<span hidden data-civi-question="2fc3bd12f132fc37" data-kind="examen" data-screen="EXAM_NAT_V08_Q27"></span>
+<span hidden data-civi-question="f2e9ae8cc01fc064" data-kind="examen" data-screen="EXAM_NAT_V08_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93016,7 +93016,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q28
-<span hidden data-civi-question="92b833a5b02a0f7e" data-kind="examen" data-screen="EXAM_NAT_V08_Q28"></span>
+<span hidden data-civi-question="12320d9c0160c9ff" data-kind="examen" data-screen="EXAM_NAT_V08_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93087,7 +93087,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q29
-<span hidden data-civi-question="d240fb554514ce36" data-kind="examen" data-screen="EXAM_NAT_V08_Q29"></span>
+<span hidden data-civi-question="a3a2babdc1d5aa57" data-kind="examen" data-screen="EXAM_NAT_V08_Q29"></span>
 `@exam_variant = 8`
 
 
@@ -93149,7 +93149,7 @@ Vous êtes au cinéma avec une amie. Lors du film, une adolescente se rend dans 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q30
-<span hidden data-civi-question="40f686ec631e02ad" data-kind="examen" data-screen="EXAM_NAT_V08_Q30"></span>
+<span hidden data-civi-question="bfa38c837c0ebbd6" data-kind="examen" data-screen="EXAM_NAT_V08_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93208,7 +93208,7 @@ Votre fille de 14 ans veut créer un compte sur un réseau social et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q31
-<span hidden data-civi-question="6b19ad5011b94d88" data-kind="examen" data-screen="EXAM_NAT_V08_Q31"></span>
+<span hidden data-civi-question="9431bb003fa3ba68" data-kind="examen" data-screen="EXAM_NAT_V08_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93267,7 +93267,7 @@ Vous faites les devoirs avec votre fille de 8 ans. Vous vous penchez sur un prob
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q32
-<span hidden data-civi-question="9b2a10e04285871a" data-kind="examen" data-screen="EXAM_NAT_V08_Q32"></span>
+<span hidden data-civi-question="8b480e34d0775bc5" data-kind="examen" data-screen="EXAM_NAT_V08_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93326,7 +93326,7 @@ Un collègue affirme que l'Union européenne compte 28 membres, un autre dit qu'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q33
-<span hidden data-civi-question="b3128f744f1064a9" data-kind="examen" data-screen="EXAM_NAT_V08_Q33"></span>
+<span hidden data-civi-question="8109be04e414aafe" data-kind="examen" data-screen="EXAM_NAT_V08_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93385,7 +93385,7 @@ Une rue de votre ville porte le nom de George Sand. Votre fille curieuse, vous d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q34
-<span hidden data-civi-question="ff9bcb9f6477b579" data-kind="examen" data-screen="EXAM_NAT_V08_Q34"></span>
+<span hidden data-civi-question="2bcf29b328833fde" data-kind="examen" data-screen="EXAM_NAT_V08_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93444,7 +93444,7 @@ Vous regardez un fait divers rapporté au journal télévisé où la police a in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q35
-<span hidden data-civi-question="a12287fb3bd7beb7" data-kind="examen" data-screen="EXAM_NAT_V08_Q35"></span>
+<span hidden data-civi-question="23da528ca995c6cc" data-kind="examen" data-screen="EXAM_NAT_V08_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93503,7 +93503,7 @@ Vous réalisez une visite guidée de l'Hôtel de Ville de Paris. Un touriste am�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q36
-<span hidden data-civi-question="393ae1a0f3695083" data-kind="examen" data-screen="EXAM_NAT_V08_Q36"></span>
+<span hidden data-civi-question="c2ee18676736ab2f" data-kind="examen" data-screen="EXAM_NAT_V08_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93562,7 +93562,7 @@ Lors d'un cours du soir sur l'Union européenne, le formateur demande en quelle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q37
-<span hidden data-civi-question="527b50bb0ccf823d" data-kind="examen" data-screen="EXAM_NAT_V08_Q37"></span>
+<span hidden data-civi-question="6341985f99e9fdff" data-kind="examen" data-screen="EXAM_NAT_V08_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93621,7 +93621,7 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q38
-<span hidden data-civi-question="fdc7e9780b597909" data-kind="examen" data-screen="EXAM_NAT_V08_Q38"></span>
+<span hidden data-civi-question="ec192e695efb7de9" data-kind="examen" data-screen="EXAM_NAT_V08_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93680,7 +93680,7 @@ Votre fille prépare un exposé de géographie et vous demande de lui rappeler l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q39
-<span hidden data-civi-question="9feb52d108a953c6" data-kind="examen" data-screen="EXAM_NAT_V08_Q39"></span>
+<span hidden data-civi-question="7206879fb538c062" data-kind="examen" data-screen="EXAM_NAT_V08_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -93739,7 +93739,7 @@ Vous étudiez en cours "Le Médecin malgré lui" de Molière. Vous en parlez à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V08_Q40
-<span hidden data-civi-question="e411537739dd0491" data-kind="examen" data-screen="EXAM_NAT_V08_Q40"></span>
+<span hidden data-civi-question="a79dc099a30036e1" data-kind="examen" data-screen="EXAM_NAT_V08_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -94757,7 +94757,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q01
-<span hidden data-civi-question="23d30aa8262e570d" data-kind="examen" data-screen="EXAM_NAT_V09_Q01"></span>
+<span hidden data-civi-question="08a9c59e7a4c7a28" data-kind="examen" data-screen="EXAM_NAT_V09_Q01"></span>
 `@exam_variant = 9`
 
 
@@ -94819,7 +94819,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q02
-<span hidden data-civi-question="6d63d77ccd883a3f" data-kind="examen" data-screen="EXAM_NAT_V09_Q02"></span>
+<span hidden data-civi-question="47501d0b3530d393" data-kind="examen" data-screen="EXAM_NAT_V09_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -94878,7 +94878,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q03
-<span hidden data-civi-question="542d0ac9a96aa8bf" data-kind="examen" data-screen="EXAM_NAT_V09_Q03"></span>
+<span hidden data-civi-question="9c7d1117eab2f343" data-kind="examen" data-screen="EXAM_NAT_V09_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -94937,7 +94937,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q04
-<span hidden data-civi-question="fd290c98257d1ee5" data-kind="examen" data-screen="EXAM_NAT_V09_Q04"></span>
+<span hidden data-civi-question="101bbba0e62bd0c4" data-kind="examen" data-screen="EXAM_NAT_V09_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -94996,7 +94996,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q05
-<span hidden data-civi-question="bddc02ece6b65d94" data-kind="examen" data-screen="EXAM_NAT_V09_Q05"></span>
+<span hidden data-civi-question="89a78df1baa78107" data-kind="examen" data-screen="EXAM_NAT_V09_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95055,7 +95055,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q06
-<span hidden data-civi-question="070da33281dea111" data-kind="examen" data-screen="EXAM_NAT_V09_Q06"></span>
+<span hidden data-civi-question="41a40ce8afb5a4f3" data-kind="examen" data-screen="EXAM_NAT_V09_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95114,7 +95114,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q07
-<span hidden data-civi-question="0b3d965657c40d5c" data-kind="examen" data-screen="EXAM_NAT_V09_Q07"></span>
+<span hidden data-civi-question="3ee29aaafd5753b1" data-kind="examen" data-screen="EXAM_NAT_V09_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95173,7 +95173,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q08
-<span hidden data-civi-question="d352066e3e6b118a" data-kind="examen" data-screen="EXAM_NAT_V09_Q08"></span>
+<span hidden data-civi-question="aceb0dcc017c57a9" data-kind="examen" data-screen="EXAM_NAT_V09_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95232,7 +95232,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q09
-<span hidden data-civi-question="72332b0ca484ea38" data-kind="examen" data-screen="EXAM_NAT_V09_Q09"></span>
+<span hidden data-civi-question="87725f6ab189c70e" data-kind="examen" data-screen="EXAM_NAT_V09_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95291,7 +95291,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q10
-<span hidden data-civi-question="95647889c7720b40" data-kind="examen" data-screen="EXAM_NAT_V09_Q10"></span>
+<span hidden data-civi-question="fd21a1c9cd512e31" data-kind="examen" data-screen="EXAM_NAT_V09_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95350,7 +95350,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q11
-<span hidden data-civi-question="51947b9c66b50869" data-kind="examen" data-screen="EXAM_NAT_V09_Q11"></span>
+<span hidden data-civi-question="4f30df7680abbf62" data-kind="examen" data-screen="EXAM_NAT_V09_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95409,7 +95409,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q12
-<span hidden data-civi-question="f53c221d3dca3d2e" data-kind="examen" data-screen="EXAM_NAT_V09_Q12"></span>
+<span hidden data-civi-question="d109024b58c9f016" data-kind="examen" data-screen="EXAM_NAT_V09_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95468,7 +95468,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q13
-<span hidden data-civi-question="37af05d32f5c529d" data-kind="examen" data-screen="EXAM_NAT_V09_Q13"></span>
+<span hidden data-civi-question="ba04942d79b6d203" data-kind="examen" data-screen="EXAM_NAT_V09_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95527,7 +95527,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q14
-<span hidden data-civi-question="6c2a34431eefbaed" data-kind="examen" data-screen="EXAM_NAT_V09_Q14"></span>
+<span hidden data-civi-question="7ed3030326a6da0c" data-kind="examen" data-screen="EXAM_NAT_V09_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95586,7 +95586,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q15
-<span hidden data-civi-question="cc0079ee05a6adb9" data-kind="examen" data-screen="EXAM_NAT_V09_Q15"></span>
+<span hidden data-civi-question="eff86b93e4a0a727" data-kind="examen" data-screen="EXAM_NAT_V09_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95645,7 +95645,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q16
-<span hidden data-civi-question="bc660327cdd0f316" data-kind="examen" data-screen="EXAM_NAT_V09_Q16"></span>
+<span hidden data-civi-question="05b75f79104448f0" data-kind="examen" data-screen="EXAM_NAT_V09_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95704,7 +95704,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q17
-<span hidden data-civi-question="5380adca93a40149" data-kind="examen" data-screen="EXAM_NAT_V09_Q17"></span>
+<span hidden data-civi-question="70523c0630c073ef" data-kind="examen" data-screen="EXAM_NAT_V09_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95763,7 +95763,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q18
-<span hidden data-civi-question="45387c7586283675" data-kind="examen" data-screen="EXAM_NAT_V09_Q18"></span>
+<span hidden data-civi-question="44515fdba1eb0585" data-kind="examen" data-screen="EXAM_NAT_V09_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95822,7 +95822,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q19
-<span hidden data-civi-question="bea1d6a261b067e8" data-kind="examen" data-screen="EXAM_NAT_V09_Q19"></span>
+<span hidden data-civi-question="8b11d717a4f59658" data-kind="examen" data-screen="EXAM_NAT_V09_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95881,7 +95881,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q20
-<span hidden data-civi-question="df1509365b7dc07f" data-kind="examen" data-screen="EXAM_NAT_V09_Q20"></span>
+<span hidden data-civi-question="2c5e776957393662" data-kind="examen" data-screen="EXAM_NAT_V09_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95940,7 +95940,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q21
-<span hidden data-civi-question="7e561eba211dc2e4" data-kind="examen" data-screen="EXAM_NAT_V09_Q21"></span>
+<span hidden data-civi-question="dc73682aac2db2c8" data-kind="examen" data-screen="EXAM_NAT_V09_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -95999,7 +95999,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q22
-<span hidden data-civi-question="1c715a8a56752fcf" data-kind="examen" data-screen="EXAM_NAT_V09_Q22"></span>
+<span hidden data-civi-question="c1cdf884d085d633" data-kind="examen" data-screen="EXAM_NAT_V09_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96058,7 +96058,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q23
-<span hidden data-civi-question="1b378be0cdeba463" data-kind="examen" data-screen="EXAM_NAT_V09_Q23"></span>
+<span hidden data-civi-question="288e6d3435bc7274" data-kind="examen" data-screen="EXAM_NAT_V09_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96117,7 +96117,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q24
-<span hidden data-civi-question="e8fbcf5c21f8f12a" data-kind="examen" data-screen="EXAM_NAT_V09_Q24"></span>
+<span hidden data-civi-question="d59fa36dbcf1384d" data-kind="examen" data-screen="EXAM_NAT_V09_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96176,7 +96176,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q25
-<span hidden data-civi-question="ff66280c0d0822c6" data-kind="examen" data-screen="EXAM_NAT_V09_Q25"></span>
+<span hidden data-civi-question="c075e54ffd02a5af" data-kind="examen" data-screen="EXAM_NAT_V09_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96235,7 +96235,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q26
-<span hidden data-civi-question="0d774a468247b204" data-kind="examen" data-screen="EXAM_NAT_V09_Q26"></span>
+<span hidden data-civi-question="b20eb2605ddd3631" data-kind="examen" data-screen="EXAM_NAT_V09_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96294,7 +96294,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q27
-<span hidden data-civi-question="41127f58295d354d" data-kind="examen" data-screen="EXAM_NAT_V09_Q27"></span>
+<span hidden data-civi-question="018db62370480246" data-kind="examen" data-screen="EXAM_NAT_V09_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96353,7 +96353,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q28
-<span hidden data-civi-question="69c8a701f3fe7785" data-kind="examen" data-screen="EXAM_NAT_V09_Q28"></span>
+<span hidden data-civi-question="34145f40c6451932" data-kind="examen" data-screen="EXAM_NAT_V09_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96424,7 +96424,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q29
-<span hidden data-civi-question="b37cdf60ce306786" data-kind="examen" data-screen="EXAM_NAT_V09_Q29"></span>
+<span hidden data-civi-question="43624b07094dcae1" data-kind="examen" data-screen="EXAM_NAT_V09_Q29"></span>
 `@exam_variant = 9`
 
 
@@ -96486,7 +96486,7 @@ Une professeure d'histoire évoque lors de son cours sur l'histoire de France et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q30
-<span hidden data-civi-question="67f77ea41bd8c67d" data-kind="examen" data-screen="EXAM_NAT_V09_Q30"></span>
+<span hidden data-civi-question="30588a622d29f9f3" data-kind="examen" data-screen="EXAM_NAT_V09_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96545,7 +96545,7 @@ Un drapeau européen affiché à la mairie attire l'attention de votre fils. Il 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q31
-<span hidden data-civi-question="dd004d4c65ffe305" data-kind="examen" data-screen="EXAM_NAT_V09_Q31"></span>
+<span hidden data-civi-question="0edf0a3a84de4353" data-kind="examen" data-screen="EXAM_NAT_V09_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96604,7 +96604,7 @@ En collant des affiches pour les élections municipales avec un ami engagé sur 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q32
-<span hidden data-civi-question="3cde4af7b908a3e9" data-kind="examen" data-screen="EXAM_NAT_V09_Q32"></span>
+<span hidden data-civi-question="e2e96f9ae7468cf2" data-kind="examen" data-screen="EXAM_NAT_V09_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96663,7 +96663,7 @@ Un patron d'une entreprise de BTP souhaite vous sous-traiter la pose du carrelag
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q33
-<span hidden data-civi-question="0da5ab3c044597ac" data-kind="examen" data-screen="EXAM_NAT_V09_Q33"></span>
+<span hidden data-civi-question="4a9ee897aa3ccd97" data-kind="examen" data-screen="EXAM_NAT_V09_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96722,7 +96722,7 @@ Sofiane a été surpris par le nombre d'associations qui existaient en France (r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q34
-<span hidden data-civi-question="4a40a4f98908047d" data-kind="examen" data-screen="EXAM_NAT_V09_Q34"></span>
+<span hidden data-civi-question="ccc2bc439bb00fb4" data-kind="examen" data-screen="EXAM_NAT_V09_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96781,7 +96781,7 @@ Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une no
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q35
-<span hidden data-civi-question="7a9cbeb21249b9cd" data-kind="examen" data-screen="EXAM_NAT_V09_Q35"></span>
+<span hidden data-civi-question="3a79708e76f7b889" data-kind="examen" data-screen="EXAM_NAT_V09_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96840,7 +96840,7 @@ Des parents qui viennent d'arriver en France avec leurs enfants. Il vous demande
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q36
-<span hidden data-civi-question="594b925a45e5af98" data-kind="examen" data-screen="EXAM_NAT_V09_Q36"></span>
+<span hidden data-civi-question="0db204e51e67e466" data-kind="examen" data-screen="EXAM_NAT_V09_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96899,7 +96899,7 @@ Une grève des transports perturbe votre trajet et un passager mécontent dit qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q37
-<span hidden data-civi-question="9568d0fe2275999e" data-kind="examen" data-screen="EXAM_NAT_V09_Q37"></span>
+<span hidden data-civi-question="8c226c67e411c232" data-kind="examen" data-screen="EXAM_NAT_V09_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -96958,7 +96958,7 @@ Un débat survient sur un plateau de télévision. En effet, le pape Léon XIV p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q38
-<span hidden data-civi-question="bf9db0452769bf76" data-kind="examen" data-screen="EXAM_NAT_V09_Q38"></span>
+<span hidden data-civi-question="a52d8d86353d4539" data-kind="examen" data-screen="EXAM_NAT_V09_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -97017,7 +97017,7 @@ Chaque année en septembre, vous emmenez votre fils visiter des monuments habitu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q39
-<span hidden data-civi-question="6f5b992c2365540a" data-kind="examen" data-screen="EXAM_NAT_V09_Q39"></span>
+<span hidden data-civi-question="ec444c062234f057" data-kind="examen" data-screen="EXAM_NAT_V09_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -97076,7 +97076,7 @@ Un bulletin météo mentionnant à la fois la Martinique et la Guadeloupe amène
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q40
-<span hidden data-civi-question="00a5fb35c0b8a9bd" data-kind="examen" data-screen="EXAM_NAT_V09_Q40"></span>
+<span hidden data-civi-question="7aa908494e2a88d9" data-kind="examen" data-screen="EXAM_NAT_V09_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98110,7 +98110,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q01
-<span hidden data-civi-question="dd004d4c65ffe305" data-kind="examen" data-screen="EXAM_NAT_V10_Q01"></span>
+<span hidden data-civi-question="7d4b570d2dcfcee8" data-kind="examen" data-screen="EXAM_NAT_V10_Q01"></span>
 `@exam_variant = 10`
 
 
@@ -98172,7 +98172,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q02
-<span hidden data-civi-question="42fec0a82b47d647" data-kind="examen" data-screen="EXAM_NAT_V10_Q02"></span>
+<span hidden data-civi-question="e8faf5fac1f161b5" data-kind="examen" data-screen="EXAM_NAT_V10_Q02"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98231,7 +98231,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q03
-<span hidden data-civi-question="2242aa8e17201757" data-kind="examen" data-screen="EXAM_NAT_V10_Q03"></span>
+<span hidden data-civi-question="2591973a5797c860" data-kind="examen" data-screen="EXAM_NAT_V10_Q03"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98290,7 +98290,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q04
-<span hidden data-civi-question="7612baf7448c1f98" data-kind="examen" data-screen="EXAM_NAT_V10_Q04"></span>
+<span hidden data-civi-question="383247a42a477cc6" data-kind="examen" data-screen="EXAM_NAT_V10_Q04"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98349,7 +98349,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q05
-<span hidden data-civi-question="bc343370d7843a17" data-kind="examen" data-screen="EXAM_NAT_V10_Q05"></span>
+<span hidden data-civi-question="f45a9b3a0ecdc1f5" data-kind="examen" data-screen="EXAM_NAT_V10_Q05"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98408,7 +98408,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q06
-<span hidden data-civi-question="594b925a45e5af98" data-kind="examen" data-screen="EXAM_NAT_V10_Q06"></span>
+<span hidden data-civi-question="de6d3d944eab128a" data-kind="examen" data-screen="EXAM_NAT_V10_Q06"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98467,7 +98467,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q07
-<span hidden data-civi-question="b99d87e9a9ea0c60" data-kind="examen" data-screen="EXAM_NAT_V10_Q07"></span>
+<span hidden data-civi-question="cb7b66fc1b03caae" data-kind="examen" data-screen="EXAM_NAT_V10_Q07"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98526,7 +98526,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q08
-<span hidden data-civi-question="437827ef5a46c497" data-kind="examen" data-screen="EXAM_NAT_V10_Q08"></span>
+<span hidden data-civi-question="c9bbc1a6b4e300f9" data-kind="examen" data-screen="EXAM_NAT_V10_Q08"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98585,7 +98585,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q09
-<span hidden data-civi-question="f3ddd4479019e28d" data-kind="examen" data-screen="EXAM_NAT_V10_Q09"></span>
+<span hidden data-civi-question="69d31d514ed6a3cb" data-kind="examen" data-screen="EXAM_NAT_V10_Q09"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98644,7 +98644,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q10
-<span hidden data-civi-question="71e86c97b8002063" data-kind="examen" data-screen="EXAM_NAT_V10_Q10"></span>
+<span hidden data-civi-question="5e3ffe9871aac5a6" data-kind="examen" data-screen="EXAM_NAT_V10_Q10"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98703,7 +98703,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q11
-<span hidden data-civi-question="60fd1473ad558e7a" data-kind="examen" data-screen="EXAM_NAT_V10_Q11"></span>
+<span hidden data-civi-question="103c3208ec6f729c" data-kind="examen" data-screen="EXAM_NAT_V10_Q11"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98762,7 +98762,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q12
-<span hidden data-civi-question="7a40ad7eda756c4f" data-kind="examen" data-screen="EXAM_NAT_V10_Q12"></span>
+<span hidden data-civi-question="e494d9f058bce0fb" data-kind="examen" data-screen="EXAM_NAT_V10_Q12"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98821,7 +98821,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q13
-<span hidden data-civi-question="0f444396abf8ceae" data-kind="examen" data-screen="EXAM_NAT_V10_Q13"></span>
+<span hidden data-civi-question="ff01dba3a736c14c" data-kind="examen" data-screen="EXAM_NAT_V10_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98880,7 +98880,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q14
-<span hidden data-civi-question="52e3089dbf53c6b0" data-kind="examen" data-screen="EXAM_NAT_V10_Q14"></span>
+<span hidden data-civi-question="4c5c84ff7297c93e" data-kind="examen" data-screen="EXAM_NAT_V10_Q14"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98939,7 +98939,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q15
-<span hidden data-civi-question="527f3e3cdd874e81" data-kind="examen" data-screen="EXAM_NAT_V10_Q15"></span>
+<span hidden data-civi-question="58acdbb6c49b464a" data-kind="examen" data-screen="EXAM_NAT_V10_Q15"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98998,7 +98998,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q16
-<span hidden data-civi-question="649638493ed0b634" data-kind="examen" data-screen="EXAM_NAT_V10_Q16"></span>
+<span hidden data-civi-question="2a80626f687ae150" data-kind="examen" data-screen="EXAM_NAT_V10_Q16"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99057,7 +99057,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q17
-<span hidden data-civi-question="0df99d34ee4e3879" data-kind="examen" data-screen="EXAM_NAT_V10_Q17"></span>
+<span hidden data-civi-question="fe0918a0d62fcded" data-kind="examen" data-screen="EXAM_NAT_V10_Q17"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99116,7 +99116,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q18
-<span hidden data-civi-question="34fb237fa2697c7e" data-kind="examen" data-screen="EXAM_NAT_V10_Q18"></span>
+<span hidden data-civi-question="ccc117dc6e45cfab" data-kind="examen" data-screen="EXAM_NAT_V10_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99175,7 +99175,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q19
-<span hidden data-civi-question="f7b07deb32115fe7" data-kind="examen" data-screen="EXAM_NAT_V10_Q19"></span>
+<span hidden data-civi-question="cc9aee9489b1a404" data-kind="examen" data-screen="EXAM_NAT_V10_Q19"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99234,7 +99234,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q20
-<span hidden data-civi-question="0910572325e1e2f0" data-kind="examen" data-screen="EXAM_NAT_V10_Q20"></span>
+<span hidden data-civi-question="4d798061d23efdb7" data-kind="examen" data-screen="EXAM_NAT_V10_Q20"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99293,7 +99293,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q21
-<span hidden data-civi-question="818e04763ad40302" data-kind="examen" data-screen="EXAM_NAT_V10_Q21"></span>
+<span hidden data-civi-question="68df9d87d7f0d2b4" data-kind="examen" data-screen="EXAM_NAT_V10_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99352,7 +99352,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q22
-<span hidden data-civi-question="8608af3fdb7cb1d8" data-kind="examen" data-screen="EXAM_NAT_V10_Q22"></span>
+<span hidden data-civi-question="c5c2c15d6a0fc286" data-kind="examen" data-screen="EXAM_NAT_V10_Q22"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99411,7 +99411,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q23
-<span hidden data-civi-question="6357a6f93d0d11e2" data-kind="examen" data-screen="EXAM_NAT_V10_Q23"></span>
+<span hidden data-civi-question="b6e8de0a1fc97be0" data-kind="examen" data-screen="EXAM_NAT_V10_Q23"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99470,7 +99470,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q24
-<span hidden data-civi-question="6f4929accb1f900f" data-kind="examen" data-screen="EXAM_NAT_V10_Q24"></span>
+<span hidden data-civi-question="30789fd41740fa55" data-kind="examen" data-screen="EXAM_NAT_V10_Q24"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99529,7 +99529,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q25
-<span hidden data-civi-question="dd7ed9ff5d8bc5d1" data-kind="examen" data-screen="EXAM_NAT_V10_Q25"></span>
+<span hidden data-civi-question="3a7693f22074e6cd" data-kind="examen" data-screen="EXAM_NAT_V10_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99588,7 +99588,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q26
-<span hidden data-civi-question="cb054cc760a5927a" data-kind="examen" data-screen="EXAM_NAT_V10_Q26"></span>
+<span hidden data-civi-question="3c6fc305bdde930d" data-kind="examen" data-screen="EXAM_NAT_V10_Q26"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99647,7 +99647,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q27
-<span hidden data-civi-question="42cd3636d632fe65" data-kind="examen" data-screen="EXAM_NAT_V10_Q27"></span>
+<span hidden data-civi-question="814ade3d583b78ed" data-kind="examen" data-screen="EXAM_NAT_V10_Q27"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99706,7 +99706,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q28
-<span hidden data-civi-question="cfd9231c1ffc1d4a" data-kind="examen" data-screen="EXAM_NAT_V10_Q28"></span>
+<span hidden data-civi-question="51058f41d3209294" data-kind="examen" data-screen="EXAM_NAT_V10_Q28"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99777,7 +99777,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q29
-<span hidden data-civi-question="9310ae4fc56ac7f0" data-kind="examen" data-screen="EXAM_NAT_V10_Q29"></span>
+<span hidden data-civi-question="330844e4fd83de67" data-kind="examen" data-screen="EXAM_NAT_V10_Q29"></span>
 `@exam_variant = 10`
 
 
@@ -99839,7 +99839,7 @@ Vous déjeunez avec votre meilleure amie Cassandre. Vous lui dites que vous avez
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q30
-<span hidden data-civi-question="69c8a701f3fe7785" data-kind="examen" data-screen="EXAM_NAT_V10_Q30"></span>
+<span hidden data-civi-question="b3282da1c94bec72" data-kind="examen" data-screen="EXAM_NAT_V10_Q30"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99898,7 +99898,7 @@ Votre sœur vient d'accoucher et vous demande, un peu perdue, où elle doit se r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q31
-<span hidden data-civi-question="1315f8be8310bff4" data-kind="examen" data-screen="EXAM_NAT_V10_Q31"></span>
+<span hidden data-civi-question="77f764e751570f96" data-kind="examen" data-screen="EXAM_NAT_V10_Q31"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -99957,7 +99957,7 @@ Lors d'une réunion de parents d'élèves, la directrice évoque un budget voté
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q32
-<span hidden data-civi-question="eae4e74df3597de0" data-kind="examen" data-screen="EXAM_NAT_V10_Q32"></span>
+<span hidden data-civi-question="4a141334005116e2" data-kind="examen" data-screen="EXAM_NAT_V10_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100016,7 +100016,7 @@ Un ami fumeur se plaint de ne plus pouvoir fumer nulle part en public et vous de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q33
-<span hidden data-civi-question="3dca61aa6821f37a" data-kind="examen" data-screen="EXAM_NAT_V10_Q33"></span>
+<span hidden data-civi-question="657063d3baea2b42" data-kind="examen" data-screen="EXAM_NAT_V10_Q33"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100075,7 +100075,7 @@ Lors d'un repas en famille, votre oncle parle d'une loi qui a été votée en 19
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q34
-<span hidden data-civi-question="9913b824be046ed1" data-kind="examen" data-screen="EXAM_NAT_V10_Q34"></span>
+<span hidden data-civi-question="1315820bb481fb87" data-kind="examen" data-screen="EXAM_NAT_V10_Q34"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100134,7 +100134,7 @@ En marge d'un cours d'histoire suivi par votre fils, un mot revient plusieurs fo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q35
-<span hidden data-civi-question="699542a46d0168bd" data-kind="examen" data-screen="EXAM_NAT_V10_Q35"></span>
+<span hidden data-civi-question="bce0bebdf52af0ee" data-kind="examen" data-screen="EXAM_NAT_V10_Q35"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100193,7 +100193,7 @@ L'école fait un rappel aux parents via le carnet de liaison. Le 11 novembre l'�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q36
-<span hidden data-civi-question="2399f19e60758342" data-kind="examen" data-screen="EXAM_NAT_V10_Q36"></span>
+<span hidden data-civi-question="35cb3bda1de4342c" data-kind="examen" data-screen="EXAM_NAT_V10_Q36"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100252,7 +100252,7 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q37
-<span hidden data-civi-question="6b0efca430c2d053" data-kind="examen" data-screen="EXAM_NAT_V10_Q37"></span>
+<span hidden data-civi-question="f7c976e970185fcc" data-kind="examen" data-screen="EXAM_NAT_V10_Q37"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100311,7 +100311,7 @@ Votre fille regarde un reportage sur les élections européennes et vous demande
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q38
-<span hidden data-civi-question="ba17ea0d71aaf7bd" data-kind="examen" data-screen="EXAM_NAT_V10_Q38"></span>
+<span hidden data-civi-question="5a2af5b5f29362e4" data-kind="examen" data-screen="EXAM_NAT_V10_Q38"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100370,7 +100370,7 @@ Un jeu de géographie en famille demande de reconnaître :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q39
-<span hidden data-civi-question="4d2bd2fd4c1355a8" data-kind="examen" data-screen="EXAM_NAT_V10_Q39"></span>
+<span hidden data-civi-question="e8d2f37482cab4bf" data-kind="examen" data-screen="EXAM_NAT_V10_Q39"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -100429,7 +100429,7 @@ Un reportage sur les territoires ultramarins évoque le plus jeune département 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V10_Q40
-<span hidden data-civi-question="6f54ae458941f645" data-kind="examen" data-screen="EXAM_NAT_V10_Q40"></span>
+<span hidden data-civi-question="ed1c78b432d16f05" data-kind="examen" data-screen="EXAM_NAT_V10_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"

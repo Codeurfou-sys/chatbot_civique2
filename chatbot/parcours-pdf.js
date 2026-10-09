@@ -1,7 +1,7 @@
 'use strict';
 (function(root){
 let dataPromise;
-function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json?v=39').then(r=>{if(!r.ok)throw Error('Le contenu du parcours PDF est indisponible.');return r.json();}));}
+function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json?v=43').then(r=>{if(!r.ok)throw Error('Le contenu du parcours PDF est indisponible.');return r.json();}));}
 const finite=v=>typeof v==='number'&&Number.isFinite(v);
 const names={CSP:'Carte de séjour pluriannuelle',CR:'Carte de résident',NAT:'Naturalisation'};
 function build(state,data,access=root.NovaAccess?.settings?.()||{}){
@@ -24,7 +24,7 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
   const title=data.themes[t-1],tag=personalized?.label||'Votre prochaine étape';
   doc.setFontSize(11);const titleLines=doc.splitTextToSize(title,121);
   const top=14+titleLines.length*5.5;
-  const enriched=(plan||[]).map((step,i)=>{const q=i===0&&offset===0?personalized?.errors?.[0]:null;return q?{...step,text:'Question manquée : '+q.question+(q.chosen?' Votre choix : '+q.chosen.replace(/[.]+$/,'')+'.':'')+(q.correct?' Réponse correcte : '+q.correct.replace(/[.]+$/,'')+'.':'')+' '+step.text}:step;});
+  const enriched=plan||[];
   const blocks=(enriched.length?enriched:[{title:'Votre prochaine étape',text:feedback(t,pct)}]).map((step,i)=>{
    const label=step.title.replace(/^Étape \d+\s*-\s*/,'' );
    doc.setFontSize(10);const lines=doc.splitTextToSize(step.text,151);return {label,lines,i,height:8+lines.length*4.5+2};
@@ -79,6 +79,8 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
    for(const {t,points,max,pct} of thematic){
     const personalized=root.NovaFeedback?.plan(kind,t,points,max,v);
     const band=pct<40?0:pct<80?1:pct<100?2:3,plan=personalized?.steps||data.actionPlans?.[kind]?.[String(t)]?.[band];
+    if(kind==='entrainement'&&root.NovaFeedback?.badge)text('Votre rôle dans cette série : '+root.NovaFeedback.badge(t,points,max),10,palette.ink);
+    if(personalized?.errors?.length){room(35);text('Vos erreurs - '+data.themes[t-1],11,palette.ink);for(const q of personalized.errors.slice(0,2)){text('Point à revoir : '+q.notion,10,palette.ink);const prompt=q.context&&q.context!==q.question?q.context:q.question;text(prompt.slice(0,450),9);if(q.chosen)text('Votre choix : '+q.chosen,9);if(q.correct)text('Réponse correcte : '+q.correct,9);}if(personalized.errors.length>2)text('Les autres corrections de cette thématique restent consultables dans CiviCoach.',9);}
     planCard(t,points,max,pct,plan,kind,personalized);
    }
    y+=3;

@@ -9,7 +9,7 @@
  const host='https://codeurfou-sys.github.io',button=document.getElementById('civi-launch'),panel=document.getElementById('civi-widget'),frame=document.getElementById('civi-frame'),waiting=document.getElementById('civi-wait');let ready=false,transfer='';
  let returnUrl=location.href;
  if(location.hash.startsWith('#civicoach-retour=')){try{transfer=location.hash.slice(18);const state=JSON.parse(decodeURIComponent(transfer)),original=new URL(state.integrationContext?.url||location.href);if(original.origin===location.origin){returnUrl=original.href;history.replaceState(null,'',original.pathname+original.search+original.hash);}}catch(e){transfer='';}}
- function show(){panel.hidden=false;button.setAttribute('aria-expanded','true');waiting.hidden=ready;if(!frame.getAttribute('src'))frame.src=host+'/chatbot_civique2/chatbot/?integration=moodle&v=42'+(transfer?'#parcours='+transfer:'');}
+ function show(){panel.hidden=false;button.setAttribute('aria-expanded','true');waiting.hidden=ready;if(!frame.getAttribute('src'))frame.src=host+'/chatbot_civique2/chatbot/?integration=moodle&v=43'+(transfer?'#parcours='+transfer:'');}
  button.onclick=()=>{if(panel.hidden)show();else{panel.hidden=true;button.setAttribute('aria-expanded','false');}};
  document.getElementById('civi-close').onclick=()=>{panel.hidden=true;button.setAttribute('aria-expanded','false');button.focus();};
  window.addEventListener('message',e=>{if(e.origin!==host||e.source!==frame.contentWindow)return;
