@@ -21,7 +21,7 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
  function heading(value){room(55);y+=4;icon(value==='Mes révisions'?'books':value.includes('bilan')?'compass':value.includes('entraînement')?'clipboard':value.includes('examen')?'target':'compass',18,y-4);doc.setFillColor(...palette.ink);doc.roundedRect(14,y-5,2,8,1,1,'F');doc.setFontSize(15);doc.setTextColor(...palette.ink);doc.text(value,27,y);y+=12;return;doc.setFillColor(...palette.ink);doc.roundedRect(14,y-5,2,8,1,1,'F');text(value,15,palette.ink);}
  function scorebar(score,max){room(15);doc.setFillColor(233,236,241);doc.roundedRect(18,y,174,4,2,2,'F');if(score>0){doc.setFillColor(...palette.ink);doc.roundedRect(18,y,174*Math.min(1,Math.max(0,score/max)),4,2,2,'F');}y+=10;}
  function planCard(t,points,max,pct,plan,kind,personalized,offset=0){
-  const title=data.themes[t-1],tag=pct<20?'0–1/10 · Premiers repères':pct<40?'2–3/10 · Distinctions':pct<60?'4–5/10 · Explications':pct<80?'6–7/10 · Raisonnement':pct<100?'8–9/10 · Dernières hésitations':'10/10 · Transfert des acquis';
+  const title=data.themes[t-1],tag=personalized?.label||'Votre prochaine étape';
   doc.setFontSize(11);const titleLines=doc.splitTextToSize(title,121);
   const top=14+titleLines.length*5.5;
   const enriched=(plan||[]).map((step,i)=>{const q=i===0&&offset===0?personalized?.errors?.[0]:null;return q?{...step,text:'Question manquée : '+q.question+(q.chosen?' Votre choix : '+q.chosen.replace(/[.]+$/,'')+'.':'')+(q.correct?' Réponse correcte : '+q.correct.replace(/[.]+$/,'')+'.':'')+' '+step.text}:step;});
@@ -49,7 +49,7 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
  }
  function feedback(theme,pct){const bands=data.feedback.bands,index=bands.findIndex(b=>pct>=b[0]&&pct<b[1]);return data.feedback.themes[String(theme)][index<0?0:index];}
  header();text('CiviCoach - préparation à l’examen civique',10);text('Export du '+new Date().toLocaleString('fr-FR',{timeZone:'Europe/Paris'}),9,[99,109,120]);if(access.markers&&profiles[access.colourProfile])text('Palette d’accessibilité : '+({deuteranopia:'Deutéranopie',protanopia:'Protanopie',tritanopia:'Tritanopie',achromatopsia:'Achromatopsie'}[access.colourProfile])+'. Le logo FRATE conserve ses couleurs originales.',9);
- text('Votre feuille de route reprend uniquement votre dernier bilan, votre dernier entraînement et votre dernier examen blanc. Les thématiques sont classées par priorité, du score le plus faible au plus élevé. Les autres tentatives restent accessibles dans CiviCoach. Les paliers sont exprimés sur 10 pour comparer les séries de longueurs différentes.',10);
+ text('Votre feuille de route reprend uniquement votre dernier bilan, votre dernier entraînement et votre dernier examen blanc. Les thématiques sont classées par priorité, du score le plus faible au plus élevé. Les autres tentatives restent accessibles dans CiviCoach. Les scores et les objectifs conservent le barème de chaque activité et de chaque thématique.',10);
  if(!['bilan','entrainement','examen'].some(k=>state.history?.[k]?.length))text('Aucun bilan, entraînement ou examen blanc terminé n’est enregistré pour le moment.',10);
  for(const [kind,label] of [['bilan','Mon dernier bilan'],['entrainement','Mon dernier entraînement'],['examen','Mon dernier examen blanc']]){
   section=label;const rows=[...(state.history?.[kind]||[])].sort((a,b)=>{const x=Date.parse(a.date),z=Date.parse(b.date);return (Number.isFinite(z)?z:0)-(Number.isFinite(x)?x:0);}).slice(0,1);

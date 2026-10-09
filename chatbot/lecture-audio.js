@@ -2,6 +2,12 @@
 (function(root){
 const doc=root.document,synth=root.speechSynthesis;let queue=[],active=null,token=0,hoverTimer=0,activityTimer=0,lastActivity='',lastSpoken='',wasAudio=false;
 const settings=()=>root.NovaAccess?.settings?.()||{};
+const controls=doc.querySelector('.civi-audio-controls');
+if(controls){controls.id='civi-audio-dock';controls.setAttribute('role','toolbar');controls.setAttribute('aria-label','Commandes de lecture audio');doc.body.append(controls);
+ for(const [id,icon,label] of [['audio-read','🔊','Lire la réponse'],['audio-pause','⏸','Pause / reprendre'],['audio-stop','⏹','Arrêter']]){const button=doc.getElementById(id);button.setAttribute('aria-label',label);button.title=label;button.replaceChildren();const symbol=doc.createElement('span');symbol.setAttribute('aria-hidden','true');symbol.textContent=icon;const text=doc.createElement('span');text.className='civi-audio-label';text.textContent=label;button.append(symbol,text);}
+ function placeDock(){const input=doc.getElementById('controls');if(innerWidth<1100&&input){const bottom=Math.max(16,innerHeight-input.getBoundingClientRect().top+12);controls.style.bottom=Math.ceil(bottom)+'px';controls.style.top='auto';}else{controls.style.bottom='auto';controls.style.top='40%';}}
+ root.addEventListener('resize',placeDock);root.visualViewport?.addEventListener('resize',placeDock);if(root.ResizeObserver&&doc.getElementById('controls'))new root.ResizeObserver(placeDock).observe(doc.getElementById('controls'));placeDock();}
+
 function report(text){const box=doc.getElementById('a11y-status');if(box)box.textContent=text;}
 function content(node){if(!node)return '';const copy=node.cloneNode(true);for(const el of copy.querySelectorAll('script,style,[hidden],[aria-hidden="true"],canvas,.civi-message-mascot,.civi-audio-controls'))el.remove();for(const img of copy.querySelectorAll('img'))img.replaceWith(doc.createTextNode(img.alt||''));for(const frame of copy.querySelectorAll('iframe'))frame.replaceWith(doc.createTextNode(' Activité interactive. Entrez dans l’activité pour entendre sa description. '));for(const el of copy.querySelectorAll('p,li,h1,h2,h3,h4,button,td,th,section'))el.append(doc.createTextNode('. '));return copy.textContent.replace(/[\p{Extended_Pictographic}\uFE0F]/gu,'').replace(/\s+/g,' ').trim();}
 function stop(){token++;queue=[];active=null;if(synth)synth.cancel();doc.querySelectorAll('.civi-reading').forEach(el=>el.classList.remove('civi-reading'));}

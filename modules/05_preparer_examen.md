@@ -2748,16 +2748,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -6133,16 +6133,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -9534,16 +9534,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -12895,16 +12895,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -16256,16 +16256,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -19657,16 +19657,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -23026,16 +23026,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -26395,16 +26395,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -29788,16 +29788,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -33141,16 +33141,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -36534,16 +36534,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -39943,16 +39943,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -43312,16 +43312,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -46697,16 +46697,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -50082,16 +50082,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -53459,16 +53459,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -56852,16 +56852,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -60197,16 +60197,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -63574,16 +63574,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -66975,16 +66975,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -70352,16 +70352,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -73713,16 +73713,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -77106,16 +77106,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -80475,16 +80475,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -83868,16 +83868,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -87269,16 +87269,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -90638,16 +90638,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -94031,16 +94031,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -97368,16 +97368,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -100721,16 +100721,16 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 🎭 **Mises en situation : `@exam_situations`/12 · `@r13Situations` %**
 
 `if @exam_score >= 0 && @exam_score < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @exam_score >= 8 && @exam_score < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @exam_score >= 16 && @exam_score < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @exam_score >= 24 && @exam_score < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @exam_score >= 32 && @exam_score < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -101451,16 +101451,16 @@ Vous n’avez pas encore terminé d’examen blanc dans cette session.
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -102174,16 +102174,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -102913,16 +102913,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -103612,16 +103612,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -104311,16 +104311,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -105050,16 +105050,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -105757,16 +105757,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -106464,16 +106464,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -107195,16 +107195,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -107886,16 +107886,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -108617,16 +108617,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -109364,16 +109364,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -110071,16 +110071,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -110794,16 +110794,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -111517,16 +111517,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -112232,16 +112232,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -112963,16 +112963,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -113646,16 +113646,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -114361,16 +114361,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -115100,16 +115100,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -115815,16 +115815,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -116514,16 +116514,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -117245,16 +117245,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -117952,16 +117952,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -118683,16 +118683,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -119422,16 +119422,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -120129,16 +120129,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -120860,16 +120860,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -121535,16 +121535,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.
@@ -122226,16 +122226,16 @@ Toutes vos réponses sont correctes : félicitations pour ce score parfait ! Con
 🎭 **Mises en situation : `@lastSituations`/12 · `@r13Situations` %**
 
 `if @lastExamScore >= 0 && @lastExamScore < 8`
-Ce résultat vous indique par où commencer. Choisissez une seule priorité ci-dessous ; travaillez quelques notions à la fois, puis visez 6/10 sur un entraînement ciblé.
+Ce résultat indique les notions à reprendre en priorité. Choisissez la thématique la plus fragile, relisez les questions manquées et reformulez une règle avant de vous entraîner. Lors d’un prochain examen blanc, comparez votre score sur 40 et les erreurs qui persistent.
 `endif`
 `if @lastExamScore >= 8 && @lastExamScore < 16`
 Vous avez déjà reconnu plusieurs notions. Reprenez vos erreurs dans la première priorité, associez chaque règle à un exemple puis vérifiez-la dans un entraînement.
 `endif`
 `if @lastExamScore >= 16 && @lastExamScore < 24`
-Vous disposez de premiers repères utiles. Travaillez les confusions de vos deux priorités et visez 8/10 sur deux entraînements avant de repasser un examen blanc.
+Vous disposez de premiers repères utiles. Comparez votre choix au corrigé dans vos thématiques prioritaires, puis vérifiez ces notions dans une nouvelle situation. Au prochain examen blanc, cherchez au moins 24/40 et observez si les erreurs précédentes ont disparu.
 `endif`
 `if @lastExamScore >= 24 && @lastExamScore < 32`
-Vous approchez du seuil de réussite. Concentrez-vous sur les notions manquées dans vos deux priorités, puis confirmez-les avec deux entraînements à au moins 8/10.
+Vous approchez du seuil de réussite. Repérez le détail qui a rendu vos réponses incorrectes dans vos thématiques prioritaires, puis faites un entraînement ciblé. Au prochain examen blanc, cherchez au moins 32/40 en évitant les confusions identifiées ici.
 `endif`
 `if @lastExamScore >= 32 && @lastExamScore < 40`
 L’objectif de 32/40 est atteint : félicitations ! Corrigez les dernières erreurs, puis confirmez ce résultat sur une autre série quelques jours plus tard.

@@ -11,14 +11,16 @@ async function start(saved=null){
 }
 (async()=>{
 const {dom,w,errors}=await start();const d=w.document;
-assert(!d.getElementById('civi-help-anywhere'));assert(!d.getElementById('civi-help-panel'));
+assert(!d.getElementById('civi-help-anywhere'));assert(!d.getElementById('civi-help-panel'));assert(d.getElementById('civi-audio-dock').parentElement===d.body);assert.equal(d.querySelectorAll('#civi-audio-dock button').length,3);d.getElementById('audio-read').click();assert(w.spoken?.length);d.getElementById('audio-stop').click();
 assert(d.getElementById('chat').textContent.includes('🎯'));assert(!d.querySelector('#chat [data-civi-icon]'));
+assert.equal(w.NovaQuestions.resolve("Je veux passer l'examen de naturalisation par quoi commencer ?"),'INTENT_PREPARER_NAT');assert.equal(w.NovaQuestions.resolve('Je veux passer examen naturalisation'),'INTENT_PREPARER_NAT');assert.equal(w.NovaQuestions.resolve('Qu’est-ce que la naturalisation ?'),'SCR_QL_GLO0097');
 const original=JSON.stringify(w.NovaSave.exportData().variables);
 function send(q){d.getElementById('user-input').textContent=q;d.getElementById('send-button').click();}
 send('Combien coûte l’examen ?');await pause(300);
 assert(/euros|€/.test(d.querySelector('[data-civi-help]').textContent));assert(d.querySelector('.user-message').textContent.includes('Combien'));assert.equal(JSON.stringify(w.NovaSave.exportData().variables),original);
-assert(!d.querySelector('[data-civi-help-resume]'),'no resume at menu');
-await w.NovaRuntime.navigate('SCR_QL_INPUT');send('Comment vas-tu ?');await pause(300);assert([...d.querySelectorAll('[data-civi-help]')].at(-1).textContent.includes('prêt à vous accompagner'));
+assert(d.querySelector('[data-civi-help-resume]').textContent.includes('Revenir au chatbot'));d.querySelector('[data-civi-help-resume]').click();
+send("Je veux passer l'examen de naturalisation par quoi commencer ?");await pause(150);const preparation=[...d.querySelectorAll('[data-civi-help]')].at(-1);assert(preparation.textContent.includes('préparer l’examen civique'));assert(!preparation.textContent.includes('procédure qui permet'));assert(preparation.querySelector('[data-civi-help-resume]'));w.NovaHelp.resume();await w.NovaRuntime.navigate('SCR_QL_INPUT');send('Comment vas-tu ?');await pause(300);assert([...d.querySelectorAll('[data-civi-help]')].at(-1).textContent.includes('prêt à vous accompagner'));
+w.NovaHelp.resume();
 // A real QCM resumes with its original options and no result recorded by asking.
 w.NovaSave.importData({...w.NovaSave.exportData(),variables:{...w.NovaSave.exportData().variables,type_examen:'CSP',bilPos:1,bilAnswered:0,bilAnswerKeys:'',bilCurrentSeen:'',bilSeen_CSP:'',score:0,score_t1:0}},true);await w.NovaRuntime.navigate('BIL_ITEM_CSP_001');await pause(150);
 const quiz=d.querySelector('[data-screen="BIL_ITEM_CSP_001"]').closest('.bot-message');
