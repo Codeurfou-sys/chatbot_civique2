@@ -12,3 +12,17 @@ html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-sheets-di
 html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-sheets-dialog .civi-sheet-theme-title *{color:#fff!important}
 html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-sheets-dialog .civi-sheet-remember,html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-sheets-dialog .civi-sheet-memory,html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-sheets-dialog .civi-sheet-situation-flow li{background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important}
 html.civi-a11y-contrast .civi-sheets-dialog .civi-sheet-theme{--sheet-theme-colour:#111!important}html.civi-a11y-contrast .civi-sheets-dialog .civi-sheet-theme-title{background:#111!important;color:#fff!important}
+
+/* v55: invitations, hub and notebook blocks follow the selected profile. */
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body :is(.civi-sheet-invitation,.civi-sheet-button,.civi-sheets-hub,.civi-saved-attempt,.civi-saved-sheets){background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important;border-color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body .civi-sheet-invitation *{color:var(--civi-profile-ink)!important;border-color:var(--civi-profile-ink)!important}
+.civi-sheets-dialog .civi-sheet{padding:14px;margin:12px 0;box-shadow:none;border-radius:8px}
+.civi-sheets-dialog .civi-sheet-content section{padding:8px 12px;margin:6px 0;border-radius:5px}
+.civi-sheets-dialog .civi-sheet-content p{margin:4px 0;line-height:1.4}
+.civi-sheets-dialog .civi-sheet-content h5{margin:0 0 5px;font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+.civi-sheet-mini-flow{display:flex;align-items:stretch;gap:22px;list-style:none;padding:0;margin:8px 0}
+.civi-sheet-mini-flow li{position:relative;flex:1;border:1px solid currentColor;border-radius:5px;padding:8px;text-align:center;font-weight:650}
+.civi-sheet-mini-flow li+li:before{content:'→';position:absolute;left:-20px;top:30%}
+@media(max-width:500px){.civi-sheet-mini-flow{flex-direction:column}.civi-sheet-mini-flow li+li:before{content:'↓';left:50%;top:-22px}}
+
+.civi-sheets-dialog .civi-sheet-text-only .civi-sheet-content{grid-column:1 / -1}.civi-sheets-dialog .civi-sheet-text-only{grid-template-columns:1fr}

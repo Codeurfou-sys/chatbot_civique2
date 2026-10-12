@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "illustrations": [
     {
       "key": "bastille",
@@ -432,6 +432,51 @@
       "origin": "Illustration originale générée pour CiviCoach",
       "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
       "monoFile": "delacroix-mono.png"
+    },
+    {
+      "key": "factory",
+      "file": "factory.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée",
+      "monoFile": "factory-mono.png"
+    },
+    {
+      "key": "business",
+      "file": "business.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée",
+      "monoFile": "business-mono.png"
+    },
+    {
+      "key": "eiffel",
+      "file": "eiffel.png",
+      "width": 480,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée",
+      "monoFile": "eiffel-mono.png"
+    },
+    {
+      "key": "frenchflag",
+      "file": "frenchflag.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée",
+      "monoFile": "frenchflag-mono.png"
+    },
+    {
+      "key": "swissflag",
+      "file": "swissflag.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée",
+      "monoFile": "swissflag-mono.png"
     }
   ]
 }
