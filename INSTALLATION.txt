@@ -1,0 +1,4 @@
+Remplacez scripts/synchroniser_centres_v50.py dans votre dépôt par le fichier de ce ZIP.
+Commitez puis poussez la modification sur GitHub. Le push déclenche une nouvelle exécution.
+Le correctif complète les anciens exports sans Montluel, sans créer de dates de sessions.
+Testé sur un export sans Montluel, avec deux exécutions successives sans doublon.

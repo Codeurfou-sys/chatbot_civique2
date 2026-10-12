@@ -9,10 +9,16 @@ def main():
  data=ROOT/'recherche-centres/data'
  addresses=json.loads((data/'adresses_centres.json').read_text())
  doc=json.loads((data/'sessions.json').read_text())
+ # Montluel est un centre confirmé, même dans les anciens exports sans cette ligne.
+ # Ne pas inventer de sessions : seul le catalogue des centres est complété.
+ if not any(row.get('code_centre')=='MONTLUEL' for row in doc['centres']):
+  doc['centres'].append({'code_region': 'RHONE_ALPES', 'region': 'Rhône-Alpes', 'code_centre': 'MONTLUEL', 'ville': 'Montluel', 'departement': '01', 'lien_forms': 'https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl', 'sessions_futures': 0, 'ecran_centre': 'SCR_PASS_CITY_MONTLUEL', 'requete_ban': 'Montluel 01120', 'actif': 'Oui'} )
+  (data/'sessions.json').write_text(json.dumps(doc,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ addresses.setdefault('MONTLUEL',{'adresse':'630 rue des Valets, 01120 Montluel','a_confirmer':False})
  centres={row['code_centre']:row for row in doc['centres'] if row.get('actif')=='Oui'}
  today=datetime.now(ZoneInfo('Europe/Paris')).date().isoformat()
  path=ROOT/'modules/07_passer_examen.md';text=path.read_text()
- if '## SCR_PASS_CITY_MONTLUEL\n' not in text:
+ if 'MONTLUEL' in centres and '## SCR_PASS_CITY_MONTLUEL\n' not in text:
   centre=centres['MONTLUEL']
   text+='\n## SCR_PASS_CITY_MONTLUEL\n### 📍 Montluel (01)\n\n#### 📅 Prochaines sessions disponibles\n\n<ul class="messageOptions">\n<li><a href="'+html.escape(centre['lien_forms'],quote=True)+'" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>\n</ul>\n\n1. [📍 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)\n2. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)\n3. [↩️ Retour au module](SCR_PASS_MENU)\n4. [🏠 Menu principal](MENU_PRINCIPAL)\n'
  def update_city(match):
@@ -35,7 +41,7 @@ def main():
  text=re.sub(r'^## SCR_PASS_CITY_([A-Z_]+)\n(.*?)(?=^## |\Z)',update_city,text,flags=re.M|re.S)
  def update_region(match):
   body=match[0]
-  if match[1]=='RHONE_ALPES' and '](SCR_PASS_CITY_MONTLUEL)' not in body:
+  if 'MONTLUEL' in centres and match[1]=='RHONE_ALPES' and '](SCR_PASS_CITY_MONTLUEL)' not in body:
    body=body.replace('4. [📍 Valserhône (01)]','4. [📍 Montluel (01)](SCR_PASS_CITY_MONTLUEL)\n5. [📍 Valserhône (01)]')
    body=body.replace('5. [📍 Choisir une autre région]','6. [📍 Choisir une autre région]').replace('6. [↩️ Retour au module]','7. [↩️ Retour au module]').replace('Afficher les 4 centres','Afficher les 5 centres')
   def label(m):
