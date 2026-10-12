@@ -1,3 +1,5 @@
+Version actuelle : voir README_V56.md pour l’installation et les fiches visuelles.
+
 Version actuelle : voir README_V55.md pour les fiches de révision et les tests.
 
 Mise à jour v45 : les six bases Excel de `sources/` sont compilées automatiquement par le workflow fourni. Pour activer la publication, lire [ACTUALISER_BANQUES.md](ACTUALISER_BANQUES.md).

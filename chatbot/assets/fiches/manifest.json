@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "illustrations": [
     {
       "key": "bastille",
@@ -72,15 +72,6 @@
       "origin": "Illustration originale générée pour CiviCoach",
       "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
       "monoFile": "rights-mono.png"
-    },
-    {
-      "key": "tax",
-      "file": "tax.png",
-      "width": 720,
-      "height": 480,
-      "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "tax-mono.png"
     },
     {
       "key": "worker",
@@ -477,6 +468,51 @@
       "origin": "Illustration originale générée pour CiviCoach",
       "style": "Illustration éditoriale dessinée",
       "monoFile": "swissflag-mono.png"
+    },
+    {
+      "key": "elysee",
+      "file": "elysee.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre pour les notes visuelles",
+      "monoFile": "elysee-mono.png"
+    },
+    {
+      "key": "marianne",
+      "file": "marianne.png",
+      "width": 480,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre pour les notes visuelles",
+      "monoFile": "marianne-mono.png"
+    },
+    {
+      "key": "interview",
+      "file": "interview.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre pour les notes visuelles",
+      "monoFile": "interview-mono.png"
+    },
+    {
+      "key": "tax",
+      "file": "tax.png",
+      "width": 688,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre pour les notes visuelles",
+      "monoFile": "tax-mono.png"
+    },
+    {
+      "key": "ddhc",
+      "file": "ddhc.png",
+      "width": 684,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre pour les notes visuelles",
+      "monoFile": "ddhc-mono.png"
     }
   ]
 }

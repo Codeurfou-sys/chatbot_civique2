@@ -103,7 +103,7 @@ def build():
     for i,field in enumerate(['insurance','mutual','remainder']):
      key=f'{chapter}:{step}:pay{i}'
      activities[key]=card({'key':key,'question':['Part de l’Assurance maladie','Part de la complémentaire','Reste à payer'][i]+' dans cet exemple fictif','correct':str(a[field])+' €','notion':a['title'],'theme':5},'Ces montants concernent uniquement cet exercice. Les taux sont fictifs.',chapter)
- payload={'version':55,'questions':cards,'revision':revision,'activities':activities,'chapters':{k:scaffold(k) for k in chapters}}
+ payload={'version':56,'questions':cards,'revision':revision,'activities':activities,'chapters':{k:scaffold(k) for k in chapters}}
  (ROOT/'chatbot/fiches-data.js').write_text('window.CiviSheetsData='+json.dumps(payload,ensure_ascii=False,separators=(',',':'))+';\n')
  print(f'Fiches construites : {len(cards)} références de questions, {len(revision)} questions libres, {len(activities)} repères d’activités.')
 if __name__=='__main__':build()

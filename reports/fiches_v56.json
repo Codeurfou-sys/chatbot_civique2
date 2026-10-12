@@ -1,0 +1,18 @@
+{
+  "version": 56,
+  "illustrations": 57,
+  "questions": 2139,
+  "revision": 62,
+  "activities": 263,
+  "examplePages": 2,
+  "coverage": "Chaque référence reçoit des repères pédagogiques et une illustration pertinente ou une présentation sans image décorative",
+  "checks": [
+    "6/7 notions",
+    "trois thèmes",
+    "portraits distincts",
+    "anciennes références actualisées",
+    "aucune ancienne illustration",
+    "longue situation multi-pages",
+    "cinq profils PDF, désactivation, monochrome, texte agrandi et contraste renforcé"
+  ]
+}
