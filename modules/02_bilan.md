@@ -17345,7 +17345,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_152
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="bilan" data-screen="BIL_ITEM_CSP_152"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="bilan" data-screen="BIL_ITEM_CSP_152"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|525587e1de7d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|525587e1de7d|")`
@@ -17358,8 +17358,8 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](BIL_ITEM_CSP_152_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](BIL_ITEM_CSP_152_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](BIL_ITEM_CSP_152_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](BIL_ITEM_CSP_152_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](BIL_ITEM_CSP_152_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](BIL_ITEM_CSP_152_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
@@ -17374,7 +17374,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 `endif`
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -17393,14 +17393,14 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_152_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|d12b9e4c5bf48795|")`
 `if !@bilAnswerKeys.includes("|525587e1de7d|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|525587e1de7d|")`
 `@bilAnswered = calc(@bilAnswered+1)`
 `endif`
 ### 🟠 À revoir
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 

@@ -18679,7 +18679,7 @@ Lyon est la troisième plus grande ville de France. Barcelone est en Espagne, Ge
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V02_Q07
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V02_Q07"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V02_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -18688,8 +18688,8 @@ Lyon est la troisième plus grande ville de France. Barcelone est en Espagne, Ge
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V02_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V02_Q07_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V02_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V02_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V02_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V02_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -18703,7 +18703,7 @@ Lyon est la troisième plus grande ville de France. Barcelone est en Espagne, Ge
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -18715,10 +18715,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V02_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -19263,7 +19263,7 @@ Napoléon Bonaparte est une figure majeure de l'histoire de France. Les autres p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V03_Q07
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V03_Q07"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V03_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -19272,8 +19272,8 @@ Napoléon Bonaparte est une figure majeure de l'histoire de France. Les autres p
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V03_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V03_Q07_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V03_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V03_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V03_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V03_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -19287,7 +19287,7 @@ Napoléon Bonaparte est une figure majeure de l'histoire de France. Les autres p
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -19299,10 +19299,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V03_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -19541,7 +19541,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V04_Q01
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V04_Q01"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V04_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
@@ -19550,8 +19550,8 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V04_Q01_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V04_Q01_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V04_Q01_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V04_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V04_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V04_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -19565,7 +19565,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -19577,10 +19577,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V04_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -20380,7 +20380,7 @@ Pendant plusieurs siècles, la France a constitué un vaste empire colonial en A
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V05_Q06
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V05_Q06"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V05_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
@@ -20389,8 +20389,8 @@ Pendant plusieurs siècles, la France a constitué un vaste empire colonial en A
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V05_Q06_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V05_Q06_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V05_Q06_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V05_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V05_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V05_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -20404,7 +20404,7 @@ Pendant plusieurs siècles, la France a constitué un vaste empire colonial en A
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -20416,10 +20416,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V05_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -21066,7 +21066,7 @@ Le Louvre est l'un des musées les plus célèbres du monde. Il abrite de nombre
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V06_Q08
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V06_Q08"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V06_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
@@ -21075,8 +21075,8 @@ Le Louvre est l'un des musées les plus célèbres du monde. Il abrite de nombre
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V06_Q08_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V06_Q08_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V06_Q08_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V06_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V06_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V06_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -21090,7 +21090,7 @@ Le Louvre est l'un des musées les plus célèbres du monde. Il abrite de nombre
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -21102,10 +21102,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V06_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -21446,7 +21446,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V07_Q04
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V07_Q04"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V07_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
@@ -21455,8 +21455,8 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V07_Q04_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V07_Q04_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V07_Q04_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V07_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V07_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V07_Q04_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -21470,7 +21470,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -21482,10 +21482,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V07_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -22234,7 +22234,7 @@ Victor Hugo est un grand écrivain français du XIXᵉ siècle, notamment auteur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V08_Q08
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V08_Q08"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V08_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
@@ -22243,8 +22243,8 @@ Victor Hugo est un grand écrivain français du XIXᵉ siècle, notamment auteur
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V08_Q08_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V08_Q08_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V08_Q08_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V08_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V08_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V08_Q08_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -22258,7 +22258,7 @@ Victor Hugo est un grand écrivain français du XIXᵉ siècle, notamment auteur
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -22270,10 +22270,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V08_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -22920,7 +22920,7 @@ La gratuité de l'école publique est instaurée par les lois Jules Ferry en 188
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V09_Q10
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V09_Q10"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V09_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
@@ -22929,8 +22929,8 @@ La gratuité de l'école publique est instaurée par les lois Jules Ferry en 188
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V09_Q10_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V09_Q10_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V09_Q10_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V09_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V09_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V09_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -22944,7 +22944,7 @@ La gratuité de l'école publique est instaurée par les lois Jules Ferry en 188
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -22956,10 +22956,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V09_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -23249,7 +23249,7 @@ La Communauté économique européenne (CEE) est créée par le traité de Rome 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V10_Q05
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V10_Q05"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_DIF_V10_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
@@ -23258,8 +23258,8 @@ La Communauté économique européenne (CEE) est créée par le traité de Rome 
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V10_Q05_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V10_Q05_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_DIF_V10_Q05_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_DIF_V10_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_DIF_V10_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_DIF_V10_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -23273,7 +23273,7 @@ La Communauté économique européenne (CEE) est créée par le traité de Rome 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -23285,10 +23285,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_DIF_V10_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -48541,7 +48541,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_V03_Q05
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_V03_Q05"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_V03_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
@@ -48550,8 +48550,8 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_V03_Q05_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_V03_Q05_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_V03_Q05_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_V03_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_V03_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_V03_Q05_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -48565,7 +48565,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -48577,10 +48577,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_V03_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -51308,7 +51308,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_V08_Q02
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_V08_Q02"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_T4_Q_V08_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -51317,8 +51317,8 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_V08_Q02_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_V08_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_T4_Q_V08_Q02_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_T4_Q_V08_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_T4_Q_V08_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_T4_Q_V08_Q02_FAUX)
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
@@ -51332,7 +51332,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -51344,10 +51344,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T4_Q_V08_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -119911,7 +119911,7 @@ La liberté d'expression est un droit fondamental reconnu en France. Elle s'exer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_DIF_V07_Q07
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_LVL_DIF_V07_Q07"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_LVL_DIF_V07_Q07"></span>
 ### 📝 Question 7 sur 15
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **6/15 réponses données**
@@ -119920,8 +119920,8 @@ La liberté d'expression est un droit fondamental reconnu en France. Elle s'exer
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_LVL_DIF_V07_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_LVL_DIF_V07_Q07_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_LVL_DIF_V07_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_LVL_DIF_V07_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_LVL_DIF_V07_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_LVL_DIF_V07_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -119935,7 +119935,7 @@ La liberté d'expression est un droit fondamental reconnu en France. Elle s'exer
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -119947,10 +119947,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_DIF_V07_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -121499,7 +121499,7 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_DIF_V09_Q07
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="entrainement" data-screen="ENT_CSP_LVL_DIF_V09_Q07"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="entrainement" data-screen="ENT_CSP_LVL_DIF_V09_Q07"></span>
 ### 📝 Question 7 sur 15
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **6/15 réponses données**
@@ -121508,8 +121508,8 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_LVL_DIF_V09_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_LVL_DIF_V09_Q07_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](ENT_CSP_LVL_DIF_V09_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](ENT_CSP_LVL_DIF_V09_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](ENT_CSP_LVL_DIF_V09_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](ENT_CSP_LVL_DIF_V09_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_CSP)
@@ -121523,7 +121523,7 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -121535,10 +121535,10 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_LVL_DIF_V09_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|b2d3f9c5eb6045b7|")`
+`@entMistakes = calc((@entMistakes || "")+"|d12b9e4c5bf48795|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Un musicien.**
+**Réponse correcte : A — Un peintre.**
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 

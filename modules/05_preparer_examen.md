@@ -15049,7 +15049,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V05_Q18
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="examen" data-screen="EXAM_CSP_V05_Q18"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="examen" data-screen="EXAM_CSP_V05_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -15065,8 +15065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](EXAM_CSP_V05_Q18_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](EXAM_CSP_V05_Q18_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](EXAM_CSP_V05_Q18_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](EXAM_CSP_V05_Q18_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](EXAM_CSP_V05_Q18_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](EXAM_CSP_V05_Q18_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -16534,7 +16534,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 `endif`
 `if @err_CSP_V05_Q18 == 1`
 **18. Qui était Marc Chagall ?**  
-✅ Un musicien.
+✅ Un peintre.
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 
@@ -32189,7 +32189,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V10_Q13
-<span hidden data-civi-question="b2d3f9c5eb6045b7" data-kind="examen" data-screen="EXAM_CSP_V10_Q13"></span>
+<span hidden data-civi-question="d12b9e4c5bf48795" data-kind="examen" data-screen="EXAM_CSP_V10_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -32205,8 +32205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 **Qui était Marc Chagall ?**
 
-1. [<span class="qcm-letter">A</span> Un peintre.](EXAM_CSP_V10_Q13_FAUX)
-1. [<span class="qcm-letter">B</span> Un musicien.](EXAM_CSP_V10_Q13_VRAI)
+1. [<span class="qcm-letter">A</span> Un peintre.](EXAM_CSP_V10_Q13_VRAI)
+1. [<span class="qcm-letter">B</span> Un musicien.](EXAM_CSP_V10_Q13_FAUX)
 1. [<span class="qcm-letter">C</span> Un acteur.](EXAM_CSP_V10_Q13_FAUX)
 1. [<span class="qcm-letter">D</span> Un écrivain.](EXAM_CSP_V10_Q13_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -33919,7 +33919,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 `endif`
 `if @err_CSP_V10_Q13 == 1`
 **13. Qui était Marc Chagall ?**  
-✅ Un musicien.
+✅ Un peintre.
 
 Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France. Son tableau le plus connu est "Moi et le village" de 1911.
 

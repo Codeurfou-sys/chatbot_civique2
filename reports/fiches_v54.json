@@ -1,0 +1,18 @@
+{
+  "version": 54,
+  "illustrations": 48,
+  "questions": 2139,
+  "revision": 62,
+  "activities": 263,
+  "examplePages": 3,
+  "coverage": "Chaque référence dispose de la réponse source et d’une illustration générée",
+  "checks": [
+    "6/7 notions",
+    "trois thèmes",
+    "portraits distincts",
+    "anciennes références actualisées",
+    "aucune ancienne illustration",
+    "longue situation multi-pages",
+    "cinq profils PDF, désactivation, monochrome, texte agrandi et contraste renforcé"
+  ]
+}

@@ -126,6 +126,16 @@ def save_module(filename,b):
 
 def build():
  banks,audit=load_banks();p=ROOT/'chatbot/feedback-data.js';s=p.read_text();data=json.loads(s[s.index('{'):s.rindex('}')+1]);series={}
+ # Saved attempts can still reference an old hash. Refresh their source-based
+ # content too, without changing their saved score or their historical key.
+ by_source={clean(r['ID']):r for q,ms in banks.values() for r in q+ms}
+ for prior in data['questions'].values():
+  r=by_source.get(prior.get('sourceId'))
+  if r:
+   prior.update(theme=int(r['N° thématique']),question=clean(r['Question posée'] if r.get('_situation') else r['Question']),context=context(r),correct=clean(r['Réponse '+clean(r['Bonne réponse']).upper()]),course=source.CHAPTERS[source.chapter_key(r,'Chapitre')][1].replace('_ACC','_COURS'))
+  elif prior.get('question')=='Qui était Marc Chagall ?' and prior.get('correct')=='Un musicien.':
+   prior['correct']='Un peintre.'
+
  NOTIONS.clear()
  for value in data['questions'].values():
   if not value.get('ambiguousLegacy'):NOTIONS[(value['theme'],value.get('context') or value['question'],value.get('correct',''))]=value.get('notion')
@@ -181,6 +191,38 @@ def build():
   section=blocks((ROOT/'modules/03_revisions.md').read_text()).get(course,'');m=re.search(r'^### (.+)',section,re.M)
   if m:data.setdefault('courseTitles',{})[course]=re.sub(r'^[^\wÀ-ÿ]+','',html.unescape(re.sub(r'<[^>]+>','',m[1]))).strip()
  p.write_text('window.CiviFeedbackData='+dump(data)+';\n');(ROOT/'chatbot/tirages-data.js').write_text('window.NovaSeries='+dump(series)+';\n')
+ import construire_fiches_v51
+ construire_fiches_v51.build()
+ # Rebuild bundled illustrations when an image is replaced in GitHub.
+ art_manifest=ROOT/'chatbot/assets/fiches/manifest.json'
+ if art_manifest.exists():
+  import base64, io
+  from PIL import Image, ImageOps
+  manifest_data=json.loads(art_manifest.read_text());art={};mono_art={}
+  def bundled(image):
+   image=image.convert('RGBA');image.thumbnail((640,640),Image.Resampling.LANCZOS)
+   paper=Image.new('RGB',image.size,'white');paper.paste(image,mask=image.getchannel('A'));buffer=io.BytesIO();paper.save(buffer,format='JPEG',quality=82,optimize=True)
+   return 'data:image/jpeg;base64,'+base64.b64encode(buffer.getvalue()).decode()
+  for item in manifest_data['illustrations']:
+   file=art_manifest.parent/item['file']
+   with Image.open(file) as image:art[item['key']]=bundled(image)
+   mono_file=art_manifest.parent/(item['key']+'-mono.png')
+   with Image.open(file) as original:
+    if original.mode=='P' and original.getpalette():
+     palette=original.getpalette();new=[]
+     for n in range(0,len(palette),3):
+      value=round(.299*palette[n]+.587*palette[n+1]+.114*palette[n+2]);new.extend([value,value,value])
+     original.putpalette(new);original.save(mono_file,optimize=True)
+    else:
+     original=original.convert('RGBA');grey=ImageOps.grayscale(original).convert('RGBA');grey.putalpha(original.getchannel('A'));grey=grey.quantize(colors=256,method=Image.Quantize.FASTOCTREE);grey.save(mono_file,optimize=True)
+   item['monoFile']=mono_file.name
+   with Image.open(mono_file) as image:mono_art[item['key']]=bundled(image)
+  mono_logo=art_manifest.parent/'logo-frate-mono.png'
+  with Image.open(ROOT/'assets/logo-frate-formation.png') as original:
+   original=original.convert('RGBA');grey=ImageOps.grayscale(original).convert('RGBA');grey.putalpha(original.getchannel('A'));grey.save(mono_logo,optimize=True)
+  art_manifest.write_text(json.dumps(manifest_data,ensure_ascii=False,indent=2)+'\n')
+  (ROOT/'chatbot/fiches-art.js').write_text('window.CiviSheetsArt='+dump(art)+';\nwindow.CiviSheetsArtMono='+dump(mono_art)+';\nwindow.CiviMonoFrateLogo='+dump('data:image/png;base64,'+base64.b64encode(mono_logo.read_bytes()).decode())+';\n')
+
  release=hashlib.sha256(dump(audit).encode())
  release.update((ROOT/'chat_bot.md').read_bytes())
  for asset in sorted((ROOT/'chatbot').glob('*')):
@@ -190,6 +232,8 @@ def build():
  (ROOT/'reports/bases_excel.json').write_text(json.dumps({'fingerprint':fingerprint,'sources':audit,'bilans':len(manifest),'examens':len(exam_report),'entrainements':len(reports)},ensure_ascii=False,indent=2)+'\n')
  (ROOT/'reports/examens_sources.json').write_text(json.dumps(exam_report,ensure_ascii=False,indent=2)+'\n')
  index=ROOT/'chatbot/index.html';page=index.read_text();page=re.sub(r'\?v=[a-zA-Z0-9_-]+', '?v='+fingerprint,page);index.write_text(page)
+ for folder in ['activites-revision','activites-geographie']:
+  activity_index=ROOT/folder/'index.html';activity_index.write_text(re.sub(r'\?v=[a-zA-Z0-9_-]+','?v='+fingerprint,activity_index.read_text()))
  print('Bases compilées :',fingerprint)
 
 if __name__=='__main__':

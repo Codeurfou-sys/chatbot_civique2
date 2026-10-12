@@ -7,7 +7,8 @@ Retrouvez vos résultats et les conseils pour progresser.
 2. [📝 Mes entraînements](SCR_ENT_PLAN_MENU)
 3. [🎯 Mes examens blancs @lastRetour=SCR_PARCOURS_MENU](SCR_LAST_EXAM_RESULT)
 4. [📚 Mes révisions](SCR_PARCOURS_REVISIONS)
-5. [🏠 Menu principal](MENU_PRINCIPAL)
+5. [📄 Mes fiches de révision](SCR_FICHES_MENU)
+6. [🏠 Menu principal](MENU_PRINCIPAL)
 
 Vos résultats et vos conseils sont conservés sur ce navigateur.
 
@@ -950,3 +951,12 @@ Choisissez une thématique pour consulter vos chapitres.
 1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_Q)
 2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
 3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+## SCR_FICHES_MENU
+### 📄 Mes fiches de révision
+
+<div class="civi-sheets-hub"></div>
+
+1. [↩️ Revenir à mon parcours](SCR_PARCOURS_MENU)
+2. [🏠 Menu principal](MENU_PRINCIPAL)

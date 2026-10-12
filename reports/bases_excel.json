@@ -1,11 +1,11 @@
 {
-  "fingerprint": "915f131255201aa0",
+  "fingerprint": "2bdd1da4ac35a0ab",
   "sources": [
     {
       "exam": "CSP",
       "file": "BANQUE_OFFICIELLE_CSP.xlsx",
       "rows": 189,
-      "sha256": "a3a8cf60c21c0fa5ad3e502c20fea861a5cc2f44f193bc035ea479bc17594a49"
+      "sha256": "a255d6108052700d88060464394e1f366fd3629119181d423df47b732f57d880"
     },
     {
       "exam": "CSP",

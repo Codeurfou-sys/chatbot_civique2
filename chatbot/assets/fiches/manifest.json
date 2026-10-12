@@ -1,0 +1,437 @@
+{
+  "version": 54,
+  "illustrations": [
+    {
+      "key": "bastille",
+      "file": "bastille.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "bastille-mono.png"
+    },
+    {
+      "key": "camus",
+      "file": "camus.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "camus-mono.png"
+    },
+    {
+      "key": "vitale",
+      "file": "vitale.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "vitale-mono.png"
+    },
+    {
+      "key": "bins",
+      "file": "bins.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "bins-mono.png"
+    },
+    {
+      "key": "president",
+      "file": "president.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "president-mono.png"
+    },
+    {
+      "key": "government",
+      "file": "government.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "government-mono.png"
+    },
+    {
+      "key": "parliament",
+      "file": "parliament.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "parliament-mono.png"
+    },
+    {
+      "key": "rights",
+      "file": "rights.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "rights-mono.png"
+    },
+    {
+      "key": "tax",
+      "file": "tax.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "tax-mono.png"
+    },
+    {
+      "key": "worker",
+      "file": "worker.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "worker-mono.png"
+    },
+    {
+      "key": "napoleon",
+      "file": "napoleon.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "napoleon-mono.png"
+    },
+    {
+      "key": "louis16",
+      "file": "louis16.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "louis16-mono.png"
+    },
+    {
+      "key": "moliere",
+      "file": "moliere.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "moliere-mono.png"
+    },
+    {
+      "key": "baudelaire",
+      "file": "baudelaire.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "baudelaire-mono.png"
+    },
+    {
+      "key": "sand",
+      "file": "sand.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "sand-mono.png"
+    },
+    {
+      "key": "beauvoir",
+      "file": "beauvoir.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "beauvoir-mono.png"
+    },
+    {
+      "key": "cezanne",
+      "file": "cezanne.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "cezanne-mono.png"
+    },
+    {
+      "key": "chagall",
+      "file": "chagall.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "chagall-mono.png"
+    },
+    {
+      "key": "baker",
+      "file": "baker.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "baker-mono.png"
+    },
+    {
+      "key": "piaf",
+      "file": "piaf.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "piaf-mono.png"
+    },
+    {
+      "key": "lafontaine",
+      "file": "lafontaine.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "lafontaine-mono.png"
+    },
+    {
+      "key": "moulin",
+      "file": "moulin.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "moulin-mono.png"
+    },
+    {
+      "key": "yourcenar",
+      "file": "yourcenar.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "yourcenar-mono.png"
+    },
+    {
+      "key": "rodin",
+      "file": "rodin.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "rodin-mono.png"
+    },
+    {
+      "key": "berlioz",
+      "file": "berlioz.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "berlioz-mono.png"
+    },
+    {
+      "key": "renoir",
+      "file": "renoir.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "renoir-mono.png"
+    },
+    {
+      "key": "hugo",
+      "file": "hugo.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "hugo-mono.png"
+    },
+    {
+      "key": "curie",
+      "file": "curie.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "curie-mono.png"
+    },
+    {
+      "key": "ferry",
+      "file": "ferry.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "ferry-mono.png"
+    },
+    {
+      "key": "schoelcher",
+      "file": "schoelcher.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "schoelcher-mono.png"
+    },
+    {
+      "key": "rouget",
+      "file": "rouget.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "rouget-mono.png"
+    },
+    {
+      "key": "education",
+      "file": "education.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "education-mono.png"
+    },
+    {
+      "key": "geography",
+      "file": "geography.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "geography-mono.png"
+    },
+    {
+      "key": "vote",
+      "file": "vote.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "vote-mono.png"
+    },
+    {
+      "key": "values",
+      "file": "values.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "values-mono.png"
+    },
+    {
+      "key": "justice",
+      "file": "justice.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "justice-mono.png"
+    },
+    {
+      "key": "daily",
+      "file": "daily.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "daily-mono.png"
+    },
+    {
+      "key": "culture",
+      "file": "culture.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "culture-mono.png"
+    },
+    {
+      "key": "europe",
+      "file": "europe.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "europe-mono.png"
+    },
+    {
+      "key": "history",
+      "file": "history.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "history-mono.png"
+    },
+    {
+      "key": "health",
+      "file": "health.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "health-mono.png"
+    },
+    {
+      "key": "degaulle",
+      "file": "degaulle.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "degaulle-mono.png"
+    },
+    {
+      "key": "louis14",
+      "file": "louis14.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "louis14-mono.png"
+    },
+    {
+      "key": "voltaire",
+      "file": "voltaire.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "voltaire-mono.png"
+    },
+    {
+      "key": "monet",
+      "file": "monet.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "monet-mono.png"
+    },
+    {
+      "key": "debussy",
+      "file": "debussy.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "debussy-mono.png"
+    },
+    {
+      "key": "veil",
+      "file": "veil.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "veil-mono.png"
+    },
+    {
+      "key": "delacroix",
+      "file": "delacroix.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "monoFile": "delacroix-mono.png"
+    }
+  ]
+}

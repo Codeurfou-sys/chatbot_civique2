@@ -37,10 +37,12 @@ for q in original:
  dest=m[1] if m else q['id'].rsplit('_Q',1)[0]+'_END'
  chapter=q['id'].rsplit('_VERIF_Q',1)[0];theme=re.search(r'SCR_REV_T\d',chapter)[0]+'_MENU'
  def feedback(cond,kind,title,lead=''):
-  return f'`if {cond}`\n\n:::{kind} {title}\n'+(lead+'\n\n' if lead else '')+'**Réponse attendue :**\n\n'+model+'\n:::\n\n`endif`\n\n'
+  status={'success':'correct','warning':'partial','danger':'review'}[kind]
+  marker=f'<span class="civi-sheet-result" data-sheet-question="{q["id"]}" data-sheet-status="{status}" hidden></span>\n\n'
+  return f'`if {cond}`\n\n:::{kind} {title}\n\n'+marker+(lead+'\n\n' if lead else '')+'**Réponse attendue :**\n\n'+model+'\n:::\n\n`endif`\n\n'
  body+=feedback(good,'success','🌱 ✅ Bonne réponse')
  if some:body+=feedback('!('+good+') && '+some,'warning','🟠 Réponse partielle','Vous avez identifié une partie des notions attendues. Complétez votre réponse à l’aide du corrigé.')
- body+=feedback('!('+good+')'+(' && !'+some if some else ''),'danger','🔴 Réponse à revoir','Cette réponse ne correspond pas encore aux notions recherchées. Comparez-la avec le corrigé, puis reformulez avec vos propres mots.')
+ body+=feedback('!('+good+')'+(' && !('+some+')' if some else ''),'danger','🔴 Réponse à revoir','Cette réponse ne correspond pas encore aux notions recherchées. Comparez-la avec le corrigé, puis reformulez avec vos propres mots.')
  body+=f'1. [➡️ '+('Question suivante' if '_Q' in dest else 'Terminer les questions')+f']({dest})\n2. [📖 Revoir les notions utiles]({chapter}_GLO)\n3. [↩️ Retour aux chapitres]({theme})\n4. [🏠 Menu principal](MENU_PRINCIPAL)\n\n'
  text=re.sub(r'(?ms)(^## '+q['id']+r'_RESULT\s*\n).*?(?=^## |\Z)',lambda m:m[1]+body,text)
 p.write_text(text)
