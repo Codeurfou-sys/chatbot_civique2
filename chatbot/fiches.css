@@ -81,3 +81,21 @@ html.civi-a11y-contrast .civi-sheets-dialog .civi-sheet-content section{backgrou
 .civi-sheet-scene span,.civi-sheet-book span{position:absolute;font-family:RepereHand,sans-serif;font-size:clamp(10px,1.5vw,16px);line-height:1;transform:translateX(-50%);text-align:center;max-width:24%}
 .civi-scene-employer{left:37%;top:8%}.civi-scene-candidate{left:70%;top:13%}.civi-scene-book-title{left:84%;top:55%}
 @media(max-width:550px){.civi-sheet{grid-template-columns:1fr}.civi-sheet>*{grid-column:1/-1!important}.civi-sheet-scene,.civi-sheet-book{max-width:300px;margin:auto}}
+/* v59: modèle manuscrit commun à toutes les notions */
+@font-face{font-family:CiviNotes;src:url(vendor/repere-body.ttf) format('truetype');font-display:swap}
+@font-face{font-family:CiviTitres;src:url(vendor/repere-title.ttf) format('truetype');font-display:swap}
+.civi-sheets-dialog{background-color:#fffffd;background-image:radial-gradient(#dfe3e4 .7px,transparent .8px);background-size:12px 12px}
+.civi-sheets-dialog .civi-sheet,.civi-sheets-dialog .civi-sheet p{font-family:CiviNotes,sans-serif!important}
+.civi-sheets-dialog h2,.civi-sheets-dialog h3,.civi-sheets-dialog h4{font-family:CiviTitres,sans-serif!important}
+.civi-sheets-dialog .civi-sheets-heading h2{background:#d9ebf8;padding:5px 18px;transform:rotate(-.3deg);border-bottom:3px solid #9d1736;font-size:30px}
+.civi-sheets-dialog .civi-sheet-theme{box-shadow:none;background:transparent;border-radius:14px;border-width:1.5px;padding-top:3px}
+.civi-sheets-dialog .civi-sheet-theme-title{width:fit-content;max-width:100%;clip-path:polygon(1% 8%,14% 0,32% 5%,60% 0,78% 5%,99% 2%,100% 84%,83% 100%,55% 95%,35% 100%,15% 95%,0 90%);padding:7px 22px;font-size:25px!important;text-transform:uppercase}
+.civi-sheets-dialog .civi-sheet h4{background:#fbdce4;width:fit-content;padding:3px 9px;transform:rotate(-.4deg);font-size:23px;color:#261422;border-radius:10px 6px 9px 4px}
+.civi-sheets-dialog .civi-sheet-art{max-height:290px;min-height:130px}
+.civi-sheets-dialog .civi-notion-row[data-count='2']>.civi-sheet:first-child{border-right:1px dashed var(--sheet-theme-colour)!important;padding-right:14px}
+.civi-sheets-dialog .civi-sheet-remember{background:#fff0af;transform:rotate(-.6deg);box-shadow:2px 3px 0 #dedbc4;padding:9px 12px}
+.civi-sheets-dialog .civi-sheet-memory{background:#d9ebf8;border:0;transform:rotate(.5deg);padding:8px 12px}
+.civi-sheets-dialog .civi-sheet-content p{font-size:20px;line-height:1.3}
+.civi-sheets-dialog .civi-sheet-explain{background:#fbdce4;padding:8px 12px;border-radius:3px}
+html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheets-dialog h4,html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheet-remember,html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheet-memory,html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheet-explain{background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important}
+@media(max-width:800px){.civi-sheets-dialog .civi-notion-row[data-count='2']>.civi-sheet:first-child{border-right:0!important}}

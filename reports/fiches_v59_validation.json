@@ -1,0 +1,52 @@
+{
+  "references_covered": 2464,
+  "illustrations": 91,
+  "accessibility_profiles": 5,
+  "pdf_checks": [
+    {
+      "file": "Symboles_culture_droits_v59.pdf",
+      "pages": 1,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "Examen_dix_notions_v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "Institutions_histoire_societe_v59.pdf",
+      "pages": 1,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "Progression_mariage_v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "deuteranopia-v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "protanopia-v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "general-v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "achromatopsia-v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    },
+    {
+      "file": "tritanopia-v59.pdf",
+      "pages": 2,
+      "text_bounds": "OK"
+    }
+  ]
+}

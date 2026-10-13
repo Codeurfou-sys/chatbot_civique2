@@ -1,12 +1,14 @@
 'use strict';
 (function(root){
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/œ/g,'oe').replace(/[^a-z0-9]+/g,' ').trim();
-const portraits=[['camus','Albert Camus'],['napoleon','Napoléon'],['louis16','Louis XVI'],['moliere','Molière'],['baudelaire','Charles Baudelaire'],['sand','George Sand'],['beauvoir','Simone de Beauvoir'],['cezanne','Paul Cézanne'],['chagall','Marc Chagall'],['baker','Joséphine Baker'],['piaf','Édith Piaf'],['lafontaine','Jean de La Fontaine'],['moulin','Jean Moulin'],['yourcenar','Marguerite Yourcenar'],['rodin','Auguste Rodin'],['berlioz','Hector Berlioz'],['renoir','Auguste Renoir'],['hugo','Victor Hugo'],['curie','Marie Curie'],['ferry','Jules Ferry'],['schoelcher','Victor Schœlcher'],['rouget','Rouget de Lisle'],['degaulle','Charles de Gaulle'],['louis14','Louis XIV'],['voltaire','Voltaire'],['monet','Claude Monet'],['debussy','Claude Debussy'],['veil','Simone Veil'],['delacroix','Eugène Delacroix']];
+const portraits=[['mitterrand','François Mitterrand'],['pompidou','Georges Pompidou'],['camus','Albert Camus'],['napoleon','Napoléon'],['louis16','Louis XVI'],['moliere','Molière'],['baudelaire','Charles Baudelaire'],['sand','George Sand'],['beauvoir','Simone de Beauvoir'],['cezanne','Paul Cézanne'],['chagall','Marc Chagall'],['baker','Joséphine Baker'],['piaf','Édith Piaf'],['lafontaine','Jean de La Fontaine'],['moulin','Jean Moulin'],['yourcenar','Marguerite Yourcenar'],['rodin','Auguste Rodin'],['berlioz','Hector Berlioz'],['renoir','Auguste Renoir'],['hugo','Victor Hugo'],['curie','Marie Curie'],['ferry','Jules Ferry'],['schoelcher','Victor Schœlcher'],['rouget','Rouget de Lisle'],['degaulle','Charles de Gaulle'],['louis14','Louis XIV'],['voltaire','Voltaire'],['monet','Claude Monet'],['debussy','Claude Debussy'],['veil','Simone Veil'],['delacroix','Eugène Delacroix']];
 const captions={president:'Le président de la République',government:'L’action du gouvernement',parliament:'L’Assemblée nationale',rights:'Les droits et le respect des autres',tax:'La déclaration des revenus',worker:'Le travail déclaré',vitale:'La carte Vitale et l’Assurance maladie',bins:'Le tri et les déchets',bastille:'La prise de la Bastille',education:'Apprendre et aller à l’école',geography:'Se repérer sur le territoire',vote:'Le vote et la démocratie',values:'Les symboles de la République',justice:'Le droit et la justice',daily:'La vie quotidienne',culture:'Le patrimoine et la culture',history:'Les repères historiques',health:'Les soins et la santé',europe:'Les institutions européennes'};
+Object.assign(captions,{"matignon": "L’hôtel de Matignon", "senate": "Le palais du Luxembourg, siège du Sénat", "constitution": "Un livre représentant la Constitution", "townhall": "Une mairie", "prefect": "Un préfet dans son bureau", "language": "Deux personnes échangent autour d’un livre", "emergency": "Appeler les secours", "family": "Des parents et leur enfant", "housing": "Signer un bail locatif", "driving": "Un conducteur portant sa ceinture", "war": "Un monument de commémoration", "abolition": "Des chaînes brisées", "louvre": "Le musée du Louvre", "notredame": "Notre-Dame de Paris", "internet": "Une personne utilise son téléphone", "euro": "La monnaie en euros", "environment": "Planter un arbre", "pay": "Un bulletin de salaire", "gastronomy": "Des spécialités françaises", "lascaux": "Des peintures préhistoriques", "sports": "Des joueurs de football", "nationalday": "Le drapeau français et une fête nationale", "equality": "Une femme et un homme représentés à égalité", "babycare": "Un parent et son bébé", "digitalservice": "Une démarche sur ordinateur", "residence": "Un titre de séjour anonyme", "association": "Des bénévoles dans une association", "christmas": "Un arbre de Noël", "hymn": "Une partition représentant l’hymne national"});
+
 function pick(q){
  // Never match a name in distractors or an unrelated chapter example.
- const core=norm([q.question,q.correct].filter(Boolean).join(' ')),generic=!core||/^(que faites|que fait|que lui|que repond|quelle attitude|quelle reponse|comment reag)/.test(norm(q.question)),text=core+(generic?' '+norm(q.context):'');let key;
- const matches=(value,name)=>value.includes(norm(name))||(name==='Claude Debussy'&&/\bdebussy\b/.test(value));
+ const core=norm([q.question,q.correct].filter(Boolean).join(' ')),generic=!core||/^(qui (est|etait).* (il|elle)|quel est ce|quel est cet|laquelle|lequel|que faites|que fait|que lui|que repond|quelle attitude|quelle reponse|comment reag)/.test(norm(q.question)),text=core+(generic?' '+norm(q.context):'');let key;
+ const matches=(value,name)=>value.includes(norm(name))||(name.split(' ').length>1&&new RegExp('\\b'+norm(name).split(' ').at(-1)+'\\b').test(value));
  const person=[norm(q.correct),norm(q.question),generic?norm(q.context):''].map(value=>portraits.find(([,name])=>matches(value,name))).find(Boolean);
  if(/elysee/.test(text)&&/site|internet/.test(text)||/matignon/.test(text)||/senat/.test(text)&&!/assemblee nationale/.test(text))key='repere';
  else if(!/champs elysees/.test(text)&&/elysee|residence.*president|president.*residence/.test(text))key='elysee';
@@ -40,8 +42,38 @@ function pick(q){
  else if(/liberte|egalite|fraternite|marianne|drapeau|marseillaise|devise|symbole|laicite/.test(text))key=Number(q.theme)===3?'rights':'values';
  else if(/droits|devoirs|respect|discrimination|solidarite/.test(text))key='rights';
  else key='repere';
+ // Resolve the actual subject before any broad thematic fallback.
+ const detail=norm([q.question,q.correct,q.context,q.notion].filter(Boolean).join(' '));
+ const semantic=[
+ ['matignon',/matignon/],['senate',/senat|senateur/],['townhall',/maire|mairie|commune|municipal/],['prefect',/prefet/],
+ ['emergency',/samu|pompier|urgence|secours|personne en danger|assistance.*danger/],
+ ['constitution',/constitution|republique indivisible|ve republique|separation des pouvoirs|regime politique/],
+ ['christmas',/noel|25 decembre/],['hymn',/marseillaise|hymne/],['nationalday',/14 juillet|fete nationale|defile militaire/],['war',/guerre mondiale|shoah|armistice|debarquement|8 mai|11 novembre|nazisme|resistance/],
+ ['abolition',/esclavage|traite des.*humain|abolition|peine de mort|torture/],
+ ['louvre',/louvre|joconde/],['notredame',/notre dame/],['lascaux',/lascaux|prehistoi/],
+ ['language',/langue|francophonie|francais.*officiel/],['euro',/euro|monnaie/],
+ ['internet',/reseaux sociaux|internet|numerique|cyber/],['housing',/bail|locatai|proprietai|logement|loyer/],
+ ['driving',/condui|voiture|automobile|ceinture|stationnement|permis/],['residence',/titre de sejour|naturalisation|nationalite|engagement.*contrat/],
+ ['marriage',/marie|maries|divorce|repudiation|polygam/],['family',/naissance|etat civil|parents|parentalite|enfant|famille|paternite/],
+ ['health',/avort|ivg|grossesse|vaccin|sante|medecin|soin/],['pay',/smic|bulletin|salaire|paie|cotisation/],
+ ['environment',/environnement|arbre|nature|preserv|biodiversite/],['association',/association|benevol|solidar/],
+ ['sports',/sport|football/],['gastronomy',/gastronomie|specialite.*regional|plat traditionnel|cassoulet|choucroute|boeuf bourguignon|bouillabaisse|quiche|tarte|brie|fromage/],
+ ['education',/brevet|baccalaureat|diplome|colleg|lycee|maternelle|scolar|instruction|cantine|ecole/],
+ ['geography',/nations unies|\bonu\b|region|departement|fleuve|massif|montagne|territoire|continent|ocean|capitale|paris|marseille|reunion|colonisation|algerie/],
+ ['vote',/elect|suffrage|souverain|peuple|parti politique|referendum|urne|bulletins|isoloir/],
+ ['bins',/dechet|encombrant|carton|recycl|emballage|machine a laver/],
+ ['conscience',/laique|laicite|neutralite|religion|eglise|conviction|conscience/],
+ ['justice',/tribunal|judiciaire|infractions|contravention|delit|crime|violence|avocat|juridiction|vol /],
+ ['europe',/europeen|cee|ceca|maastricht|bruxelles|traite.*rome/],['equality',/egalite|discrimin|egal|femme.*homme/],
+ ['daily',/demarche|service public|administrati/]
+ ];
+ // Specific missing subjects also override a generic illustration selected earlier.
+ const overrides=new Set(['repere','rights','values','daily','history','culture']);
+ if(overrides.has(key)){const match=semantic.find(([,test])=>test.test(detail));key=match?.[0]||({1:'values',2:'constitution',3:'rights',4:'history',5:'daily'})[Number(q.theme)]||'daily';}
+ if(/matignon/.test(detail))key='matignon';
+ if(/senat|senateur/.test(detail)&&!/assemblee nationale/.test(norm(q.question+' '+q.correct)))key='senate';
  const label=({solidarity:'Des voisins s’entraident au quotidien',marriage:'Un marié et une mariée en tenue de cérémonie',conscience:'Deux personnes échangent et respectent leurs convictions',elysee:'Le palais de l’Élysée',interview:'Un employeur et un candidat en entretien',ddhc:'La Déclaration des droits de l’homme et du citoyen',marianne:'Un buste de Marianne'})[key]||(key==='factory'?'Une personne au travail dans un atelier':key==='business'?'Une personne dans son entreprise':key==='eiffel'?'La tour Eiffel':key==='swissflag'?'Le drapeau suisse':key==='frenchflag'?'Le drapeau français':person?'Portrait dessiné de '+person[1]:captions[key]);
- return {key,label:label||'Repère pédagogique',src:key==='repere'?null:root.CiviSheetsArt?.[key]||'assets/fiches/'+key+'.png',file:'assets/fiches/'+key+'.png',person:person?.[1]||null};
+ return {key,label:label||'Repère pédagogique',src:root.CiviSheetsArt?.[key]||'assets/fiches/'+key+'.png',file:'assets/fiches/'+key+'.png',person:person?.[1]||null};
 }
 function memo(q){
  const v=pick(q),s=norm(q.question+' '+q.correct);
@@ -58,6 +90,7 @@ function title(q){const p=pick(q),core=norm(q.question+' '+q.correct);if(p.key==
 function sections(q){
  const v=pick(q),text=norm(q.question+' '+q.correct),out=[];
  if(v.key==='vitale'&&/assurance maladie|caisse primaire|cpam/.test(norm(q.correct))&&/organisme|rembourse|cpam|caisse/.test(norm(q.question)))return [{label:'À retenir',text:'Rembourse une partie des frais de santé.'},{label:'Mémo',text:'CPAM = Caisse primaire d’assurance maladie.'}];
+ if(v.key==='interview'&&/uniquement.*questions.*emploi|questions.*lien.*emploi/i.test(q.correct||''))return [{label:'À retenir',text:q.correct},...root.NovaSheetsRules.explanation(q).filter(t=>/discrimination/i.test(t)).map(text=>({label:'Repère',text}))];
  if(v.key==='camus'&&/écrivain|philosophe/i.test(q.correct||'')&&!/[«"]/.test(q.question||''))return [{label:'À retenir',text:q.correct},{label:'Repère',text:'L’Étranger : un roman d’Albert Camus.'}];
  if(v.key==='ferry'&&/ecole.*(gratuit|laique|oblig)|enseignement/.test(text))return [{label:'À retenir',text:'G = gratuit (1881)\nL = laïque (1882)\nO = instruction obligatoire (1882)'},{label:'Repère',text:'École primaire publique.'}];
  if(v.key==='tax'&&/declar/.test(text)&&/revenu/.test(text)&&/^(oui)|obligation|declar.*chaque|declare.*annee/.test(norm(q.correct)))return [{label:'À retenir',text:'Toute personne concernée déclare ses revenus chaque année.'},{label:'Repère',text:'Déclarer ne signifie pas forcément payer un impôt.'},{label:'Schéma',text:'Revenus → Déclaration → Calcul de l’impôt',steps:['Revenus','Déclaration','Calcul de l’impôt']}];
@@ -117,7 +150,7 @@ function composition(q){
  // Question restatements are not revision notes. Keep the answer, conditions and explanations.
  for(let i=facts.length-1;i>=1;i--)if(facts[i].label==='Repère'&&norm(facts[i].text)===norm(String(q.question||'').replace(/\s*\?$/,'')))facts.splice(i,1);
  const flow=facts.find(s=>s.steps);
- if(v.key==='president'&&/nomm.*premier ministre|premier ministre.*nomm/.test(t)&&/president/.test(norm(q.correct)))facts[0]={label:'À retenir',text:'Le président de la République nomme le Premier ministre.'};
+ if(v.key==='president'&&/nomm.*premier ministre|premier ministre.*nomm/.test(t)&&/president/.test(norm(q.correct)))facts[0]={label:'À retenir',text:'Nomme le Premier ministre.'};
  const type=event(q)?'timeline':flow?'process':v.key==='interview'?'dialogue':/mariage|polygam|repudiation/.test(t)?'relationship':/laicite|conscience|religion/.test(t)?'freedom':/egalite|discrimination|interdit|autorise/.test(t)?'rule':v.key==='elysee'||v.key==='eiffel'||v.key==='geography'?'place':/\d/.test(q.correct||'')?'number':isAction(q)?'action':'mindmap';
  if(v.key==='president'&&/nomm/.test(t)){for(let i=facts.length-1;i>=0;i--)if(facts[i].label==='Mémo'&&/^PR =/.test(facts[i].text))facts.splice(i,1);}
  return {type,subject:title(q),facts,visual:v.key,sourceOnly:true};
@@ -125,7 +158,7 @@ function composition(q){
 function isAction(q){return root.NovaSheetsRules.isSituation(q);}
 function rows(block){
  const dated=block.notions.filter(q=>event(q)),timed=Number(block.id)===4&&dated.length>=2?dated:[],rest=block.notions.filter(q=>!timed.includes(q)),out=[];
- if(timed.length){const ordered=[...timed].sort((a,b)=>event(a).year-event(b).year);for(let i=0;i<ordered.length;i+=3)out.push({type:'timeline',notions:ordered.slice(i,i+3)});}
+ if(timed.length){const ordered=[...timed].sort((a,b)=>event(a).year-event(b).year);for(let i=0;i<ordered.length;i+=2)out.push({type:'timeline',notions:ordered.slice(i,i+2)});}
  for(let i=0;i<rest.length;){const short=q=>sections(q).reduce((n,s)=>n+s.text.length,0)<=420&&title(q).length<=65,pair=i+1<rest.length&&short(rest[i])&&short(rest[i+1]);out.push({type:'notes',notions:rest.slice(i,i+(pair?2:1))});i+=pair?2:1;}
  return out;
 }

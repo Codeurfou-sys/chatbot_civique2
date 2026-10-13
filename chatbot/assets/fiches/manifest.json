@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "illustrations": [
     {
       "key": "bastille",
@@ -31,11 +31,12 @@
     {
       "key": "bins",
       "file": "bins.png",
+      "monoFile": "bins-mono.png",
       "width": 720,
       "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "bins-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "president",
@@ -49,227 +50,252 @@
     {
       "key": "government",
       "file": "government.png",
+      "monoFile": "government-mono.png",
       "width": 720,
       "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "government-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "parliament",
       "file": "parliament.png",
+      "monoFile": "parliament-mono.png",
       "width": 720,
       "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "parliament-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "rights",
       "file": "rights.png",
+      "monoFile": "rights-mono.png",
       "width": 720,
       "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "rights-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "worker",
       "file": "worker.png",
+      "monoFile": "worker-mono.png",
       "width": 720,
-      "height": 480,
+      "height": 600,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "worker-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "napoleon",
       "file": "napoleon.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "napoleon-mono.png",
+      "width": 674,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "napoleon-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "louis16",
       "file": "louis16.png",
+      "monoFile": "louis16-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 705,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "louis16-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "moliere",
       "file": "moliere.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "moliere-mono.png",
+      "width": 693,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "moliere-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "baudelaire",
       "file": "baudelaire.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "baudelaire-mono.png",
+      "width": 654,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "baudelaire-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "sand",
       "file": "sand.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "sand-mono.png",
+      "width": 712,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "sand-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "beauvoir",
       "file": "beauvoir.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "beauvoir-mono.png",
+      "width": 675,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "beauvoir-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "cezanne",
       "file": "cezanne.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "cezanne-mono.png",
+      "width": 658,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "cezanne-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "chagall",
       "file": "chagall.png",
+      "monoFile": "chagall-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 679,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "chagall-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "baker",
       "file": "baker.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "baker-mono.png",
+      "width": 649,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "baker-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "piaf",
       "file": "piaf.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "piaf-mono.png",
+      "width": 665,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "piaf-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "lafontaine",
       "file": "lafontaine.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "lafontaine-mono.png",
+      "width": 667,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "lafontaine-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "moulin",
       "file": "moulin.png",
+      "monoFile": "moulin-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 702,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "moulin-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "yourcenar",
       "file": "yourcenar.png",
+      "monoFile": "yourcenar-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 654,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "yourcenar-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "rodin",
       "file": "rodin.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "rodin-mono.png",
+      "width": 712,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "rodin-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "berlioz",
       "file": "berlioz.png",
+      "monoFile": "berlioz-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 701,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "berlioz-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "renoir",
       "file": "renoir.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "renoir-mono.png",
+      "width": 688,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "renoir-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "hugo",
       "file": "hugo.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "hugo-mono.png",
+      "width": 651,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "hugo-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "curie",
       "file": "curie.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "curie-mono.png",
+      "width": 689,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "curie-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "ferry",
       "file": "ferry.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "ferry-mono.png",
+      "width": 699,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "ferry-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "schoelcher",
       "file": "schoelcher.png",
+      "monoFile": "schoelcher-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 664,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "schoelcher-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "rouget",
       "file": "rouget.png",
+      "monoFile": "rouget-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 704,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "rouget-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "education",
@@ -283,191 +309,212 @@
     {
       "key": "geography",
       "file": "geography.png",
+      "monoFile": "geography-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "geography-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "vote",
       "file": "vote.png",
+      "monoFile": "vote-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 640,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "vote-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "values",
       "file": "values.png",
+      "monoFile": "values-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "values-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "justice",
       "file": "justice.png",
+      "monoFile": "justice-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "justice-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "daily",
       "file": "daily.png",
+      "monoFile": "daily-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "daily-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "culture",
       "file": "culture.png",
+      "monoFile": "culture-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "culture-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "europe",
       "file": "europe.png",
+      "monoFile": "europe-mono.png",
       "width": 720,
-      "height": 480,
+      "height": 654,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "europe-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "history",
       "file": "history.png",
+      "monoFile": "history-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "history-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "health",
       "file": "health.png",
+      "monoFile": "health-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "health-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "degaulle",
       "file": "degaulle.png",
+      "monoFile": "degaulle-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 664,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "degaulle-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "louis14",
       "file": "louis14.png",
+      "monoFile": "louis14-mono.png",
       "width": 720,
       "height": 658,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "louis14-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "voltaire",
       "file": "voltaire.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "voltaire-mono.png",
+      "width": 668,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "voltaire-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "monet",
       "file": "monet.png",
+      "monoFile": "monet-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 693,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "monet-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "debussy",
       "file": "debussy.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "debussy-mono.png",
+      "width": 662,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "debussy-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "veil",
       "file": "veil.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "veil-mono.png",
+      "width": 635,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "veil-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "delacroix",
       "file": "delacroix.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "delacroix-mono.png",
+      "width": 675,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
-      "monoFile": "delacroix-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "factory",
       "file": "factory.png",
+      "monoFile": "factory-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée",
-      "monoFile": "factory-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "business",
       "file": "business.png",
+      "monoFile": "business-mono.png",
       "width": 720,
-      "height": 658,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée",
-      "monoFile": "business-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "eiffel",
       "file": "eiffel.png",
-      "width": 480,
+      "monoFile": "eiffel-mono.png",
+      "width": 618,
       "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée",
-      "monoFile": "eiffel-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "frenchflag",
       "file": "frenchflag.png",
+      "monoFile": "frenchflag-mono.png",
       "width": 720,
-      "height": 480,
+      "height": 581,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée",
-      "monoFile": "frenchflag-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "swissflag",
       "file": "swissflag.png",
-      "width": 720,
-      "height": 658,
+      "monoFile": "swissflag-mono.png",
+      "width": 710,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée",
-      "monoFile": "swissflag-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "elysee",
@@ -481,11 +528,12 @@
     {
       "key": "marianne",
       "file": "marianne.png",
+      "monoFile": "marianne-mono.png",
       "width": 480,
       "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Dessin à l’encre pour les notes visuelles",
-      "monoFile": "marianne-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "interview",
@@ -499,47 +547,362 @@
     {
       "key": "tax",
       "file": "tax.png",
-      "width": 688,
-      "height": 720,
+      "monoFile": "tax-mono.png",
+      "width": 720,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Dessin à l’encre pour les notes visuelles",
-      "monoFile": "tax-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "ddhc",
       "file": "ddhc.png",
-      "width": 684,
-      "height": 720,
+      "monoFile": "ddhc-mono.png",
+      "width": 720,
+      "height": 669,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Dessin à l’encre pour les notes visuelles",
-      "monoFile": "ddhc-mono.png"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "marriage",
       "file": "marriage.png",
       "monoFile": "marriage-mono.png",
-      "width": 406,
-      "height": 640,
+      "width": 480,
+      "height": 720,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Croquis au trait et au crayon de couleur"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "conscience",
       "file": "conscience.png",
       "monoFile": "conscience-mono.png",
-      "width": 640,
-      "height": 436,
+      "width": 720,
+      "height": 480,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Croquis au trait et au crayon de couleur"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     },
     {
       "key": "solidarity",
       "file": "solidarity.png",
       "monoFile": "solidarity-mono.png",
-      "width": 640,
-      "height": 574,
+      "width": 720,
+      "height": 600,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Croquis au trait et au crayon de couleur"
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "mitterrand",
+      "file": "mitterrand.png",
+      "monoFile": "mitterrand-mono.png",
+      "width": 670,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "pompidou",
+      "file": "pompidou.png",
+      "monoFile": "pompidou-mono.png",
+      "width": 655,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "matignon",
+      "file": "matignon.png",
+      "monoFile": "matignon-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "senate",
+      "file": "senate.png",
+      "monoFile": "senate-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "constitution",
+      "file": "constitution.png",
+      "monoFile": "constitution-mono.png",
+      "width": 720,
+      "height": 600,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "townhall",
+      "file": "townhall.png",
+      "monoFile": "townhall-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "prefect",
+      "file": "prefect.png",
+      "monoFile": "prefect-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "language",
+      "file": "language.png",
+      "monoFile": "language-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "emergency",
+      "file": "emergency.png",
+      "monoFile": "emergency-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "family",
+      "file": "family.png",
+      "monoFile": "family-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "housing",
+      "file": "housing.png",
+      "monoFile": "housing-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "driving",
+      "file": "driving.png",
+      "monoFile": "driving-mono.png",
+      "width": 720,
+      "height": 524,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "war",
+      "file": "war.png",
+      "monoFile": "war-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "abolition",
+      "file": "abolition.png",
+      "monoFile": "abolition-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "louvre",
+      "file": "louvre.png",
+      "monoFile": "louvre-mono.png",
+      "width": 720,
+      "height": 360,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "notredame",
+      "file": "notredame.png",
+      "monoFile": "notredame-mono.png",
+      "width": 720,
+      "height": 592,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "internet",
+      "file": "internet.png",
+      "monoFile": "internet-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "euro",
+      "file": "euro.png",
+      "monoFile": "euro-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "environment",
+      "file": "environment.png",
+      "monoFile": "environment-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "pay",
+      "file": "pay.png",
+      "monoFile": "pay-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "gastronomy",
+      "file": "gastronomy.png",
+      "monoFile": "gastronomy-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "lascaux",
+      "file": "lascaux.png",
+      "monoFile": "lascaux-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "sports",
+      "file": "sports.png",
+      "monoFile": "sports-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "nationalday",
+      "file": "nationalday.png",
+      "monoFile": "nationalday-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "equality",
+      "file": "equality.png",
+      "monoFile": "equality-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "babycare",
+      "file": "babycare.png",
+      "monoFile": "babycare-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "digitalservice",
+      "file": "digitalservice.png",
+      "monoFile": "digitalservice-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "residence",
+      "file": "residence.png",
+      "monoFile": "residence-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "association",
+      "file": "association.png",
+      "monoFile": "association-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "christmas",
+      "file": "christmas.png",
+      "monoFile": "christmas-mono.png",
+      "width": 581,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
+    },
+    {
+      "key": "hymn",
+      "file": "hymn.png",
+      "monoFile": "hymn-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
+      "version": 59
     }
   ]
 }
