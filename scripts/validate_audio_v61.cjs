@@ -1,0 +1,6 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+class Element{constructor(tag){this.tag=tag;this.children=[];}append(...x){this.children.push(...x);}setAttribute(){}}
+class AudioMock{constructor(url){this.url=url;this.paused=true;this.currentTime=0;}async play(){this.paused=false;}pause(){this.paused=true;}}
+const root={location:{href:'https://example.org/civicoach/chatbot/index.html'},document:{createElement:t=>new Element(t),createTextNode:t=>t},addEventListener(){},NovaAudio:{stop(){}}};
+vm.runInNewContext(fs.readFileSync(require('path').resolve(__dirname,'../chatbot/fiches-audio.js'),'utf8'),{window:root,Audio:AudioMock,URL});
+(async()=>{for(const t of Object.values(root.CiviSheetAudio.tracks)){let d=root.CiviSheetAudio.controls(t);await d.children[0].onclick();assert.equal(d.children[3].textContent,'Lecture en cours');await d.children[1].onclick();assert.equal(d.children[3].textContent,'En pause');await d.children[1].onclick();assert.equal(d.children[3].textContent,'Lecture en cours');d.children[2].onclick();assert.equal(d.children[3].textContent,'Lecture arrêtée');assert(root.CiviSheetAudio.link(t.id).includes('/civicoach/chatbot/audio-fiches.html?track='));}console.log('PASS 3 lecteurs : lecture, pause, reprise, arrêt, lien PDF relatif au déploiement');})();

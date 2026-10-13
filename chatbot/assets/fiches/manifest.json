@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "illustrations": [
     {
       "key": "bastille",
@@ -918,9 +918,9 @@
       "file": "eucitizenship.png",
       "monoFile": "eucitizenship-mono.png",
       "width": 720,
-      "height": 480,
+      "height": 479,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+      "style": "Dessin à l’encre et au crayon, sans flèche"
     },
     {
       "key": "crowfox",
@@ -1340,6 +1340,33 @@
       "width": 720,
       "height": 540,
       "origin": "Schéma original : globe et rameaux, sans carte géographique"
+    },
+    {
+      "key": "contraception",
+      "file": "contraception.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre et au crayon, sans flèche",
+      "monoFile": "contraception-mono.png"
+    },
+    {
+      "key": "beethoven",
+      "file": "beethoven.png",
+      "width": 720,
+      "height": 712,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre et au crayon, sans flèche",
+      "monoFile": "beethoven-mono.png"
+    },
+    {
+      "key": "frontiers",
+      "file": "frontiers.png",
+      "width": 620,
+      "height": 620,
+      "origin": "Contour géographique du corpus existant (Natural Earth)",
+      "style": "Carte contrôlée, sans flèche",
+      "monoFile": "frontiers-mono.png"
     }
   ]
 }

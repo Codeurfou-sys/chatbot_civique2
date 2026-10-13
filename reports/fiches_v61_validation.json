@@ -1,0 +1,11 @@
+{
+  "version": 61,
+  "references": 2472,
+  "illustrations": 145,
+  "profiles": 5,
+  "semanticTests": 22,
+  "examples": {
+    "six": 2,
+    "ten": 3
+  }
+}
