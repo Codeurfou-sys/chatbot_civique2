@@ -3516,7 +3516,7 @@
     "screen": "BIL_ITEM_CR_202",
     "theme": 5,
     "level": 2,
-    "question": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?"
+    "question": "Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?"
   },
   {
     "exam": "CR",
@@ -4884,7 +4884,7 @@
     "screen": "BIL_ITEM_NAT_150",
     "theme": 4,
     "level": 2,
-    "question": "En quelle année l'Union européenne a-t-elle été officiellement fondée ?"
+    "question": "En quelle année le traité de Maastricht a-t-il été signé ?"
   },
   {
     "exam": "NAT",
@@ -5397,7 +5397,7 @@
     "screen": "BIL_ITEM_NAT_207",
     "theme": 4,
     "level": 2,
-    "question": "Quelle île française se trouve au sud-est du continent africain ?"
+    "question": "Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?"
   },
   {
     "exam": "NAT",
@@ -5757,7 +5757,7 @@
     "screen": "BIL_ITEM_NAT_247",
     "theme": 5,
     "level": 2,
-    "question": "Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?"
+    "question": "Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?"
   },
   {
     "exam": "NAT",

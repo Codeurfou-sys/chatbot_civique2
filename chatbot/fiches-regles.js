@@ -25,7 +25,7 @@ function plan(cards,context={}){
   if(!notions.has(key))notions.set(key,{...q,variants:[],kind:q.kind});
   notions.get(key).variants.push(q);
  }
- const revisionTheme=q=>{const k=root.CiviSheetsVisual.pick(q).key;return ['interview','vitale','health','factory','worker','business','bins','solidarity'].includes(k)?5:['president','government','parliament','elysee','matignon','senate','constitution','prefect','townhall'].includes(k)?2:['ddhc','tax','marriage','justice'].includes(k)?3:['marianne','frenchflag','values','conscience'].includes(k)?1:Number(q.theme);};const blocks=themes.map(t=>({...t,notions:[...notions.values()].filter(q=>revisionTheme(q)===t.id)})).filter(t=>t.notions.length);
+ const revisionTheme=q=>{const k=root.CiviSheetsVisual.pick(q).key;return ['interview','vitale','health','factory','worker','business','bins','solidarity'].includes(k)?5:['president','government','parliament','elysee','matignon','senate','constitution','prefect','townhall','eutreaty','eucitizenship','euconstruction','euparliament','eucommission','ecb'].includes(k)?2:['ddhc','tax','marriage','marriage-men','marriage-women','divorce','justice','jurors','press','expression','police'].includes(k)?3:['marianne','frenchflag','values','conscience','secularagent'].includes(k)?1:Number(q.theme);};const blocks=themes.map(t=>({...t,notions:[...notions.values()].filter(q=>revisionTheme(q)===t.id)})).filter(t=>t.notions.length);
  const kinds=[...new Set(cards.map(q=>q.kind).filter(Boolean))],kind=context.kind||(kinds.length===1?kinds[0]:'ensemble');
  const long=kind==='examen'||kind==='bilan'||kind==='ensemble';
  const mode=!blocks.length?'empty':blocks.length===1?'thematique':long&&notions.size>6?'par-thematique':'synthese';
@@ -57,6 +57,7 @@ function buildPdf(cards,context={}){
  function image(q,x,yy,w,h){const v=root.CiviSheetsVisual.pick(q),src=mono?root.CiviSheetsArtMono?.[v.key]:v.src;if(!src)throw Error('L’illustration adaptée au profil choisi n’est pas disponible.');const info=doc.getImageProperties(src),ratio=Math.min(w/info.width,h/info.height);doc.addImage(src,src.startsWith('data:image/jpeg')?'JPEG':'PNG',x+(w-info.width*ratio)/2,yy+(h-info.height*ratio)/2,info.width*ratio,info.height*ratio,v.key,'FAST');const ax=x+(w-info.width*ratio)/2,ay=yy+(h-info.height*ratio)/2;
  if(v.key==='interview'){font();doc.setFontSize(8);doc.setTextColor(...(exportProfile.ink||[25,30,36]));doc.text(['Votre','expérience ?'],ax+info.width*ratio*.37,ay+info.height*ratio*.075,{align:'center'});doc.text(['J’ai travaillé','en équipe.'],ax+info.width*ratio*.70,ay+info.height*ratio*.105,{align:'center'});}
  if(v.key==='camus'){font();doc.setFontSize(7);doc.setTextColor(...(exportProfile.ink||[25,30,36]));const book=String(q.question||'').match(/[«"]([^»"]+)[»"]/)?.[1]||'L’Étranger';doc.text(doc.splitTextToSize(book,info.width*ratio*.27),ax+info.width*ratio*.84,ay+info.height*ratio*.59,{align:'center'});}
+ const work=root.CiviSheetsVisual.artwork(q);if(work?.art&&root.CiviSheetsArt?.[work.art]){const prop=mono?root.CiviSheetsArtMono[work.art]:root.CiviSheetsArt[work.art];doc.addImage(prop,prop.startsWith('data:image/jpeg')?'JPEG':'PNG',x+w*.52,yy+h*.48,w*.47,h*.46,v.key+'-work','FAST');}
  }
  function sketchContent(q,width){
   const model=root.CiviSheetsVisual.composition(q),facts=model.facts;

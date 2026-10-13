@@ -29829,7 +29829,7 @@ Un ami organise une sortie le 14 juillet et vous demande ce que l'on célèbre c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CSP_V09_Q32
-<span hidden data-civi-question="ff151d994575b5a4" data-kind="examen" data-screen="EXAM_CSP_V09_Q32"></span>
+<span hidden data-civi-question="585acb58281fe6ec" data-kind="examen" data-screen="EXAM_CSP_V09_Q32"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -29848,9 +29848,9 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 **Lequel de ces ensembles ne comprend que des symboles officiels de la République ?**
 
 1. [<span class="qcm-letter">A</span> Le coq, le drapeau tricolore et la Joconde.](EXAM_CSP_V09_Q32_FAUX)
-1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](EXAM_CSP_V09_Q32_VRAI)
+1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](EXAM_CSP_V09_Q32_FAUX)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre et l'arc de triomphe.](EXAM_CSP_V09_Q32_FAUX)
-1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](EXAM_CSP_V09_Q32_FAUX)
+1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](EXAM_CSP_V09_Q32_VRAI)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -30609,7 +30609,7 @@ Le 14 juillet est la fête nationale française. Cette journée rappelle un év�
 `endif`
 `if @err_CSP_V09_Q32 == 1`
 **32. Lequel de ces ensembles ne comprend que des symboles officiels de la République ?**  
-✅ Le béret, la baguette et le croissant.
+✅ Le drapeau tricolore, Marianne, la Marseillaise et la devise.
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 `endif`
@@ -53611,7 +53611,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q21
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="examen" data-screen="EXAM_CR_V06_Q21"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="examen" data-screen="EXAM_CR_V06_Q21"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -53625,9 +53625,9 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](EXAM_CR_V06_Q21_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](EXAM_CR_V06_Q21_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](EXAM_CR_V06_Q21_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](EXAM_CR_V06_Q21_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](EXAM_CR_V06_Q21_FAUX)
@@ -53839,7 +53839,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V06_Q25
-<span hidden data-civi-question="1c3929e224286daa" data-kind="examen" data-screen="EXAM_CR_V06_Q25"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="examen" data-screen="EXAM_CR_V06_Q25"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -53855,7 +53855,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](EXAM_CR_V06_Q25_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](EXAM_CR_V06_Q25_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](EXAM_CR_V06_Q25_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](EXAM_CR_V06_Q25_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](EXAM_CR_V06_Q25_FAUX)
@@ -54948,12 +54948,12 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 💡 Retenez : Une absence scolaire doit être justifiée (ex : maladie, hospitalisation…)
 `endif`
 `if @err_CR_V06_Q21 == 1`
-**21. Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**  
-✅ Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.
+**21. Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**  
+✅ Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 `endif`
 `if @err_CR_V06_Q22 == 1`
 **22. Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?**  
@@ -54981,11 +54981,11 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 `endif`
 `if @err_CR_V06_Q25 == 1`
 **25. Lequel de ces symboles est un symbole officiel de la République française ?**  
-✅ L'Arc de triomphe.
+✅ Marianne.
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 `endif`
 `if @err_CR_V06_Q26 == 1`
 **26. Combien y a-t-il de régions en France ?**  
@@ -68668,7 +68668,7 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_CR_V10_Q40
-<span hidden data-civi-question="896dd55df6879786" data-kind="examen" data-screen="EXAM_CR_V10_Q40"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="examen" data-screen="EXAM_CR_V10_Q40"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -68682,11 +68682,11 @@ Un ami confond le préfet et le maire, pensant qu'il s'agit d'un maire chargé d
 
 <!-- Source cr : MS-T5-030 -->
 
-Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sans motif valable, malgré plusieurs relances de l'administration.
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](EXAM_CR_V10_Q40_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](EXAM_CR_V10_Q40_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](EXAM_CR_V10_Q40_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](EXAM_CR_V10_Q40_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](EXAM_CR_V10_Q40_FAUX)
@@ -69031,10 +69031,10 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État, sans être élu comme un maire ou un député.
 `endif`
 `if @err_CR_V10_Q40 == 1`
-**40. Quelle sanction maximale risquent-ils ?**  
-✅ Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.
+**40. Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**  
+✅ Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 `endif`
 </tbody></table>
 `endif`
@@ -76871,7 +76871,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V03_Q01
-<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="examen" data-screen="EXAM_NAT_V03_Q01"></span>
+<span hidden data-civi-question="c0503145e3644cab" data-kind="examen" data-screen="EXAM_NAT_V03_Q01"></span>
 `@exam_variant = 3`
 
 
@@ -76888,7 +76888,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 <!-- Source nat : NAT-T4-019 -->
 
-**En quelle année l'Union européenne a-t-elle été officiellement fondée ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](EXAM_NAT_V03_Q01_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](EXAM_NAT_V03_Q01_FAUX)
@@ -79191,12 +79191,12 @@ Seules vos réponses incorrectes sont affichées. Ouvrez « Détails » pour ret
 #### Connaissances
 <table class="v13-errors"><thead><tr><th>Question</th><th>Réponse correcte</th><th>Explication courte</th><th>Notion à revoir</th></tr></thead><tbody>
 `if @err_NAT_V03_Q01 == 1`
-**1. En quelle année l'Union européenne a-t-elle été officiellement fondée ?**  
+**1. En quelle année le traité de Maastricht a-t-il été signé ?**  
 ✅ 1992.
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 `endif`
 `if @err_NAT_V03_Q02 == 1`
 **2. Quand a eu lieu la Seconde Guerre mondiale ?**  
@@ -81959,7 +81959,7 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V04_Q29
-<span hidden data-civi-question="f852968b568e0c4f" data-kind="examen" data-screen="EXAM_NAT_V04_Q29"></span>
+<span hidden data-civi-question="9b5ef7cf7079ce69" data-kind="examen" data-screen="EXAM_NAT_V04_Q29"></span>
 `@exam_variant = 4`
 
 
@@ -81976,9 +81976,9 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 <!-- Source nat : MS-NAT-T4-019 -->
 
-Lors d'une révision pour son entretien de naturalisation, un ami confond souvent les dates européennes et vous demande de confirmer l'année exacte de création officielle de l'Union européenne.
+Lors d’une révision, un ami confond la signature du traité de Maastricht et son entrée en vigueur.
 
-**En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](EXAM_NAT_V04_Q29_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](EXAM_NAT_V04_Q29_FAUX)
@@ -82897,10 +82897,10 @@ Au XVIIIᵉ siècle, Nantes est le principal port français impliqué dans la tr
 #### Mises en situation
 <table class="v13-errors"><thead><tr><th>Question</th><th>Réponse correcte</th><th>Explication courte</th><th>Notion à revoir</th></tr></thead><tbody>
 `if @err_NAT_V04_Q29 == 1`
-**29. En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**  
+**29. En quelle année le traité de Maastricht a-t-il été signé ?**  
 ✅ 1992.
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité est signé en 1992 et entre en vigueur en 1993. Ne pas confondre ces deux dates.
 `endif`
 `if @err_NAT_V04_Q30 == 1`
 **30. Qui vote les lois en France ?**  
@@ -91522,7 +91522,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V07_Q13
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="examen" data-screen="EXAM_NAT_V07_Q13"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="examen" data-screen="EXAM_NAT_V07_Q13"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -91536,10 +91536,10 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](EXAM_NAT_V07_Q13_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](EXAM_NAT_V07_Q13_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](EXAM_NAT_V07_Q13_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](EXAM_NAT_V07_Q13_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](EXAM_NAT_V07_Q13_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
@@ -93251,12 +93251,12 @@ Depuis 2019, l'instruction est obligatoire pour tous les enfants de 3 ans à 16 
 💡 Retenez: instruction obligatoire = de 3 à 16 ans
 `endif`
 `if @err_NAT_V07_Q13 == 1`
-**13. Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**  
-✅ Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.
+**13. Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**  
+✅ Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 `endif`
 `if @err_NAT_V07_Q14 == 1`
 **14. Qu'est-ce que l'autorité parentale ?**  
@@ -98751,7 +98751,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## EXAM_NAT_V09_Q18
-<span hidden data-civi-question="44515fdba1eb0585" data-kind="examen" data-screen="EXAM_NAT_V09_Q18"></span>
+<span hidden data-civi-question="54195fde6be35d3c" data-kind="examen" data-screen="EXAM_NAT_V09_Q18"></span>
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
   title="Minuteur de l'examen blanc"
@@ -98765,12 +98765,12 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 <!-- Source nat : NAT-T4-076 -->
 
-**Quelle île française se trouve au sud-est du continent africain ?**
+**Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?**
 
 1. [<span class="qcm-letter">A</span> Saint-Pierre-et-Miquelon.](EXAM_NAT_V09_Q18_FAUX)
 1. [<span class="qcm-letter">B</span> La Martinique.](EXAM_NAT_V09_Q18_FAUX)
-1. [<span class="qcm-letter">C</span> Mayotte.](EXAM_NAT_V09_Q18_FAUX)
-1. [<span class="qcm-letter">D</span> L'île Maurice.](EXAM_NAT_V09_Q18_VRAI)
+1. [<span class="qcm-letter">C</span> Mayotte.](EXAM_NAT_V09_Q18_VRAI)
+1. [<span class="qcm-letter">D</span> L'île Maurice.](EXAM_NAT_V09_Q18_FAUX)
 1. [↩️ Retour au choix de l’examen](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -100235,8 +100235,8 @@ Les Pyrénées forment la frontière naturelle entre la France et l'Espagne sur 
 💡 Retenez: frontière France-Espagne = les Pyrénées
 `endif`
 `if @err_NAT_V09_Q18 == 1`
-**18. Quelle île française se trouve au sud-est du continent africain ?**  
-✅ L'île Maurice.
+**18. Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?**  
+✅ Mayotte.
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 

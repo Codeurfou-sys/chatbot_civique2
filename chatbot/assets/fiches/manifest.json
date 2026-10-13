@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "illustrations": [
     {
       "key": "bastille",
@@ -903,6 +903,443 @@
       "origin": "Illustration originale générée pour CiviCoach",
       "style": "Encre dessinée et hachures, crayon de couleur ; deux modèles validés",
       "version": 59
+    },
+    {
+      "key": "arctriomphe",
+      "file": "arctriomphe.png",
+      "monoFile": "arctriomphe-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "eucitizenship",
+      "file": "eucitizenship.png",
+      "monoFile": "eucitizenship-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "crowfox",
+      "file": "crowfox.png",
+      "monoFile": "crowfox-mono.png",
+      "width": 674,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "nympheas",
+      "file": "nympheas.png",
+      "monoFile": "nympheas-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "travel",
+      "file": "travel.png",
+      "monoFile": "travel-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "euconstruction",
+      "file": "euconstruction.png",
+      "monoFile": "euconstruction-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "orchestra",
+      "file": "orchestra.png",
+      "monoFile": "orchestra-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "garnier",
+      "file": "garnier.png",
+      "monoFile": "garnier-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "marriage-men",
+      "file": "marriage-men.png",
+      "monoFile": "marriage-men-mono.png",
+      "width": 720,
+      "height": 570,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "liberty1830",
+      "file": "liberty1830.png",
+      "monoFile": "liberty1830-mono.png",
+      "width": 720,
+      "height": 576,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "deathpenalty",
+      "file": "deathpenalty.png",
+      "monoFile": "deathpenalty-mono.png",
+      "width": 706,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "theatre",
+      "file": "theatre.png",
+      "monoFile": "theatre-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "penseur",
+      "file": "penseur.png",
+      "monoFile": "penseur-mono.png",
+      "width": 615,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "montmichel",
+      "file": "montmichel.png",
+      "monoFile": "montmichel-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "eutreaty",
+      "file": "eutreaty.png",
+      "monoFile": "eutreaty-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "jurors",
+      "file": "jurors.png",
+      "monoFile": "jurors-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "piano",
+      "file": "piano.png",
+      "monoFile": "piano-mono.png",
+      "width": 720,
+      "height": 621,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "galette",
+      "file": "galette.png",
+      "monoFile": "galette-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "euparliament",
+      "file": "euparliament.png",
+      "monoFile": "euparliament-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "saintevictoire",
+      "file": "saintevictoire.png",
+      "monoFile": "saintevictoire-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "expression",
+      "file": "expression.png",
+      "monoFile": "expression-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "police",
+      "file": "police.png",
+      "monoFile": "police-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "secularagent",
+      "file": "secularagent.png",
+      "monoFile": "secularagent-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "coq",
+      "file": "coq.png",
+      "monoFile": "coq-mono.png",
+      "width": 694,
+      "height": 720,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "ecb",
+      "file": "ecb.png",
+      "monoFile": "ecb-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "marriage-women",
+      "file": "marriage-women.png",
+      "monoFile": "marriage-women-mono.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "eucommission",
+      "file": "eucommission.png",
+      "monoFile": "eucommission-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "divorce",
+      "file": "divorce.png",
+      "monoFile": "divorce-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "press",
+      "file": "press.png",
+      "monoFile": "press-mono.png",
+      "width": 720,
+      "height": 480,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre, hachures et crayon ; modèle validé"
+    },
+    {
+      "key": "rivers",
+      "file": "rivers.png",
+      "monoFile": "rivers-mono.png",
+      "width": 720,
+      "height": 720,
+      "origin": "Carte contrôlée de Natural Earth, domaine public"
+    },
+    {
+      "key": "mountains",
+      "file": "mountains.png",
+      "monoFile": "mountains-mono.png",
+      "width": 720,
+      "height": 720,
+      "origin": "Carte contrôlée de Natural Earth, domaine public"
+    },
+    {
+      "key": "francemap",
+      "file": "francemap.png",
+      "monoFile": "francemap-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-11",
+      "file": "region-11.png",
+      "monoFile": "region-11-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-24",
+      "file": "region-24.png",
+      "monoFile": "region-24-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-27",
+      "file": "region-27.png",
+      "monoFile": "region-27-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-28",
+      "file": "region-28.png",
+      "monoFile": "region-28-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-32",
+      "file": "region-32.png",
+      "monoFile": "region-32-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-44",
+      "file": "region-44.png",
+      "monoFile": "region-44-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-52",
+      "file": "region-52.png",
+      "monoFile": "region-52-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-53",
+      "file": "region-53.png",
+      "monoFile": "region-53-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-75",
+      "file": "region-75.png",
+      "monoFile": "region-75-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-76",
+      "file": "region-76.png",
+      "monoFile": "region-76-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-84",
+      "file": "region-84.png",
+      "monoFile": "region-84-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-93",
+      "file": "region-93.png",
+      "monoFile": "region-93-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-94",
+      "file": "region-94.png",
+      "monoFile": "region-94-mono.png",
+      "width": 720,
+      "height": 766,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-971",
+      "file": "region-971.png",
+      "monoFile": "region-971-mono.png",
+      "width": 720,
+      "height": 853,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-972",
+      "file": "region-972.png",
+      "monoFile": "region-972-mono.png",
+      "width": 720,
+      "height": 853,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-973",
+      "file": "region-973.png",
+      "monoFile": "region-973-mono.png",
+      "width": 720,
+      "height": 853,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-974",
+      "file": "region-974.png",
+      "monoFile": "region-974-mono.png",
+      "width": 720,
+      "height": 853,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "region-976",
+      "file": "region-976.png",
+      "monoFile": "region-976-mono.png",
+      "width": 720,
+      "height": 853,
+      "origin": "Contours contrôlés de Natural Earth, domaine public"
+    },
+    {
+      "key": "un",
+      "file": "un.png",
+      "monoFile": "un-mono.png",
+      "width": 720,
+      "height": 540,
+      "origin": "Schéma original : globe et rameaux, sans carte géographique"
     }
   ]
 }

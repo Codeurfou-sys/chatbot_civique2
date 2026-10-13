@@ -131,6 +131,15 @@ def build():
  by_source={clean(r['ID']):r for q,ms in banks.values() for r in q+ms}
  for prior in data['questions'].values():
   r=by_source.get(prior.get('sourceId'))
+  if not r:
+   oq=clean(prior.get('question'));oc=clean(prior.get('correct'));legacy=None
+   if 'officiellement fondée' in oq:legacy='NAT-T4-019'
+   elif 'ne comprend que des symboles officiels' in oq and 'béret' in oc:legacy='MS-CSP-T1-011'
+   elif 'symbole officiel' in oq and 'Arc de triomphe' in oc:legacy='CR-T1-024'
+   elif 'nom de cette île' in oq and 'Guyane' in oc:legacy='MS-NAT-T4-062'
+   elif 'sanction maximale' in oq and ('instruction' in oq or '7 500' in oc or '30 000' in oc):legacy='NAT-T5-034' if '30 000' in oc else 'CR-T5-030'
+   elif 'sud-est du continent africain' in oq and 'Maurice' in oc:legacy='NAT-T4-076'
+   if legacy:r=by_source.get(legacy);prior['sourceId']=legacy
   if r:
    prior.update(theme=int(r['N° thématique']),question=clean(r['Question posée'] if r.get('_situation') else r['Question']),context=context(r),correct=clean(r['Réponse '+clean(r['Bonne réponse']).upper()]),course=source.CHAPTERS[source.chapter_key(r,'Chapitre')][1].replace('_ACC','_COURS'))
   elif prior.get('question')=='Qui était Marc Chagall ?' and prior.get('correct')=='Un musicien.':
@@ -200,9 +209,8 @@ def build():
   from PIL import Image, ImageOps
   manifest_data=json.loads(art_manifest.read_text());art={};mono_art={}
   def bundled(image):
-   image=image.convert('RGBA');image.thumbnail((640,640),Image.Resampling.LANCZOS)
-   paper=Image.new('RGB',image.size,'white');paper.paste(image,mask=image.getchannel('A'));buffer=io.BytesIO();paper.save(buffer,format='JPEG',quality=82,optimize=True)
-   return 'data:image/jpeg;base64,'+base64.b64encode(buffer.getvalue()).decode()
+   buffer=io.BytesIO();image.save(buffer,format='PNG',optimize=True)
+   return 'data:image/png;base64,'+base64.b64encode(buffer.getvalue()).decode()
   for item in manifest_data['illustrations']:
    file=art_manifest.parent/item['file']
    with Image.open(file) as image:art[item['key']]=bundled(image)

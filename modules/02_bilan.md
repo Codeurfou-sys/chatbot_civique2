@@ -23183,7 +23183,7 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_024
-<span hidden data-civi-question="1c3929e224286daa" data-kind="bilan" data-screen="BIL_ITEM_CR_024"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="bilan" data-screen="BIL_ITEM_CR_024"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|03109a3971d5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|03109a3971d5|")`
@@ -23196,7 +23196,7 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](BIL_ITEM_CR_024_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](BIL_ITEM_CR_024_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](BIL_ITEM_CR_024_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](BIL_ITEM_CR_024_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](BIL_ITEM_CR_024_FAUX)
@@ -23212,11 +23212,11 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 `endif`
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -23231,18 +23231,18 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_024_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|1c3929e224286daa|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|f8e915ea0ad624a7|")`
 `if !@bilAnswerKeys.includes("|03109a3971d5|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|03109a3971d5|")`
 `@bilAnswered = calc(@bilAnswered+1)`
 `endif`
 ### 🟠 À revoir
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -36355,7 +36355,7 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_202
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="bilan" data-screen="BIL_ITEM_CR_202"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="bilan" data-screen="BIL_ITEM_CR_202"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3743b425da25|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|3743b425da25|")`
@@ -36366,9 +36366,9 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](BIL_ITEM_CR_202_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](BIL_ITEM_CR_202_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](BIL_ITEM_CR_202_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](BIL_ITEM_CR_202_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](BIL_ITEM_CR_202_FAUX)
@@ -36384,11 +36384,11 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 `endif`
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -36403,18 +36403,18 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_202_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|2c94c01e4c20fc22|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|8180747b951a477e|")`
 `if !@bilAnswerKeys.includes("|3743b425da25|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|3743b425da25|")`
 `@bilAnswered = calc(@bilAnswered+1)`
 `endif`
 ### 🟠 À revoir
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -49241,7 +49241,7 @@ Le référendum de 1962, voulu par le général de Gaulle, instaure l'élection 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_150
-<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="bilan" data-screen="BIL_ITEM_NAT_150"></span>
+<span hidden data-civi-question="c0503145e3644cab" data-kind="bilan" data-screen="BIL_ITEM_NAT_150"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5e2db0cd4760|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5e2db0cd4760|")`
@@ -49252,7 +49252,7 @@ Le référendum de 1962, voulu par le général de Gaulle, instaure l'élection 
 
 <!-- Source nat : NAT-T4-019 -->
 
-**En quelle année l'Union européenne a-t-elle été officiellement fondée ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](BIL_ITEM_NAT_150_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](BIL_ITEM_NAT_150_FAUX)
@@ -49272,9 +49272,9 @@ Le référendum de 1962, voulu par le général de Gaulle, instaure l'élection 
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -49289,7 +49289,7 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_150_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|06e77b1f45d1a1e3|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|c0503145e3644cab|")`
 `if !@bilAnswerKeys.includes("|5e2db0cd4760|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|5e2db0cd4760|")`
 `@bilAnswered = calc(@bilAnswered+1)`
@@ -49298,9 +49298,9 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -53459,7 +53459,7 @@ Les Pyrénées forment la frontière naturelle entre la France et l'Espagne sur 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_207
-<span hidden data-civi-question="44515fdba1eb0585" data-kind="bilan" data-screen="BIL_ITEM_NAT_207"></span>
+<span hidden data-civi-question="54195fde6be35d3c" data-kind="bilan" data-screen="BIL_ITEM_NAT_207"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f67597e5fbfe|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f67597e5fbfe|")`
@@ -53470,12 +53470,12 @@ Les Pyrénées forment la frontière naturelle entre la France et l'Espagne sur 
 
 <!-- Source nat : NAT-T4-076 -->
 
-**Quelle île française se trouve au sud-est du continent africain ?**
+**Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?**
 
 1. [<span class="qcm-letter">A</span> Saint-Pierre-et-Miquelon.](BIL_ITEM_NAT_207_FAUX)
 1. [<span class="qcm-letter">B</span> La Martinique.](BIL_ITEM_NAT_207_FAUX)
-1. [<span class="qcm-letter">C</span> Mayotte.](BIL_ITEM_NAT_207_FAUX)
-1. [<span class="qcm-letter">D</span> L'île Maurice.](BIL_ITEM_NAT_207_VRAI)
+1. [<span class="qcm-letter">C</span> Mayotte.](BIL_ITEM_NAT_207_VRAI)
+1. [<span class="qcm-letter">D</span> L'île Maurice.](BIL_ITEM_NAT_207_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -53488,7 +53488,7 @@ Les Pyrénées forment la frontière naturelle entre la France et l'Espagne sur 
 `endif`
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — L'île Maurice.**
+**Réponse correcte : C — Mayotte.**
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 
@@ -53507,14 +53507,14 @@ Mayotte est l'île française située au sud-est du continent africain. Dans l'a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_207_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|44515fdba1eb0585|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|54195fde6be35d3c|")`
 `if !@bilAnswerKeys.includes("|f67597e5fbfe|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|f67597e5fbfe|")`
 `@bilAnswered = calc(@bilAnswered+1)`
 `endif`
 ### 🟠 À revoir
 
-**Réponse correcte : D — L'île Maurice.**
+**Réponse correcte : C — Mayotte.**
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 
@@ -56419,7 +56419,7 @@ Depuis 2019, l'instruction est obligatoire pour tous les enfants de 3 ans à 16 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_247
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="bilan" data-screen="BIL_ITEM_NAT_247"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="bilan" data-screen="BIL_ITEM_NAT_247"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f3f1c27e0493|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f3f1c27e0493|")`
@@ -56430,10 +56430,10 @@ Depuis 2019, l'instruction est obligatoire pour tous les enfants de 3 ans à 16 
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](BIL_ITEM_NAT_247_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](BIL_ITEM_NAT_247_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](BIL_ITEM_NAT_247_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](BIL_ITEM_NAT_247_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](BIL_ITEM_NAT_247_FAUX)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
@@ -56448,11 +56448,11 @@ Depuis 2019, l'instruction est obligatoire pour tous les enfants de 3 ans à 16 
 `endif`
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>
@@ -56467,18 +56467,18 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_247_FAUX
-`@bilMistakes = calc((@bilMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@bilMistakes = calc((@bilMistakes || "")+"|8180747b951a477e|")`
 `if !@bilAnswerKeys.includes("|f3f1c27e0493|")`
 `@bilAnswerKeys = calc(@bilAnswerKeys+"|f3f1c27e0493|")`
 `@bilAnswered = calc(@bilAnswered+1)`
 `endif`
 ### 🟠 À revoir
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 `@bilPercent = calc(@bilAnswered*4)`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="`@bilAnswered`"><span style="width:`@bilPercent`%"></span></div><span class="civi-progress-label">`@bilAnswered`/25 · `@bilPercent` %</span></div>

@@ -99,3 +99,5 @@ html.civi-a11y-contrast .civi-sheets-dialog .civi-sheet-content section{backgrou
 .civi-sheets-dialog .civi-sheet-explain{background:#fbdce4;padding:8px 12px;border-radius:3px}
 html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheets-dialog h4,html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheet-remember,html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheet-memory,html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheet-explain{background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important}
 @media(max-width:800px){.civi-sheets-dialog .civi-notion-row[data-count='2']>.civi-sheet:first-child{border-right:0!important}}
+
+.civi-sheet-work-art{width:30%;max-height:80px;object-fit:contain;float:right;margin:0 4px 4px 8px;}

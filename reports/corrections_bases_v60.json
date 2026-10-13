@@ -1,0 +1,234 @@
+[
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T4-019",
+    "address": "F151",
+    "before": "En quelle année l'Union européenne a-t-elle été officiellement fondée ?",
+    "value": "En quelle année le traité de Maastricht a-t-il été signé ?"
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T4-019",
+    "address": "L151",
+    "before": "L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.",
+    "value": "Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T4-019",
+    "address": "M151",
+    "before": "Retenez: traité de Maastricht = 1992",
+    "value": "1992 : signature ; 1993 : entrée en vigueur."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T4-076",
+    "address": "F208",
+    "before": "Quelle île française se trouve au sud-est du continent africain ?",
+    "value": "Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?"
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T4-076",
+    "address": "K208",
+    "before": "D",
+    "value": "C"
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T5-034",
+    "address": "F248",
+    "before": "Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?",
+    "value": "Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?"
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T5-034",
+    "address": "H248",
+    "before": "Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.",
+    "value": "Jusqu’à six mois d’emprisonnement et 7 500 € d’amende."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T5-034",
+    "address": "L248",
+    "before": "Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.",
+    "value": "Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+    "sheet": "Banque_NAT_Complete",
+    "id": "NAT-T5-034",
+    "address": "M248",
+    "before": "Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement",
+    "value": "Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T1-024",
+    "address": "G25",
+    "before": "L'Arc de triomphe. ",
+    "value": "Marianne."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T1-024",
+    "address": "J25",
+    "before": "Le bonnet prhygien. ",
+    "value": "Le bonnet phrygien."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T1-024",
+    "address": "M25",
+    "before": "Retenez : Bonnet phrygien symbole de la révolution française",
+    "value": "Marianne représente la République française."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T5-030",
+    "address": "F203",
+    "before": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+    "value": "Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?"
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T5-030",
+    "address": "G203",
+    "before": "Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.",
+    "value": "Jusqu’à six mois d’emprisonnement et 7 500 € d’amende."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T5-030",
+    "address": "L203",
+    "before": "Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.",
+    "value": "Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction."
+  },
+  {
+    "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+    "sheet": "Banque_CR",
+    "id": "CR-T5-030",
+    "address": "M203",
+    "before": "Retenez : Le non-respect de l'instruction obligatoire = infraction",
+    "value": "Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum."
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T4-019",
+    "address": "E148",
+    "before": "Lors d'une révision pour son entretien de naturalisation, un ami confond souvent les dates européennes et vous demande de confirmer l'année exacte de création officielle de l'Union européenne.",
+    "value": "Lors d’une révision, un ami confond la signature du traité de Maastricht et son entrée en vigueur."
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T4-019",
+    "address": "F148",
+    "before": "En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?",
+    "value": "En quelle année le traité de Maastricht a-t-il été signé ?"
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T4-019",
+    "address": "L148",
+    "before": "L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.",
+    "value": "Le traité est signé en 1992 et entre en vigueur en 1993. Ne pas confondre ces deux dates."
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T4-062",
+    "address": "F191",
+    "before": "Quel est le nom de cette île ? ",
+    "value": "Quel est le nom de ce territoire ?"
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T5-034",
+    "address": "E238",
+    "before": "Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous demande :",
+    "value": "Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire."
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T5-034",
+    "address": "F238",
+    "before": "Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?",
+    "value": "Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?"
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T5-034",
+    "address": "H238",
+    "before": "Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.",
+    "value": "Jusqu’à six mois d’emprisonnement et 7 500 € d’amende."
+  },
+  {
+    "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+    "sheet": "Banque_MS_NAT_251",
+    "id": "MS-NAT-T5-034",
+    "address": "L238",
+    "before": "Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.",
+    "value": "Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction."
+  },
+  {
+    "file": "MISES_EN_SITUATION_CSP.xlsx",
+    "sheet": "MS_CSP",
+    "id": "MS-CSP-T1-011",
+    "address": "K12",
+    "before": "B",
+    "value": "D"
+  },
+  {
+    "file": "MISES_EN_SITUATION_CR_BANQUE_COMPLETE_204.xlsx",
+    "sheet": "Banque_MS_204",
+    "id": "MS-T5-030",
+    "address": "E203",
+    "before": "Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sans motif valable, malgré plusieurs relances de l'administration.",
+    "value": "Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire."
+  },
+  {
+    "file": "MISES_EN_SITUATION_CR_BANQUE_COMPLETE_204.xlsx",
+    "sheet": "Banque_MS_204",
+    "id": "MS-T5-030",
+    "address": "F203",
+    "before": "Quelle sanction maximale risquent-ils ?",
+    "value": "Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?"
+  },
+  {
+    "file": "MISES_EN_SITUATION_CR_BANQUE_COMPLETE_204.xlsx",
+    "sheet": "Banque_MS_204",
+    "id": "MS-T5-030",
+    "address": "G203",
+    "before": "Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.",
+    "value": "Jusqu’à six mois d’emprisonnement et 7 500 € d’amende."
+  },
+  {
+    "file": "MISES_EN_SITUATION_CR_BANQUE_COMPLETE_204.xlsx",
+    "sheet": "Banque_MS_204",
+    "id": "MS-T5-030",
+    "address": "L203",
+    "before": "Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.",
+    "value": "Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction."
+  }
+]

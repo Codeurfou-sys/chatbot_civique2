@@ -59489,7 +59489,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V02_Q01
-<span hidden data-civi-question="ff151d994575b5a4" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V02_Q01"></span>
+<span hidden data-civi-question="585acb58281fe6ec" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V02_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
@@ -59501,9 +59501,9 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 **Lequel de ces ensembles ne comprend que des symboles officiels de la République ?**
 
 1. [<span class="qcm-letter">A</span> Le coq, le drapeau tricolore et la Joconde.](ENT_CSP_T1_MIS_V02_Q01_FAUX)
-1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](ENT_CSP_T1_MIS_V02_Q01_VRAI)
+1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](ENT_CSP_T1_MIS_V02_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre et l'arc de triomphe.](ENT_CSP_T1_MIS_V02_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_MIS_V02_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_MIS_V02_Q01_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -59515,7 +59515,7 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Le béret, la baguette et le croissant.**
+**Réponse correcte : D — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 
@@ -59525,10 +59525,10 @@ Les symboles officiels permettent d'identifier la République française : le dr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V02_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|ff151d994575b5a4|")`
+`@entMistakes = calc((@entMistakes || "")+"|585acb58281fe6ec|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Le béret, la baguette et le croissant.**
+**Réponse correcte : D — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 
@@ -61475,7 +61475,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V05_Q07
-<span hidden data-civi-question="ff151d994575b5a4" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V05_Q07"></span>
+<span hidden data-civi-question="585acb58281fe6ec" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V05_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -61487,9 +61487,9 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 **Lequel de ces ensembles ne comprend que des symboles officiels de la République ?**
 
 1. [<span class="qcm-letter">A</span> Le coq, le drapeau tricolore et la Joconde.](ENT_CSP_T1_MIS_V05_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](ENT_CSP_T1_MIS_V05_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](ENT_CSP_T1_MIS_V05_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre et l'arc de triomphe.](ENT_CSP_T1_MIS_V05_Q07_FAUX)
-1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_MIS_V05_Q07_FAUX)
+1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_MIS_V05_Q07_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -61501,7 +61501,7 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Le béret, la baguette et le croissant.**
+**Réponse correcte : D — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 
@@ -61511,10 +61511,10 @@ Les symboles officiels permettent d'identifier la République française : le dr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V05_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|ff151d994575b5a4|")`
+`@entMistakes = calc((@entMistakes || "")+"|585acb58281fe6ec|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Le béret, la baguette et le croissant.**
+**Réponse correcte : D — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 
@@ -63535,7 +63535,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V09_Q03
-<span hidden data-civi-question="ff151d994575b5a4" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V09_Q03"></span>
+<span hidden data-civi-question="585acb58281fe6ec" data-kind="entrainement" data-screen="ENT_CSP_T1_MIS_V09_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
@@ -63547,9 +63547,9 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 **Lequel de ces ensembles ne comprend que des symboles officiels de la République ?**
 
 1. [<span class="qcm-letter">A</span> Le coq, le drapeau tricolore et la Joconde.](ENT_CSP_T1_MIS_V09_Q03_FAUX)
-1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](ENT_CSP_T1_MIS_V09_Q03_VRAI)
+1. [<span class="qcm-letter">B</span> Le béret, la baguette et le croissant.](ENT_CSP_T1_MIS_V09_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> La tour Eiffel, le Louvre et l'arc de triomphe.](ENT_CSP_T1_MIS_V09_Q03_FAUX)
-1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_MIS_V09_Q03_FAUX)
+1. [<span class="qcm-letter">D</span> Le drapeau tricolore, Marianne, la Marseillaise et la devise.](ENT_CSP_T1_MIS_V09_Q03_VRAI)
 1. [↩️ Retour](SCR_ENT_CSP_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -63561,7 +63561,7 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Le béret, la baguette et le croissant.**
+**Réponse correcte : D — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 
@@ -63571,10 +63571,10 @@ Les symboles officiels permettent d'identifier la République française : le dr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CSP_T1_MIS_V09_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|ff151d994575b5a4|")`
+`@entMistakes = calc((@entMistakes || "")+"|585acb58281fe6ec|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Le béret, la baguette et le croissant.**
+**Réponse correcte : D — Le drapeau tricolore, Marianne, la Marseillaise et la devise.**
 
 Les symboles officiels permettent d'identifier la République française : le drapeau, Marianne, la Marseillaise et la devise. Les autres éléments sont des icônes culturelles, mais non des symboles officiels.
 
@@ -131200,7 +131200,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V01_Q07
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V01_Q07"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V01_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -131209,7 +131209,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V01_Q07_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V01_Q07_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V01_Q07_FAUX)
@@ -131224,11 +131224,11 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V01_Q08)
 
@@ -131236,14 +131236,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V01_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V01_Q08)
 
@@ -131682,7 +131682,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V02_Q05
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V02_Q05"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V02_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
@@ -131691,7 +131691,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V02_Q05_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V02_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V02_Q05_FAUX)
@@ -131706,11 +131706,11 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V02_Q06)
 
@@ -131718,14 +131718,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V02_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V02_Q06)
 
@@ -132215,7 +132215,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V03_Q04
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V03_Q04"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V03_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
@@ -132224,7 +132224,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V03_Q04_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V03_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V03_Q04_FAUX)
@@ -132239,11 +132239,11 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V03_Q05)
 
@@ -132251,14 +132251,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V03_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V03_Q05)
 
@@ -132697,7 +132697,7 @@ En France, une personne ne peut pas être discriminée lors d'un recrutement en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V04_Q02
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V04_Q02"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V04_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -132706,7 +132706,7 @@ En France, une personne ne peut pas être discriminée lors d'un recrutement en 
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V04_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V04_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V04_Q02_FAUX)
@@ -132721,11 +132721,11 @@ En France, une personne ne peut pas être discriminée lors d'un recrutement en 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V04_Q03)
 
@@ -132733,14 +132733,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V04_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V04_Q03)
 
@@ -133281,7 +133281,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V05_Q02
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V05_Q02"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V05_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -133290,7 +133290,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V05_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V05_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V05_Q02_FAUX)
@@ -133305,11 +133305,11 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V05_Q03)
 
@@ -133317,14 +133317,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V05_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V05_Q03)
 
@@ -134069,7 +134069,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V06_Q06
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V06_Q06"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V06_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
@@ -134078,7 +134078,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V06_Q06_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V06_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V06_Q06_FAUX)
@@ -134093,11 +134093,11 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V06_Q07)
 
@@ -134105,14 +134105,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V06_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V06_Q07)
 
@@ -134653,7 +134653,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V07_Q06
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V07_Q06"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V07_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
@@ -134662,7 +134662,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V07_Q06_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V07_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V07_Q06_FAUX)
@@ -134677,11 +134677,11 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V07_Q07)
 
@@ -134689,14 +134689,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V07_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V07_Q07)
 
@@ -135390,7 +135390,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V08_Q09
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V08_Q09"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V08_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
@@ -135399,7 +135399,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V08_Q09_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V08_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V08_Q09_FAUX)
@@ -135414,11 +135414,11 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V08_Q10)
 
@@ -135426,14 +135426,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V08_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V08_Q10)
 
@@ -135923,7 +135923,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V09_Q08
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V09_Q08"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V09_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
@@ -135932,7 +135932,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V09_Q08_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V09_Q08_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V09_Q08_FAUX)
@@ -135947,11 +135947,11 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V09_Q09)
 
@@ -135959,14 +135959,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V09_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V09_Q09)
 
@@ -136150,7 +136150,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V10_Q01
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V10_Q01"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_DIF_V10_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
@@ -136159,7 +136159,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_DIF_V10_Q01_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_DIF_V10_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_DIF_V10_Q01_FAUX)
@@ -136174,11 +136174,11 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V10_Q02)
 
@@ -136186,14 +136186,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_DIF_V10_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_DIF_V10_Q02)
 
@@ -154500,16 +154500,16 @@ Pour passer le permis de conduire, il faut notamment respecter l'âge minimum pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V01_Q03
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V01_Q03"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V01_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V01_Q03_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V01_Q03_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V01_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V01_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V01_Q03_FAUX)
@@ -154524,11 +154524,11 @@ Pour passer le permis de conduire, il faut notamment respecter l'âge minimum pr
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V01_Q04)
 
@@ -154536,14 +154536,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V01_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V01_Q04)
 
@@ -155033,16 +155033,16 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V02_Q02
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V02_Q02"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V02_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V02_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V02_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V02_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V02_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V02_Q02_FAUX)
@@ -155057,11 +155057,11 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V02_Q03)
 
@@ -155069,14 +155069,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V02_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V02_Q03)
 
@@ -155923,16 +155923,16 @@ Le secret médical protège la vie privée des patients. Les professionnels de s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V03_Q08
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V03_Q08"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V03_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V03_Q08_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V03_Q08_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V03_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V03_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V03_Q08_FAUX)
@@ -155947,11 +155947,11 @@ Le secret médical protège la vie privée des patients. Les professionnels de s
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V03_Q09)
 
@@ -155959,14 +155959,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V03_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V03_Q09)
 
@@ -156456,16 +156456,16 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V04_Q07
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V04_Q07"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V04_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V04_Q07_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V04_Q07_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V04_Q07_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V04_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V04_Q07_FAUX)
@@ -156480,11 +156480,11 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V04_Q08)
 
@@ -156492,14 +156492,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V04_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V04_Q08)
 
@@ -158004,16 +158004,16 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V07_Q03
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V07_Q03"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V07_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V07_Q03_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V07_Q03_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V07_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V07_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V07_Q03_FAUX)
@@ -158028,11 +158028,11 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V07_Q04)
 
@@ -158040,14 +158040,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V07_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V07_Q04)
 
@@ -158639,16 +158639,16 @@ Le congé parental permet à un parent de réduire ou de suspendre temporairemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V08_Q04
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V08_Q04"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V08_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V08_Q04_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V08_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V08_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V08_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V08_Q04_FAUX)
@@ -158663,11 +158663,11 @@ Le congé parental permet à un parent de réduire ou de suspendre temporairemen
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V08_Q05)
 
@@ -158675,14 +158675,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V08_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V08_Q05)
 
@@ -159325,16 +159325,16 @@ Les appareils électroménagers usagés doivent être déposés dans une déchè
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V09_Q06
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V09_Q06"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V09_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V09_Q06_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V09_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V09_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V09_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V09_Q06_FAUX)
@@ -159349,11 +159349,11 @@ Les appareils électroménagers usagés doivent être déposés dans une déchè
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V09_Q07)
 
@@ -159361,14 +159361,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V09_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V09_Q07)
 
@@ -159705,16 +159705,16 @@ L'aide juridictionnelle permet aux personnes disposant de faibles ressources de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V10_Q02
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V10_Q02"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_DIF_V10_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_DIF_V10_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_DIF_V10_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_DIF_V10_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_DIF_V10_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_DIF_V10_Q02_FAUX)
@@ -159729,11 +159729,11 @@ L'aide juridictionnelle permet aux personnes disposant de faibles ressources de 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V10_Q03)
 
@@ -159741,14 +159741,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_DIF_V10_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_DIF_V10_Q03)
 
@@ -162281,7 +162281,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_V04_Q06
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_V04_Q06"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_V04_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
@@ -162290,7 +162290,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_V04_Q06_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_V04_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_V04_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_V04_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_V04_Q06_FAUX)
@@ -162305,11 +162305,11 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V04_Q07)
 
@@ -162317,14 +162317,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_V04_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V04_Q07)
 
@@ -164566,7 +164566,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_V08_Q05
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_T1_Q_V08_Q05"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_T1_Q_V08_Q05"></span>
 ### 📝 Question 5 sur 10
 
 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **4/10 réponses données**
@@ -164575,7 +164575,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_T1_Q_V08_Q05_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_T1_Q_V08_Q05_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_T1_Q_V08_Q05_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_T1_Q_V08_Q05_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_T1_Q_V08_Q05_FAUX)
@@ -164590,11 +164590,11 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V08_Q06)
 
@@ -164602,14 +164602,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T1_Q_V08_Q05_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_T1_Q_V08_Q06)
 
@@ -185099,16 +185099,16 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_V03_Q04
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_V03_Q04"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_V03_Q04"></span>
 ### 📝 Question 4 sur 10
 
 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **3/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_V03_Q04_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_V03_Q04_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_V03_Q04_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_V03_Q04_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_V03_Q04_FAUX)
@@ -185123,11 +185123,11 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V03_Q05)
 
@@ -185135,14 +185135,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_V03_Q04_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V03_Q05)
 
@@ -186953,16 +186953,16 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_V06_Q06
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_V06_Q06"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_V06_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_V06_Q06_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_V06_Q06_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_V06_Q06_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_V06_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_V06_Q06_FAUX)
@@ -186977,11 +186977,11 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V06_Q07)
 
@@ -186989,14 +186989,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_V06_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V06_Q07)
 
@@ -188807,16 +188807,16 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_V09_Q08
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_T5_Q_V09_Q08"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_T5_Q_V09_Q08"></span>
 ### 📝 Question 8 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ **7/10 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_Q_V09_Q08_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_Q_V09_Q08_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_Q_V09_Q08_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_Q_V09_Q08_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_Q_V09_Q08_FAUX)
@@ -188831,11 +188831,11 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V09_Q09)
 
@@ -188843,14 +188843,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_Q_V09_Q08_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_T5_Q_V09_Q09)
 
@@ -212770,18 +212770,18 @@ Le congé parental permet à un parent, le père ou la mère, de réduire ou de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_MIS_V01_Q09
-<span hidden data-civi-question="896dd55df6879786" data-kind="entrainement" data-screen="ENT_CR_T5_MIS_V01_Q09"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_CR_T5_MIS_V01_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source cr : MS-T5-030 -->
 
-Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sans motif valable, malgré plusieurs relances de l'administration.
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_MIS_V01_Q09_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_MIS_V01_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_MIS_V01_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_MIS_V01_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_MIS_V01_Q09_FAUX)
@@ -212796,9 +212796,9 @@ Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sa
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_CR_T5_MIS_V01_Q10)
 
@@ -212806,12 +212806,12 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_MIS_V01_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|896dd55df6879786|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_CR_T5_MIS_V01_Q10)
 
@@ -214634,18 +214634,18 @@ Le congé parental permet à un parent, le père ou la mère, de réduire ou de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_MIS_V05_Q01
-<span hidden data-civi-question="896dd55df6879786" data-kind="entrainement" data-screen="ENT_CR_T5_MIS_V05_Q01"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_CR_T5_MIS_V05_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source cr : MS-T5-030 -->
 
-Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sans motif valable, malgré plusieurs relances de l'administration.
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_MIS_V05_Q01_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_MIS_V05_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_MIS_V05_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_MIS_V05_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_MIS_V05_Q01_FAUX)
@@ -214660,9 +214660,9 @@ Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sa
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_CR_T5_MIS_V05_Q02)
 
@@ -214670,12 +214670,12 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_MIS_V05_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|896dd55df6879786|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_CR_T5_MIS_V05_Q02)
 
@@ -216424,18 +216424,18 @@ Le congé parental permet à un parent, le père ou la mère, de réduire ou de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_MIS_V08_Q03
-<span hidden data-civi-question="896dd55df6879786" data-kind="entrainement" data-screen="ENT_CR_T5_MIS_V08_Q03"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_CR_T5_MIS_V08_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source cr : MS-T5-030 -->
 
-Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sans motif valable, malgré plusieurs relances de l'administration.
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_T5_MIS_V08_Q03_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_T5_MIS_V08_Q03_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_T5_MIS_V08_Q03_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_T5_MIS_V08_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_T5_MIS_V08_Q03_FAUX)
@@ -216450,9 +216450,9 @@ Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sa
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_CR_T5_MIS_V08_Q04)
 
@@ -216460,12 +216460,12 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_T5_MIS_V08_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|896dd55df6879786|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_CR_T5_MIS_V08_Q04)
 
@@ -222726,7 +222726,7 @@ L'inscription à l'école publique commence généralement par une démarche aup
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_ALL_Q_V09_Q01
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_ALL_Q_V09_Q01"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_ALL_Q_V09_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
@@ -222735,7 +222735,7 @@ L'inscription à l'école publique commence généralement par une démarche aup
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_ALL_Q_V09_Q01_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_ALL_Q_V09_Q01_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_ALL_Q_V09_Q01_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_ALL_Q_V09_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_ALL_Q_V09_Q01_FAUX)
@@ -222750,11 +222750,11 @@ L'inscription à l'école publique commence généralement par une démarche aup
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V09_Q02)
 
@@ -222762,14 +222762,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_ALL_Q_V09_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_ALL_Q_V09_Q02)
 
@@ -228323,18 +228323,18 @@ Tous les élèves doivent suivre les enseignements obligatoires prévus par les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_ALL_MIS_V08_Q10
-<span hidden data-civi-question="896dd55df6879786" data-kind="entrainement" data-screen="ENT_CR_ALL_MIS_V08_Q10"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_CR_ALL_MIS_V08_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source cr : MS-T5-030 -->
 
-Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sans motif valable, malgré plusieurs relances de l'administration.
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_ALL_MIS_V08_Q10_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_ALL_MIS_V08_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_ALL_MIS_V08_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_ALL_MIS_V08_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_ALL_MIS_V08_Q10_FAUX)
@@ -228349,9 +228349,9 @@ Des parents ne scolarisent pas leur enfant en âge d'instruction obligatoire, sa
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [📊 Voir mes résultats](ENT_CR_ALL_MIS_V08_RESULT)
 
@@ -228359,12 +228359,12 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_ALL_MIS_V08_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|896dd55df6879786|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [📊 Voir mes résultats](ENT_CR_ALL_MIS_V08_RESULT)
 
@@ -249209,16 +249209,16 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_DIF_V05_Q10
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_LVL_DIF_V05_Q10"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_LVL_DIF_V05_Q10"></span>
 ### 📝 Question 10 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **9/15 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_LVL_DIF_V05_Q10_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_LVL_DIF_V05_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_LVL_DIF_V05_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_LVL_DIF_V05_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_LVL_DIF_V05_Q10_FAUX)
@@ -249233,11 +249233,11 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_CR_LVL_DIF_V05_Q11)
 
@@ -249245,14 +249245,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_DIF_V05_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_CR_LVL_DIF_V05_Q11)
 
@@ -250389,7 +250389,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_DIF_V07_Q02
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_LVL_DIF_V07_Q02"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_LVL_DIF_V07_Q02"></span>
 ### 📝 Question 2 sur 15
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/15 réponses données**
@@ -250398,7 +250398,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_LVL_DIF_V07_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_LVL_DIF_V07_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_LVL_DIF_V07_Q02_FAUX)
@@ -250413,11 +250413,11 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V07_Q03)
 
@@ -250425,14 +250425,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_DIF_V07_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V07_Q03)
 
@@ -251183,7 +251183,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_DIF_V08_Q02
-<span hidden data-civi-question="1c3929e224286daa" data-kind="entrainement" data-screen="ENT_CR_LVL_DIF_V08_Q02"></span>
+<span hidden data-civi-question="f8e915ea0ad624a7" data-kind="entrainement" data-screen="ENT_CR_LVL_DIF_V08_Q02"></span>
 ### 📝 Question 2 sur 15
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/15 réponses données**
@@ -251192,7 +251192,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
 
-1. [<span class="qcm-letter">A</span> L'Arc de triomphe.](ENT_CR_LVL_DIF_V08_Q02_VRAI)
+1. [<span class="qcm-letter">A</span> Marianne.](ENT_CR_LVL_DIF_V08_Q02_VRAI)
 1. [<span class="qcm-letter">B</span> La tour Eiffel.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
 1. [<span class="qcm-letter">C</span> Le coq.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
 1. [<span class="qcm-letter">D</span> Le bonnet phrygien.](ENT_CR_LVL_DIF_V08_Q02_FAUX)
@@ -251207,11 +251207,11 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V08_Q03)
 
@@ -251219,14 +251219,14 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_DIF_V08_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|1c3929e224286daa|")`
+`@entMistakes = calc((@entMistakes || "")+"|f8e915ea0ad624a7|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — L'Arc de triomphe.**
+**Réponse correcte : A — Marianne.**
 
 Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez : Bonnet phrygien symbole de la révolution française
+💡 Marianne représente la République française.
 
 1. [➡️ Question suivante](ENT_CR_LVL_DIF_V08_Q03)
 
@@ -254756,16 +254756,16 @@ La France compte plusieurs grandes métropoles qui concentrent une grande partie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_TOUS_V02_Q09
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_LVL_TOUS_V02_Q09"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_LVL_TOUS_V02_Q09"></span>
 ### 📝 Question 9 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **8/15 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_LVL_TOUS_V02_Q09_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_LVL_TOUS_V02_Q09_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_LVL_TOUS_V02_Q09_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_LVL_TOUS_V02_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_LVL_TOUS_V02_Q09_FAUX)
@@ -254780,11 +254780,11 @@ La France compte plusieurs grandes métropoles qui concentrent une grande partie
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q10)
 
@@ -254792,14 +254792,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_TOUS_V02_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_CR_LVL_TOUS_V02_Q10)
 
@@ -259571,16 +259571,16 @@ Les allocations chômage sont versées aux personnes qui remplissent les conditi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_TOUS_V08_Q10
-<span hidden data-civi-question="2c94c01e4c20fc22" data-kind="entrainement" data-screen="ENT_CR_LVL_TOUS_V08_Q10"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_CR_LVL_TOUS_V08_Q10"></span>
 ### 📝 Question 10 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **9/15 réponses données**
 
 <!-- Source cr : CR-T5-030 -->
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
-1. [<span class="qcm-letter">A</span> Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](ENT_CR_LVL_TOUS_V08_Q10_VRAI)
+1. [<span class="qcm-letter">A</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_CR_LVL_TOUS_V08_Q10_VRAI)
 1. [<span class="qcm-letter">B</span> Aucun risque.](ENT_CR_LVL_TOUS_V08_Q10_FAUX)
 1. [<span class="qcm-letter">C</span> Seulement un avertissement.](ENT_CR_LVL_TOUS_V08_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Une simple remarque de l'école.](ENT_CR_LVL_TOUS_V08_Q10_FAUX)
@@ -259595,11 +259595,11 @@ Les allocations chômage sont versées aux personnes qui remplissent les conditi
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_CR_LVL_TOUS_V08_Q11)
 
@@ -259607,14 +259607,14 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_CR_LVL_TOUS_V08_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|2c94c01e4c20fc22|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : A — Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.**
+**Réponse correcte : A — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_CR_LVL_TOUS_V08_Q11)
 
@@ -279698,19 +279698,19 @@ Le 1er mai est la fête du Travail. C'est un jour férié en France, associé au
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V01_Q10
-<span hidden data-civi-question="44515fdba1eb0585" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V01_Q10"></span>
+<span hidden data-civi-question="54195fde6be35d3c" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V01_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : NAT-T4-076 -->
 
-**Quelle île française se trouve au sud-est du continent africain ?**
+**Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?**
 
 1. [<span class="qcm-letter">A</span> Saint-Pierre-et-Miquelon.](ENT_NAT_T4_Q_DIF_V01_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> La Martinique.](ENT_NAT_T4_Q_DIF_V01_Q10_FAUX)
-1. [<span class="qcm-letter">C</span> Mayotte.](ENT_NAT_T4_Q_DIF_V01_Q10_FAUX)
-1. [<span class="qcm-letter">D</span> L'île Maurice.](ENT_NAT_T4_Q_DIF_V01_Q10_VRAI)
+1. [<span class="qcm-letter">C</span> Mayotte.](ENT_NAT_T4_Q_DIF_V01_Q10_VRAI)
+1. [<span class="qcm-letter">D</span> L'île Maurice.](ENT_NAT_T4_Q_DIF_V01_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -279722,7 +279722,7 @@ Le 1er mai est la fête du Travail. C'est un jour férié en France, associé au
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — L'île Maurice.**
+**Réponse correcte : C — Mayotte.**
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 
@@ -279734,10 +279734,10 @@ Mayotte est l'île française située au sud-est du continent africain. Dans l'a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V01_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|44515fdba1eb0585|")`
+`@entMistakes = calc((@entMistakes || "")+"|54195fde6be35d3c|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — L'île Maurice.**
+**Réponse correcte : C — Mayotte.**
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 
@@ -279925,14 +279925,14 @@ La Corse est une île française située en Méditerranée. Elle constitue une c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V02_Q03
-<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V02_Q03"></span>
+<span hidden data-civi-question="c0503145e3644cab" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V02_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : NAT-T4-019 -->
 
-**En quelle année l'Union européenne a-t-elle été officiellement fondée ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](ENT_NAT_T4_Q_DIF_V02_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](ENT_NAT_T4_Q_DIF_V02_Q03_FAUX)
@@ -279951,9 +279951,9 @@ La Corse est une île française située en Méditerranée. Elle constitue une c
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [➡️ Question suivante](ENT_NAT_T4_Q_DIF_V02_Q04)
 
@@ -279961,14 +279961,14 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V02_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|06e77b1f45d1a1e3|")`
+`@entMistakes = calc((@entMistakes || "")+"|c0503145e3644cab|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [➡️ Question suivante](ENT_NAT_T4_Q_DIF_V02_Q04)
 
@@ -282998,14 +282998,14 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V07_Q06
-<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V07_Q06"></span>
+<span hidden data-civi-question="c0503145e3644cab" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V07_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : NAT-T4-019 -->
 
-**En quelle année l'Union européenne a-t-elle été officiellement fondée ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](ENT_NAT_T4_Q_DIF_V07_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](ENT_NAT_T4_Q_DIF_V07_Q06_FAUX)
@@ -283024,9 +283024,9 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [➡️ Question suivante](ENT_NAT_T4_Q_DIF_V07_Q07)
 
@@ -283034,14 +283034,14 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V07_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|06e77b1f45d1a1e3|")`
+`@entMistakes = calc((@entMistakes || "")+"|c0503145e3644cab|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [➡️ Question suivante](ENT_NAT_T4_Q_DIF_V07_Q07)
 
@@ -284013,14 +284013,14 @@ Auguste Rodin est considéré comme le père de la sculpture moderne. Parmi ses 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V09_Q03
-<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V09_Q03"></span>
+<span hidden data-civi-question="c0503145e3644cab" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_DIF_V09_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : NAT-T4-019 -->
 
-**En quelle année l'Union européenne a-t-elle été officiellement fondée ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](ENT_NAT_T4_Q_DIF_V09_Q03_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](ENT_NAT_T4_Q_DIF_V09_Q03_FAUX)
@@ -284039,9 +284039,9 @@ Auguste Rodin est considéré comme le père de la sculpture moderne. Parmi ses 
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [➡️ Question suivante](ENT_NAT_T4_Q_DIF_V09_Q04)
 
@@ -284049,14 +284049,14 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_DIF_V09_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|06e77b1f45d1a1e3|")`
+`@entMistakes = calc((@entMistakes || "")+"|c0503145e3644cab|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [➡️ Question suivante](ENT_NAT_T4_Q_DIF_V09_Q04)
 
@@ -289889,17 +289889,17 @@ Le Code du travail fixe les règles générales applicables aux salariés. Les c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_Q_DIF_V09_Q03
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="entrainement" data-screen="ENT_NAT_T5_Q_DIF_V09_Q03"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_NAT_T5_Q_DIF_V09_Q03"></span>
 ### 📝 Question 3 sur 10
 
 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **2/10 réponses données**
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](ENT_NAT_T5_Q_DIF_V09_Q03_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_Q_DIF_V09_Q03_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_T5_Q_DIF_V09_Q03_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](ENT_NAT_T5_Q_DIF_V09_Q03_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_Q_DIF_V09_Q03_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
@@ -289913,11 +289913,11 @@ Le Code du travail fixe les règles générales applicables aux salariés. Les c
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_NAT_T5_Q_DIF_V09_Q04)
 
@@ -289925,14 +289925,14 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_Q_DIF_V09_Q03_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_NAT_T5_Q_DIF_V09_Q04)
 
@@ -309654,14 +309654,14 @@ La gastronomie est un élément important du patrimoine français. Elle est reco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_V02_Q10
-<span hidden data-civi-question="06e77b1f45d1a1e3" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_V02_Q10"></span>
+<span hidden data-civi-question="c0503145e3644cab" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_V02_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : NAT-T4-019 -->
 
-**En quelle année l'Union européenne a-t-elle été officiellement fondée ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](ENT_NAT_T4_Q_V02_Q10_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](ENT_NAT_T4_Q_V02_Q10_FAUX)
@@ -309680,9 +309680,9 @@ La gastronomie est un élément important du patrimoine français. Elle est reco
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [📊 Voir mes résultats](ENT_NAT_T4_Q_V02_RESULT)
 
@@ -309690,14 +309690,14 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_V02_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|06e77b1f45d1a1e3|")`
+`@entMistakes = calc((@entMistakes || "")+"|c0503145e3644cab|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité de Maastricht est signé le 7 février 1992. Il entre en vigueur le 1er novembre 1993, date de création de l’Union européenne.
 
-💡 Retenez: traité de Maastricht = 1992
+💡 1992 : signature ; 1993 : entrée en vigueur.
 
 1. [📊 Voir mes résultats](ENT_NAT_T4_Q_V02_RESULT)
 
@@ -311786,19 +311786,19 @@ Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_V06_Q06
-<span hidden data-civi-question="44515fdba1eb0585" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_V06_Q06"></span>
+<span hidden data-civi-question="54195fde6be35d3c" data-kind="entrainement" data-screen="ENT_NAT_T4_Q_V06_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : NAT-T4-076 -->
 
-**Quelle île française se trouve au sud-est du continent africain ?**
+**Quelle île française se trouve dans l’archipel des Comores, entre l’Afrique et Madagascar ?**
 
 1. [<span class="qcm-letter">A</span> Saint-Pierre-et-Miquelon.](ENT_NAT_T4_Q_V06_Q06_FAUX)
 1. [<span class="qcm-letter">B</span> La Martinique.](ENT_NAT_T4_Q_V06_Q06_FAUX)
-1. [<span class="qcm-letter">C</span> Mayotte.](ENT_NAT_T4_Q_V06_Q06_FAUX)
-1. [<span class="qcm-letter">D</span> L'île Maurice.](ENT_NAT_T4_Q_V06_Q06_VRAI)
+1. [<span class="qcm-letter">C</span> Mayotte.](ENT_NAT_T4_Q_V06_Q06_VRAI)
+1. [<span class="qcm-letter">D</span> L'île Maurice.](ENT_NAT_T4_Q_V06_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -311810,7 +311810,7 @@ Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : D — L'île Maurice.**
+**Réponse correcte : C — Mayotte.**
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 
@@ -311822,10 +311822,10 @@ Mayotte est l'île française située au sud-est du continent africain. Dans l'a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_Q_V06_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|44515fdba1eb0585|")`
+`@entMistakes = calc((@entMistakes || "")+"|54195fde6be35d3c|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : D — L'île Maurice.**
+**Réponse correcte : C — Mayotte.**
 
 Mayotte est l'île française située au sud-est du continent africain. Dans l'archipel des Comores, à l'entrée du canal du Mozambique, entre la côte est de l'Afrique et Madagascar.
 
@@ -315910,17 +315910,17 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_Q_V03_Q06
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="entrainement" data-screen="ENT_NAT_T5_Q_V03_Q06"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_NAT_T5_Q_V03_Q06"></span>
 ### 📝 Question 6 sur 10
 
 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **5/10 réponses données**
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](ENT_NAT_T5_Q_V03_Q06_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_Q_V03_Q06_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_T5_Q_V03_Q06_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](ENT_NAT_T5_Q_V03_Q06_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_Q_V03_Q06_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
@@ -315934,11 +315934,11 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_NAT_T5_Q_V03_Q07)
 
@@ -315946,14 +315946,14 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_Q_V03_Q06_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_NAT_T5_Q_V03_Q07)
 
@@ -318450,17 +318450,17 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_Q_V07_Q10
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="entrainement" data-screen="ENT_NAT_T5_Q_V07_Q10"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_NAT_T5_Q_V07_Q10"></span>
 ### 📝 Question 10 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **9/10 réponses données**
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](ENT_NAT_T5_Q_V07_Q10_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_Q_V07_Q10_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_T5_Q_V07_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](ENT_NAT_T5_Q_V07_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_Q_V07_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
@@ -318474,11 +318474,11 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [📊 Voir mes résultats](ENT_NAT_T5_Q_V07_RESULT)
 
@@ -318486,14 +318486,14 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_Q_V07_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [📊 Voir mes résultats](ENT_NAT_T5_Q_V07_RESULT)
 
@@ -337456,7 +337456,7 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V01_Q02
-<span hidden data-civi-question="d0e014fedf399348" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V01_Q02"></span>
+<span hidden data-civi-question="69fc950af0405726" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V01_Q02"></span>
 ### 📝 Question 2 sur 10
 
 🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ **1/10 réponses données**
@@ -337465,7 +337465,7 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 
 Un reportage sur le centre spatial de Kourou évoque un territoire français situé en Amérique du Sud. Votre fils vous demande
 
-**Quel est le nom de cette île ?**
+**Quel est le nom de ce territoire ?**
 
 1. [<span class="qcm-letter">A</span> La Guadeloupe.](ENT_NAT_T4_MIS_V01_Q02_FAUX)
 1. [<span class="qcm-letter">B</span> L'île Maurice.](ENT_NAT_T4_MIS_V01_Q02_FAUX)
@@ -337492,7 +337492,7 @@ La Guyane est un département et une région d'outre-mer d'Amérique du Sud. Ell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V01_Q02_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d0e014fedf399348|")`
+`@entMistakes = calc((@entMistakes || "")+"|69fc950af0405726|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — La Guyane.**
@@ -340619,16 +340619,16 @@ La Constitution du 4 octobre 1958 fonde la Ve République. Elle organise les ins
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V06_Q09
-<span hidden data-civi-question="f852968b568e0c4f" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V06_Q09"></span>
+<span hidden data-civi-question="9b5ef7cf7079ce69" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V06_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source nat : MS-NAT-T4-019 -->
 
-Lors d'une révision pour son entretien de naturalisation, un ami confond souvent les dates européennes et vous demande de confirmer l'année exacte de création officielle de l'Union européenne.
+Lors d’une révision, un ami confond la signature du traité de Maastricht et son entrée en vigueur.
 
-**En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**
+**En quelle année le traité de Maastricht a-t-il été signé ?**
 
 1. [<span class="qcm-letter">A</span> 1951.](ENT_NAT_T4_MIS_V06_Q09_FAUX)
 1. [<span class="qcm-letter">B</span> 1957.](ENT_NAT_T4_MIS_V06_Q09_FAUX)
@@ -340647,7 +340647,7 @@ Lors d'une révision pour son entretien de naturalisation, un ami confond souven
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité est signé en 1992 et entre en vigueur en 1993. Ne pas confondre ces deux dates.
 
 1. [➡️ Question suivante](ENT_NAT_T4_MIS_V06_Q10)
 
@@ -340655,12 +340655,12 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V06_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|f852968b568e0c4f|")`
+`@entMistakes = calc((@entMistakes || "")+"|9b5ef7cf7079ce69|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — 1992.**
 
-L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
+Le traité est signé en 1992 et entre en vigueur en 1993. Ne pas confondre ces deux dates.
 
 1. [➡️ Question suivante](ENT_NAT_T4_MIS_V06_Q10)
 
@@ -341649,7 +341649,7 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V08_Q07
-<span hidden data-civi-question="d0e014fedf399348" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V08_Q07"></span>
+<span hidden data-civi-question="69fc950af0405726" data-kind="entrainement" data-screen="ENT_NAT_T4_MIS_V08_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
@@ -341658,7 +341658,7 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 
 Un reportage sur le centre spatial de Kourou évoque un territoire français situé en Amérique du Sud. Votre fils vous demande
 
-**Quel est le nom de cette île ?**
+**Quel est le nom de ce territoire ?**
 
 1. [<span class="qcm-letter">A</span> La Guadeloupe.](ENT_NAT_T4_MIS_V08_Q07_FAUX)
 1. [<span class="qcm-letter">B</span> L'île Maurice.](ENT_NAT_T4_MIS_V08_Q07_FAUX)
@@ -341685,7 +341685,7 @@ La Guyane est un département et une région d'outre-mer d'Amérique du Sud. Ell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T4_MIS_V08_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|d0e014fedf399348|")`
+`@entMistakes = calc((@entMistakes || "")+"|69fc950af0405726|")`
 ### ❌ Réponse incorrecte
 
 **Réponse correcte : D — La Guyane.**
@@ -345073,19 +345073,19 @@ La liberté syndicale est un droit fondamental. Les salariés peuvent adhérer �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_MIS_V04_Q07
-<span hidden data-civi-question="0236a41d271044c1" data-kind="entrainement" data-screen="ENT_NAT_T5_MIS_V04_Q07"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_NAT_T5_MIS_V04_Q07"></span>
 ### 📝 Question 7 sur 10
 
 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **6/10 réponses données**
 
 <!-- Source nat : MS-NAT-T5-034 -->
 
-Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous demande :
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple remarque de la part du proviseur de l'école.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_MIS_V04_Q07_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_T5_MIS_V04_Q07_VRAI)
 1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Éducation avec le rappel des devoirs parentaux.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_MIS_V04_Q07_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -345099,9 +345099,9 @@ Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_NAT_T5_MIS_V04_Q08)
 
@@ -345109,12 +345109,12 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_MIS_V04_Q07_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|0236a41d271044c1|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_NAT_T5_MIS_V04_Q08)
 
@@ -347599,19 +347599,19 @@ La liberté syndicale est un droit fondamental. Les salariés peuvent adhérer �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_MIS_V09_Q01
-<span hidden data-civi-question="0236a41d271044c1" data-kind="entrainement" data-screen="ENT_NAT_T5_MIS_V09_Q01"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_NAT_T5_MIS_V09_Q01"></span>
 ### 📝 Question 1 sur 10
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0/10 réponses données**
 
 <!-- Source nat : MS-NAT-T5-034 -->
 
-Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous demande :
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple remarque de la part du proviseur de l'école.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_T5_MIS_V09_Q01_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_T5_MIS_V09_Q01_VRAI)
 1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Éducation avec le rappel des devoirs parentaux.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_T5_MIS_V09_Q01_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -347625,9 +347625,9 @@ Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_NAT_T5_MIS_V09_Q02)
 
@@ -347635,12 +347635,12 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_T5_MIS_V09_Q01_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|0236a41d271044c1|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_NAT_T5_MIS_V09_Q02)
 
@@ -360111,19 +360111,19 @@ La Première Guerre mondiale oppose principalement les puissances alliées aux E
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V10_Q09
-<span hidden data-civi-question="0236a41d271044c1" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V10_Q09"></span>
+<span hidden data-civi-question="be862f23b6d78f86" data-kind="entrainement" data-screen="ENT_NAT_ALL_MIS_V10_Q09"></span>
 ### 📝 Question 9 sur 10
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ **8/10 réponses données**
 
 <!-- Source nat : MS-NAT-T5-034 -->
 
-Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous demande :
+Les parents ont reçu une mise en demeure du Dasen et refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire.
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple remarque de la part du proviseur de l'école.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_ALL_MIS_V10_Q09_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_ALL_MIS_V10_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Un courrier de la part du ministre de l'Éducation avec le rappel des devoirs parentaux.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_ALL_MIS_V10_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_NAT_MIS_MENU)
@@ -360137,9 +360137,9 @@ Un voisin, inquiet pour un enfant du quartier qui ne va jamais à l'école, vous
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_NAT_ALL_MIS_V10_Q10)
 
@@ -360147,12 +360147,12 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_ALL_MIS_V10_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|0236a41d271044c1|")`
+`@entMistakes = calc((@entMistakes || "")+"|be862f23b6d78f86|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
 1. [➡️ Question suivante](ENT_NAT_ALL_MIS_V10_Q10)
 
@@ -377485,17 +377485,17 @@ La France d'outre-mer regroupe les territoires français situés hors du contine
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V02_Q09
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V02_Q09"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V02_Q09"></span>
 ### 📝 Question 9 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **8/15 réponses données**
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](ENT_NAT_LVL_DIF_V02_Q09_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_LVL_DIF_V02_Q09_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_LVL_DIF_V02_Q09_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](ENT_NAT_LVL_DIF_V02_Q09_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_LVL_DIF_V02_Q09_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
@@ -377509,11 +377509,11 @@ La France d'outre-mer regroupe les territoires français situés hors du contine
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_NAT_LVL_DIF_V02_Q10)
 
@@ -377521,14 +377521,14 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V02_Q09_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Question suivante](ENT_NAT_LVL_DIF_V02_Q10)
 
@@ -383094,17 +383094,17 @@ En France, un divorce peut être demandé par l'un des époux ou être engagé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V09_Q10
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V09_Q10"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_NAT_LVL_DIF_V09_Q10"></span>
 ### 📝 Question 10 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **9/15 réponses données**
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](ENT_NAT_LVL_DIF_V09_Q10_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_LVL_DIF_V09_Q10_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_LVL_DIF_V09_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](ENT_NAT_LVL_DIF_V09_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_LVL_DIF_V09_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
@@ -383118,11 +383118,11 @@ En France, un divorce peut être demandé par l'un des époux ou être engagé d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_NAT_LVL_DIF_V09_Q11)
 
@@ -383130,14 +383130,14 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_DIF_V09_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_NAT_LVL_DIF_V09_Q11)
 
@@ -387104,17 +387104,17 @@ En France, un divorce peut être demandé par l'un des époux ou être engagé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V04_Q10
-<span hidden data-civi-question="6af7f30acd4cbeb3" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V04_Q10"></span>
+<span hidden data-civi-question="8180747b951a477e" data-kind="entrainement" data-screen="ENT_NAT_LVL_TOUS_V04_Q10"></span>
 ### 📝 Question 10 sur 15
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ **9/15 réponses données**
 
 <!-- Source nat : NAT-T5-034 -->
 
-**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+**Des parents refusent, sans motif valable, d’inscrire leur enfant dans un établissement scolaire malgré une mise en demeure du Dasen. Quelle sanction maximale risquent-ils ?**
 
 1. [<span class="qcm-letter">A</span> Une simple convocation de la part du proviseur ou du directeur d'école.](ENT_NAT_LVL_TOUS_V04_Q10_FAUX)
-1. [<span class="qcm-letter">B</span> Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](ENT_NAT_LVL_TOUS_V04_Q10_VRAI)
+1. [<span class="qcm-letter">B</span> Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.](ENT_NAT_LVL_TOUS_V04_Q10_VRAI)
 1. [<span class="qcm-letter">C</span> Un rappel à la loi et l'obligation de se signer une feuille d'émargement chaque jour à l'école.](ENT_NAT_LVL_TOUS_V04_Q10_FAUX)
 1. [<span class="qcm-letter">D</span> Aucune sanction.](ENT_NAT_LVL_TOUS_V04_Q10_FAUX)
 1. [↩️ Retour](SCR_ENT_LEVEL_NAT)
@@ -387128,11 +387128,11 @@ En France, un divorce peut être demandé par l'un des époux ou être engagé d
 
 ### ✅ Bonne réponse
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_NAT_LVL_TOUS_V04_Q11)
 
@@ -387140,14 +387140,14 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## ENT_NAT_LVL_TOUS_V04_Q10_FAUX
-`@entMistakes = calc((@entMistakes || "")+"|6af7f30acd4cbeb3|")`
+`@entMistakes = calc((@entMistakes || "")+"|8180747b951a477e|")`
 ### ❌ Réponse incorrecte
 
-**Réponse correcte : B — Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.**
+**Réponse correcte : B — Jusqu’à six mois d’emprisonnement et 7 500 € d’amende.**
 
-Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
+Le refus d’inscrire un enfant dans un établissement scolaire après une mise en demeure du Dasen expose à six mois d’emprisonnement et 7 500 € d’amende. Cette sanction concerne ce refus précis, et non toute irrégularité d’instruction.
 
-💡 Retenez: non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
+💡 Refus après mise en demeure du Dasen → six mois et 7 500 € au maximum.
 
 1. [➡️ Accéder aux mises en situation](ENT_NAT_LVL_TOUS_V04_Q11)
 
