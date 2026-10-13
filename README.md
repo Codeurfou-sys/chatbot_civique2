@@ -1,3 +1,7 @@
+Version actuelle : voir README_V58.md.
+
+Version actuelle : voir README_V57.md pour les nouvelles fiches et leur installation.
+
 Version actuelle : voir README_V56.md pour l’installation et les fiches visuelles.
 
 Version actuelle : voir README_V55.md pour les fiches de révision et les tests.

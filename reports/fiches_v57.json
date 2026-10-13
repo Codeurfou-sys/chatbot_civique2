@@ -1,0 +1,25 @@
+{
+  "version": 57,
+  "references": 2464,
+  "notions": 128,
+  "compositions": {
+    "mindmap": 1142,
+    "rule": 115,
+    "number": 300,
+    "freedom": 109,
+    "process": 80,
+    "place": 151,
+    "timeline": 72,
+    "relationship": 18,
+    "dialogue": 4,
+    "action": 473
+  },
+  "checks": [
+    "tous les parcours",
+    "bilan de progression",
+    "six notions",
+    "corpus complet par notion",
+    "cinq profils et texte agrandi",
+    "longue explication conservée"
+  ]
+}

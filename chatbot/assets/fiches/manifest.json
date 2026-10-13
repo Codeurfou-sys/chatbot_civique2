@@ -1,31 +1,31 @@
 {
-  "version": 56,
+  "version": 58,
   "illustrations": [
     {
       "key": "bastille",
       "file": "bastille.png",
       "width": 720,
-      "height": 480,
+      "height": 465,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "style": "Dessin à l’encre, hachures et crayon ; modèles de référence de l’apprenant",
       "monoFile": "bastille-mono.png"
     },
     {
       "key": "camus",
       "file": "camus.png",
       "width": 720,
-      "height": 658,
+      "height": 505,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "style": "Dessin à l’encre, hachures et crayon ; modèles de référence de l’apprenant",
       "monoFile": "camus-mono.png"
     },
     {
       "key": "vitale",
       "file": "vitale.png",
       "width": 720,
-      "height": 480,
+      "height": 486,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "style": "Dessin à l’encre, hachures et crayon ; modèles de référence de l’apprenant",
       "monoFile": "vitale-mono.png"
     },
     {
@@ -41,9 +41,9 @@
       "key": "president",
       "file": "president.png",
       "width": 720,
-      "height": 658,
+      "height": 587,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "style": "Dessin à l’encre, hachures et crayon ; modèles de référence de l’apprenant",
       "monoFile": "president-mono.png"
     },
     {
@@ -275,9 +275,9 @@
       "key": "education",
       "file": "education.png",
       "width": 720,
-      "height": 658,
+      "height": 476,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Illustration éditoriale dessinée, contours et ombrages détaillés, palette bordeaux ocre crème",
+      "style": "Dessin original à l’encre et au crayon, adapté aux deux modèles de référence",
       "monoFile": "education-mono.png"
     },
     {
@@ -473,9 +473,9 @@
       "key": "elysee",
       "file": "elysee.png",
       "width": 720,
-      "height": 480,
+      "height": 354,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Dessin à l’encre pour les notes visuelles",
+      "style": "Dessin à l’encre, hachures et crayon ; modèles de référence de l’apprenant",
       "monoFile": "elysee-mono.png"
     },
     {
@@ -491,9 +491,9 @@
       "key": "interview",
       "file": "interview.png",
       "width": 720,
-      "height": 480,
+      "height": 484,
       "origin": "Illustration originale générée pour CiviCoach",
-      "style": "Dessin à l’encre pour les notes visuelles",
+      "style": "Dessin à l’encre, hachures et crayon ; modèles de référence de l’apprenant",
       "monoFile": "interview-mono.png"
     },
     {
@@ -513,6 +513,33 @@
       "origin": "Illustration originale générée pour CiviCoach",
       "style": "Dessin à l’encre pour les notes visuelles",
       "monoFile": "ddhc-mono.png"
+    },
+    {
+      "key": "marriage",
+      "file": "marriage.png",
+      "monoFile": "marriage-mono.png",
+      "width": 406,
+      "height": 640,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Croquis au trait et au crayon de couleur"
+    },
+    {
+      "key": "conscience",
+      "file": "conscience.png",
+      "monoFile": "conscience-mono.png",
+      "width": 640,
+      "height": 436,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Croquis au trait et au crayon de couleur"
+    },
+    {
+      "key": "solidarity",
+      "file": "solidarity.png",
+      "monoFile": "solidarity-mono.png",
+      "width": 640,
+      "height": 574,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Croquis au trait et au crayon de couleur"
     }
   ]
 }

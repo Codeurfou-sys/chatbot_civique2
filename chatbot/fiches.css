@@ -47,3 +47,37 @@ html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-sheets-di
 html.civi-a11y-markers:not([data-civi-colour-profile="general"]) .civi-notion-number{background:var(--civi-profile-ink)!important;color:white!important}
 html.civi-a11y-contrast .civi-sheets-dialog .civi-sheet-content section{background:white!important;color:#111!important;border:2px solid #111;transform:none}html.civi-a11y-large .civi-sheets-dialog .civi-sheet-content p{font-size:22px!important}
 @media(max-width:800px){.civi-notion-row,.civi-notion-row[data-count="3"]{grid-template-columns:1fr}.civi-timeline-row:before{display:none}.civi-timeline-row .civi-sheet+.civi-sheet:before{content:'↓';left:50%;top:-20px}.civi-sheets-dialog .civi-sheet{grid-template-columns:28% 1fr}}
+
+/* Each source notion is a fact with visual annotations, across all activities. */
+.civi-sheet-content {position:relative;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;clear:both}
+.civi-sheet-content > section:first-child {grid-column:1/-1;border-left:4px solid var(--sheet-theme-colour);font-weight:700}
+.civi-sheet-content > section {position:relative;border-radius:3px;padding:12px;box-shadow:2px 3px 0 #00000012}
+.civi-sheet-content > section:not(:first-child)::before {content:"";position:absolute;left:45%;top:-10px;width:1px;height:9px;background:var(--sheet-theme-colour)}
+.civi-sheet-content > section:nth-child(3n) {transform:rotate(-.5deg)}
+.civi-sheet[data-composition="number"] .civi-sheet-remember {font-size:1.15em}
+.civi-sheet[data-composition="dialogue"] .civi-sheet-art {float:none;display:block;width:min(100%,350px);max-height:180px;margin:8px auto}
+.civi-sheet-text-only .civi-sheet-remember {text-align:center}
+@media(max-width:550px){.civi-sheet-content{grid-template-columns:1fr}.civi-sheet-content > section{grid-column:1!important;transform:none!important}}
+
+@font-face{font-family:RepereHand;src:url(vendor/repere-hand.ttf) format("truetype");font-display:swap}
+.civi-sheets-dialog .civi-sheet,.civi-sheets-dialog .civi-sheet-theme-title,.civi-sheets-heading h2{font-family:RepereHand,sans-serif;font-size:1.25em}
+.civi-sheet-theme-title{border-radius:2px!important;transform:rotate(-.3deg);letter-spacing:1px}
+.civi-notion-row{border:0!important;background:transparent!important}.civi-sheet{border:0!important;box-shadow:none!important;background:transparent!important}
+.civi-sheet-art{width:48%!important;max-width:280px!important;max-height:230px!important;object-fit:contain}
+.civi-sheet-content>section{font-family:RepereHand,sans-serif;font-size:1.25em;line-height:1.1;transform:rotate(-.7deg)}
+
+/* Illustrated notebook composition, with live readable annotations. */
+.civi-sheet{display:grid!important;grid-template-columns:48% 1fr;gap:10px;align-items:start}
+.civi-sheet>h4,.civi-sheet>.civi-event-date{grid-column:1/-1}
+.civi-sheet>.civi-sheet-art{width:100%!important;float:none!important;grid-column:1;max-height:none!important}
+.civi-sheet-content{display:flex!important;flex-direction:column;clear:none!important;grid-column:2;gap:8px}
+.civi-sheet-text-only .civi-sheet-content{grid-column:1/-1}
+.civi-sheet-theme-title{font-family:RepereHand,sans-serif!important;font-size:1.6em!important;letter-spacing:0;border-radius:2px!important}
+.civi-sheet-theme{border-width:1px!important;border-radius:5px!important;background:transparent!important}
+.civi-sheet[data-visual="elysee"],.civi-sheet[data-visual="interview"]{grid-template-columns:1fr}
+.civi-sheet[data-visual="elysee"]>.civi-sheet-art,.civi-sheet[data-visual="elysee"]>.civi-sheet-content,.civi-sheet[data-visual="interview"]>.civi-sheet-content{grid-column:1/-1}
+.civi-sheet-scene,.civi-sheet-book{position:relative;margin:0;grid-column:1;width:100%}
+.civi-sheet-scene img,.civi-sheet-book img{float:none!important;width:100%!important;max-width:none!important;max-height:none!important;display:block}
+.civi-sheet-scene span,.civi-sheet-book span{position:absolute;font-family:RepereHand,sans-serif;font-size:clamp(10px,1.5vw,16px);line-height:1;transform:translateX(-50%);text-align:center;max-width:24%}
+.civi-scene-employer{left:37%;top:8%}.civi-scene-candidate{left:70%;top:13%}.civi-scene-book-title{left:84%;top:55%}
+@media(max-width:550px){.civi-sheet{grid-template-columns:1fr}.civi-sheet>*{grid-column:1/-1!important}.civi-sheet-scene,.civi-sheet-book{max-width:300px;margin:auto}}

@@ -1,0 +1,1 @@
+CiviCoach Notes est une adaptation de Patrick Hand, distribuée sous la licence SIL Open Font License jointe. Une flèche a été ajoutée pour conserver les schémas dans les PDF. La police dérivée porte un nouveau nom. Source originale : https://github.com/google/fonts/tree/main/ofl/patrickhand
