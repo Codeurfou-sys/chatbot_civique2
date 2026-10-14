@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 63,
   "illustrations": [
     {
       "key": "bastille",
@@ -1367,6 +1367,42 @@
       "origin": "Contour géographique du corpus existant (Natural Earth)",
       "style": "Carte contrôlée, sans flèche",
       "monoFile": "frontiers-mono.png"
+    },
+    {
+      "key": "privacy",
+      "file": "privacy.png",
+      "width": 720,
+      "height": 360,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre et au crayon ; notion précise, fond transparent",
+      "monoFile": "privacy-mono.png"
+    },
+    {
+      "key": "defense",
+      "file": "defense.png",
+      "width": 720,
+      "height": 674,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre et au crayon ; notion précise, fond transparent",
+      "monoFile": "defense-mono.png"
+    },
+    {
+      "key": "accessibility",
+      "file": "accessibility.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre et au crayon ; notion précise, fond transparent",
+      "monoFile": "accessibility-mono.png"
+    },
+    {
+      "key": "accessible-parking",
+      "file": "accessible-parking.png",
+      "width": 720,
+      "height": 658,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Dessin à l’encre et au crayon ; notion précise, fond transparent",
+      "monoFile": "accessible-parking-mono.png"
     }
   ]
 }
