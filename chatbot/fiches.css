@@ -105,3 +105,19 @@ html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheets-di
 .civi-sheet-situation-flow li+li:before,.civi-sheet-law li+li:before,.civi-sheet-mini-flow li+li:before,.civi-timeline-row .civi-sheet+.civi-sheet:before,.civi-sheet-content>section:not(:first-child)::before{display:none!important;content:none!important}
 .civi-sheet-work-art{float:none!important;display:block!important;width:28%!important;margin:8px 0!important;position:static!important}
 .civi-sheet-audio{clear:both;display:flex;flex-wrap:wrap;gap:8px;padding:8px}.civi-sheet-audio details{flex-basis:100%}.civi-sheet-audio button{min-height:44px}
+.civi-sheet-audio{grid-column:1/-1;align-items:center;justify-content:flex-start}
+.civi-sheet-audio .civi-audio-sketch{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;width:110px;min-height:84px;padding:4px;background:transparent!important;border:0!important;box-shadow:none!important;color:inherit;font:inherit;cursor:pointer}
+.civi-audio-sketch img{display:block;width:54px;height:54px;object-fit:contain}
+.civi-audio-sketch span{font-size:.88rem;line-height:1.15}
+.civi-audio-sketch:hover img{transform:rotate(-4deg) scale(1.06)}
+.civi-audio-sketch:focus-visible{outline:3px solid currentColor!important;outline-offset:3px;border-radius:8px}
+.civi-sheet-audio [role=status]{flex-basis:100%;font-size:.9rem}
+.civi-sheet-audio details{width:100%;max-width:none;overflow-wrap:anywhere;font-size:.85rem}
+.civi-sheet-audio details p{font-size:inherit!important;line-height:1.4!important}
+.civi-sheet-audio details a{display:inline-block;margin-right:12px}
+.civi-sheets-dialog .civi-sheet[data-audio=marseillaise]{grid-template-columns:minmax(90px,22%) minmax(0,1fr)!important}
+.civi-sheets-dialog .civi-sheet[data-audio=marseillaise] .civi-sheet-art{max-height:135px}
+.civi-sheets-dialog .civi-sheet[data-audio=marseillaise] .civi-sheet-content{grid-column:2}
+html[data-civi-colour-profile=achromatopsia] .civi-audio-sketch img{filter:grayscale(1)}
+@media(prefers-reduced-motion:reduce){.civi-audio-sketch:hover img{transform:none}}
+@media(max-width:500px){.civi-sheets-dialog .civi-sheet[data-audio=marseillaise]{grid-template-columns:1fr!important}.civi-sheets-dialog .civi-sheet[data-audio=marseillaise] .civi-sheet-content{grid-column:1}}

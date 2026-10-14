@@ -66,7 +66,8 @@ function buildPdf(cards,context={}){
   const title=wrap(model.subject,width-15,14,true),titleH=title.length*5.5+4;
   const v=root.CiviSheetsVisual.pick(q),art=!!v.src,scene=model.type==='dialogue'||['elysee','matignon','senate','parliament'].includes(v.key),timeline=!!q.__timeline;
   const role=false;
-  const imageW=scene?width-10:art?(role?width*.56:width>150?76:40):0;
+  const music=root.CiviSheetAudio?.track(q)?.id==='marseillaise';
+  const imageW=scene?width-10:art?(music?(width>150?44:24):role?width*.56:width>150?76:40):0;
   const main=facts.find(f=>f.label==='À retenir')||facts[0],flow=facts.find(f=>f.steps);
   const textW=scene?width-10:width-imageW-12;
   const mainLines=wrap(main.text,textW-4,bodySize,true),mainH=mainLines.length*lh+5;
@@ -82,7 +83,7 @@ function buildPdf(cards,context={}){
   font(true);doc.setTextColor(...ink);doc.setFontSize(16);doc.setFillColor(...ink);doc.circle(x+4,yy+3,3,'F');doc.setTextColor(255,255,255);doc.setFontSize(12);doc.text(String(item.number),x+4,yy+4.5,{align:'center'});doc.setTextColor(...ink);doc.setFontSize(14);brush(x+9,yy-.5,item.width-11,item.titleH-2,pads[1]);doc.text(item.title,x+10,yy+5,{lineHeightFactor:1.05});let top=yy+item.titleH;
   if(item.timeline){const e=root.CiviSheetsVisual.event(item.q);doc.setFillColor(...pads[0]);doc.ellipse(x+item.width/2,top+3,item.width/2-5,4,'F');doc.setFontSize(18);doc.text(e.label,x+item.width/2,top+5,{align:'center'});top+=9;}
   const textX=item.scene?x+3:x+item.imageW+7,textTop=item.scene?top+36:top;
-  if(root.CiviSheetAudio?.track(item.q)){const track=root.CiviSheetAudio.track(item.q);font();doc.setFontSize(9);doc.setTextColor(...ink);doc.textWithLink('Écouter - 10 secondes',x+3,top+48,{url:root.CiviSheetAudio.link(track.id)});}
+  if(root.CiviSheetAudio?.track(item.q)){const track=root.CiviSheetAudio.track(item.q),px=x+3,py=top+44;doc.setDrawColor(...ink);doc.setFillColor(...pads[0]);doc.setLineWidth(.45);doc.ellipse(px+4,py+3,4,4,'FD');doc.setFillColor(...ink);doc.triangle(px+3,py+1,px+3,py+5,px+6,py+3,'F');doc.link(px,py-1,8,8,{url:root.CiviSheetAudio.link(track.id)});font();doc.setFontSize(8);doc.setTextColor(...ink);doc.textWithLink('10 secondes',px+10,py+4,{url:root.CiviSheetAudio.link(track.id)});}
   if(item.art){const e=item.timeline?root.CiviSheetsVisual.event(item.q):null;image(e?.art?{theme:4,question:'école',correct:''}:item.q,x+3,top,item.imageW,item.scene?34:42);}
   function note(lines,nx,ny,w,h,tone,bold){if(tone===0){doc.setFillColor(221,218,200);doc.lines([[w,-.6],[.6,h],[-w,.6],[-.6,-h]],nx+.5,ny+.8,[1,1],'F',true);}doc.setFillColor(...pads[tone]);doc.lines([[w,-.6],[.6,h],[-w,.6],[-.6,-h]],nx,ny,[1,1],'F',true);font();doc.setFontSize(bodySize);doc.setTextColor(...(exportProfile.ink||[25,34,46]));doc.text(lines,nx+2,ny+4.7,{lineHeightFactor:lh/(bodySize*25.4/72)});doc.setDrawColor(...ink);doc.setLineWidth(.5);doc.line(nx+w+1,ny+2,nx+w+2,ny);doc.line(nx+w+1,ny+4,nx+w+3,ny+3);}
   note(item.mainLines,textX,textTop,item.textW,item.mainH,0,true);if(item.art&&!item.scene){doc.setDrawColor(...ink);doc.setLineWidth(.5);const tx=textX-2,ty=textTop+item.mainH/2;arrow(x+item.imageW-3,top+20,tx,ty,ink);}

@@ -3,6 +3,13 @@ const V=root.CiviSheetsVisual, old=V.sections, norm=root.NovaSheetsRules.normal;
 const all=Object.values(root.CiviSheetsData.questions);const peers=new Map();for(const p of all){const k=norm(p.correct);if(!peers.has(k))peers.set(k,[]);if(p.explanation?.length)peers.get(k).push(p);}const two=(a,b)=>[{label:'À retenir',text:a},{label:'Exemple ou détail',text:b}];
 const clean=x=>String(x||'').replace(/[→←↑↓↔➜➔]/g,' : ').trim();
 V.sections=function(q){const t=norm(q.question+' '+q.correct),v=V.pick(q),w=V.artwork(q);
+if(/marseillaise/.test(t)&&/symboles/.test(norm(q.question))&&/drapeau.*marianne/.test(norm(q.correct)))return two('Les symboles officiels comprennent le drapeau tricolore, Marianne, La Marseillaise et la devise.','Devise : Liberté, Égalité, Fraternité. La Marseillaise est l’hymne national français.');
+if(/marseillaise|rouget de lisle/.test(t)){
+ if(/parole|complete|couplet/.test(norm(q.question)))return two('La Marseillaise est l’hymne national français.',/aux armes/.test(t)?'Refrain : « Aux armes, citoyens ! »':'Début : « Allons enfants de la Patrie, le jour de gloire est arrivé ! »');
+ if(/1795|1879|1958/.test(norm(q.correct)))return old(q).map((f,i)=>({label:i?'Exemple ou détail':'À retenir',text:clean(f.text)})).slice(0,2);
+ if(v.key==='rouget')return two('Rouget de Lisle compose La Marseillaise en 1792.','À Strasbourg, il crée le « Chant de guerre pour l’armée du Rhin », devenu La Marseillaise.');
+ return two('La Marseillaise est l’hymne national français.','Exemple : on l’entend lors des cérémonies officielles. Elle fait partie des symboles de la République.');
+}
 if(/infraction|contravention.*delit|crime.*terrorisme.*corruption/.test(t))return two('Les infractions ont trois niveaux de gravité. Du plus grave au moins grave : crime > délit > contravention.','Exemples : meurtre = crime ; vol simple = délit ; stationnement interdit = contravention.');
 if(/refus.*inscri|inscri.*refus/.test(t)&&/enfant|ecole|scolar/.test(t))return two('Les parents doivent respecter l’instruction obligatoire. Refuser d’inscrire un enfant après une mise en demeure du Dasen peut entraîner une sanction pénale.','Après cette mise en demeure, les parents risquent jusqu’à 6 mois de prison et 7 500 € d’amende. Dasen = directeur académique des services de l’Éducation nationale.');
 if(/frontiere|pays.*limitrophe|pays.*voisin.*france/.test(t))return two('La France métropolitaine a 8 pays voisins par voie terrestre : Belgique, Luxembourg, Allemagne, Suisse, Italie, Monaco, Espagne et Andorre.','Le saviez-vous ? En Amérique du Sud, la Guyane française partage des frontières terrestres avec le Brésil et le Suriname. En mer, la France est aussi voisine du Royaume-Uni, notamment dans la Manche.');
@@ -32,4 +39,5 @@ V.composition=q=>({type:V.event(q)?'timeline':V.pick(q).key==='interview'?'dialo
 const originalPick=V.pick;V.pick=q=>{const t=norm(q.question+' '+q.correct);const key=/frontiere|pays.*limitrophe|pays.*voisin.*france/.test(t)?'frontiers':/beethoven|ode a la joie|hymne.*europe/.test(t)?'beethoven':/contracept|procreation|disposer.*corps|choisir.*avoir.*enfant/.test(t)?'contraception':null;return key?{key,label:V.title(q),src:root.CiviSheetsArt?.[key]||'assets/fiches/'+key+'.png',file:'assets/fiches/'+key+'.png'}:originalPick(q);};
 const title=V.title;V.title=q=>/frontiere|pays.*limitrophe/.test(norm(q.question+' '+q.correct))?'Les frontières de la France':/beethoven|ode a la joie|hymne.*europe/.test(norm(q.question+' '+q.correct))?'Beethoven et l’hymne européen':/contracept|procreation|disposer.*corps/.test(norm(q.question+' '+q.correct))?'Choisir d’avoir un enfant':title(q);
 V.lawExample=()=>null;
+const originalRows=V.rows;V.rows=b=>originalRows(b).flatMap(row=>row.notions.length>1&&row.notions.some(q=>root.CiviSheetAudio?.track(q)?.id==='marseillaise')?row.notions.map(q=>({...row,notions:[q]})):[row]);
 })(window);
