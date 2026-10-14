@@ -6,7 +6,7 @@ const themes=[
  {id:3,title:'Les droits et les devoirs',colour:'#215f93',rgb:[33,95,147],image:'rights'},
  {id:4,title:'L’histoire, la géographie et la culture',colour:'#b47c12',rgb:[180,124,18],image:'history'},
  {id:5,title:'La vie en société',colour:'#215f93',rgb:[33,95,147],image:'daily'}];
-const normal=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+const normal=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/œ/g,'oe').replace(/[^a-z0-9]+/g,' ').trim();
 function isSituation(q){return q.type==='situation'||String(q.sourceId||'').startsWith('MS-')||!!(q.context&&q.context!==q.question);}
 function explanation(q){
  const peer=!(q.explanation||[]).length?Object.values(root.CiviSheetsData?.questions||{}).find(p=>normal(p.question)===normal(q.question)&&normal(p.correct)===normal(q.correct)&&(p.explanation||[]).length):null;
@@ -25,7 +25,7 @@ function plan(cards,context={}){
   if(!notions.has(key))notions.set(key,{...q,variants:[],kind:q.kind});
   notions.get(key).variants.push(q);
  }
- const revisionTheme=q=>{const k=root.CiviSheetsVisual.pick(q).key;return ['interview','vitale','health','factory','worker','business','bins','solidarity'].includes(k)?5:['president','government','parliament','elysee','matignon','senate','constitution','prefect','townhall','eutreaty','eucitizenship','euconstruction','euparliament','eucommission','ecb'].includes(k)?2:['ddhc','tax','marriage','marriage-men','marriage-women','divorce','justice','jurors','press','expression','police'].includes(k)?3:['marianne','frenchflag','values','conscience','secularagent'].includes(k)?1:Number(q.theme);};const blocks=themes.map(t=>({...t,notions:[...notions.values()].filter(q=>revisionTheme(q)===t.id)})).filter(t=>t.notions.length);
+ const revisionTheme=q=>{const explicit=root.CiviSheetsVisual.revisionTheme?.(q);if(explicit)return explicit;const k=root.CiviSheetsVisual.pick(q).key;return ['interview','vitale','health','factory','worker','business','bins','solidarity'].includes(k)?5:['president','government','parliament','elysee','matignon','senate','constitution','prefect','townhall','eutreaty','eucitizenship','euconstruction','euparliament','eucommission','ecb'].includes(k)?2:['ddhc','tax','marriage','marriage-men','marriage-women','divorce','justice','jurors','press','expression','police'].includes(k)?3:['marianne','frenchflag','values','conscience','secularagent'].includes(k)?1:Number(q.theme);};const blocks=themes.map(t=>({...t,notions:[...notions.values()].filter(q=>revisionTheme(q)===t.id)})).filter(t=>t.notions.length);
  const kinds=[...new Set(cards.map(q=>q.kind).filter(Boolean))],kind=context.kind||(kinds.length===1?kinds[0]:'ensemble');
  const long=kind==='examen'||kind==='bilan'||kind==='ensemble';
  const mode=!blocks.length?'empty':blocks.length===1?'thematique':long&&notions.size>6?'par-thematique':'synthese';
@@ -55,7 +55,10 @@ function buildPdf(cards,context={}){
   font();doc.setFontSize(10);const label={bilan:'Bilan',examen:'Examen blanc',entrainement:'Entraînement',revision:'Révision'}[model.kind]||'Parcours';if(doc.getNumberOfPages()===1)doc.text('Fiche du '+new Date(context.row?.date||Date.now()).toLocaleDateString('fr-FR'),40,31);y=35;
  }
  function next(){doc.addPage();header();}
- function image(q,x,yy,w,h){const v=root.CiviSheetsVisual.pick(q),src=mono?root.CiviSheetsArtMono?.[v.key]:v.src;if(!src)throw Error('L’illustration adaptée au profil choisi n’est pas disponible.');const info=doc.getImageProperties(src),ratio=Math.min(w/info.width,(root.CiviSheetsVisual.artwork(q)?.art?h*.65:h)/info.height);doc.addImage(src,src.startsWith('data:image/jpeg')?'JPEG':'PNG',x+(w-info.width*ratio)/2,yy+(h-info.height*ratio)/2,info.width*ratio,info.height*ratio,v.key,'FAST');const ax=x+(w-info.width*ratio)/2,ay=yy+(h-info.height*ratio)/2;
+ function image(q,x,yy,w,h){const v=root.CiviSheetsVisual.pick(q),src=mono?root.CiviSheetsArtMono?.[v.key]:v.src;if(!src)throw Error('L’illustration adaptée au profil choisi n’est pas disponible.');if(v.key==='rodin'){
+ const draw=(key,px,py,pw,ph)=>{const a=mono?root.CiviSheetsArtMono[key]:root.CiviSheetsArt[key],i=doc.getImageProperties(a),scale=Math.min(pw/i.width,ph/i.height);doc.addImage(a,'PNG',px+(pw-i.width*scale)/2,py+(ph-i.height*scale)/2,i.width*scale,i.height*scale,key,'FAST');};
+ draw('rodin',x,yy+h*.45,w*.30,h*.48);draw('thinker',x+w*.31,yy,w*.69,h);return;
+ }const info=doc.getImageProperties(src),ratio=Math.min(w/info.width,(root.CiviSheetsVisual.artwork(q)?.art?h*.65:h)/info.height);doc.addImage(src,src.startsWith('data:image/jpeg')?'JPEG':'PNG',x+(w-info.width*ratio)/2,yy+(h-info.height*ratio)/2,info.width*ratio,info.height*ratio,v.key,'FAST');const ax=x+(w-info.width*ratio)/2,ay=yy+(h-info.height*ratio)/2;
  if(v.key==='interview'){font();doc.setFontSize(8);doc.setTextColor(...(exportProfile.ink||[25,30,36]));doc.text(['Votre','expérience ?'],ax+info.width*ratio*.37,ay+info.height*ratio*.075,{align:'center'});doc.text(['J’ai travaillé','en équipe.'],ax+info.width*ratio*.70,ay+info.height*ratio*.105,{align:'center'});}
  if(v.key==='camus'){font();doc.setFontSize(7);doc.setTextColor(...(exportProfile.ink||[25,30,36]));const book=String(q.question||'').match(/[«"]([^»"]+)[»"]/)?.[1]||'L’Étranger';doc.text(doc.splitTextToSize(book,info.width*ratio*.27),ax+info.width*ratio*.84,ay+info.height*ratio*.59,{align:'center'});}
  const work=root.CiviSheetsVisual.artwork(q);if(work?.art&&root.CiviSheetsArt?.[work.art]){const prop=mono?root.CiviSheetsArtMono[work.art]:root.CiviSheetsArt[work.art];doc.addImage(prop,prop.startsWith('data:image/jpeg')?'JPEG':'PNG',x+w*.10,yy+h*.68,w*.80,h*.30,v.key+'-work','FAST');}

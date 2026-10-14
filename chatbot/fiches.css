@@ -121,3 +121,6 @@ html.civi-a11y-markers:not([data-civi-colour-profile='general']) .civi-sheets-di
 html[data-civi-colour-profile=achromatopsia] .civi-audio-sketch img{filter:grayscale(1)}
 @media(prefers-reduced-motion:reduce){.civi-audio-sketch:hover img{transform:none}}
 @media(max-width:500px){.civi-sheets-dialog .civi-sheet[data-audio=marseillaise]{grid-template-columns:1fr!important}.civi-sheets-dialog .civi-sheet[data-audio=marseillaise] .civi-sheet-content{grid-column:1}}
+
+/* Rodin : portrait discret et œuvre entière lisible. */
+.civi-sheet .civi-rodin-portrait{width:20%!important;max-height:90px;object-fit:contain}.civi-sheet .civi-rodin-thinker{width:35%!important;height:160px!important;max-height:160px!important;object-fit:contain}
