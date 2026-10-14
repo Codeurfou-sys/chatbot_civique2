@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "illustrations": [
     {
       "key": "bastille",
@@ -1171,7 +1171,10 @@
       "monoFile": "rivers-mono.png",
       "width": 720,
       "height": 720,
-      "origin": "Carte contrôlée de Natural Earth, domaine public"
+      "origin": "Schéma construit à partir de données contrôlées",
+      "version": 64,
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
     },
     {
       "key": "mountains",
@@ -1403,6 +1406,153 @@
       "origin": "Illustration originale générée pour CiviCoach",
       "style": "Dessin à l’encre et au crayon ; notion précise, fond transparent",
       "monoFile": "accessible-parking-mono.png"
+    },
+    {
+      "key": "ivg",
+      "file": "ivg.png",
+      "monoFile": "ivg-mono.png",
+      "width": 720,
+      "height": 477,
+      "version": 64,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "strike",
+      "file": "strike.png",
+      "monoFile": "strike-mono.png",
+      "width": 720,
+      "height": 612,
+      "version": 64,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "shoah",
+      "file": "shoah.png",
+      "monoFile": "shoah-mono.png",
+      "width": 720,
+      "height": 481,
+      "version": 64,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "socialsecurity",
+      "file": "socialsecurity.png",
+      "monoFile": "socialsecurity-mono.png",
+      "width": 720,
+      "height": 655,
+      "version": 64,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "thinker",
+      "file": "thinker.png",
+      "monoFile": "thinker-mono.png",
+      "width": 496,
+      "height": 720,
+      "version": 64,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "france-travail",
+      "file": "france-travail.png",
+      "monoFile": "france-travail-mono.png",
+      "width": 1609,
+      "height": 1494,
+      "version": 64,
+      "origin": "Logo officiel France Travail",
+      "style": "Logo officiel conservé avec ses proportions et ses couleurs ; version officielle en niveaux de gris",
+      "source": "https://logo.francetravail.org/"
+    },
+    {
+      "key": "assembly-seats",
+      "file": "assembly-seats.png",
+      "monoFile": "assembly-seats-mono.png",
+      "width": 840,
+      "height": 660,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "https://www.assemblee-nationale.fr/dyn/vos-deputes/hemicycle"
+    },
+    {
+      "key": "decolonization",
+      "file": "decolonization.png",
+      "monoFile": "decolonization-mono.png",
+      "width": 840,
+      "height": 525,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé"
+    },
+    {
+      "key": "separation1905",
+      "file": "separation1905.png",
+      "monoFile": "separation1905-mono.png",
+      "width": 840,
+      "height": 516,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé"
+    },
+    {
+      "key": "river-seine",
+      "file": "river-seine.png",
+      "monoFile": "river-seine-mono.png",
+      "width": 720,
+      "height": 720,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
+    },
+    {
+      "key": "river-rhone",
+      "file": "river-rhone.png",
+      "monoFile": "river-rhone-mono.png",
+      "width": 720,
+      "height": 720,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
+    },
+    {
+      "key": "river-rhin",
+      "file": "river-rhin.png",
+      "monoFile": "river-rhin-mono.png",
+      "width": 720,
+      "height": 720,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
+    },
+    {
+      "key": "river-loire",
+      "file": "river-loire.png",
+      "monoFile": "river-loire-mono.png",
+      "width": 720,
+      "height": 720,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
+    },
+    {
+      "key": "river-garonne",
+      "file": "river-garonne.png",
+      "monoFile": "river-garonne-mono.png",
+      "width": 720,
+      "height": 720,
+      "version": 64,
+      "origin": "Schéma construit à partir de données contrôlées",
+      "style": "Tracé géographique ou institutionnel contrôlé",
+      "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
     }
   ]
 }

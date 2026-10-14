@@ -216,7 +216,9 @@ def build():
    with Image.open(file) as image:art[item['key']]=bundled(image)
    mono_file=art_manifest.parent/(item['key']+'-mono.png')
    with Image.open(file) as original:
-    if original.mode=='P' and original.getpalette():
+    if item['key']=='france-travail' and mono_file.exists():
+     pass
+    elif original.mode=='P' and original.getpalette():
      palette=original.getpalette();new=[]
      for n in range(0,len(palette),3):
       value=round(.299*palette[n]+.587*palette[n+1]+.114*palette[n+2]);new.extend([value,value,value])
