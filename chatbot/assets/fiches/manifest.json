@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "illustrations": [
     {
       "key": "bastille",
@@ -1494,10 +1494,10 @@
       "file": "separation1905.png",
       "monoFile": "separation1905-mono.png",
       "width": 840,
-      "height": 516,
-      "version": 64,
-      "origin": "Schéma construit à partir de données contrôlées",
-      "style": "Tracé géographique ou institutionnel contrôlé"
+      "height": 401,
+      "version": 65,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
     },
     {
       "key": "river-seine",
@@ -1553,6 +1553,176 @@
       "origin": "Schéma construit à partir de données contrôlées",
       "style": "Tracé géographique ou institutionnel contrôlé",
       "source": "activites-geographie/data.json ; https://www.eaufrance.fr/les-rivieres"
+    },
+    {
+      "key": "canteen",
+      "file": "canteen.png",
+      "monoFile": "canteen-mono.png",
+      "width": 840,
+      "height": 560,
+      "version": 65,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "mutuelle",
+      "file": "mutuelle.png",
+      "monoFile": "mutuelle-mono.png",
+      "width": 840,
+      "height": 567,
+      "version": 65,
+      "origin": "Illustration originale générée pour CiviCoach",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "ports",
+      "file": "ports.png",
+      "monoFile": "ports-mono.png",
+      "width": 720,
+      "height": 620,
+      "version": 65,
+      "origin": "Schéma exact construit avec coordonnées et données contrôlées",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "ports-nantes",
+      "file": "ports-nantes.png",
+      "monoFile": "ports-nantes-mono.png",
+      "width": 720,
+      "height": 620,
+      "version": 65,
+      "origin": "Schéma exact construit avec coordonnées et données contrôlées",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "ports-marseille",
+      "file": "ports-marseille.png",
+      "monoFile": "ports-marseille-mono.png",
+      "width": 720,
+      "height": 620,
+      "version": 65,
+      "origin": "Schéma exact construit avec coordonnées et données contrôlées",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "infractions",
+      "file": "infractions.png",
+      "monoFile": "infractions-mono.png",
+      "width": 900,
+      "height": 520,
+      "version": 65,
+      "origin": "Schéma exact construit avec coordonnées et données contrôlées",
+      "style": "Encre, hachures et crayon"
+    },
+    {
+      "key": "regime-0",
+      "file": "regime-0.png",
+      "monoFile": "regime-0-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-1",
+      "file": "regime-1.png",
+      "monoFile": "regime-1-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-2",
+      "file": "regime-2.png",
+      "monoFile": "regime-2-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-3",
+      "file": "regime-3.png",
+      "monoFile": "regime-3-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-4",
+      "file": "regime-4.png",
+      "monoFile": "regime-4-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-5",
+      "file": "regime-5.png",
+      "monoFile": "regime-5-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-6",
+      "file": "regime-6.png",
+      "monoFile": "regime-6-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-7",
+      "file": "regime-7.png",
+      "monoFile": "regime-7-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-8",
+      "file": "regime-8.png",
+      "monoFile": "regime-8-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-9",
+      "file": "regime-9.png",
+      "monoFile": "regime-9-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
+    },
+    {
+      "key": "regime-10",
+      "file": "regime-10.png",
+      "monoFile": "regime-10-mono.png",
+      "width": 840,
+      "height": 340,
+      "origin": "Repère chronologique exact issu de l’activité",
+      "style": "Carnet et calendrier avec écriture manuscrite",
+      "version": 65
     }
   ]
 }

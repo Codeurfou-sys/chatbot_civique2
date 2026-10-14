@@ -1,0 +1,128 @@
+[
+  {
+    "nom": "Île-de-France",
+    "code": "11",
+    "capital": "Paris",
+    "departments": 8,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/11-ile-de-france"
+  },
+  {
+    "nom": "Centre-Val de Loire",
+    "code": "24",
+    "capital": "Orléans",
+    "departments": 6,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/24-centre-val-de-loire"
+  },
+  {
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "27",
+    "capital": "Dijon",
+    "departments": 8,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/27-bourgogne-franche-comte"
+  },
+  {
+    "nom": "Normandie",
+    "code": "28",
+    "capital": "Rouen",
+    "departments": 5,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/28-normandie"
+  },
+  {
+    "nom": "Hauts-de-France",
+    "code": "32",
+    "capital": "Lille",
+    "departments": 5,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/32-hauts-de-france"
+  },
+  {
+    "nom": "Grand Est",
+    "code": "44",
+    "capital": "Strasbourg",
+    "departments": 10,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/44-grand-est"
+  },
+  {
+    "nom": "Pays de la Loire",
+    "code": "52",
+    "capital": "Nantes",
+    "departments": 5,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/52-pays-de-la-loire"
+  },
+  {
+    "nom": "Bretagne",
+    "code": "53",
+    "capital": "Rennes",
+    "departments": 4,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/53-bretagne"
+  },
+  {
+    "nom": "Nouvelle-Aquitaine",
+    "code": "75",
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/75-nouvelle-aquitaine",
+    "capital": "Bordeaux",
+    "departments": 12
+  },
+  {
+    "nom": "Occitanie",
+    "code": "76",
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/76-occitanie",
+    "capital": "Toulouse",
+    "departments": 13
+  },
+  {
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "84",
+    "capital": "Lyon",
+    "departments": 12,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/84-auvergne-rhone-alpes"
+  },
+  {
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "code": "93",
+    "capital": "Marseille",
+    "departments": 6,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/93-provence-alpes-cote-d-azur"
+  },
+  {
+    "nom": "Corse",
+    "code": "94",
+    "capital": "Ajaccio",
+    "departments": 2,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/94-corse"
+  },
+  {
+    "nom": "Guadeloupe",
+    "code": "01",
+    "capital": "Basse-Terre",
+    "departments": 1,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/01-guadeloupe"
+  },
+  {
+    "nom": "Martinique",
+    "code": "02",
+    "capital": "Fort-de-France",
+    "departments": 1,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/02-martinique"
+  },
+  {
+    "nom": "Guyane",
+    "code": "03",
+    "capital": "Cayenne",
+    "departments": 1,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/03-guyane"
+  },
+  {
+    "nom": "La Réunion",
+    "code": "04",
+    "capital": "Saint-Denis",
+    "departments": 1,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/04-la-reunion"
+  },
+  {
+    "nom": "Mayotte",
+    "code": "06",
+    "capital": "Mamoudzou",
+    "departments": 1,
+    "source": "https://www.insee.fr/fr/metadonnees/geographie/region/06-mayotte"
+  }
+]

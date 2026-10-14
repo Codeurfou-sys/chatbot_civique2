@@ -21,7 +21,7 @@ function plan(cards,context={}){
  const notions=new Map();
  for(const q of cards){
   // A broad chapter label alone cannot merge different dates, roles or actions.
-  const key=Number(q.theme)+'|'+root.CiviSheetsVisual.sections(q).map(f=>normal(f.text)).join('|');
+  const key=root.CiviSheetsVisual.notationKey?.(q)||Number(q.theme)+'|'+root.CiviSheetsVisual.sections(q).map(f=>normal(f.text)).join('|');
   if(!notions.has(key))notions.set(key,{...q,variants:[],kind:q.kind});
   notions.get(key).variants.push(q);
  }
@@ -55,13 +55,22 @@ function buildPdf(cards,context={}){
   font();doc.setFontSize(10);const label={bilan:'Bilan',examen:'Examen blanc',entrainement:'Entraînement',revision:'Révision'}[model.kind]||'Parcours';if(doc.getNumberOfPages()===1)doc.text('Fiche du '+new Date(context.row?.date||Date.now()).toLocaleDateString('fr-FR'),40,31);y=35;
  }
  function next(){doc.addPage();header();}
- function image(q,x,yy,w,h){const v=root.CiviSheetsVisual.pick(q),src=mono?root.CiviSheetsArtMono?.[v.key]:v.src;if(!src)throw Error('L’illustration adaptée au profil choisi n’est pas disponible.');if(v.key==='rodin'){
- const draw=(key,px,py,pw,ph)=>{const a=mono?root.CiviSheetsArtMono[key]:root.CiviSheetsArt[key],i=doc.getImageProperties(a),scale=Math.min(pw/i.width,ph/i.height);doc.addImage(a,'PNG',px+(pw-i.width*scale)/2,py+(ph-i.height*scale)/2,i.width*scale,i.height*scale,key,'FAST');};
- draw('rodin',x,yy+h*.45,w*.30,h*.48);draw('thinker',x+w*.31,yy,w*.69,h);return;
- }const info=doc.getImageProperties(src),ratio=Math.min(w/info.width,(root.CiviSheetsVisual.artwork(q)?.art?h*.65:h)/info.height);doc.addImage(src,src.startsWith('data:image/jpeg')?'JPEG':'PNG',x+(w-info.width*ratio)/2,yy+(h-info.height*ratio)/2,info.width*ratio,info.height*ratio,v.key,'FAST');const ax=x+(w-info.width*ratio)/2,ay=yy+(h-info.height*ratio)/2;
- if(v.key==='interview'){font();doc.setFontSize(8);doc.setTextColor(...(exportProfile.ink||[25,30,36]));doc.text(['Votre','expérience ?'],ax+info.width*ratio*.37,ay+info.height*ratio*.075,{align:'center'});doc.text(['J’ai travaillé','en équipe.'],ax+info.width*ratio*.70,ay+info.height*ratio*.105,{align:'center'});}
- if(v.key==='camus'){font();doc.setFontSize(7);doc.setTextColor(...(exportProfile.ink||[25,30,36]));const book=String(q.question||'').match(/[«"]([^»"]+)[»"]/)?.[1]||'L’Étranger';doc.text(doc.splitTextToSize(book,info.width*ratio*.27),ax+info.width*ratio*.84,ay+info.height*ratio*.59,{align:'center'});}
- const work=root.CiviSheetsVisual.artwork(q);if(work?.art&&root.CiviSheetsArt?.[work.art]){const prop=mono?root.CiviSheetsArtMono[work.art]:root.CiviSheetsArt[work.art];doc.addImage(prop,prop.startsWith('data:image/jpeg')?'JPEG':'PNG',x+w*.10,yy+h*.68,w*.80,h*.30,v.key+'-work','FAST');}
+ function image(q,x,yy,w,h){
+ const v=root.CiviSheetsVisual.pick(q),work=root.CiviSheetsVisual.artwork(q);
+ const draw=(key,px,py,pw,ph)=>{
+  const src=mono?root.CiviSheetsArtMono?.[key]:root.CiviSheetsArt?.[key];if(!src)throw Error('Illustration absente : '+key);
+  const info=doc.getImageProperties(src),scale=Math.min(pw/info.width,ph/info.height);
+  const iw=info.width*scale,ih=info.height*scale,ax=px+(pw-iw)/2,ay=py+(ph-ih)/2;
+  doc.addImage(src,'PNG',ax,ay,iw,ih,key,'FAST');
+  doc.__civiImageBounds=doc.__civiImageBounds||[];doc.__civiImageBounds.push({key,box:[px,py,pw,ph],draw:[ax,ay,iw,ih],sourceRatio:info.width/info.height});
+  return {ax,ay,iw,ih};
+ };
+ if(work?.art&&root.CiviSheetsArt[work.art]){
+  const gap=3,pw=(w-gap)/2;draw(v.key,x,yy,pw,h);draw(work.art,x+pw+gap,yy,pw,h);return;
+ }
+ const pos=draw(v.key,x,yy,w,h);
+ if(v.key==='interview'){font();doc.setFontSize(8);doc.setTextColor(...(exportProfile.ink||[25,30,36]));doc.text(['Votre','expérience ?'],pos.ax+pos.iw*.37,pos.ay+pos.ih*.075,{align:'center'});doc.text(['J’ai travaillé','en équipe.'],pos.ax+pos.iw*.70,pos.ay+pos.ih*.105,{align:'center'});}
+ if(v.key==='camus'){font();doc.setFontSize(7);doc.setTextColor(...(exportProfile.ink||[25,30,36]));const book=String(q.question||'').match(/[«"]([^»"]+)[»"]/)?.[1]||'L’Étranger';doc.text(doc.splitTextToSize(book,pos.iw*.27),pos.ax+pos.iw*.84,pos.ay+pos.ih*.59,{align:'center'});}
  }
  function sketchContent(q,width){
   const model=root.CiviSheetsVisual.composition(q),facts=model.facts;
@@ -70,7 +79,7 @@ function buildPdf(cards,context={}){
   const v=root.CiviSheetsVisual.pick(q),art=!!v.src,scene=model.type==='dialogue'||['elysee','matignon','senate','parliament'].includes(v.key),timeline=!!q.__timeline;
   const role=false;
   const music=root.CiviSheetAudio?.track(q)?.id==='marseillaise';
-  const imageW=scene?width-10:art?(music?(width>150?44:24):role?width*.56:width>150?76:40):0;
+  const imageW=scene?width-10:art?(music?(width>150?44:24):role?width*.56:width>150?68:28):0;
   const main=facts.find(f=>f.label==='À retenir')||facts[0],flow=facts.find(f=>f.steps);
   const textW=scene?width-10:width-imageW-12;
   const mainLines=wrap(main.text,textW-4,bodySize,true),mainH=mainLines.length*lh+5;
@@ -123,7 +132,7 @@ function buildPdf(cards,context={}){
    for(let i=0;i<qs.length;){
     // Short knowledge notions share one horizontal themed block. Situations stay whole.
     const short=q=>{const sections=root.CiviSheetsVisual.sections(q);return sections.reduce((n,s)=>n+s.text.length,0)<420;};
-    let pair=i+1<qs.length&&short(qs[i])&&short(qs[i+1]);let items=pair?[content(qs[i],88),content(qs[i+1],88)]:[content(qs[i],180)];
+    let pair=!large&&i+1<qs.length&&short(qs[i])&&short(qs[i+1]);let items=pair?[content(qs[i],88),content(qs[i+1],88)]:[content(qs[i],180)];
     if(pair&&Math.max(...items.map(p=>p.h))>190){pair=false;items=[content(qs[i],180)];}
     const h=10+Math.max(...items.map(p=>p.h));
     if(h<=241){if(y+h>280)next();frame(b,y,h);for(const [j,item] of items.entries()){item.number=serial+j+1;drawCard(item,15+j*92,y+12,b);}doc.__civiComposition.push({type:plannedRow.type,theme:b.id,count:items.length,height:h,top:y,page:doc.getNumberOfPages()});serial+=items.length;if(pair){doc.setDrawColor(...colour(b));doc.setLineDashPattern([.4,1.1],0);doc.line(105,y+13,105,y+h-3);doc.setLineDashPattern([],0);}if(pair&&plannedRow.type==='timeline'){doc.setTextColor(...colour(b));doc.setFontSize(12);doc.text('',104,y+31);}y+=h+3;}

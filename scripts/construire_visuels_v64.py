@@ -59,5 +59,5 @@ def separation():
     body+='<text x="285" y="314" text-anchor="middle" font-size="23" font-weight="bold">1905 : séparation</text>'
     render('separation1905',body,'0 0 570 350',840,516)
 if __name__=='__main__':
-    rivers();assembly();decolonization();separation()
+    rivers();assembly();decolonization() # Le dessin de séparation v65 reste inchangé.
     print('9 visuels contrôlés construits.')
