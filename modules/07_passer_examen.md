@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-10-15T08:21:38+00:00 -->
+<!-- Date : 2026-10-16T08:14:18+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
@@ -10,7 +10,6 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 16 octobre 2026
 - 27 novembre 2026
 - 11 décembre 2026
 
@@ -339,9 +338,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 octobre 2026
 - 5 novembre 2026
 - 19 novembre 2026
+- 7 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -513,9 +512,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 22 octobre 2026
 - 6 novembre 2026
 - 27 novembre 2026
+- 10 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
