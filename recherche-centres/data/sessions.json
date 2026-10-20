@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:57:33+00:00",
+  "generated_at": "2026-10-20T08:36:41+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -164,7 +164,7 @@
       "ville": "Lons-le-Saunier",
       "departement": "39",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "sessions_futures": 2,
+      "sessions_futures": 3,
       "ecran_centre": "SCR_PASS_CITY_LONS_LE_SAUNIER",
       "requete_ban": "Lons-le-Saunier 39",
       "actif": "Oui",
@@ -177,7 +177,7 @@
       "ville": "Montbéliard",
       "departement": "25",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "sessions_futures": 2,
+      "sessions_futures": 3,
       "ecran_centre": "SCR_PASS_CITY_MONTBELIARD",
       "requete_ban": "Montbéliard 25",
       "actif": "Oui",
@@ -580,18 +580,6 @@
       "_row": 95
     },
     {
-      "id_session": "SES_BESANCON_20261021_09C599CE",
-      "code_centre": "BESANCON",
-      "region": "Franche-Comté",
-      "ville": "Besançon",
-      "date_session": "2026-10-21",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 96
-    },
-    {
       "id_session": "SES_BESANCON_20261104_C54A5A48",
       "code_centre": "BESANCON",
       "region": "Franche-Comté",
@@ -601,7 +589,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 97
+      "_row": 96
     },
     {
       "id_session": "SES_BESANCON_20261112_5B30EF9B",
@@ -609,6 +597,18 @@
       "region": "Franche-Comté",
       "ville": "Besançon",
       "date_session": "2026-11-12",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 97
+    },
+    {
+      "id_session": "SES_BESANCON_20261118_CEC5B022",
+      "code_centre": "BESANCON",
+      "region": "Franche-Comté",
+      "ville": "Besançon",
+      "date_session": "2026-11-18",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -640,6 +640,18 @@
       "_row": 100
     },
     {
+      "id_session": "SES_LONS_LE_SAUNIER_20270113_D1054C59",
+      "code_centre": "LONS_LE_SAUNIER",
+      "region": "Franche-Comté",
+      "ville": "Lons-le-Saunier",
+      "date_session": "2027-01-13",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 101
+    },
+    {
       "id_session": "SES_MONTBELIARD_20261104_96DB837B",
       "code_centre": "MONTBELIARD",
       "region": "Franche-Comté",
@@ -649,7 +661,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 101
+      "_row": 102
     },
     {
       "id_session": "SES_MONTBELIARD_20261202_3B6A76D3",
@@ -661,7 +673,19 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 102
+      "_row": 103
+    },
+    {
+      "id_session": "SES_MONTBELIARD_20270127_617E7759",
+      "code_centre": "MONTBELIARD",
+      "region": "Franche-Comté",
+      "ville": "Montbéliard",
+      "date_session": "2027-01-27",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 104
     },
     {
       "id_session": "SES_CHAUMONT_20261118_2FD647F6",
@@ -673,7 +697,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 103
+      "_row": 105
     },
     {
       "id_session": "SES_MULHOUSE_20261105_D654CAEB",
@@ -685,7 +709,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 104
+      "_row": 106
     },
     {
       "id_session": "SES_MULHOUSE_20261119_D8F2FD80",
@@ -697,7 +721,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 105
+      "_row": 107
     },
     {
       "id_session": "SES_MULHOUSE_20261207_C1534726",
@@ -709,7 +733,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 106
+      "_row": 108
     },
     {
       "id_session": "SES_REIMS_20261118_A50DA276",
@@ -721,7 +745,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 107
+      "_row": 109
     },
     {
       "id_session": "SES_REIMS_20261202_4A358429",
@@ -733,7 +757,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 108
+      "_row": 110
     },
     {
       "id_session": "SES_SAINT_DIE_DES_VOSGES_20261126_A237EAEF",
@@ -745,7 +769,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 109
+      "_row": 111
     },
     {
       "id_session": "SES_STRASBOURG_20261106_B2F4AE9C",
@@ -757,7 +781,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 110
+      "_row": 112
     },
     {
       "id_session": "SES_STRASBOURG_20261127_AD5BFE6B",
@@ -769,7 +793,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 111
+      "_row": 113
     },
     {
       "id_session": "SES_STRASBOURG_20261210_6DD877F5",
@@ -781,7 +805,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 112
+      "_row": 114
     },
     {
       "id_session": "SES_TROYES_20261104_21CA16E6",
@@ -793,7 +817,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 113
+      "_row": 115
     },
     {
       "id_session": "SES_TROYES_20261125_5BB77B86",
@@ -805,7 +829,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 114
+      "_row": 116
     },
     {
       "id_session": "SES_TROYES_20261209_4CCEB803",
@@ -817,7 +841,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 115
+      "_row": 117
     },
     {
       "id_session": "SES_ANNECY_20261127_70E85CB0",
@@ -829,7 +853,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 116
+      "_row": 118
     },
     {
       "id_session": "SES_ANNECY_20261211_7A3D113F",
@@ -841,7 +865,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 117
+      "_row": 119
     },
     {
       "id_session": "SES_ANNEMASSE_20261028_7B274DB9",
@@ -853,7 +877,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 118
+      "_row": 120
     },
     {
       "id_session": "SES_ANNEMASSE_20261125_6DAEEB7B",
@@ -865,7 +889,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 119
+      "_row": 121
     },
     {
       "id_session": "SES_ANNEMASSE_20261216_A7291689",
@@ -877,7 +901,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 120
+      "_row": 122
     },
     {
       "id_session": "SES_BOURG_EN_BRESSE_20261023_A7D854FD",
@@ -889,7 +913,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 121
+      "_row": 123
     },
     {
       "id_session": "SES_BOURG_EN_BRESSE_20261120_298DF783",
@@ -901,7 +925,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 122
+      "_row": 124
     },
     {
       "id_session": "SES_BOURG_EN_BRESSE_20261217_E1E5E017",
@@ -913,7 +937,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 123
+      "_row": 125
     },
     {
       "id_session": "SES_VALSERHONE_20261118_60B66FEF",
@@ -925,7 +949,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 124
+      "_row": 126
     },
     {
       "id_session": "SES_VALSERHONE_20261209_080E285B",
@@ -937,7 +961,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 125
+      "_row": 127
     }
   ],
   "max_sessions_per_centre": 3
