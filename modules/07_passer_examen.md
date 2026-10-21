@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-10-20T08:36:40+00:00 -->
+<!-- Date : 2026-10-21T08:37:50+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
@@ -63,6 +63,7 @@
 
 - 18 novembre 2026
 - 16 décembre 2026
+- 17 mars 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -138,8 +139,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 10 novembre 2026
 - 8 décembre 2026
+- 3 mars 2027
+- 2 juin 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -164,6 +166,8 @@
 #### 📅 Prochaines sessions disponibles
 
 - 18 novembre 2026
+- 20 janvier 2027
+- 17 mars 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -215,6 +219,7 @@
 
 - 9 novembre 2026
 - 7 décembre 2026
+- 13 janvier 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -317,6 +322,8 @@
 #### 📅 Prochaines sessions disponibles
 
 - 15 décembre 2026
+- 31 mars 2027
+- 30 juin 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -367,6 +374,8 @@
 #### 📅 Prochaines sessions disponibles
 
 - 17 novembre 2026
+- 24 mars 2027
+- 23 juin 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -392,6 +401,7 @@
 
 - 17 novembre 2026
 - 15 décembre 2026
+- 9 mars 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -417,6 +427,7 @@
 
 - 18 novembre 2026
 - 2 décembre 2026
+- 20 janvier 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -441,6 +452,8 @@
 #### 📅 Prochaines sessions disponibles
 
 - 26 novembre 2026
+- 25 février 2027
+- 29 avril 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -490,6 +503,7 @@
 
 - 17 novembre 2026
 - 15 décembre 2026
+- 10 mars 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
