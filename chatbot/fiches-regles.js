@@ -33,6 +33,7 @@ function plan(cards,context={}){
  return {mode,kind,notionCount:notions.size,errorCount:cards.length,blocks,sheets};
 }
 function buildPdf(cards,context={}){
+ if(root.NovaAccess?.settings?.().dys){if(!root.NovaDysPdf)throw Error('Le modèle de lecture PDF n’est pas chargé. Actualisez la page.');return root.NovaDysPdf.sheets(cards,context);}
  const model=plan(cards,context);if(!model.sheets.length)throw Error('Aucune fiche à télécharger.');
  if(!root.jspdf?.jsPDF||!root.NovaPdfFont||!root.CiviSheetsVisual)throw Error('Le module PDF est indisponible. Actualisez la page puis réessayez.');
  if(!root.CiviHandFont)throw Error('Le modèle illustré n’est pas chargé. Actualisez la page puis réessayez.');

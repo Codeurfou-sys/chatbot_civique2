@@ -1,0 +1,50 @@
+{
+  "version": 66,
+  "checked_on": "2026-10-21",
+  "reference_version": "v65",
+  "source_workflows": "https://github.com/Codeurfou-sys/chatbot_civique2/tree/main/.github/workflows",
+  "scope": {
+    "dys_settings": "one shared panel, top and sidebar; local persistence and reset",
+    "surfaces": [
+      "chatbot",
+      "revision activities",
+      "geography activities and questions",
+      "centre search",
+      "timer",
+      "audio page",
+      "revision sheets",
+      "saved results"
+    ],
+    "pdf": "current settings, 5 colour profiles, normal and large text; portrait/work ratio preserved",
+    "tracking": "feasibility and integration guide only; no collection activated",
+    "deployment": "existing update-examens cron retained, Pages workflow_run after success, output URLs follow repository"
+  },
+  "checks": {
+    "dys_pdf_profiles_and_sizes": 10,
+    "stress_longest_notions": 12,
+    "dys_font_variants": 2,
+    "ui_dom_integration": true,
+    "catalogue_references": 2472,
+    "excel_references": 8750,
+    "chatbot_screens": 33167,
+    "chatbot_links": 139771,
+    "audio_players": 3,
+    "workflow_yaml_parsed": true,
+    "one_only_sessions_schedule": "15 3 * * *",
+    "new_repository_urls_checked": true,
+    "pdf_visual_review": "colour, monochrome, enlarged and personal pathway pages rendered with Poppler and inspected"
+  },
+  "limits": [
+    "No live Moodle or GitHub deployment performed.",
+    "No nominative tracking backend installed.",
+    "UI DOM tested; full browser rendering and target Moodle remain to be checked after installation.",
+    "Existing images keep their embedded text; external and already-downloaded PDFs are not rewritten.",
+    "No RGAA, PDF-UA or FALC certification claimed."
+  ],
+  "pdf_examples": {
+    "Six_notions_DYS_general_aere_v66.pdf": 6,
+    "Six_notions_DYS_general_agrandi_v66.pdf": 7,
+    "Six_notions_DYS_achromatopsia_agrandi_v66.pdf": 7,
+    "Parcours_DYS_v66.pdf": 23
+  }
+}

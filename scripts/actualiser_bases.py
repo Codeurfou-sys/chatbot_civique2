@@ -242,7 +242,7 @@ def build():
  (ROOT/'reports/bases_excel.json').write_text(json.dumps({'fingerprint':fingerprint,'sources':audit,'bilans':len(manifest),'examens':len(exam_report),'entrainements':len(reports)},ensure_ascii=False,indent=2)+'\n')
  (ROOT/'reports/examens_sources.json').write_text(json.dumps(exam_report,ensure_ascii=False,indent=2)+'\n')
  index=ROOT/'chatbot/index.html';page=index.read_text();page=re.sub(r'\?v=[a-zA-Z0-9_-]+', '?v='+fingerprint,page);index.write_text(page)
- for folder in ['activites-revision','activites-geographie']:
+ for folder in ['activites-revision','activites-geographie','recherche-centres','minuteur-examen']:
   activity_index=ROOT/folder/'index.html';activity_index.write_text(re.sub(r'\?v=[a-zA-Z0-9_-]+','?v='+fingerprint,activity_index.read_text()))
  print('Bases compilées :',fingerprint)
 

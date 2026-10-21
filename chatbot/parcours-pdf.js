@@ -5,6 +5,7 @@ function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json
 const finite=v=>typeof v==='number'&&Number.isFinite(v);
 const names={CSP:'Carte de séjour pluriannuelle',CR:'Carte de résident',NAT:'Naturalisation'};
 function build(state,data,access=root.NovaAccess?.settings?.()||{}){
+ if(access.dys){if(!root.NovaDysPdf)throw Error('Le modèle de lecture PDF n’est pas chargé. Actualisez la page.');return root.NovaDysPdf.parcours(state,data,access);}
  const profiles={deuteranopia:{ink:[18,60,120],soft:[231,238,251],paper:[248,250,255]},protanopia:{ink:[54,34,104],soft:[238,232,250],paper:[250,248,255]},tritanopia:{ink:[104,22,45],soft:[248,232,237],paper:[255,248,250]},achromatopsia:{ink:[32,32,32],soft:[238,238,238],paper:[250,250,250]}};
  const palette=access.markers&&profiles[access.colourProfile]?profiles[access.colourProfile]:{ink:[178,28,26],soft:[248,229,230],paper:[255,249,249]};
 
@@ -44,7 +45,7 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
    doc.setTextColor(...palette.ink);doc.setFontSize(11);doc.text((block.i+offset+1)+'. '+block.label,33,cursor+4);
    doc.setTextColor(43,54,72);doc.setFontSize(10);doc.text(block.lines,33,cursor+9,{lineHeightFactor:1.27});cursor+=block.height;
   }
-  doc.setFontSize(9);doc.setTextColor(...palette.ink);doc.textWithLink('Revoir cette thématique dans CiviCoach',24,start+height-6,{url:'https://codeurfou-sys.github.io/chatbot_civique2/chatbot/?retour='+(personalized?.errors?.[0]?.course||'SCR_REV_T'+t+'_MENU')});
+  doc.setFontSize(9);doc.setTextColor(...palette.ink);doc.textWithLink('Revoir cette thématique dans CiviCoach',24,start+height-6,{url:new URL('./',root.location.href).href+'?retour='+(personalized?.errors?.[0]?.course||'SCR_REV_T'+t+'_MENU')});
   y=start+height+4;
  }
  function feedback(theme,pct){const bands=data.feedback.bands,index=bands.findIndex(b=>pct>=b[0]&&pct<b[1]);return data.feedback.themes[String(theme)][index<0?0:index];}
@@ -97,9 +98,9 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
  }
  if(!found)text('Aucune activité de révision enregistrée pour le moment.',10,[99,109,120]);
  heading('Retrouver mon parcours');text('Ouvrez le chatbot, puis « Mon parcours personnalisé » pour retrouver vos plans d’action et les corrections détaillées.');
- room(10);doc.setFontSize(10);doc.setTextColor(...palette.ink);doc.textWithLink('Ouvrir CiviCoach',18,y,{url:'https://codeurfou-sys.github.io/chatbot_civique2/chatbot/'});y+=8;
+ room(10);doc.setFontSize(10);doc.setTextColor(...palette.ink);doc.textWithLink('Ouvrir CiviCoach',18,y,{url:new URL('./',root.location.href).href});y+=8;
  const n=doc.getNumberOfPages();for(let i=1;i<=n;i++){doc.setPage(i);doc.setFontSize(8);doc.setTextColor(99,109,120);doc.text('CiviCoach - Mon parcours personnel',18,288);doc.text(i+'/'+n,192,288,{align:'right'});}
  return doc;
 }
-root.NovaPdf={build,async export(state){const data=await reportData();build(state,data,state.accessibility||root.NovaAccess?.settings?.()||{}).save('mon-parcours-civique.pdf');}};
+root.NovaPdf={build,async export(state){const data=await reportData();build(state,data,root.NovaAccess?.settings?.()||state.accessibility||{}).save('mon-parcours-civique.pdf');}};
 })(window);

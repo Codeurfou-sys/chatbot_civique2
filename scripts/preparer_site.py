@@ -10,3 +10,8 @@ for path in root.iterdir():
  if path.is_dir():shutil.copytree(path,destination/path.name,ignore=shutil.ignore_patterns('__pycache__','*.pyc'))
  elif path.suffix.lower() not in {'.py','.xlsx','.zip','.txt'}:shutil.copy2(path,destination/path.name)
 (destination/'.nojekyll').touch()
+# Les liens publiés suivent automatiquement le nouveau propriétaire/dépôt.
+import os
+if os.environ.get('GITHUB_REPOSITORY'):
+ from adapter_urls_site import adapt
+ adapt(destination,os.environ['GITHUB_REPOSITORY'],os.environ.get('CIVICOACH_SITE_URL') or None)

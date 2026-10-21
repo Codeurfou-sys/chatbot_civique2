@@ -1,0 +1,194 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CiviCoach · Guide DYS, Moodle et GitHub</title><style>*{box-sizing:border-box}body{font:17px/1.7 system-ui,sans-serif;color:#243043;background:#f5f1ee;margin:0}main{max-width:1080px;margin:35px auto;padding:40px 50px;background:white;border-radius:16px;box-shadow:0 8px 30px #1e283511}h1{font-size:2rem;color:#82203d;line-height:1.3}h2{margin-top:2.4em;border-top:2px solid #f2dce3;padding-top:22px;line-height:1.4;color:#82203d}h3{margin-top:1.7em;line-height:1.4}p,li{max-width:90ch}li{margin:8px 0}a{color:#185e8b;overflow-wrap:anywhere}code{background:#f6f1f3;padding:2px 4px;border-radius:4px;font-size:.88em;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%;font-size:.9em;line-height:1.6;margin:20px 0}td,th{padding:12px;border:1px solid #e6d5dc;text-align:left;vertical-align:top}th{background:#f7e7ec;color:#652238}tbody tr:nth-child(even){background:#fffafb}@media(max-width:650px){main{margin:0;padding:22px 15px;border-radius:0}h1{font-size:1.6rem}table{font-size:.8em}td,th{padding:7px}}@media print{body{background:white}main{margin:0;padding:0;box-shadow:none}h2,h3{break-after:avoid}tr{break-inside:avoid}a{color:inherit}}</style></head><body><main><h1>CiviCoach · Accessibilité DYS, suivi Moodle et transfert GitHub</h1>
+<p>Version 66 · 21 octobre 2026</p>
+<h2>1. Ce qui est livré et ce qui reste à connecter</h2>
+<table>
+<thead>
+<tr>
+<th>Élément</th>
+<th>État de cette livraison</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Section DYS dans les réglages du haut et latéraux</td>
+<td>Ajoutée au panneau commun. Les deux accès partagent les mêmes choix.</td>
+</tr>
+<tr>
+<td>Lecture des échanges, activités, fiches et enregistrements</td>
+<td>Style DYS personnalisable, actif sur le contenu chargé ensuite.</td>
+</tr>
+<tr>
+<td>PDF générés : fiches et parcours</td>
+<td>Nouveau rendu aéré, police de lecture, pagination dynamique et palettes compatibles. Le réglage courant est utilisé lors du téléchargement.</td>
+</tr>
+<tr>
+<td>Automatisation des sessions d’examen</td>
+<td>Fichier existant <code>update-examens.yml</code> récupéré sur le dépôt public, conservé avec son horaire et ses contrôles.</td>
+</tr>
+<tr>
+<td>Publication du site après les sessions</td>
+<td>Ajout d’un déclenchement <code>workflow_run</code> à la publication Pages, après réussite de l’action des sessions.</td>
+</tr>
+<tr>
+<td>Suivi nominatif dans Moodle</td>
+<td>Faisabilité et architecture décrites ci-dessous. Aucun collecteur ni rapport nominatif n’est activé par cette livraison.</td>
+</tr>
+<tr>
+<td>Mise en ligne</td>
+<td>Les fichiers doivent être intégrés au dépôt puis publiés. Aucun changement n’a été effectué sur le compte GitHub ou Moodle.</td>
+</tr>
+</tbody></table>
+<h2>2. Utiliser les aides DYS</h2>
+<ol>
+<li>Ouvrir « Réglages d’accessibilité » en haut du chatbot, ou « Paramètres » dans la barre latérale.</li>
+<li>Dans « DYS · Confort de lecture », cocher « Activer mes aides de lecture ».</li>
+<li>Choisir la police de lecture, l’espacement des lettres/mots, l’interligne et le fond de lecture.</li>
+<li>L’option « Affichage calme, en une colonne » limite les animations et simplifie les colonnes des fiches. Le texte reste aligné à gauche, sans italique imposée.</li>
+<li>Ajouter au besoin le texte agrandi, la palette pour daltonisme et la lecture audio déjà disponibles. Le mode DYS ne lance pas automatiquement une lecture sonore.</li>
+<li>Télécharger une fiche depuis le bilan, l’examen, les révisions ou les enregistrements : le PDF utilise les choix du moment, même pour une ancienne tentative.</li>
+<li>Décocher les aides DYS pour retrouver l’affichage habituel. « Réinitialiser les réglages » rétablit aussi les autres choix par défaut.</li>
+</ol>
+<p>Les réglages sont conservés dans le navigateur, comme les autres préférences existantes. Ils sont transmis aux activités intégrées de même origine et aux pages de reprise. Un blocage du stockage par le navigateur peut limiter leur conservation. Ce dispositif ne demande pas de diagnostic médical.</p>
+<p>Le guide DISIC fourni par l’utilisateur date du 21 février 2017. Il recommande notamment la personnalisation des polices, fonds et espacements, les lignes courtes, la lecture audio et l’aide au repérage. Il s’agit d’un guide informatif, qui n’établit pas à lui seul une conformité RGAA. Il ne définit pas un réglage universel adapté à toutes les personnes DYS. Les choix typographiques sont donc ajustables.</p>
+<p>La police de lecture embarquée est DejaVu Sans, déjà présente dans le moteur PDF : les téléchargements ne dépendent pas d’un service de police externe. Le dessin des illustrations reste celui qui a été validé. Les textes déjà intégrés à une image ne peuvent pas être redistribués comme un paragraphe ; les deux encadrés pédagogiques restent de vrais textes sélectionnables dans le PDF. Les anciens PDF déjà téléchargés et les documents externes ne sont pas modifiés rétroactivement. Les nouvelles options ne constituent ni une certification FALC, ni un audit de conformité RGAA/PDF-UA. Les questions, les bonnes réponses, les barèmes et la durée de la simulation d’examen restent inchangés.</p>
+<p>Sources : <a href="https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf">guide DISIC</a>, <a href="https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html">W3C : espacement du texte</a>. Les valeurs du W3C décrivent la capacité à supporter une personnalisation, pas une prescription unique pour toutes les personnes.</p>
+<h2>3. Le suivi détaillé dans Moodle est possible</h2>
+<h3>Ce que permet l’intégration actuelle</h3>
+<p>Le chatbot est hébergé sur GitHub Pages et affiché dans une iframe du cours Moodle. Les journaux Moodle peuvent montrer qu’un utilisateur a consulté la page du cours ou la ressource. Ils ne connaissent pas automatiquement les clics, les résultats ou les demandes de téléchargement à l’intérieur de l’iframe. Si le widget est présent dans le pied de page, consulter le cours ne signifie pas nécessairement avoir ouvert ou utilisé le chatbot.</p>
+<p>La sauvegarde locale actuelle appartient au navigateur. Ce n’est pas une base centralisée accessible au formateur. Un utilisateur peut changer de navigateur ou de poste ; plusieurs personnes peuvent aussi se succéder sur le même poste. Il ne faut pas attribuer un ancien résultat local à la personne actuellement connectée sans mécanisme de séparation des comptes.</p>
+<p>GitHub Pages héberge des fichiers statiques. Il ne fournit pas à lui seul un serveur de collecte authentifié ni une base de résultats par apprenant. Les statistiques de trafic du dépôt GitHub ne donnent pas ce suivi pédagogique.</p>
+<h3>Solution conseillée : un connecteur Moodle et un rapport réservé aux formateurs</h3>
+<p>Conserver l’iframe et ajouter un petit plugin Moodle, par exemple un plugin local CiviCoach. Le chemin « Rapports &gt; CiviCoach » serait créé par ce développement ; il n’existe pas aujourd’hui dans Moodle standard.</p>
+<p>Fonctionnement proposé :</p>
+<ol>
+<li>Moodle ouvre le chatbot sans placer le nom, l’adresse électronique ou un jeton administrateur dans l’URL de l’iframe.</li>
+<li>Le chatbot émet des événements pédagogiques structurés vers la page Moodle par <code>postMessage</code>. La page vérifie strictement l’origine et la fenêtre émettrice.</li>
+<li>Un service côté Moodle reçoit ces événements sous la session authentifiée. Le serveur détermine lui-même l’utilisateur et vérifie son inscription au cours ; il n’accepte pas un simple identifiant d’utilisateur fourni par le chatbot comme preuve d’identité.</li>
+<li>Les événements sont enregistrés dans Moodle, avec contrôle des permissions, validation des champs, identifiants uniques pour éviter les doublons, gestion des erreurs et des reprises.</li>
+<li>Les formateurs habilités consultent un rapport filtrable par cours, groupe, apprenant, période, type d’activité et version du chatbot. Ils exportent le rapport en CSV, exploitable dans Excel. Un export XLSX ou PDF peut ensuite être ajouté.</li>
+<li>Le changement d’utilisateur Moodle doit isoler la progression locale de chaque apprenant. Les utilisations en dehors de Moodle restent distinctes tant qu’aucune authentification ne les relie.</li>
+</ol>
+<p>Le rapport n’apparaît pas dans l’interface de conversation de l’apprenant. Une information sur le suivi doit cependant être accessible dans Moodle : finalité pédagogique, données collectées, personnes autorisées et durée de conservation. Les réglages DYS/daltonisme et les questions libres ne sont pas nécessaires à ce suivi proposé et ne sont pas collectés.</p>
+<h3>Événements et champs proposés</h3>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Données utiles</th>
+<th>Limite d’interprétation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ouverture du chatbot</td>
+<td>Date, cours, session, version</td>
+<td>Différente d’une simple visite de la page Moodle.</td>
+</tr>
+<tr>
+<td>Début d’activité</td>
+<td>Type, thème/chapitre, tentative</td>
+<td>Une activité commencée peut rester inachevée.</td>
+</tr>
+<tr>
+<td>Résultat enregistré</td>
+<td>Score obtenu ET maximum réel, durée active estimée, type de bilan/examen/entraînement</td>
+<td>Un score transmis par un navigateur n’est pas une note d’examen officiel certifiée.</td>
+</tr>
+<tr>
+<td>Révision poursuivie/terminée</td>
+<td>Chapitre, étape, résultat si disponible</td>
+<td>Conserver les tentatives distinctes.</td>
+</tr>
+<tr>
+<td>Fonction utilisée</td>
+<td>Révision, audio, parcours, recherche de centre, ouverture en grand</td>
+<td>Ne pas enregistrer les données médicales ou le texte libre par défaut.</td>
+</tr>
+<tr>
+<td>Fiche consultée</td>
+<td>Identifiants des notions, tentative associée</td>
+<td>Ne prouve pas que la fiche a été lue en entier.</td>
+</tr>
+<tr>
+<td>PDF généré/téléchargement demandé</td>
+<td>Type de document, notions, horodatage, version</td>
+<td>Le navigateur ne garantit pas que le fichier a été effectivement enregistré sur le disque ou ouvert.</td>
+</tr>
+</tbody></table>
+<p>Un CSV de synthèse pourrait comporter : identifiant Moodle, nom (joint côté Moodle selon les droits), cours, groupe, date, session, tentative, activité, thème, score, score maximum, statut, durée active estimée, nombre de fiches générées et version. Un second CSV conserverait le journal détaillé des événements. Ce sont des formats à développer, pas des données déjà disponibles dans le ZIP.</p>
+<p>Ne pas envoyer ces résultats nominatifs dans un dépôt GitHub public. La durée de conservation et les droits d’accès sont à fixer par votre organisme avec la personne compétente pour les données personnelles. Les traces d’accessibilité restent locales. Sources : <a href="https://docs.moodle.org/en/Logs">journaux Moodle</a>, <a href="https://moodledev.io/docs/5.2/apis/subsystems/external/writing-a-service">API Moodle</a>, <a href="https://moodledev.io/general/community/plugincontribution/checklist">règles des plugins Moodle</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage">communication entre fenêtres</a>, <a href="https://www.cnil.fr/fr/minimiser-les-donnees-collectees">minimisation CNIL</a>, <a href="https://www.cnil.fr/fr/passer-laction/les-durees-de-conservation-des-donnees">conservation CNIL</a>.</p>
+<h3>Alternative si aucun plugin ne peut être installé</h3>
+<p>Un paquet SCORM 1.2 correctement instrumenté, ajouté comme activité Moodle, permet de remonter des scores, états et interactions aux rapports SCORM. Il faut adapter le chatbot au lancement SCORM ; déposer le ZIP actuel en SCORM ne suffit pas. L’iframe actuelle de pied de page n’acquiert pas ces fonctions automatiquement. Le suivi de toutes les actions et les multiples bilans/examens d’un chatbot permanent s’intègrent moins naturellement dans une seule tentative SCORM. Une solution xAPI avec LRS est également possible, mais ajoute un serveur et une intégration supplémentaires.</p>
+<p>Recommandation pour votre usage actuel : privilégier le connecteur Moodle. Pour le développer et le tester dans votre environnement, il faudra connaître la version de Moodle, l’URL du site et du cours, la possibilité d’installer un plugin et les rôles autorisés à consulter les résultats. Aucune de ces informations n’est nécessaire pour essayer dès maintenant les aides DYS.</p>
+<p>Sources : <a href="https://docs.moodle.org/en/Using_SCORM">rapports SCORM</a>, <a href="https://docs.moodle.org/4x/fr/FAQ_SCORM">versions SCORM prises en charge</a>.</p>
+<h2>4. Transférer le chatbot vers un autre compte GitHub</h2>
+<h3>Étape 1 — Choisir entre transfert et copie</h3>
+<p>Pour déplacer le même projet en conservant son historique, utiliser le transfert de dépôt. Pour garder deux projets indépendants, créer une copie avec Git ou l’import GitHub. Une copie ne reprend pas automatiquement tous les réglages, secrets, environnements, déploiements ou historiques d’Actions. Un fork peut aussi nécessiter la réactivation explicite des tâches planifiées.</p>
+<p>Avant toute opération, télécharger une sauvegarde et conserver une copie du HTML Moodle actuel. Installer la v66 dans le dépôt de départ avant transfert, ou dans le dépôt cible après copie. Décompresser le ZIP et déposer son contenu à la racine : ne pas déposer le ZIP lui-même et ne pas ajouter un niveau de dossier supplémentaire. Conserver le dossier caché <code>.github</code>, <code>sources</code>, <code>scripts</code>, <code>modules</code>, <code>chatbot</code>, les médias et les fichiers de dépendances.</p>
+<h3>Étape 2 — Transférer le dépôt existant (méthode conseillée pour un déménagement)</h3>
+<ol>
+<li>Se connecter avec un compte autorisé à administrer <code>Codeurfou-sys/chatbot_civique2</code> et disposer des droits nécessaires chez le destinataire.</li>
+<li>Ouvrir le dépôt puis <strong>Settings &gt; General &gt; Danger Zone &gt; Transfer ownership</strong>.</li>
+<li>Renseigner le nouveau propriétaire et confirmer le nom du dépôt. Si GitHub demande l’acceptation du destinataire, terminer cette acceptation.</li>
+<li>Vérifier le nom et la branche par défaut du dépôt transféré. Les workflows fournis ciblent <code>main</code> ; conserver ce nom ou adapter <code>branches: [main]</code> si vous choisissez un autre nom.</li>
+<li>Vérifier les droits des personnes et de l’organisation destinataire. Vérifier les éventuels secrets ou variables existants ; ne pas supposer qu’une copie les aurait transportés.</li>
+</ol>
+<p>La redirection du dépôt ne constitue pas une garantie de maintien de l’ancienne adresse du site Pages. Récupérer l’adresse publiée sur le nouveau dépôt et mettre Moodle à jour.</p>
+<h3>Étape 3 — Activer GitHub Actions et Pages</h3>
+<ol>
+<li>Aller dans <strong>Settings &gt; Actions &gt; General</strong> et autoriser les actions nécessaires. Une politique d’organisation peut restreindre ce choix.</li>
+<li>Les fichiers déclarent leurs permissions : <code>contents: write</code> et <code>pages: write</code> pour les sessions ; <code>contents: read</code>, <code>pages: write</code> et <code>id-token: write</code> pour la publication. Vérifier qu’aucune règle supérieure ne bloque ces permissions ou le push automatique sur la branche par défaut.</li>
+<li>Aller dans <strong>Settings &gt; Pages</strong> et sélectionner <strong>Source : GitHub Actions</strong> pour cette version. L’environnement de déploiement s’appelle <code>github-pages</code> ; vérifier ses éventuelles règles d’approbation.</li>
+<li>Pour un dépôt public, GitHub Pages est disponible avec GitHub Free. Un dépôt privé nécessite une offre compatible. Vérifier ce point si le dépôt change de visibilité ou d’organisation.</li>
+<li>Si vous utilisez un domaine personnalisé, reconfigurer le domaine et le DNS. Définir la variable de dépôt <code>CIVICOACH_SITE_URL</code> avec l’URL HTTPS complète du site, par exemple <code>https://civicoach.exemple.fr/</code>. Pour une URL GitHub Pages classique, cette variable peut rester absente.</li>
+</ol>
+<h3>Étape 4 — Vérifier les DEUX actions conservées</h3>
+<table>
+<thead>
+<tr>
+<th>Fichier</th>
+<th>Rôle</th>
+<th>Déclenchement dans la v66</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>.github/workflows/update-examens.yml</code></td>
+<td>Récupère FRATE, élimine les dates passées, garde au plus trois dates par centre, contrôle les modifications et pousse les fichiers si nécessaire.</td>
+<td>Chaque jour à <strong>03 h 15 UTC</strong> (<code>15 3 * * *</code>) et manuellement. Soit 05 h 15 en heure d’été à Paris, 04 h 15 en heure d’hiver ; GitHub peut retarder l’exécution.</td>
+</tr>
+<tr>
+<td><code>.github/workflows/civicoach-pages.yml</code></td>
+<td>Compile les bases Excel, vérifie les parcours, prépare puis publie le site.</td>
+<td>Push sur <code>main</code>, lancement manuel et fin réussie de « Actualiser les sessions d’examen » sur la branche par défaut.</td>
+</tr>
+</tbody></table>
+<p>Pourquoi cette liaison : un push réalisé avec <code>GITHUB_TOKEN</code> ne déclenche pas normalement un nouveau workflow <code>push</code>. La v66 utilise donc <code>workflow_run</code> après l’actualisation, au lieu de compter sur ce push. L’ancien appel à <code>/pages/builds</code> a été retiré du workflow des dates : la publication est assurée par le workflow Pages, adapté à la source <strong>GitHub Actions</strong>. Cela conserve une seule récupération planifiée des dates.</p>
+<p>Le nom <strong>« Actualiser les sessions d’examen »</strong> doit rester identique dans les deux fichiers. En cas de renommage, modifier aussi la liste <code>workflow_run.workflows</code>. Les fichiers des actions doivent être présents sur la branche par défaut. Dans un dépôt public sans activité pendant 60 jours, GitHub peut désactiver les workflows planifiés ; contrôler leur activation dans l’onglet <strong>Actions</strong>. Les exécutions dans un fork sont désactivées par défaut pour les horaires planifiés.</p>
+<h3>Étape 5 — Premier lancement dans le nouveau dépôt</h3>
+<ol>
+<li>Dans <strong>Actions</strong>, ouvrir <strong>« Actualiser les sessions d’examen »</strong>, puis <strong>Run workflow</strong> et choisir la branche par défaut.</li>
+<li>Vérifier les étapes de récupération, contrôles et publication des fichiers. Une exécution réussie confirme ces traitements ; ouvrir les fichiers de sessions pour vérifier les dates par ville. Un site FRATE inaccessible ou sans sessions identifiables doit faire échouer ce traitement plutôt que publier des dates inventées.</li>
+<li>Attendre ensuite l’action <strong>« Actualiser les bases Excel et publier CiviCoach »</strong>. Vérifier les deux jobs <code>build</code> et <code>deploy</code>.</li>
+<li>Ouvrir <strong>Settings &gt; Pages &gt; Visit site</strong>. L’adresse habituelle est <code>https://NOUVEAU-COMPTE.github.io/NOM-DU-DEPOT/</code>, et le lecteur est dans <code>chatbot/</code>.</li>
+<li>Tester l’accueil, un bilan, une révision, un examen, l’enregistrement et les PDF DYS avec une palette pour daltonisme. Vérifier aussi quelques villes et leurs dates.</li>
+<li>Modifier une information de test dans une copie de la base Excel, pousser et vérifier que la nouvelle compilation la reprend ; annuler cette modification de test après contrôle.</li>
+</ol>
+<p>La v66 adapte les anciens liens internes absolus dans l’artefact publié selon <code>GITHUB_REPOSITORY</code> : lecteurs, images, minuteurs, recherches et liens du parcours PDF suivent le nouveau site. Les adresses externes FRATE et Microsoft Forms restent celles de vos services.</p>
+<h3>Étape 6 — Mettre à jour Moodle</h3>
+<ol>
+<li>Dans votre HTML Moodle, remplacer les occurrences de <code>https://codeurfou-sys.github.io/chatbot_civique2/</code> par la nouvelle base du site.</li>
+<li>Remplacer aussi l’origine de confiance <code>https://codeurfou-sys.github.io</code> par la nouvelle origine <code>https://NOUVEAU-COMPTE.github.io</code> (ou celle de votre domaine personnalisé). Elle intervient dans les vérifications <code>postMessage</code>.</li>
+<li>Avec le modèle multi-cours, adapter <code>CIVICOACH_ORIGIN</code> et <code>CIVICOACH_BASE</code>. Conserver les conditions de cours voulues (le modèle fourni affecte CiviCoach au cours 92 ; les autres assistants des cours 162 et 233 sont indépendants).</li>
+<li>Avec le modèle simple de pied de page, adapter les images, la variable <code>host</code> et le chemin <code>&#39;/chatbot_civique2/chatbot/&#39;</code> vers le nouveau dépôt.</li>
+<li>Enregistrer, vider les caches Moodle si nécessaire et recharger le cours. Ouvrir/réduire le chatbot, tester l’ouverture en grand et le retour au cours. Un changement d’origine ne transfère pas automatiquement la progression stockée dans le navigateur vers le nouveau site.</li>
+<li>Une fois les tests terminés, retirer l’ancien widget pour ne pas laisser deux chatbots visibles.</li>
+</ol>
+<p>Les modèles à modifier sont dans <code>moodle/INTEGRATION_PIED_DE_PAGE.html</code> et <code>moodle/INTEGRATION_BODY_MULTI_COURS.html</code>. Ils ne se mettent pas à jour automatiquement dans Moodle quand on pousse le dépôt GitHub. Le rapport de suivi nominatif, lorsqu’il sera développé, devra aussi accepter la nouvelle origine du chatbot.</p>
+<h3>Étape 7 — Entretien courant</h3>
+<ul>
+<li>Questions et mises en situation : modifier les fichiers Excel dans <code>sources</code>, pousser sur <code>main</code>, attendre le workflow de compilation/publication.</li>
+<li>Dates d’examen : laisser tourner <code>update-examens.yml</code>, vérifier régulièrement les dernières exécutions et tester ponctuellement une date sur le site FRATE.</li>
+<li>Dessins/fiches : modifier les fichiers source appropriés, pousser et attendre la compilation.</li>
+<li>En cas d’échec : ouvrir la première étape rouge dans <strong>Actions</strong>. Pour l’actualisation FRATE, télécharger l’artefact <code>diagnostic-sessions</code> lorsqu’il a été produit. Ne pas remplacer des dates manquantes par des dates supposées.</li>
+</ul>
+<p>Sources officielles consultées le 21 octobre 2026 : <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository">transfert de dépôt</a>, <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site">publication Pages</a>, <a href="https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows">événements Actions</a>, <a href="https://docs.github.com/actions/managing-workflow-runs/disabling-and-enabling-a-workflow">désactivation des workflows</a>, <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages">GitHub Pages</a>, <a href="https://docs.github.com/en/actions/how-tos/writing-workflows/choosing-when-your-workflow-runs/triggering-a-workflow">déclenchement depuis un workflow</a>.</p>
+<p>Fichier existant vérifié directement : <a href="https://github.com/Codeurfou-sys/chatbot_civique2/blob/main/.github/workflows/update-examens.yml">update-examens.yml</a>. La capture fournie confirme plusieurs exécutions planifiées réussies. Cette livraison ne prouve pas que le nouveau dépôt est déjà configuré : les tests de mise en ligne sont à effectuer après installation.</p>
+</main></body></html>

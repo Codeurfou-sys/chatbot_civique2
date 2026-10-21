@@ -1,3 +1,7 @@
+# Mise à jour v66
+
+Les aides DYS et les nouveaux PDF sont disponibles. Lire [le guide DYS, suivi Moodle et transfert GitHub](documentation/Guide_DYS_Moodle_GitHub_v66.html). Le suivi nominatif Moodle reste à connecter ; aucune collecte n’est activée par cette archive. Les deux workflows de publication et de dates sont inclus.
+
 Version actuelle : voir README_V59.md.
 
 Version actuelle : voir README_V57.md pour les nouvelles fiches et leur installation.
