@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:36:00+00:00",
+  "generated_at": "2026-10-24T08:11:29+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -294,7 +294,7 @@
       "ville": "Bourg-en-Bresse",
       "departement": "01",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 2,
       "ecran_centre": "SCR_PASS_CITY_BOURG_EN_BRESSE",
       "requete_ban": "Bourg-en-Bresse 01",
       "actif": "Oui",
@@ -772,11 +772,11 @@
       "_row": 111
     },
     {
-      "id_session": "SES_MONTBELIARD_20270127_617E7759",
+      "id_session": "SES_MONTBELIARD_20270126_54A7015C",
       "code_centre": "MONTBELIARD",
       "region": "Franche-Comté",
       "ville": "Montbéliard",
-      "date_session": "2027-01-27",
+      "date_session": "2027-01-26",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -1060,18 +1060,6 @@
       "_row": 135
     },
     {
-      "id_session": "SES_BOURG_EN_BRESSE_20261023_A7D854FD",
-      "code_centre": "BOURG_EN_BRESSE",
-      "region": "Rhône-Alpes",
-      "ville": "Bourg-en-Bresse",
-      "date_session": "2026-10-23",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 136
-    },
-    {
       "id_session": "SES_BOURG_EN_BRESSE_20261120_298DF783",
       "code_centre": "BOURG_EN_BRESSE",
       "region": "Rhône-Alpes",
@@ -1081,7 +1069,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 137
+      "_row": 136
     },
     {
       "id_session": "SES_BOURG_EN_BRESSE_20261217_E1E5E017",
@@ -1093,7 +1081,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 138
+      "_row": 137
     },
     {
       "id_session": "SES_VALSERHONE_20261118_60B66FEF",
@@ -1105,7 +1093,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 139
+      "_row": 138
     },
     {
       "id_session": "SES_VALSERHONE_20261209_080E285B",
@@ -1117,7 +1105,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 140
+      "_row": 139
     }
   ],
   "max_sessions_per_centre": 3
